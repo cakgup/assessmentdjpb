@@ -55,6 +55,7 @@
           </div>
         </div>
         <div class="hero-card stats-card">
+          <h2 class="stats-heading">Progres belajar Anda</h2>
           <div class="stat"><strong>${s.done}/${s.total}</strong><span>Soal dikerjakan</span></div>
           <div class="stat"><strong>${s.accuracy}%</strong><span>Akurasi</span></div>
           <div class="stat"><strong>${s.wrong}</strong><span>Perlu diulang</span></div>
@@ -69,9 +70,9 @@
       <section id="packageGrid" class="package-grid"></section>
       <div class="section-head"><div><h2>Mode review</h2><p>Fokus pada soal yang perlu perhatian.</p></div></div>
       <section class="package-grid">
-        <article class="package-card" data-review="wrong"><div class="package-number">Review Salah</div><h3>Ulangi semua soal yang terakhir dijawab salah.</h3><div class="mini-stats"><span>${s.wrong} soal</span></div></article>
-        <article class="package-card" data-review="bookmarks"><div class="package-number">Bookmark</div><h3>Kumpulkan soal penting untuk diulang cepat.</h3><div class="mini-stats"><span>${s.bookmarks} soal</span></div></article>
-        <article class="package-card" data-review="reset"><div class="package-number">Reset Progress</div><h3>Hapus progres lokal dan mulai kembali dari awal.</h3><div class="mini-stats"><span>Tidak mengubah bank soal</span></div></article>
+        <button type="button" class="package-card" data-review="wrong"><div class="package-number">Review Salah</div><h3>Ulangi semua soal yang terakhir dijawab salah.</h3><div class="mini-stats"><span>${s.wrong} soal</span></div></button>
+        <button type="button" class="package-card" data-review="bookmarks"><div class="package-number">Bookmark</div><h3>Kumpulkan soal penting untuk diulang cepat.</h3><div class="mini-stats"><span>${s.bookmarks} soal</span></div></button>
+        <button type="button" class="package-card" data-review="reset"><div class="package-number">Reset Progress</div><h3>Hapus progres lokal dan mulai kembali dari awal.</h3><div class="mini-stats"><span>Tidak mengubah bank soal</span></div></button>
       </section>`;
 
     renderPackageGrid();
