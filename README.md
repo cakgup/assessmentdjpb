@@ -17,7 +17,7 @@
 
 ## Ringkasan
 
-Belajar DJPb, dengan nama tampilan **DJPb Study**, menyediakan 270 soal dalam 9 paket beserta kunci jawaban dan pembahasan. Pengguna dapat belajar per paket, menjalankan try out, menandai soal penting, dan mengulang jawaban yang masih salah.
+Belajar DJPb, dengan nama tampilan **DJPb Study**, menyediakan 270 soal versi **Case & Analitis** dalam 9 paket beserta kunci jawaban dan pembahasan. Materi mengikuti pembaruan `readme.md` dari repository `basis_data/Assessment Administrator`, dengan soal kasus, pilihan jawaban terbaik (*best answer*), dan urutan opsi sesuai sumber terbaru. Pengguna dapat belajar per paket, menjalankan try out, menandai soal penting, dan mengulang jawaban yang masih salah.
 
 Aplikasi berjalan sepenuhnya di browser menggunakan HTML, CSS, dan JavaScript. Tidak memerlukan backend, database, instalasi dependensi, atau proses build. Progres disimpan melalui `localStorage` pada browser yang digunakan.
 
@@ -94,7 +94,10 @@ assessmentdjpb/
 |   |-- questions.js       # Data soal, pilihan jawaban, kunci, dan pembahasan
 |   `-- styles.css         # Tema, tipografi, dan layout responsif
 |-- source/
-|   `-- Bank_Soal_DJPb_Paket_1-9_REVISI_TERVERIFIKASI.md
+|   |-- Bank_Soal_DJPb_Paket_1-9_CASE_ANALITIS.md  # Sumber aktif
+|   `-- Bank_Soal_DJPb_Paket_1-9_REVISI_TERVERIFIKASI.md  # Arsip edisi lama
+|-- scripts/
+|   `-- build_questions.py  # Generator bank soal dari Markdown
 |-- .nojekyll              # Menonaktifkan pemrosesan Jekyll di GitHub Pages
 |-- index.html            # Halaman utama aplikasi
 |-- LICENSE               # Lisensi MIT
@@ -105,11 +108,18 @@ assessmentdjpb/
 
 ## Memperbarui Bank Soal
 
-Materi sumber tersedia di [Bank Soal DJPb Paket 1–9 — Revisi Terverifikasi](source/Bank_Soal_DJPb_Paket_1-9_REVISI_TERVERIFIKASI.md). Aplikasi membaca data dari [assets/questions.js](assets/questions.js) melalui `window.DJPB_QUESTION_BANK`.
+Materi sumber tersedia di [Bank Soal DJPb Paket 1–9 — Case & Analitis](source/Bank_Soal_DJPb_Paket_1-9_CASE_ANALITIS.md). Aplikasi membaca data dari [assets/questions.js](assets/questions.js) melalui `window.DJPB_QUESTION_BANK`.
 
-- Perbarui dokumen sumber dan data JavaScript agar soal, pilihan jawaban, kunci, serta pembahasan tetap konsisten.
-- Perubahan pada dokumen Markdown tidak otomatis mengubah soal di aplikasi; repository ini belum menyediakan script generator.
-- Pertahankan ID soal yang sama untuk soal yang tidak berubah karena progres dan bookmark menggunakan ID tersebut.
+Perbarui dokumen sumber aktif, lalu jalankan generator menggunakan Python 3:
+
+```bash
+python scripts/build_questions.py
+```
+
+Generator memeriksa urutan 9 paket × 30 soal, empat opsi A–D, kecocokan teks kunci dengan opsi, serta keberadaan pembahasan sebelum menulis data aplikasi. Penanda tebal Markdown diubah menjadi teks biasa untuk ditampilkan dengan aman di aplikasi. Tidak diperlukan Python saat aplikasi digunakan.
+
+- Sertakan perubahan dokumen sumber dan hasil `assets/questions.js` dalam commit yang sama.
+- ID soal mengikuti paket dan nomor soal. Versi data dihitung otomatis dari isi bank soal; perubahan materi menghasilkan ruang penyimpanan progres baru agar jawaban lama tidak tertukar dengan opsi baru.
 - Setelah memperbarui data, buka aplikasi dan periksa paket, jawaban, pembahasan, serta mode try out yang terdampak.
 - Jika jumlah soal atau paket berubah, sesuaikan juga teks ringkasan pada aplikasi dan README.
 
@@ -117,6 +127,7 @@ Materi sumber tersedia di [Bank Soal DJPb Paket 1–9 — Revisi Terverifikasi](
 
 ## Catatan Penyimpanan
 
+- Progres edisi Case & Analitis terpisah dari edisi sebelumnya. Jawaban dan bookmark lama tetap berada di browser, tetapi tidak dimuat pada edisi baru.
 - Jawaban dan bookmark tersimpan di `localStorage` browser; tidak disinkronkan ke server atau perangkat lain.
 - Browser, profil, atau alamat akses yang berbeda memiliki penyimpanan masing-masing. Progres dari file lokal tidak otomatis berpindah ke GitHub Pages.
 - Sesi try out yang sedang berjalan berada di memori dan tidak dipulihkan setelah halaman dimuat ulang.

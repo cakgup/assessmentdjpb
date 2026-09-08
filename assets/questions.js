@@ -1,1 +1,7081 @@
-window.DJPB_QUESTION_BANK = {"version":"2026-09-08","source":"Bank_Soal_DJPb_Paket_1-9_REVISI_TERVERIFIKASI.md","packages":[{"id":1,"title":"Campuran Clue Peserta (Revisi Terverifikasi)","questions":[{"id":"p1q1","number":1,"question":"Manakah kegiatan Pemerintah Daerah yang dapat didanai dari alokasi dana penunjang DAK Fisik?","options":[{"key":"A","text":"Biaya tender dan desain perencanaan untuk kegiatan kontraktual"},{"key":"B","text":"Pembayaran dividen BUMD"},{"key":"C","text":"Penyertaan modal Pemerintah Daerah kepada BUMD"},{"key":"D","text":"Pembayaran cicilan pokok utang daerah"}],"answer":"A","answerText":"Biaya tender dan desain perencanaan untuk kegiatan kontraktual","explanation":"Catatan peserta secara eksplisit mencantumkan biaya tender dan desain perencanaan kegiatan kontraktual sebagai kegiatan penunjang DAK Fisik. Kegiatan penunjang lain yang dicantumkan antara lain honor pejabat pengadaan/pengelola keuangan, jasa konsultan pengawas, perjalanan dinas terkait pengawasan, rapat koordinasi, dan pengadaan peralatan pendukung."},{"id":"p1q2","number":2,"question":"Pada Triwulan I, empat jenis belanja masing-masing memiliki pagu Rp100 juta. Realisasinya: Belanja Pegawai Rp21 juta, Belanja Barang Rp16 juta, Belanja Modal Rp8 juta, dan Belanja Bansos Rp26 juta. Jenis belanja yang belum mencapai target penyerapan Triwulan I adalah:","options":[{"key":"A","text":"Belanja Pegawai"},{"key":"B","text":"Belanja Barang"},{"key":"C","text":"Belanja Modal"},{"key":"D","text":"Belanja Bansos"}],"answer":"C","answerText":"Belanja Modal","explanation":"Target TW I menurut PER-5/PB/2024 adalah Pegawai 20%, Barang 15%, Modal 10%, dan Bansos 25%. Belanja Modal baru terealisasi 8%, sehingga belum mencapai target 10%."},{"id":"p1q3","number":3,"question":"Salah satu dokumen persyaratan administratif Satker untuk ditetapkan menerapkan PPK-BLU adalah:","options":[{"key":"A","text":"Pola Tata Kelola"},{"key":"B","text":"Persetujuan DPR"},{"key":"C","text":"Laporan realisasi APBD"},{"key":"D","text":"Surat penetapan sebagai BUMN"}],"answer":"A","answerText":"Pola Tata Kelola","explanation":"Persyaratan administratif BLU meliputi pernyataan kesanggupan meningkatkan kinerja, Pola Tata Kelola, RSB, laporan keuangan pokok, Standar Pelayanan Minimum, serta laporan audit terakhir atau pernyataan bersedia diaudit independen."},{"id":"p1q4","number":4,"question":"Manakah kondisi yang dapat menjadi dasar pencabutan penerapan PPK-BLU?","options":[{"key":"A","text":"BLU memperoleh surplus anggaran"},{"key":"B","text":"BLU tidak lagi memenuhi persyaratan substantif, teknis, dan/atau administratif"},{"key":"C","text":"BLU meningkatkan jumlah layanan"},{"key":"D","text":"BLU memiliki saldo kas pada akhir tahun"}],"answer":"B","answerText":"BLU tidak lagi memenuhi persyaratan substantif, teknis, dan/atau administratif","explanation":"Tidak lagi terpenuhinya persyaratan BLU merupakan salah satu dasar pencabutan. Dasar lain yang disebut dalam materi antara lain ketidakpatuhan terhadap ketentuan pengelolaan keuangan BLU dan hasil penilaian tata kelola/kinerja yang memenuhi kriteria buruk atau tidak mencapai ambang batas."},{"id":"p1q5","number":5,"question":"Satker akan menerima hibah untuk pertama kalinya atau hibah yang sifatnya tidak berulang. Langkah yang tepat sebelum melanjutkan proses penerimaan hibah adalah:","options":[{"key":"A","text":"Langsung menggunakan dana hibah"},{"key":"B","text":"Melakukan konsultasi mengenai rencana penerimaan hibah sesuai kewenangan"},{"key":"C","text":"Menunggu pemeriksaan BPK"},{"key":"D","text":"Membuka rekening pribadi untuk menampung dana"}],"answer":"B","answerText":"Melakukan konsultasi mengenai rencana penerimaan hibah sesuai kewenangan","explanation":"Clue peserta menekankan konsultasi sebelum menerima hibah pertama kali atau hibah tidak berulang. Dalam tata kelola hibah, konsultasi dilakukan sebelum proses penerimaan/penandatanganan dilanjutkan sesuai jenis dan sumber hibah."},{"id":"p1q6","number":6,"question":"Urutan umum penatausahaan hibah langsung dalam bentuk uang yang perlu diingat adalah:","options":[{"key":"A","text":"Rekening → Register → Pengesahan → Revisi"},{"key":"B","text":"Register → Rekening → Revisi → Pengesahan"},{"key":"C","text":"Revisi → Register → Rekening → Pengesahan"},{"key":"D","text":"Register → Revisi → Pengesahan → Rekening"}],"answer":"B","answerText":"Register → Rekening → Revisi → Pengesahan","explanation":"Mnemonik yang dicatat peserta adalah Register – Rekening – Revisi – Pengesahan. Setelah register, Satker mengelola rekening hibah sesuai persetujuan Kuasa BUN, menyesuaikan pagu belanja melalui revisi DIPA, kemudian melakukan pengesahan transaksi hibah."},{"id":"p1q7","number":7,"question":"Untuk memperbaiki kinerja Deviasi Halaman III DIPA, tindakan Satker yang paling tepat adalah:","options":[{"key":"A","text":"Menetapkan RPD bulanan sama besar sepanjang tahun tanpa melihat rencana kegiatan"},{"key":"B","text":"Memutakhirkan RPD Halaman III DIPA berdasarkan rencana realisasi bulanan yang realistis"},{"key":"C","text":"Menghapus seluruh RPD yang belum terealisasi"},{"key":"D","text":"Menunda seluruh pembayaran sampai akhir tahun"}],"answer":"B","answerText":"Memutakhirkan RPD Halaman III DIPA berdasarkan rencana realisasi bulanan yang realistis","explanation":"Indikator Deviasi Halaman III DIPA mengukur kesesuaian realisasi dengan RPD bulanan per jenis belanja. Karena itu, perbaikan utamanya adalah meningkatkan akurasi perencanaan dan melakukan pemutakhiran RPD pada periode yang ditentukan. Catatan peserta tentang tidak menyatukan revisi Halaman III dengan revisi lain tidak dinyatakan sebagai ketentuan formal dalam modul, sehingga tidak dijadikan kunci soal."},{"id":"p1q8","number":8,"question":"Data RPD pada Halaman III DIPA yang digunakan sebagai dasar penghitungan deviasi dikunci berdasarkan:","options":[{"key":"A","text":"Tanggal pengajuan SPM pertama setiap bulan"},{"key":"B","text":"Tanggal posting DIPA hasil revisi pada sistem setiap awal triwulan"},{"key":"C","text":"Tanggal akhir kontrak"},{"key":"D","text":"Tanggal penyusunan laporan keuangan semesteran"}],"answer":"B","answerText":"Tanggal posting DIPA hasil revisi pada sistem setiap awal triwulan","explanation":"PER-5/PB/2024 yang dirangkum dalam modul menetapkan penguncian data RPD Halaman III DIPA dan proporsi pagu berdasarkan tanggal posting DIPA hasil revisi pada sistem setiap awal triwulan."},{"id":"p1q9","number":9,"question":"Dalam Semester I, suatu Satker telah melakukan 2 kali revisi DIPA pagu tetap yang diperhitungkan dalam IKPA. Pada bulan Juni Satker melakukan revisi yang menambah pagu. Dengan asumsi tidak ada revisi lain yang diperhitungkan, bagaimana pengaruhnya terhadap indikator Revisi DIPA?","options":[{"key":"A","text":"Frekuensi menjadi 3 karena semua revisi dihitung"},{"key":"B","text":"Frekuensi yang diperhitungkan tetap 2 karena indikator menghitung jenis revisi pagu tetap tertentu"},{"key":"C","text":"Nilai otomatis menjadi 0 karena ada penambahan pagu"},{"key":"D","text":"Seluruh revisi Semester I dihapus dari perhitungan"}],"answer":"B","answerText":"Frekuensi yang diperhitungkan tetap 2 karena indikator menghitung jenis revisi pagu tetap tertentu","explanation":"Indikator Revisi DIPA menghitung jenis revisi pagu tetap tertentu yang disahkan Kementerian Keuangan. Dengan 2 revisi yang diperhitungkan dalam satu semester, nilai kinerja revisi adalah 100; revisi penambahan pagu tidak otomatis menambah frekuensi tersebut."},{"id":"p1q10","number":10,"question":"Unit yang melakukan konsolidasi Spending Review tingkat Kanwil dan Spending Review tingkat Pengguna Anggaran adalah:","options":[{"key":"A","text":"Direktorat Sistem Informasi dan Teknologi Perbendaharaan"},{"key":"B","text":"Direktorat Pelaksanaan Anggaran"},{"key":"C","text":"Direktorat Pengelolaan Kas Negara"},{"key":"D","text":"Direktorat Sistem Manajemen Investasi"}],"answer":"B","answerText":"Direktorat Pelaksanaan Anggaran","explanation":"Sesuai clue peserta dan materi Spending Review, konsolidasi hasil Spending Review Kanwil dan tingkat PA dilakukan pada Direktorat Pelaksanaan Anggaran."},{"id":"p1q11","number":11,"question":"Pejabat yang menguji SPP beserta dokumen pendukung dan menerbitkan SPM apabila persyaratan terpenuhi adalah:","options":[{"key":"A","text":"Bendahara Pengeluaran"},{"key":"B","text":"Pejabat Pembuat Komitmen"},{"key":"C","text":"Pejabat Penandatangan SPM"},{"key":"D","text":"Penyedia barang/jasa"}],"answer":"C","answerText":"Pejabat Penandatangan SPM","explanation":"PPSPM melakukan pengujian atas SPP dan dokumen pendukung, menolak/mengembalikan SPP yang tidak memenuhi persyaratan, membebankan tagihan pada mata anggaran yang tersedia, serta menerbitkan SPM."},{"id":"p1q12","number":12,"question":"Urutan awal pembukaan rekening Bendahara/Satker yang benar adalah:","options":[{"key":"A","text":"Satker membuka rekening di bank → meminta persetujuan KPPN"},{"key":"B","text":"KPA mengajukan permohonan → KPPN/Kuasa BUN memverifikasi → persetujuan diterbitkan → rekening dibuka → pembukaan dilaporkan"},{"key":"C","text":"Bank membuka rekening → KPA mengajukan pengesahan kepada BPK"},{"key":"D","text":"Bendahara membuka rekening pribadi → kemudian dilaporkan kepada KPPN"}],"answer":"B","answerText":"KPA mengajukan permohonan → KPPN/Kuasa BUN memverifikasi → persetujuan diterbitkan → rekening dibuka → pembukaan dilaporkan","explanation":"Pembukaan rekening pemerintah harus didahului persetujuan Kuasa BUN di Daerah. Setelah persetujuan diperoleh, Satker membuka rekening pada bank dan kemudian melaporkan pembukaannya kepada Kuasa BUN/KPPN."},{"id":"p1q13","number":13,"question":"Pasangan fungsi Komite Investasi Pemerintah (KIP) dan Operator Investasi Pemerintah (OIP) yang tepat adalah:","options":[{"key":"A","text":"KIP operasional — OIP regulasi"},{"key":"B","text":"KIP supervisi — OIP operasional"},{"key":"C","text":"KIP audit eksternal — OIP legislasi"},{"key":"D","text":"KIP pembayaran — OIP penganggaran K/L"}],"answer":"B","answerText":"KIP supervisi — OIP operasional","explanation":"KIP dibentuk untuk melaksanakan fungsi supervisi pengelolaan investasi pemerintah. OIP adalah BLU, BUMN, dan/atau BHL yang ditetapkan Menteri Keuangan selaku BUN untuk melaksanakan kewenangan operasional investasi pemerintah."},{"id":"p1q14","number":14,"question":"Wetmatigheid dalam pengujian pengeluaran negara berkaitan dengan:","options":[{"key":"A","text":"Kesesuaian pengeluaran dengan peraturan perundang-undangan"},{"key":"B","text":"Tingkat popularitas program"},{"key":"C","text":"Keuntungan komersial penyedia"},{"key":"D","text":"Besarnya saldo kas Satker"}],"answer":"A","answerText":"Kesesuaian pengeluaran dengan peraturan perundang-undangan","explanation":"Wetmatigheid menguji aspek legalitas/ketaatan terhadap ketentuan. Pengujian PPSPM juga mencakup rechtmatigheid dan doelmatigheid."},{"id":"p1q15","number":15,"question":"Pasangan pengertian yang tepat dalam pengujian pengeluaran negara adalah:","options":[{"key":"A","text":"Rechtmatigheid = tujuan/manfaat; Doelmatigheid = legalitas"},{"key":"B","text":"Rechtmatigheid = kebenaran hak/tagihan; Doelmatigheid = tujuan atau kemanfaatan pengeluaran"},{"key":"C","text":"Rechtmatigheid = ketersediaan kas; Doelmatigheid = penyusunan DIPA"},{"key":"D","text":"Rechtmatigheid = audit eksternal; Doelmatigheid = pengadaan"}],"answer":"B","answerText":"Rechtmatigheid = kebenaran hak/tagihan; Doelmatigheid = tujuan atau kemanfaatan pengeluaran","explanation":"Secara ringkas: wetmatigheid = sesuai aturan, rechtmatigheid = benar hak/nominal/penerimanya, dan doelmatigheid = sesuai tujuan/manfaat pengeluaran."},{"id":"p1q16","number":16,"question":"LKPP pada dasarnya merupakan laporan keuangan Pemerintah Pusat yang disusun melalui konsolidasi:","options":[{"key":"A","text":"Laporan Kementerian/Lembaga dan laporan Bendahara Umum Negara"},{"key":"B","text":"Seluruh APBD provinsi dan kabupaten/kota"},{"key":"C","text":"Laporan BUMN saja"},{"key":"D","text":"Laporan perbankan nasional"}],"answer":"A","answerText":"Laporan Kementerian/Lembaga dan laporan Bendahara Umum Negara","explanation":"Menteri Keuangan menggabungkan laporan keuangan Kementerian/Lembaga dan laporan dalam lingkup BUN untuk menyusun LKPP sesuai SAP dan kebijakan akuntansi pemerintah pusat."},{"id":"p1q17","number":17,"question":"Pernyataan yang paling tepat mengenai perbedaan DAU dan DBH adalah:","options":[{"key":"A","text":"DAU berbasis pemerataan/celah fiskal, sedangkan DBH berbasis penerimaan tertentu yang dibagihasilkan"},{"key":"B","text":"DAU dan DBH sama-sama hanya untuk kegiatan fisik"},{"key":"C","text":"DAU berasal dari PAD, sedangkan DBH berasal dari pinjaman daerah"},{"key":"D","text":"DAU hanya untuk provinsi, sedangkan DBH hanya untuk desa"}],"answer":"A","answerText":"DAU berbasis pemerataan/celah fiskal, sedangkan DBH berbasis penerimaan tertentu yang dibagihasilkan","explanation":"DAU ditujukan untuk pemerataan kemampuan keuangan antardaerah, sedangkan DBH merupakan bagian pendapatan APBN tertentu yang dialokasikan kepada daerah berdasarkan ketentuan pembagian hasil."},{"id":"p1q18","number":18,"question":"Kabupaten A memiliki PAD dan kapasitas fiskal lebih tinggi daripada Kabupaten B. Kabupaten A memprotes karena memperoleh DAU lebih kecil. Penjelasan yang paling tepat adalah:","options":[{"key":"A","text":"DAU harus selalu sama untuk semua kabupaten dalam satu provinsi"},{"key":"B","text":"DAU mempertimbangkan celah fiskal sehingga daerah dengan kebutuhan lebih tinggi dan kapasitas lebih rendah dapat memperoleh alokasi lebih besar"},{"key":"C","text":"DAU hanya ditentukan oleh jumlah penduduk"},{"key":"D","text":"DAU ditentukan oleh besarnya DBH tahun sebelumnya"}],"answer":"B","answerText":"DAU mempertimbangkan celah fiskal sehingga daerah dengan kebutuhan lebih tinggi dan kapasitas lebih rendah dapat memperoleh alokasi lebih besar","explanation":"Logika pemerataan DAU adalah menutup ketimpangan kemampuan keuangan. Karena itu, daerah dengan kapasitas fiskal lebih kuat tidak otomatis menerima DAU lebih besar."},{"id":"p1q19","number":19,"question":"Suatu tagihan diajukan kepada PPSPM, tetapi BAST yang dipersyaratkan sebagai dokumen pendukung belum tersedia. Tindakan PPSPM yang tepat adalah:","options":[{"key":"A","text":"Tetap menerbitkan SPM agar pembayaran tidak terlambat"},{"key":"B","text":"Menolak/mengembalikan SPP sampai persyaratan pembayaran dilengkapi"},{"key":"C","text":"Mengganti BAST dengan memo informal"},{"key":"D","text":"Membayar dahulu melalui UP tanpa pengujian"}],"answer":"B","answerText":"Menolak/mengembalikan SPP sampai persyaratan pembayaran dilengkapi","explanation":"PPSPM wajib menguji SPP dan dokumen pendukung. Jika dokumen yang dipersyaratkan belum lengkap, PPSPM tidak menerbitkan SPM dan mengembalikan SPP untuk dilengkapi."},{"id":"p1q20","number":20,"question":"Pasangan ketentuan MP PNBP yang tepat adalah:","options":[{"key":"A","text":"Tahap I Klaster 1 maksimal 60%; Tahap III sebesar MP Riil"},{"key":"B","text":"Tahap I Klaster 1 20%; Tahap III selalu 60%"},{"key":"C","text":"Tahap I semua Satker 100%; Tahap III 20%"},{"key":"D","text":"Tahap I Klaster 1 80%; Tahap III tidak menggunakan MP Riil"}],"answer":"A","answerText":"Tahap I Klaster 1 maksimal 60%; Tahap III sebesar MP Riil","explanation":"Klaster 1 memperoleh MP PNBP Tahap I maksimal 60% jika MP Riil tiga tahun terakhir minimal 60% dan belanja Semester I TAYL minimal 30%. Formula Tahap III adalah sebesar MP Riil."},{"id":"p1q21","number":21,"question":"Dalam terminologi sistem perbendaharaan, “void” berarti:","options":[{"key":"A","text":"Pembatalan transaksi/pencatatan"},{"key":"B","text":"Penambahan pagu anggaran"},{"key":"C","text":"Rekonsiliasi bank"},{"key":"D","text":"Pemindahbukuan rekening Satker"}],"answer":"A","answerText":"Pembatalan transaksi/pencatatan","explanation":"Modul Sistem dan Teknologi Perbendaharaan mendefinisikan Void sebagai proses pembatalan transaksi/pencatatan. Clue peserta menyebut “SP2D yang bisa di-void”, tetapi modul yang tersedia tidak cukup untuk membuat generalisasi jenis SP2D tertentu; karena itu soal ini dibatasi pada definisi yang terverifikasi."},{"id":"p1q22","number":22,"question":"Pernyataan yang tepat mengenai SRG dan S-SRG adalah:","options":[{"key":"A","text":"SRG merupakan sistem Resi Gudang; S-SRG merupakan pembiayaan dengan agunan Resi Gudang yang memperoleh subsidi bunga/margin pemerintah"},{"key":"B","text":"SRG adalah sistem gaji dan S-SRG adalah sistem pajak"},{"key":"C","text":"SRG hanya untuk deposito pemerintah"},{"key":"D","text":"S-SRG tidak berkaitan dengan pembiayaan"}],"answer":"A","answerText":"SRG merupakan sistem Resi Gudang; S-SRG merupakan pembiayaan dengan agunan Resi Gudang yang memperoleh subsidi bunga/margin pemerintah","explanation":"Resi Gudang merupakan bukti kepemilikan barang yang disimpan di gudang dan dapat digunakan dalam skema pembiayaan. S-SRG merupakan skema subsidi untuk pembiayaan dengan agunan Resi Gudang."},{"id":"p1q23","number":23,"question":"Satker akan mengajukan revolving UP, tetapi sebagian bukti transaksi belum lengkap. Tindakan yang paling tepat adalah:","options":[{"key":"A","text":"Memasukkan seluruh transaksi termasuk yang belum lengkap"},{"key":"B","text":"Mengajukan GUP untuk transaksi yang bukti pertanggungjawabannya sudah lengkap, sedangkan transaksi lain diajukan setelah dokumennya lengkap"},{"key":"C","text":"Menghapus transaksi yang belum lengkap tanpa pertanggungjawaban"},{"key":"D","text":"Menunda seluruh pertanggungjawaban sampai akhir tahun"}],"answer":"B","answerText":"Mengajukan GUP untuk transaksi yang bukti pertanggungjawabannya sudah lengkap, sedangkan transaksi lain diajukan setelah dokumennya lengkap","explanation":"GUP harus didukung bukti pengeluaran yang sah/terverifikasi. UP bersifat revolving dan dapat diganti setelah digunakan sesuai ketentuan, tetapi transaksi yang dipertanggungjawabkan harus memiliki dokumen yang lengkap."},{"id":"p1q24","number":24,"question":"Berdasarkan urutan proses Satker baru dalam catatan peserta, setelah Satker dan DIPA terbentuk, langkah berikutnya adalah:","options":[{"key":"A","text":"Menerbitkan SP2D"},{"key":"B","text":"Menetapkan pejabat perbendaharaan"},{"key":"C","text":"Mengajukan laporan keuangan tahunan"},{"key":"D","text":"Melakukan penghapusan supplier"}],"answer":"B","answerText":"Menetapkan pejabat perbendaharaan","explanation":"Urutan awal yang dicatat adalah pembentukan Satker/DIPA → penetapan KPA, PPK, PPSPM, dan Bendahara → registrasi user SAKTI dan role → aktivasi TTE → penyampaian SK pejabat → pembukaan rekening bila diperlukan → supplier → POK/RPD → pelaksanaan kegiatan hingga pembayaran."},{"id":"p1q25","number":25,"question":"Dalam skema Rekening Pengeluaran berbasis rekening virtual, rekening Satker baru seharusnya:","options":[{"key":"A","text":"Dibuka sendiri tanpa hubungan dengan Unit Eselon I"},{"key":"B","text":"Menggunakan Rekening Pengeluaran Satker/VA yang terkonsolidasi dengan Rekening Induk Unit Eselon I sesuai prosedur"},{"key":"C","text":"Menggunakan rekening pribadi Bendahara"},{"key":"D","text":"Selalu menggunakan rekening deposito"}],"answer":"B","answerText":"Menggunakan Rekening Pengeluaran Satker/VA yang terkonsolidasi dengan Rekening Induk Unit Eselon I sesuai prosedur","explanation":"Dalam pengelolaan rekening virtual, pimpinan Unit Eselon I berperan pada Rekening Induk dan koordinasi pembukaan rekening Satker, sedangkan KPA mengoperasikan rekening Satker. Rekening lama yang tidak lagi digunakan ditutup sesuai prosedur pengelolaan rekening pemerintah."},{"id":"p1q26","number":26,"question":"Ketentuan agunan dalam Pembiayaan UMi yang tepat adalah:","options":[{"key":"A","text":"Individual lending tidak boleh memakai agunan; group lending wajib memakai agunan tambahan"},{"key":"B","text":"Individual lending dapat dikenakan agunan sesuai penilaian risiko, sedangkan group lending tidak boleh dikenakan agunan tambahan"},{"key":"C","text":"Semua UMi wajib menggunakan sertifikat tanah"},{"key":"D","text":"Semua UMi dilarang menggunakan bentuk pengamanan risiko apa pun"}],"answer":"B","answerText":"Individual lending dapat dikenakan agunan sesuai penilaian risiko, sedangkan group lending tidak boleh dikenakan agunan tambahan","explanation":"Pada individual lending, agunan dapat dikenakan berdasarkan penilaian risiko Penyalur/Lembaga Linkage. Pada group lending, debitur membentuk kelompok dan menerapkan tanggung renteng sehingga tidak boleh dikenakan agunan tambahan."},{"id":"p1q27","number":27,"question":"Selain tidak lagi memenuhi persyaratan BLU, kondisi lain yang dapat menjadi dasar pencabutan penerapan PPK-BLU adalah:","options":[{"key":"A","text":"BLU mematuhi seluruh ketentuan pengelolaan keuangan"},{"key":"B","text":"BLU tidak mengikuti ketentuan peraturan perundang-undangan di bidang pengelolaan keuangan BLU"},{"key":"C","text":"BLU meningkatkan kualitas pelayanan"},{"key":"D","text":"BLU memiliki pendapatan PNBP"}],"answer":"B","answerText":"BLU tidak mengikuti ketentuan peraturan perundang-undangan di bidang pengelolaan keuangan BLU","explanation":"Materi pencabutan BLU menyebut ketidakpatuhan terhadap ketentuan pengelolaan keuangan BLU sebagai salah satu dasar pencabutan, selain tidak memenuhi persyaratan dan hasil penilaian tata kelola/kinerja yang buruk."},{"id":"p1q28","number":28,"question":"Dalam akuntansi pemerintah, bagian piutang jangka panjang yang akan jatuh tempo dalam 12 bulan setelah tanggal pelaporan harus:","options":[{"key":"A","text":"Dihapuskan seluruhnya"},{"key":"B","text":"Direklasifikasi menjadi Bagian Lancar Piutang Jangka Panjang"},{"key":"C","text":"Dicatat sebagai belanja modal"},{"key":"D","text":"Dipindahkan menjadi ekuitas tanpa jurnal"}],"answer":"B","answerText":"Direklasifikasi menjadi Bagian Lancar Piutang Jangka Panjang","explanation":"Modul Akuntansi menegaskan bahwa porsi piutang jangka panjang yang jatuh tempo dalam 12 bulan ke depan direklasifikasi menjadi Bagian Lancar Piutang Jangka Panjang. Clue peserta juga menyebut “uang muka pendapatan”, tetapi istilah tersebut tidak dijelaskan secara spesifik pada modul yang tersedia, sehingga soal difokuskan pada bagian piutang yang terverifikasi."},{"id":"p1q29","number":29,"question":"Pernyataan yang tepat mengenai DAU, DAK Fisik, dan DBH adalah:","options":[{"key":"A","text":"DAU untuk pemerataan kemampuan keuangan; DAK Fisik mendukung kegiatan fisik/prioritas tertentu; DBH berasal dari penerimaan tertentu yang dibagihasilkan"},{"key":"B","text":"Ketiganya selalu merupakan block grant tanpa tujuan khusus"},{"key":"C","text":"Ketiganya bersumber dari PAD"},{"key":"D","text":"DAK Fisik hanya digunakan untuk belanja pegawai"}],"answer":"A","answerText":"DAU untuk pemerataan kemampuan keuangan; DAK Fisik mendukung kegiatan fisik/prioritas tertentu; DBH berasal dari penerimaan tertentu yang dibagihasilkan","explanation":"Ketiga instrumen TKD memiliki karakter berbeda: DAU berorientasi pemerataan, DAK Fisik mendanai kebutuhan fisik tertentu yang selaras prioritas, sedangkan DBH membagikan penerimaan negara tertentu kepada daerah sesuai ketentuan."},{"id":"p1q30","number":30,"question":"Formula MP PNBP Tahap III adalah:","options":[{"key":"A","text":"Selalu 20% dari pagu"},{"key":"B","text":"Selalu 40% dari pagu"},{"key":"C","text":"Selalu 60% dari pagu"},{"key":"D","text":"Sebesar MP Riil"}],"answer":"D","answerText":"Sebesar MP Riil","explanation":"Modul Pelaksanaan Anggaran secara eksplisit menyebut Penetapan MP PNBP Tahap III diberikan sebesar MP Riil. Ini merupakan formula yang perlu dicermati sebagaimana clue peserta."}]},{"id":2,"title":"Deviasi, MP PNBP, Retur, Rekonsiliasi, Kerugian Negara","questions":[{"id":"p2q1","number":1,"question":"Indikator Deviasi Halaman III DIPA mengukur:","options":[{"key":"A","text":"Frekuensi revisi DIPA"},{"key":"B","text":"Kesesuaian realisasi dengan RPD bulanan"},{"key":"C","text":"Kecepatan penyelesaian tagihan"},{"key":"D","text":"Capaian output saja"}],"answer":"B","answerText":"Kesesuaian realisasi dengan RPD bulanan","explanation":"Indikator ini menilai seberapa dekat realisasi dengan rencana penarikan dana bulanan pada Halaman III DIPA."},{"id":"p2q2","number":2,"question":"Jika rata-rata deviasi Halaman III DIPA sebesar 4,5%, nilai indikator adalah:","options":[{"key":"A","text":"95"},{"key":"B","text":"95,5"},{"key":"C","text":"100"},{"key":"D","text":"Tidak dapat dihitung"}],"answer":"C","answerText":"100","explanation":"Deviasi sampai dengan 5% masih memperoleh nilai maksimal."},{"id":"p2q3","number":3,"question":"Data RPD yang digunakan dalam perhitungan deviasi dikunci berdasarkan:","options":[{"key":"A","text":"Tanggal SP2D terakhir"},{"key":"B","text":"Tanggal SPM"},{"key":"C","text":"Tanggal posting DIPA hasil revisi pada sistem setiap awal triwulan"},{"key":"D","text":"Tanggal kontrak"}],"answer":"C","answerText":"Tanggal posting DIPA hasil revisi pada sistem setiap awal triwulan","explanation":"Posting DIPA hasil revisi menjadi cut-off data RPD untuk perhitungan indikator."},{"id":"p2q4","number":4,"question":"Pemutakhiran Halaman III DIPA untuk Triwulan III paling lambat dilakukan pada:","options":[{"key":"A","text":"10 HK awal April"},{"key":"B","text":"10 HK awal Juni"},{"key":"C","text":"10 HK awal Juli"},{"key":"D","text":"Akhir Juli"}],"answer":"C","answerText":"10 HK awal Juli","explanation":"Jadwal pemutakhiran dilakukan pada awal triwulan sesuai ketentuan indikator."},{"id":"p2q5","number":5,"question":"MP PNBP reguler Tahap III dapat diberikan maksimal:","options":[{"key":"A","text":"60%"},{"key":"B","text":"70%"},{"key":"C","text":"80%"},{"key":"D","text":"100%"}],"answer":"D","answerText":"100%","explanation":"Tahap I maksimal 60%, Tahap II 80%, dan Tahap III 100%."},{"id":"p2q6","number":6,"question":"MP PNBP reguler Tahap III paling cepat diajukan pada:","options":[{"key":"A","text":"Juli"},{"key":"B","text":"Agustus"},{"key":"C","text":"September"},{"key":"D","text":"Oktober"}],"answer":"D","answerText":"Oktober","explanation":"Tahap III reguler menggunakan data realisasi sampai September dan diajukan paling cepat Oktober."},{"id":"p2q7","number":7,"question":"Formula MP PNBP Tahap III adalah:","options":[{"key":"A","text":"60% pagu"},{"key":"B","text":"80% pagu"},{"key":"C","text":"Sebesar MP Riil"},{"key":"D","text":"Sebesar realisasi belanja semester I"}],"answer":"C","answerText":"Sebesar MP Riil","explanation":"Tahap III diberikan berdasarkan MP Riil sesuai formula pada modul."},{"id":"p2q8","number":8,"question":"Percepatan MP PNBP Tahap III mensyaratkan realisasi setoran PNBP paling sedikit:","options":[{"key":"A","text":"40%"},{"key":"B","text":"60%"},{"key":"C","text":"70%"},{"key":"D","text":"80%"}],"answer":"D","answerText":"80%","explanation":"Threshold percepatan Tahap III adalah realisasi setoran minimal 80%."},{"id":"p2q9","number":9,"question":"Retur SP2D terjadi ketika:","options":[{"key":"A","text":"DIPA belum direvisi"},{"key":"B","text":"Dana SP2D gagal disalurkan kepada penerima"},{"key":"C","text":"Satker terlambat membuat RPD"},{"key":"D","text":"Kontrak belum didaftarkan"}],"answer":"B","answerText":"Dana SP2D gagal disalurkan kepada penerima","explanation":"Retur umumnya timbul karena masalah data rekening atau penyebab lain yang membuat pembayaran gagal diterima."},{"id":"p2q10","number":10,"question":"Dana retur SP2D dibukukan oleh Bank Operasional ke:","options":[{"key":"A","text":"RKUN langsung"},{"key":"B","text":"Rekening Bendahara"},{"key":"C","text":"Rekening Retur pada RPKBUNP"},{"key":"D","text":"Rekening supplier"}],"answer":"C","answerText":"Rekening Retur pada RPKBUNP","explanation":"Dana yang gagal disalurkan ditampung pada rekening retur sesuai mekanisme."},{"id":"p2q11","number":11,"question":"Surat pemberitahuan retur kepada Satker antara lain meminta:","options":[{"key":"A","text":"Revisi DIPA"},{"key":"B","text":"Pemutakhiran data supplier"},{"key":"C","text":"Penambahan pagu"},{"key":"D","text":"Perubahan RPD"}],"answer":"B","answerText":"Pemutakhiran data supplier","explanation":"Perbaikan supplier diperlukan jika retur disebabkan data penerima/rekening."},{"id":"p2q12","number":12,"question":"Pemberitahuan retur kepada Satker disampaikan paling lama:","options":[{"key":"A","text":"1 HK"},{"key":"B","text":"2 HK"},{"key":"C","text":"3 HK berikutnya"},{"key":"D","text":"5 HK"}],"answer":"C","answerText":"3 HK berikutnya","explanation":"Batas waktu pemberitahuan retur adalah paling lama 3 hari kerja berikutnya."},{"id":"p2q13","number":13,"question":"Setelah data supplier diperbaiki, SPP Retur dan SPM Retur diterbitkan oleh:","options":[{"key":"A","text":"Satker biasa"},{"key":"B","text":"KPPN selaku Satker BUN"},{"key":"C","text":"Bank Operasional"},{"key":"D","text":"Direktorat PKN langsung"}],"answer":"B","answerText":"KPPN selaku Satker BUN","explanation":"KPPN bertindak sebagai Satker BUN dalam proses pembayaran kembali dana retur."},{"id":"p2q14","number":14,"question":"Urutan akhir penyelesaian retur yang tepat adalah:","options":[{"key":"A","text":"SPPT–PPR–SP2D Retur"},{"key":"B","text":"PPR–SPPT–SPP"},{"key":"C","text":"SP2D–SPP–SPPT"},{"key":"D","text":"SPPT–DIPA–SP2D"}],"answer":"A","answerText":"SPPT–PPR–SP2D Retur","explanation":"Setelah pengujian, proses berlanjut melalui SPPT, PPR, lalu SP2D Retur."},{"id":"p2q15","number":15,"question":"Penyelesaian retur SP2D-Pembayaran dilakukan paling lama:","options":[{"key":"A","text":"Akhir bulan retur"},{"key":"B","text":"Minggu pertama bulan berikutnya"},{"key":"C","text":"Hari kerja terakhir minggu ketiga bulan berikutnya"},{"key":"D","text":"Akhir tahun"}],"answer":"C","answerText":"Hari kerja terakhir minggu ketiga bulan berikutnya","explanation":"Modul menetapkan batas penyelesaian sampai minggu ketiga bulan berikutnya."},{"id":"p2q16","number":16,"question":"Rekonsiliasi eksternal SAKTI–SPAN membandingkan:","options":[{"key":"A","text":"Anggaran, realisasi, kas, hibah"},{"key":"B","text":"Pegawai, aset, kontrak"},{"key":"C","text":"RPD dan IKPA"},{"key":"D","text":"SPM saja"}],"answer":"A","answerText":"Anggaran, realisasi, kas, hibah","explanation":"Empat kelompok data ini menjadi basis rekonsiliasi eksternal."},{"id":"p2q17","number":17,"question":"TDK terdiri atas:","options":[{"key":"A","text":"TDK Anggaran, Kas, Hibah"},{"key":"B","text":"TDK Rupiah, TDK CoA, TDK Detail"},{"key":"C","text":"TDK SPM, SP2D, DIPA"},{"key":"D","text":"TDK Internal dan Eksternal"}],"answer":"B","answerText":"TDK Rupiah, TDK CoA, TDK Detail","explanation":"Jenis TDK dibedakan berdasarkan tingkat ketidaksesuaian data."},{"id":"p2q18","number":18,"question":"Dokumen hasil rekonsiliasi eksternal adalah:","options":[{"key":"A","text":"BAR"},{"key":"B","text":"SHR"},{"key":"C","text":"LRA"},{"key":"D","text":"SP2D"}],"answer":"B","answerText":"SHR","explanation":"SHR atau Surat Hasil Rekonsiliasi menandakan proses rekonsiliasi selesai."},{"id":"p2q19","number":19,"question":"Tujuan rekonsiliasi internal adalah:","options":[{"key":"A","text":"Membandingkan SAKTI dengan bank"},{"key":"B","text":"Memastikan GLP sesuai dengan subledger"},{"key":"C","text":"Menghitung IKPA"},{"key":"D","text":"Menghitung DBH"}],"answer":"B","answerText":"Memastikan GLP sesuai dengan subledger","explanation":"Rekonsiliasi internal menjaga konsistensi saldo antara buku besar dan modul/subledger."},{"id":"p2q20","number":20,"question":"Piutang pemerintah adalah:","options":[{"key":"A","text":"Semua kas belum disetor"},{"key":"B","text":"Hak pemerintah yang dapat dinilai dengan uang dan akan diterima"},{"key":"C","text":"Belanja belum direalisasikan"},{"key":"D","text":"Semua utang pemerintah"}],"answer":"B","answerText":"Hak pemerintah yang dapat dinilai dengan uang dan akan diterima","explanation":"Piutang mencerminkan hak pemerintah yang dapat diukur dalam satuan uang."},{"id":"p2q21","number":21,"question":"Piutang jangka panjang yang jatuh tempo dalam 12 bulan direklasifikasi menjadi:","options":[{"key":"A","text":"Piutang Macet"},{"key":"B","text":"Bagian Lancar Piutang Jangka Panjang"},{"key":"C","text":"Pendapatan"},{"key":"D","text":"Persediaan"}],"answer":"B","answerText":"Bagian Lancar Piutang Jangka Panjang","explanation":"Reklasifikasi diperlukan agar penyajian Neraca mencerminkan bagian yang segera jatuh tempo."},{"id":"p2q22","number":22,"question":"Penyisihan piutang tidak tertagih dipengaruhi oleh:","options":[{"key":"A","text":"Kualitas piutang dan faktor terkait penagihan/jaminan"},{"key":"B","text":"Jumlah pegawai"},{"key":"C","text":"Pagu DIPA"},{"key":"D","text":"Jumlah output"}],"answer":"A","answerText":"Kualitas piutang dan faktor terkait penagihan/jaminan","explanation":"Kualitas piutang, tarif penyisihan, agunan/jaminan, dan status penagihan menjadi faktor utama."},{"id":"p2q23","number":23,"question":"Pada penyediaan UP/TUP pertama kali muncul:","options":[{"key":"A","text":"Kas di Bendahara Pengeluaran dan Uang Muka dari KPPN"},{"key":"B","text":"Piutang dan Pendapatan"},{"key":"C","text":"Aset Tetap dan Ekuitas"},{"key":"D","text":"Belanja dan Utang"}],"answer":"A","answerText":"Kas di Bendahara Pengeluaran dan Uang Muka dari KPPN","explanation":"UP/TUP merupakan uang muka kerja yang dikuasai Bendahara."},{"id":"p2q24","number":24,"question":"Ganti kerugian negara terhadap Bendahara ditetapkan oleh:","options":[{"key":"A","text":"KPA"},{"key":"B","text":"Menteri Keuangan"},{"key":"C","text":"BPK"},{"key":"D","text":"Inspektorat"}],"answer":"C","answerText":"BPK","explanation":"BPK berwenang menetapkan tuntutan ganti kerugian terhadap Bendahara."},{"id":"p2q25","number":25,"question":"Ganti kerugian terhadap pegawai negeri bukan Bendahara ditetapkan oleh:","options":[{"key":"A","text":"BPK"},{"key":"B","text":"Menteri/Pimpinan Lembaga atau kepala daerah sesuai kewenangan"},{"key":"C","text":"KPPN"},{"key":"D","text":"Bank Indonesia"}],"answer":"B","answerText":"Menteri/Pimpinan Lembaga atau kepala daerah sesuai kewenangan","explanation":"Mekanismenya berbeda dengan Bendahara."},{"id":"p2q26","number":26,"question":"Kerugian negara diberitahukan kepada BPK paling lambat:","options":[{"key":"A","text":"3 hari kalender"},{"key":"B","text":"5 HK"},{"key":"C","text":"7 HK"},{"key":"D","text":"14 HK"}],"answer":"C","answerText":"7 HK","explanation":"Batas pemberitahuan adalah 7 hari kerja setelah kerugian diketahui."},{"id":"p2q27","number":27,"question":"Langkah awal pembukaan rekening Satker adalah:","options":[{"key":"A","text":"Langsung ke bank"},{"key":"B","text":"Mengajukan permohonan persetujuan kepada Kuasa BUN di Daerah"},{"key":"C","text":"Bank meminta izin Menteri"},{"key":"D","text":"KPPN membuka otomatis"}],"answer":"B","answerText":"Mengajukan permohonan persetujuan kepada Kuasa BUN di Daerah","explanation":"Persetujuan Kuasa BUN wajib diperoleh sebelum rekening pemerintah dibuka."},{"id":"p2q28","number":28,"question":"Kuasa BUN di Daerah memberi persetujuan/penolakan pembukaan rekening paling lambat:","options":[{"key":"A","text":"2 HK"},{"key":"B","text":"3 HK"},{"key":"C","text":"5 HK"},{"key":"D","text":"10 HK"}],"answer":"C","answerText":"5 HK","explanation":"Ini bagian dari pola hafalan pembukaan rekening: 5–15–20."},{"id":"p2q29","number":29,"question":"Pengamanan SPAN mencakup:","options":[{"key":"A","text":"Password saja"},{"key":"B","text":"Kontrol akses, enkripsi, pemantauan aktivitas, serta dukungan DC/DRC"},{"key":"C","text":"Antivirus saja"},{"key":"D","text":"Tanda tangan basah saja"}],"answer":"B","answerText":"Kontrol akses, enkripsi, pemantauan aktivitas, serta dukungan DC/DRC","explanation":"Pengamanan sistem mencakup aspek akses, data, monitoring, dan kontinuitas layanan."},{"id":"p2q30","number":30,"question":"Void berarti:","options":[{"key":"A","text":"Pengembalian dana"},{"key":"B","text":"Pembatalan transaksi/pencatatan"},{"key":"C","text":"Penghapusan DIPA"},{"key":"D","text":"Pemindahan rekening"}],"answer":"B","answerText":"Pembatalan transaksi/pencatatan","explanation":"Istilah Void pada modul didefinisikan sebagai proses pembatalan transaksi atau pencatatan."}]},{"id":3,"title":"DAU, DBH, DAK Fisik, Dana Desa, MP PNBP","questions":[{"id":"p3q1","number":1,"question":"Tujuan utama DAU adalah:","options":[{"key":"A","text":"Membagi penerimaan pajak pusat"},{"key":"B","text":"Mengurangi ketimpangan kemampuan keuangan dan kualitas layanan publik antar daerah"},{"key":"C","text":"Membiayai seluruh proyek fisik"},{"key":"D","text":"Memberi insentif kepada PAD tertinggi"}],"answer":"B","answerText":"Mengurangi ketimpangan kemampuan keuangan dan kualitas layanan publik antar daerah","explanation":"DAU merupakan instrumen pemerataan fiskal antar daerah."},{"id":"p3q2","number":2,"question":"Formula dasar celah fiskal DAU adalah:","options":[{"key":"A","text":"Potensi Pendapatan − Kebutuhan Fiskal"},{"key":"B","text":"Kebutuhan Fiskal − Potensi Pendapatan Daerah"},{"key":"C","text":"PAD + DBH"},{"key":"D","text":"Belanja − PAD"}],"answer":"B","answerText":"Kebutuhan Fiskal − Potensi Pendapatan Daerah","explanation":"Celah fiskal menggambarkan gap antara kebutuhan fiskal dan kemampuan pendapatan daerah."},{"id":"p3q3","number":3,"question":"Kebutuhan fiskal Rp1,5 triliun dan potensi pendapatan Rp1,1 triliun menghasilkan celah fiskal:","options":[{"key":"A","text":"Rp200 miliar"},{"key":"B","text":"Rp300 miliar"},{"key":"C","text":"Rp400 miliar"},{"key":"D","text":"Rp600 miliar"}],"answer":"C","answerText":"Rp400 miliar","explanation":"Rp1,5 triliun dikurangi Rp1,1 triliun sama dengan Rp400 miliar."},{"id":"p3q4","number":4,"question":"Pernyataan yang tepat tentang block grant dan specific grant adalah:","options":[{"key":"A","text":"Block grant penggunaannya ditentukan pusat"},{"key":"B","text":"Block grant lebih fleksibel, specific grant ditentukan penggunaannya"},{"key":"C","text":"Specific grant bebas"},{"key":"D","text":"Keduanya sama"}],"answer":"B","answerText":"Block grant lebih fleksibel, specific grant ditentukan penggunaannya","explanation":"DAU yang tidak ditentukan penggunaannya bersifat block grant, sedangkan yang ditentukan penggunaannya bersifat specific grant."},{"id":"p3q5","number":5,"question":"Besaran DAU bidang Pendidikan Tahap II adalah:","options":[{"key":"A","text":"25%"},{"key":"B","text":"30%"},{"key":"C","text":"40%"},{"key":"D","text":"45%"}],"answer":"D","answerText":"45%","explanation":"Tahapan DAU Pendidikan adalah 30%–45%–25%."},{"id":"p3q6","number":6,"question":"Daerah dengan PAD rendah dan kebutuhan fiskal tinggi dapat menerima DAU lebih besar karena:","options":[{"key":"A","text":"DAU dibagi sama rata"},{"key":"B","text":"DAU berbasis celah fiskal"},{"key":"C","text":"DAU berbasis DBH"},{"key":"D","text":"DAU berbasis luas wilayah saja"}],"answer":"B","answerText":"DAU berbasis celah fiskal","explanation":"Mekanisme ini mendukung pemerataan kemampuan keuangan daerah."},{"id":"p3q7","number":7,"question":"Perbedaan utama DAU dan DBH adalah:","options":[{"key":"A","text":"DAU berbasis penerimaan tertentu"},{"key":"B","text":"DAU untuk pemerataan, DBH berdasarkan penerimaan tertentu yang dibagihasilkan"},{"key":"C","text":"Keduanya sama"},{"key":"D","text":"DBH berbasis celah fiskal"}],"answer":"B","answerText":"DAU untuk pemerataan, DBH berdasarkan penerimaan tertentu yang dibagihasilkan","explanation":"DAU dan DBH memiliki tujuan dan basis penghitungan yang berbeda."},{"id":"p3q8","number":8,"question":"Kelompok utama DBH adalah:","options":[{"key":"A","text":"DBH Pajak dan DBH SDA"},{"key":"B","text":"DBH Fisik dan Nonfisik"},{"key":"C","text":"DBH Reguler dan Afirmasi"},{"key":"D","text":"DBH Provinsi dan Kabupaten"}],"answer":"A","answerText":"DBH Pajak dan DBH SDA","explanation":"DBH dikelompokkan antara lain menjadi DBH Pajak dan DBH Sumber Daya Alam."},{"id":"p3q9","number":9,"question":"Penyaluran DBH SDA pada bulan Januari sebesar:","options":[{"key":"A","text":"5%"},{"key":"B","text":"10%"},{"key":"C","text":"15%"},{"key":"D","text":"20%"}],"answer":"B","answerText":"10%","explanation":"Pola yang digunakan adalah 10%–15%–15%–20%–20%–selisih."},{"id":"p3q10","number":10,"question":"Jika pagu DBH SDA Rp500 miliar, penyaluran bulan Juli sebesar:","options":[{"key":"A","text":"Rp50 miliar"},{"key":"B","text":"Rp75 miliar"},{"key":"C","text":"Rp100 miliar"},{"key":"D","text":"Rp125 miliar"}],"answer":"C","answerText":"Rp100 miliar","explanation":"Juli sebesar 20% dari pagu, yaitu Rp100 miliar."},{"id":"p3q11","number":11,"question":"DBH Sawit disalurkan:","options":[{"key":"A","text":"30%–70%"},{"key":"B","text":"40%–60%"},{"key":"C","text":"50%–50%"},{"key":"D","text":"60%–40%"}],"answer":"C","answerText":"50%–50%","explanation":"DBH Sawit dibagi dua tahap dengan proporsi sama."},{"id":"p3q12","number":12,"question":"Untuk jenis DBH tertentu dengan alokasi kurang dari Rp100 juta, pola penyalurannya adalah:","options":[{"key":"A","text":"Dua tahap"},{"key":"B","text":"Empat tahap"},{"key":"C","text":"Sekaligus pada Februari tanpa syarat salur"},{"key":"D","text":"Sekaligus Desember"}],"answer":"C","answerText":"Sekaligus pada Februari tanpa syarat salur","explanation":"Modul memberi perlakuan khusus untuk alokasi DBH tertentu yang kecil."},{"id":"p3q13","number":13,"question":"DAK Fisik terutama digunakan untuk:","options":[{"key":"A","text":"Gaji ASN daerah"},{"key":"B","text":"Sarana/prasarana layanan publik dan prioritas nasional"},{"key":"C","text":"Seluruh belanja rutin"},{"key":"D","text":"Penyertaan modal BUMD"}],"answer":"B","answerText":"Sarana/prasarana layanan publik dan prioritas nasional","explanation":"DAK Fisik diarahkan pada pembangunan/pengadaan sarana prasarana tertentu."},{"id":"p3q14","number":14,"question":"Contoh kegiatan penunjang DAK Fisik yang diperbolehkan adalah:","options":[{"key":"A","text":"Jasa konsultan pengawas kegiatan kontraktual"},{"key":"B","text":"Pembayaran dividen BUMD"},{"key":"C","text":"Cicilan utang daerah"},{"key":"D","text":"Penyertaan modal"}],"answer":"A","answerText":"Jasa konsultan pengawas kegiatan kontraktual","explanation":"Kegiatan penunjang harus terkait langsung dengan pelaksanaan DAK Fisik."},{"id":"p3q15","number":15,"question":"Dokumen persyaratan penyaluran DAK Fisik disampaikan Pemda melalui:","options":[{"key":"A","text":"SAKTI"},{"key":"B","text":"SIMPONI"},{"key":"C","text":"OM-SPAN TKD"},{"key":"D","text":"SPAN langsung"}],"answer":"C","answerText":"OM-SPAN TKD","explanation":"OM-SPAN TKD menjadi sarana pengelolaan dokumen penyaluran TKD."},{"id":"p3q16","number":16,"question":"DAK Fisik disalurkan melalui pemindahbukuan:","options":[{"key":"A","text":"RKUN ke RKUD"},{"key":"B","text":"RKUD ke RKUN"},{"key":"C","text":"KPPN ke penyedia langsung"},{"key":"D","text":"BI ke Bendahara"}],"answer":"A","answerText":"RKUN ke RKUD","explanation":"Penyaluran TKD dilakukan dari kas negara ke kas daerah."},{"id":"p3q17","number":17,"question":"Syarat penyerapan untuk DAK Fisik Tahap II paling rendah:","options":[{"key":"A","text":"50%"},{"key":"B","text":"60%"},{"key":"C","text":"70%"},{"key":"D","text":"75%"}],"answer":"D","answerText":"75%","explanation":"Tahap II mensyaratkan realisasi penyerapan tertentu atas dana yang sudah diterima."},{"id":"p3q18","number":18,"question":"Syarat Tahap III DAK Fisik adalah penyerapan minimal dan output minimal:","options":[{"key":"A","text":"70% dan 50%"},{"key":"B","text":"75% dan 60%"},{"key":"C","text":"90% dan 70%"},{"key":"D","text":"100% dan 100%"}],"answer":"C","answerText":"90% dan 70%","explanation":"Tahap III mensyaratkan penyerapan sekurang-kurangnya 90% dan capaian keluaran minimal 70%."},{"id":"p3q19","number":19,"question":"Jika dokumen syarat salur DAK Fisik melewati batas waktu:","options":[{"key":"A","text":"Penyaluran otomatis dilanjutkan"},{"key":"B","text":"DAK menjadi DAU"},{"key":"C","text":"Penyaluran dapat dihentikan/tidak dilakukan"},{"key":"D","text":"KPPN wajib membayar 50%"}],"answer":"C","answerText":"Penyaluran dapat dihentikan/tidak dilakukan","explanation":"Kelengkapan dan ketepatan waktu dokumen menjadi syarat penyaluran."},{"id":"p3q20","number":20,"question":"Jika DAK Fisik tidak tersalur penuh, kewajiban penyelesaian kegiatan kepada pihak ketiga menjadi tanggung jawab:","options":[{"key":"A","text":"KPPN"},{"key":"B","text":"DJPK"},{"key":"C","text":"Pemerintah Daerah"},{"key":"D","text":"Kementerian teknis"}],"answer":"C","answerText":"Pemerintah Daerah","explanation":"Pemda tetap bertanggung jawab menyelesaikan kewajiban atas kegiatan yang telah dilaksanakan."},{"id":"p3q21","number":21,"question":"Dana Desa Non-Earmarked untuk desa selain mandiri Tahap I adalah:","options":[{"key":"A","text":"20%"},{"key":"B","text":"40%"},{"key":"C","text":"60%"},{"key":"D","text":"80%"}],"answer":"B","answerText":"40%","explanation":"Untuk desa selain mandiri, pola Non-Earmarked adalah 40%–60%."},{"id":"p3q22","number":22,"question":"Dana Desa Non-Earmarked untuk desa mandiri adalah:","options":[{"key":"A","text":"40%–60%"},{"key":"B","text":"50%–50%"},{"key":"C","text":"60%–40%"},{"key":"D","text":"80%–20%"}],"answer":"C","answerText":"60%–40%","explanation":"Desa mandiri memperoleh porsi Tahap I lebih besar."},{"id":"p3q23","number":23,"question":"Dana Desa Earmarked disalurkan:","options":[{"key":"A","text":"40%–60%"},{"key":"B","text":"50%–50%"},{"key":"C","text":"60%–40%"},{"key":"D","text":"70%–30%"}],"answer":"C","answerText":"60%–40%","explanation":"Proporsi Earmarked adalah 60% pada tahap pertama dan 40% tahap kedua."},{"id":"p3q24","number":24,"question":"Syarat unik Non-Earmarked Tahap II adalah:","options":[{"key":"A","text":"APBDes"},{"key":"B","text":"Surat kuasa daftar RKD"},{"key":"C","text":"Penyerapan minimal 60% dan output minimal 40% atas Tahap I"},{"key":"D","text":"Pagu earmarked"}],"answer":"C","answerText":"Penyerapan minimal 60% dan output minimal 40% atas Tahap I","explanation":"Threshold kinerja Tahap I menjadi syarat penyaluran Tahap II."},{"id":"p3q25","number":25,"question":"Jika penyerapan Tahap I Dana Desa baru 55% tetapi output 70%, maka:","options":[{"key":"A","text":"Dapat disalurkan"},{"key":"B","text":"Belum memenuhi syarat Tahap II"},{"key":"C","text":"Otomatis cair akhir tahun"},{"key":"D","text":"Cukup surat pernyataan"}],"answer":"B","answerText":"Belum memenuhi syarat Tahap II","explanation":"Meskipun output memenuhi, penyerapan belum mencapai minimum 60%."},{"id":"p3q26","number":26,"question":"Klaster 1 MP PNBP Tahap I memperoleh alokasi awal:","options":[{"key":"A","text":"20%"},{"key":"B","text":"40%"},{"key":"C","text":"60%"},{"key":"D","text":"80%"}],"answer":"C","answerText":"60%","explanation":"Klaster 1 memiliki kinerja historis terbaik pada formula Tahap I."},{"id":"p3q27","number":27,"question":"Jika MP Riil <60% tetapi realisasi belanja Semester I TAYL ≥30%, Satker masuk:","options":[{"key":"A","text":"Klaster 1"},{"key":"B","text":"Klaster 2"},{"key":"C","text":"Klaster 3"},{"key":"D","text":"Klaster 4"}],"answer":"B","answerText":"Klaster 2","explanation":"Klaster 2 memperoleh alokasi awal 40%."},{"id":"p3q28","number":28,"question":"Jika MP Riil ≥60% tetapi belanja Semester I TAYL <30%, Satker masuk:","options":[{"key":"A","text":"Klaster 1"},{"key":"B","text":"Klaster 2"},{"key":"C","text":"Klaster 3"},{"key":"D","text":"Klaster 4"}],"answer":"C","answerText":"Klaster 3","explanation":"Klaster 3 juga memperoleh alokasi awal 40%."},{"id":"p3q29","number":29,"question":"Klaster 4 dan Satker baru memperoleh alokasi awal MP PNBP Tahap I masing-masing:","options":[{"key":"A","text":"40% dan 60%"},{"key":"B","text":"20% dan 20%"},{"key":"C","text":"60% dan 20%"},{"key":"D","text":"80% dan 40%"}],"answer":"B","answerText":"20% dan 20%","explanation":"Klaster 4 berkinerja historis rendah, sedangkan Satker baru belum memiliki historis."},{"id":"p3q30","number":30,"question":"Klaster 2–5 dapat mengajukan penambahan MP setelah realisasi belanja sumber dana PNBP mencapai minimal:","options":[{"key":"A","text":"30% dari pagu"},{"key":"B","text":"40% dari MP awal"},{"key":"C","text":"50% dari MP awal"},{"key":"D","text":"60% dari MP awal"}],"answer":"D","answerText":"60% dari MP awal","explanation":"Realisasi minimal 60% dari MP awal menjadi salah satu syarat penambahan."}]},{"id":4,"title":"Special Mission: Investasi, UMi, SIKP, SRG, BLU","questions":[{"id":"p4q1","number":1,"question":"Investasi Pemerintah adalah:","options":[{"key":"A","text":"Penempatan dana/aset keuangan jangka panjang dalam saham, surat utang, dan/atau investasi langsung"},{"key":"B","text":"Seluruh belanja modal"},{"key":"C","text":"Seluruh dana BLU"},{"key":"D","text":"Seluruh pembiayaan APBN"}],"answer":"A","answerText":"Penempatan dana/aset keuangan jangka panjang dalam saham, surat utang, dan/atau investasi langsung","explanation":"Definisi investasi pemerintah menekankan penempatan jangka panjang untuk memperoleh manfaat ekonomi, sosial, dan/atau manfaat lainnya."},{"id":"p4q2","number":2,"question":"Bentuk Investasi Pemerintah meliputi:","options":[{"key":"A","text":"Saham, surat utang, investasi langsung"},{"key":"B","text":"Belanja pegawai, barang, modal"},{"key":"C","text":"Pajak, PNBP, hibah"},{"key":"D","text":"Kas, piutang, persediaan"}],"answer":"A","answerText":"Saham, surat utang, investasi langsung","explanation":"Tiga bentuk utama investasi pemerintah disebut secara eksplisit dalam modul."},{"id":"p4q3","number":3,"question":"Pembagian kewenangan yang tepat adalah:","options":[{"key":"A","text":"Menkeu-operasional, KIP-regulasi, OIP-supervisi"},{"key":"B","text":"Menkeu-regulasi, KIP-supervisi, OIP-operasional"},{"key":"C","text":"KIP-regulasi, OIP-supervisi, BPK-operasional"},{"key":"D","text":"OIP-regulasi, Menkeu-supervisi, KIP-operasional"}],"answer":"B","answerText":"Menkeu-regulasi, KIP-supervisi, OIP-operasional","explanation":"Pemisahan ini memperkuat check and balance dalam tata kelola investasi pemerintah."},{"id":"p4q4","number":4,"question":"Ketua KIP adalah:","options":[{"key":"A","text":"Menteri Keuangan"},{"key":"B","text":"Dirjen Anggaran"},{"key":"C","text":"Dirjen Perbendaharaan"},{"key":"D","text":"Direktur SMI"}],"answer":"C","answerText":"Dirjen Perbendaharaan","explanation":"Ketua Komite Investasi Pemerintah adalah Direktur Jenderal Perbendaharaan."},{"id":"p4q5","number":5,"question":"Anggota KIP dapat berasal dari:","options":[{"key":"A","text":"Hanya DJPb"},{"key":"B","text":"Pimpinan Unit Eselon I K/L, auditor internal, dan/atau tenaga ahli"},{"key":"C","text":"Hanya BLU"},{"key":"D","text":"Hanya BUMN"}],"answer":"B","answerText":"Pimpinan Unit Eselon I K/L, auditor internal, dan/atau tenaga ahli","explanation":"Komposisi KIP dirancang untuk mendukung fungsi supervisi dan kualitas keputusan."},{"id":"p4q6","number":6,"question":"Salah satu tugas KIP adalah:","options":[{"key":"A","text":"Menyalurkan kredit langsung"},{"key":"B","text":"Menyusun kebijakan umum dan rencana strategis investasi pemerintah"},{"key":"C","text":"Menerbitkan SP2D"},{"key":"D","text":"Menetapkan tarif BLU"}],"answer":"B","answerText":"Menyusun kebijakan umum dan rencana strategis investasi pemerintah","explanation":"KIP menyampaikan rekomendasi strategis kepada Menteri Keuangan."},{"id":"p4q7","number":7,"question":"Rapat KIP dilaksanakan paling sedikit:","options":[{"key":"A","text":"1 kali sebulan"},{"key":"B","text":"1 kali tiap dua bulan"},{"key":"C","text":"2 kali setahun"},{"key":"D","text":"1 kali setahun"}],"answer":"C","answerText":"2 kali setahun","explanation":"Ini merupakan koreksi penting atas catatan awal; modul menyebut minimal dua kali dalam setahun."},{"id":"p4q8","number":8,"question":"UKP KIP dijalankan oleh:","options":[{"key":"A","text":"Direktorat PA"},{"key":"B","text":"Direktorat SMI"},{"key":"C","text":"Direktorat PKN"},{"key":"D","text":"Direktorat PPKBLU"}],"answer":"B","answerText":"Direktorat SMI","explanation":"Direktorat Sistem Manajemen Investasi menjalankan fungsi Unit Kerja Pembantu KIP."},{"id":"p4q9","number":9,"question":"OIP adalah:","options":[{"key":"A","text":"Komite audit"},{"key":"B","text":"BLU/BUMN/BHL yang ditetapkan Menteri Keuangan untuk kewenangan operasional investasi"},{"key":"C","text":"Semua K/L"},{"key":"D","text":"Semua KPPN"}],"answer":"B","answerText":"BLU/BUMN/BHL yang ditetapkan Menteri Keuangan untuk kewenangan operasional investasi","explanation":"Kata kuncinya adalah pelaksanaan operasional investasi pemerintah."},{"id":"p4q10","number":10,"question":"Entitas yang dapat ditunjuk sebagai OIP adalah:","options":[{"key":"A","text":"BLU saja"},{"key":"B","text":"BUMN saja"},{"key":"C","text":"BLU, BUMN, dan/atau BHL"},{"key":"D","text":"Pemda saja"}],"answer":"C","answerText":"BLU, BUMN, dan/atau BHL","explanation":"Ketiga jenis entitas dapat ditetapkan sebagai operator investasi pemerintah."},{"id":"p4q11","number":11,"question":"Yang bukan kemampuan yang dipersyaratkan bagi OIP adalah:","options":[{"key":"A","text":"Tata kelola investasi"},{"key":"B","text":"Manajemen risiko"},{"key":"C","text":"Teknologi informasi"},{"key":"D","text":"Kewenangan menetapkan APBN"}],"answer":"D","answerText":"Kewenangan menetapkan APBN","explanation":"OIP perlu kapasitas operasional investasi, bukan kewenangan legislasi anggaran."},{"id":"p4q12","number":12,"question":"Unit investasi calon OIP setidaknya memiliki:","options":[{"key":"A","text":"Pegawai bersertifikasi bidang pasar modal/investasi-keuangan"},{"key":"B","text":"10 auditor BPK"},{"key":"C","text":"5 akuntan publik"},{"key":"D","text":"1 pejabat KPPN"}],"answer":"A","answerText":"Pegawai bersertifikasi bidang pasar modal/investasi-keuangan","explanation":"Sertifikasi profesional mendukung kompetensi pengelolaan investasi."},{"id":"p4q13","number":13,"question":"Dalam individual lending UMi, agunan:","options":[{"key":"A","text":"Dilarang"},{"key":"B","text":"Dapat dikenakan sesuai penilaian risiko"},{"key":"C","text":"Wajib tanah"},{"key":"D","text":"Hanya Resi Gudang"}],"answer":"B","answerText":"Dapat dikenakan sesuai penilaian risiko","explanation":"Penyalur dapat meminta agunan berdasarkan hasil risk assessment."},{"id":"p4q14","number":14,"question":"Dalam group lending UMi, penyalur:","options":[{"key":"A","text":"Wajib meminta tanah"},{"key":"B","text":"Tidak boleh mengenakan agunan tambahan"},{"key":"C","text":"Boleh agunan tanpa batas"},{"key":"D","text":"Harus kendaraan"}],"answer":"B","answerText":"Tidak boleh mengenakan agunan tambahan","explanation":"Group lending mengandalkan mekanisme kelompok/tanggung renteng."},{"id":"p4q15","number":15,"question":"Ciri utama group lending UMi adalah:","options":[{"key":"A","text":"Debitur harus ASN"},{"key":"B","text":"Kelompok dan tanggung renteng"},{"key":"C","text":"Wajib badan hukum"},{"key":"D","text":"Wajib NPWP perusahaan"}],"answer":"B","answerText":"Kelompok dan tanggung renteng","explanation":"Pendekatan kelompok menjadi ciri penting skema group lending."},{"id":"p4q16","number":16,"question":"Plafon UMi adalah:","options":[{"key":"A","text":"≤ Rp10 juta"},{"key":"B","text":"≤ Rp20 juta"},{"key":"C","text":"Rp20–100 juta"},{"key":"D","text":"Rp100–500 juta"}],"answer":"B","answerText":"≤ Rp20 juta","explanation":"Pembiayaan UMi ditujukan bagi usaha ultra mikro dengan plafon sampai Rp20 juta."},{"id":"p4q17","number":17,"question":"Plafon UMi Pro adalah:","options":[{"key":"A","text":"≤ Rp20 juta"},{"key":"B","text":"Rp20–100 juta"},{"key":"C","text":"Rp100–500 juta"},{"key":"D","text":"> Rp1 miliar"}],"answer":"B","answerText":"Rp20–100 juta","explanation":"UMi Pro berada di atas plafon UMi reguler."},{"id":"p4q18","number":18,"question":"Monev ketepatan data UMi oleh KPPN membandingkan:","options":[{"key":"A","text":"Data SIKP dengan dokumen penyaluran"},{"key":"B","text":"DIPA dengan APBD"},{"key":"C","text":"SPAN dengan RKUN"},{"key":"D","text":"Pajak dengan NIK"}],"answer":"A","answerText":"Data SIKP dengan dokumen penyaluran","explanation":"Tujuannya memastikan kesesuaian data sistem dengan dokumen sumber."},{"id":"p4q19","number":19,"question":"Sampel monev UMi yang disebut modul adalah:","options":[{"key":"A","text":"Semua debitur"},{"key":"B","text":"5% debitur aktif, minimal 1 per penyalur, maksimal 25 per penyalur"},{"key":"C","text":"100 debitur"},{"key":"D","text":"50% debitur"}],"answer":"B","answerText":"5% debitur aktif, minimal 1 per penyalur, maksimal 25 per penyalur","explanation":"Angka 5%–1–25 merupakan pola hafalan yang penting."},{"id":"p4q20","number":20,"question":"Data monev UMi antara lain mencakup:","options":[{"key":"A","text":"NIK, nama, akad, nilai pembiayaan, tenor, agunan bila ada"},{"key":"B","text":"Nama saja"},{"key":"C","text":"NPWP penyalur saja"},{"key":"D","text":"Nilai saja"}],"answer":"A","answerText":"NIK, nama, akad, nilai pembiayaan, tenor, agunan bila ada","explanation":"Monev dilakukan terhadap elemen data yang dapat membuktikan ketepatan penyaluran."},{"id":"p4q21","number":21,"question":"Peran Kanwil DJPb pada monev UMi adalah:","options":[{"key":"A","text":"Penyalur"},{"key":"B","text":"Supervisor monev KPPN dan pengompilasi laporan"},{"key":"C","text":"Penjamin"},{"key":"D","text":"Debitur"}],"answer":"B","answerText":"Supervisor monev KPPN dan pengompilasi laporan","explanation":"Kanwil melakukan pembinaan, monitoring, evaluasi, dan konsolidasi hasil KPPN."},{"id":"p4q22","number":22,"question":"SIKP adalah:","options":[{"key":"A","text":"Sistem pembayaran APBN"},{"key":"B","text":"Sistem informasi elektronik penatausahaan dan informasi kredit program"},{"key":"C","text":"Sistem rekening pemerintah"},{"key":"D","text":"Sistem DAK"}],"answer":"B","answerText":"Sistem informasi elektronik penatausahaan dan informasi kredit program","explanation":"SIKP mendukung database kredit program dan ketepatan sasaran."},{"id":"p4q23","number":23,"question":"Pemda mengunggah ke SIKP:","options":[{"key":"A","text":"Calon debitur potensial"},{"key":"B","text":"Data pegawai"},{"key":"C","text":"Pajak pusat"},{"key":"D","text":"Rekening pemerintah"}],"answer":"A","answerText":"Calon debitur potensial","explanation":"Pemda berperan menyediakan data calon debitur potensial di wilayahnya."},{"id":"p4q24","number":24,"question":"Penyalur mengunggah ke SIKP antara lain:","options":[{"key":"A","text":"Calon debitur, akad, transaksi, tagihan subsidi, plafon wilayah"},{"key":"B","text":"Data pegawai bank"},{"key":"C","text":"Laporan APBD"},{"key":"D","text":"Penerimaan negara"}],"answer":"A","answerText":"Calon debitur, akad, transaksi, tagihan subsidi, plafon wilayah","explanation":"Data tersebut mendukung monitoring penyaluran kredit program."},{"id":"p4q25","number":25,"question":"Linimasa SIKP yang tepat adalah:","options":[{"key":"A","text":"2004–2005–2006"},{"key":"B","text":"2013 dikembangkan, 2015 untuk subsidi KUR, 2016 efektif"},{"key":"C","text":"2020–2021–2022"},{"key":"D","text":"2025–2026–2027"}],"answer":"B","answerText":"2013 dikembangkan, 2015 untuk subsidi KUR, 2016 efektif","explanation":"Urutan tahun ini sering dijadikan hafalan."},{"id":"p4q26","number":26,"question":"SRG adalah sistem terkait:","options":[{"key":"A","text":"Penerbitan, pengalihan, penjaminan, dan penyelesaian transaksi Resi Gudang"},{"key":"B","text":"Pembukaan rekening"},{"key":"C","text":"SP2D"},{"key":"D","text":"DAU"}],"answer":"A","answerText":"Penerbitan, pengalihan, penjaminan, dan penyelesaian transaksi Resi Gudang","explanation":"Resi Gudang menjadi dokumen kepemilikan atas komoditas yang disimpan."},{"id":"p4q27","number":27,"question":"Dalam SRG, Resi Gudang dapat berfungsi sebagai:","options":[{"key":"A","text":"DIPA"},{"key":"B","text":"Agunan pembiayaan"},{"key":"C","text":"SP2D"},{"key":"D","text":"Surat tugas"}],"answer":"B","answerText":"Agunan pembiayaan","explanation":"Komoditas yang disimpan di gudang menjadi underlying pembiayaan."},{"id":"p4q28","number":28,"question":"S-SRG adalah:","options":[{"key":"A","text":"Hibah petani"},{"key":"B","text":"Pembiayaan dengan agunan Resi Gudang yang memperoleh subsidi bunga/margin"},{"key":"C","text":"Pembayaran APBN"},{"key":"D","text":"Dana Desa"}],"answer":"B","answerText":"Pembiayaan dengan agunan Resi Gudang yang memperoleh subsidi bunga/margin","explanation":"S-SRG menambahkan dukungan subsidi pada pembiayaan berbasis Resi Gudang."},{"id":"p4q29","number":29,"question":"Dokumen administratif BLU mencakup:","options":[{"key":"A","text":"Pola tata kelola, RSB, laporan keuangan pokok, SPM dan dokumen terkait lainnya"},{"key":"B","text":"APBD saja"},{"key":"C","text":"DIPA saja"},{"key":"D","text":"ISO saja"}],"answer":"A","answerText":"Pola tata kelola, RSB, laporan keuangan pokok, SPM dan dokumen terkait lainnya","explanation":"Dokumen administratif menjadi bukti kesiapan tata kelola dan kinerja Satker calon BLU."},{"id":"p4q30","number":30,"question":"Status BLU dapat dicabut apabila:","options":[{"key":"A","text":"Pendapatan naik"},{"key":"B","text":"Tidak memenuhi persyaratan, tidak patuh ketentuan, dan/atau berkinerja buruk"},{"key":"C","text":"Layanan bertambah"},{"key":"D","text":"Kas meningkat"}],"answer":"B","answerText":"Tidak memenuhi persyaratan, tidak patuh ketentuan, dan/atau berkinerja buruk","explanation":"Pencabutan dapat didasarkan pada hasil monitoring/evaluasi dan penilaian kinerja."}]},{"id":5,"title":"Pengelolaan Kas, Rekening Pemerintah, TSA/TNP, MPN","questions":[{"id":"p5q1","number":1,"question":"Treasury Single Account (TSA) adalah:","options":[{"key":"A","text":"Sistem konsolidasi kas pemerintah melalui satu rekening induk"},{"key":"B","text":"Sistem rekening terpisah tiap Satker"},{"key":"C","text":"Sistem DAK"},{"key":"D","text":"Sistem investasi"}],"answer":"A","answerText":"Sistem konsolidasi kas pemerintah melalui satu rekening induk","explanation":"TSA mengurangi fragmentasi kas dan meningkatkan visibilitas posisi kas pemerintah."},{"id":"p5q2","number":2,"question":"Rekening utama dalam implementasi TSA Indonesia adalah:","options":[{"key":"A","text":"Rekening Penerimaan KPPN"},{"key":"B","text":"RKUN di Bank Indonesia"},{"key":"C","text":"Rekening Bendahara"},{"key":"D","text":"Rekening Induk Eselon I"}],"answer":"B","answerText":"RKUN di Bank Indonesia","explanation":"RKUN menjadi rekening utama kas negara dalam kerangka TSA."},{"id":"p5q3","number":3,"question":"Yang bukan manfaat TSA adalah:","options":[{"key":"A","text":"Mengurangi idle cash"},{"key":"B","text":"Meningkatkan visibilitas kas"},{"key":"C","text":"Mengurangi fragmentasi"},{"key":"D","text":"Membiarkan saldo tersebar tanpa konsolidasi"}],"answer":"D","answerText":"Membiarkan saldo tersebar tanpa konsolidasi","explanation":"TSA justru bertujuan mengatasi kas yang tersebar dan tidak terkonsolidasi."},{"id":"p5q4","number":4,"question":"Treasury Notional Pooling (TNP) memungkinkan:","options":[{"key":"A","text":"Konsolidasi saldo tanpa perpindahan fisik dana"},{"key":"B","text":"Pemindahan semua saldo ke Eselon I"},{"key":"C","text":"Penghapusan rekening Satker"},{"key":"D","text":"Penggantian RKUN"}],"answer":"A","answerText":"Konsolidasi saldo tanpa perpindahan fisik dana","explanation":"TNP menghitung posisi saldo secara notional tanpa memindahkan dana antar rekening."},{"id":"p5q5","number":5,"question":"Perbedaan utama TSA dan TNP adalah:","options":[{"key":"A","text":"Keduanya sama"},{"key":"B","text":"TSA konsolidasi kas, TNP konsolidasi saldo notional"},{"key":"C","text":"TNP hanya BLU"},{"key":"D","text":"TSA hanya penerimaan"}],"answer":"B","answerText":"TSA konsolidasi kas, TNP konsolidasi saldo notional","explanation":"TNP memungkinkan konsolidasi informasi saldo tanpa transfer fisik."},{"id":"p5q6","number":6,"question":"Jenis rekening Satker secara umum adalah:","options":[{"key":"A","text":"Pengeluaran, Penerimaan, Lainnya"},{"key":"B","text":"APBN dan APBD"},{"key":"C","text":"Pusat dan Daerah"},{"key":"D","text":"Belanja dan Pembiayaan"}],"answer":"A","answerText":"Pengeluaran, Penerimaan, Lainnya","explanation":"Tiga kelompok ini menjadi klasifikasi dasar rekening milik K/L."},{"id":"p5q7","number":7,"question":"Rekening Pengeluaran digunakan untuk:","options":[{"key":"A","text":"Menampung pendapatan negara"},{"key":"B","text":"Menampung dana untuk belanja/pengeluaran negara"},{"key":"C","text":"Menampung hibah saja"},{"key":"D","text":"Menampung jaminan saja"}],"answer":"B","answerText":"Menampung dana untuk belanja/pengeluaran negara","explanation":"Rekening Pengeluaran mendukung pembayaran kebutuhan belanja Satker."},{"id":"p5q8","number":8,"question":"Rekening Penerimaan digunakan untuk:","options":[{"key":"A","text":"Membayar supplier"},{"key":"B","text":"Menampung pendapatan negara"},{"key":"C","text":"Menyalurkan UP"},{"key":"D","text":"Membayar gaji"}],"answer":"B","answerText":"Menampung pendapatan negara","explanation":"Saldo rekening penerimaan selanjutnya dilimpahkan ke Kas Negara."},{"id":"p5q9","number":9,"question":"Rekening Lainnya digunakan untuk:","options":[{"key":"A","text":"Menampung dana yang tidak sesuai dimasukkan ke rekening penerimaan/pengeluaran"},{"key":"B","text":"Semua belanja pegawai"},{"key":"C","text":"Hanya SP2D"},{"key":"D","text":"Hanya pajak"}],"answer":"A","answerText":"Menampung dana yang tidak sesuai dimasukkan ke rekening penerimaan/pengeluaran","explanation":"Contohnya rekening hibah, jaminan, titipan, dan rekening khusus lainnya."},{"id":"p5q10","number":10,"question":"Rekening Penampungan Dana Jaminan digunakan untuk:","options":[{"key":"A","text":"Dana jaminan pihak ketiga"},{"key":"B","text":"Pajak"},{"key":"C","text":"Gaji"},{"key":"D","text":"KKP"}],"answer":"A","answerText":"Dana jaminan pihak ketiga","explanation":"Dana tersebut nantinya dikembalikan kepada pihak yang berhak sesuai ketentuan."},{"id":"p5q11","number":11,"question":"Rekening Penampungan Dana Titipan dapat digunakan untuk:","options":[{"key":"A","text":"Dana titipan/sitaan dalam kasus tertentu"},{"key":"B","text":"Uang makan"},{"key":"C","text":"DBH"},{"key":"D","text":"Pajak rutin"}],"answer":"A","answerText":"Dana titipan/sitaan dalam kasus tertentu","explanation":"Rekening ini termasuk kelompok Rekening Lainnya."},{"id":"p5q12","number":12,"question":"RPDHL digunakan untuk:","options":[{"key":"A","text":"Menampung hibah langsung dalam bentuk uang"},{"key":"B","text":"Menyalurkan UP"},{"key":"C","text":"Menampung gaji"},{"key":"D","text":"Menampung pajak"}],"answer":"A","answerText":"Menampung hibah langsung dalam bentuk uang","explanation":"RPDHL menjadi rekening penerimaan dana hibah langsung."},{"id":"p5q13","number":13,"question":"RPH menerima dana dari:","options":[{"key":"A","text":"Donor langsung"},{"key":"B","text":"RPDHL"},{"key":"C","text":"Bendahara"},{"key":"D","text":"RKUD"}],"answer":"B","answerText":"RPDHL","explanation":"Alur yang perlu diingat adalah Donor → RPDHL → RPH."},{"id":"p5q14","number":14,"question":"Langkah awal pembukaan rekening Satker adalah:","options":[{"key":"A","text":"Buka langsung di bank"},{"key":"B","text":"Ajukan persetujuan kepada Kuasa BUN di Daerah"},{"key":"C","text":"Bank meminta izin DJA"},{"key":"D","text":"KPPN membuka otomatis"}],"answer":"B","answerText":"Ajukan persetujuan kepada Kuasa BUN di Daerah","explanation":"Persetujuan Kuasa BUN harus diperoleh sebelum rekening pemerintah dibuka."},{"id":"p5q15","number":15,"question":"Permohonan pembukaan rekening memuat antara lain:","options":[{"key":"A","text":"Tujuan penggunaan, sumber dana, mekanisme penyaluran, perlakuan bunga/jasa giro"},{"key":"B","text":"Nama Bendahara saja"},{"key":"C","text":"Pagu saja"},{"key":"D","text":"Nomor DIPA saja"}],"answer":"A","answerText":"Tujuan penggunaan, sumber dana, mekanisme penyaluran, perlakuan bunga/jasa giro","explanation":"Informasi tersebut digunakan Kuasa BUN untuk menilai kebutuhan dan tata kelola rekening."},{"id":"p5q16","number":16,"question":"Persetujuan/penolakan pembukaan rekening diterbitkan paling lambat:","options":[{"key":"A","text":"2 HK"},{"key":"B","text":"3 HK"},{"key":"C","text":"5 HK"},{"key":"D","text":"10 HK"}],"answer":"C","answerText":"5 HK","explanation":"Ini bagian dari pola hafalan 5–15–20."},{"id":"p5q17","number":17,"question":"Surat persetujuan pembukaan rekening secara umum berlaku:","options":[{"key":"A","text":"5 HK"},{"key":"B","text":"10 HK"},{"key":"C","text":"15 HK"},{"key":"D","text":"30 hari"}],"answer":"C","answerText":"15 HK","explanation":"Secara umum masa berlaku persetujuan adalah 15 hari kerja."},{"id":"p5q18","number":18,"question":"Laporan pembukaan rekening disampaikan paling lambat:","options":[{"key":"A","text":"5 HK"},{"key":"B","text":"10 HK"},{"key":"C","text":"15 HK"},{"key":"D","text":"20 HK sejak surat persetujuan diterbitkan"}],"answer":"D","answerText":"20 HK sejak surat persetujuan diterbitkan","explanation":"Batas ini melengkapi pola 5–15–20."},{"id":"p5q19","number":19,"question":"Khusus rekening deposito pengelolaan kas BLU, laporan pembukaan disampaikan paling lambat:","options":[{"key":"A","text":"3 HK"},{"key":"B","text":"5 HK"},{"key":"C","text":"10 HK sejak rekening dibuka"},{"key":"D","text":"20 HK"}],"answer":"C","answerText":"10 HK sejak rekening dibuka","explanation":"Ketentuan ini merupakan pengecualian khusus untuk rekening deposito BLU."},{"id":"p5q20","number":20,"question":"Urutan perubahan bank rekening yang tepat adalah:","options":[{"key":"A","text":"Tutup lama lalu minta izin"},{"key":"B","text":"Buka baru–pindah saldo–tutup lama–lapor–update supplier"},{"key":"C","text":"Pindah ke rekening pribadi"},{"key":"D","text":"Update supplier dulu"}],"answer":"B","answerText":"Buka baru–pindah saldo–tutup lama–lapor–update supplier","explanation":"Perubahan bank harus diikuti penyelesaian saldo, pelaporan, dan pemutakhiran supplier pada sistem."},{"id":"p5q21","number":21,"question":"Sisa saldo rekening yang ditutup secara umum:","options":[{"key":"A","text":"Menjadi milik bank"},{"key":"B","text":"Menjadi hak Bendahara"},{"key":"C","text":"Dipindahkan ke Kas Negara sesuai ketentuan"},{"key":"D","text":"Dibiarkan"}],"answer":"C","answerText":"Dipindahkan ke Kas Negara sesuai ketentuan","explanation":"Penutupan rekening harus menyelesaikan saldo yang masih ada."},{"id":"p5q22","number":22,"question":"Struktur Rekening Pengeluaran setelah reformasi terdiri atas:","options":[{"key":"A","text":"Rekening Induk Eselon I dan rekening Satker/VA"},{"key":"B","text":"Rekening pegawai"},{"key":"C","text":"Satu rekening nasional saja"},{"key":"D","text":"Rekening pajak"}],"answer":"A","answerText":"Rekening Induk Eselon I dan rekening Satker/VA","explanation":"Rekening virtual Satker terkonsolidasi di bawah Rekening Induk."},{"id":"p5q23","number":23,"question":"Fungsi Rekening Induk Eselon I adalah:","options":[{"key":"A","text":"Pembayaran manual oleh Eselon I"},{"key":"B","text":"Monitoring dan konsolidasi saldo/transaksi rekening virtual"},{"key":"C","text":"Pajak"},{"key":"D","text":"Penggajian nasional"}],"answer":"B","answerText":"Monitoring dan konsolidasi saldo/transaksi rekening virtual","explanation":"Rekening Induk berfungsi sebagai sarana konsolidasi dan monitoring, bukan rekening operasional bebas."},{"id":"p5q24","number":24,"question":"Awalan nomenklatur Rekening Pengeluaran Satker adalah:","options":[{"key":"A","text":"BPN"},{"key":"B","text":"BPG"},{"key":"C","text":"RPDHL"},{"key":"D","text":"RPH"}],"answer":"B","answerText":"BPG","explanation":"BPG digunakan untuk Rekening Pengeluaran Satker; BPP untuk pembantu; BPN untuk penerimaan."},{"id":"p5q25","number":25,"question":"Satker baru dalam skema virtual account seharusnya:","options":[{"key":"A","text":"Membuka giro fisik tanpa koordinasi"},{"key":"B","text":"Menggunakan rekening Satker/VA yang terkonsolidasi dengan Rekening Induk Eselon I"},{"key":"C","text":"Menggunakan rekening pribadi"},{"key":"D","text":"Menggunakan rekening Satker lain"}],"answer":"B","answerText":"Menggunakan rekening Satker/VA yang terkonsolidasi dengan Rekening Induk Eselon I","explanation":"Konsep ini sejalan dengan konsolidasi rekening pemerintah."},{"id":"p5q26","number":26,"question":"Zero Balance Account bekerja dengan pola:","options":[{"key":"A","text":"Saldo tetap besar"},{"key":"B","text":"0–dropping–pembayaran–sisa dikembalikan–0"},{"key":"C","text":"Hanya penerimaan"},{"key":"D","text":"Hanya BLU"}],"answer":"B","answerText":"0–dropping–pembayaran–sisa dikembalikan–0","explanation":"ZBA menjaga rekening pengeluaran kembali bersaldo nihil pada akhir hari."},{"id":"p5q27","number":27,"question":"Saldo Rekening Penerimaan dilimpahkan ke RKUN melalui:","options":[{"key":"A","text":"Sweeping harian"},{"key":"B","text":"Revisi DIPA"},{"key":"C","text":"SPM"},{"key":"D","text":"TUP"}],"answer":"A","answerText":"Sweeping harian","explanation":"Sweeping memastikan penerimaan tidak mengendap di bank persepsi."},{"id":"p5q28","number":28,"question":"Setelah perluasan biller yang disebut dalam Modul Sistem dan Teknologi Perbendaharaan, jumlah biller pada MPN G3 menjadi:","options":[{"key":"A","text":"3 biller"},{"key":"B","text":"4 biller"},{"key":"C","text":"5 biller"},{"key":"D","text":"6 biller"}],"answer":"C","answerText":"5 biller","explanation":"Modul menyebut total lima biller, yaitu DJP, DJBC, DJA, DJPb, dan DJPPR. Soal tahun peluncuran MPN G3 pada versi sebelumnya dihapus karena dua modul yang diunggah menggunakan penanda waktu yang berbeda (evolusi sistem dan landasan kebijakan), sehingga tidak tepat dijadikan soal dengan satu kunci tahun."},{"id":"p5q29","number":29,"question":"NOW pada MPN G3 berarti:","options":[{"key":"A","text":"National Online Window"},{"key":"B","text":"New Payment Channels, One Stop Services, With Enhanced Capacity"},{"key":"C","text":"New Operational Workflow"},{"key":"D","text":"National One Way"}],"answer":"B","answerText":"New Payment Channels, One Stop Services, With Enhanced Capacity","explanation":"Akronim NOW menjadi tagline utama MPN G3."},{"id":"p5q30","number":30,"question":"Kapasitas MPN G3 meningkat dari sekitar:","options":[{"key":"A","text":"10 ke 100 transaksi/detik"},{"key":"B","text":"60 ke 1.000 transaksi/detik"},{"key":"C","text":"100 ke 500 transaksi/detik"},{"key":"D","text":"1.000 ke 10.000 transaksi/detik"}],"answer":"B","answerText":"60 ke 1.000 transaksi/detik","explanation":"Peningkatan kapasitas merupakan salah satu karakteristik penting MPN G3."}]},{"id":6,"title":"Akuntansi dan Pertanggungjawaban Keuangan","questions":[{"id":"p6q1","number":1,"question":"SAP merupakan:","options":[{"key":"A","text":"Prinsip akuntansi untuk menyusun dan menyajikan laporan keuangan pemerintah"},{"key":"B","text":"Pedoman DIPA"},{"key":"C","text":"Standar audit BPK"},{"key":"D","text":"Pedoman pengadaan"}],"answer":"A","answerText":"Prinsip akuntansi untuk menyusun dan menyajikan laporan keuangan pemerintah","explanation":"SAP mengatur pengakuan, pengukuran, penyajian, dan pengungkapan laporan keuangan pemerintah."},{"id":"p6q2","number":2,"question":"SAP pertama pemerintah ditetapkan melalui:","options":[{"key":"A","text":"PP 45/2013"},{"key":"B","text":"PP 24/2005"},{"key":"C","text":"PP 71/2010"},{"key":"D","text":"PP 50/2018"}],"answer":"B","answerText":"PP 24/2005","explanation":"PP 24 Tahun 2005 menjadi tonggak awal SAP di Indonesia."},{"id":"p6q3","number":3,"question":"PP 24/2005 digantikan oleh:","options":[{"key":"A","text":"PP 71/2010"},{"key":"B","text":"PP 50/2018"},{"key":"C","text":"PP 45/2013"},{"key":"D","text":"PP 12/2019"}],"answer":"A","answerText":"PP 71/2010","explanation":"PP 71 Tahun 2010 menjadi dasar SAP berbasis akrual."},{"id":"p6q4","number":4,"question":"Pada basis kas, transaksi diakui saat:","options":[{"key":"A","text":"Hak muncul"},{"key":"B","text":"Kas diterima/dikeluarkan"},{"key":"C","text":"Kontrak ditandatangani"},{"key":"D","text":"DIPA diterbitkan"}],"answer":"B","answerText":"Kas diterima/dikeluarkan","explanation":"Basis kas mengakui transaksi ketika arus kas terjadi."},{"id":"p6q5","number":5,"question":"Cash Toward Accrual berarti:","options":[{"key":"A","text":"Semua berbasis kas"},{"key":"B","text":"Aset/kewajiban/ekuitas akrual, LRA berbasis kas"},{"key":"C","text":"Semua akrual"},{"key":"D","text":"Aset tetap saja akrual"}],"answer":"B","answerText":"Aset/kewajiban/ekuitas akrual, LRA berbasis kas","explanation":"CTA merupakan tahap transisi menuju akrual penuh."},{"id":"p6q6","number":6,"question":"Implementasi penuh SAP berbasis akrual untuk pemerintah pusat dilakukan pada:","options":[{"key":"A","text":"2005"},{"key":"B","text":"2008"},{"key":"C","text":"2010"},{"key":"D","text":"2015"}],"answer":"D","answerText":"2015","explanation":"LKPP TA 2015 disusun berbasis akrual dan menjadi tonggak implementasi penuh."},{"id":"p6q7","number":7,"question":"SAPP bertujuan utama:","options":[{"key":"A","text":"Menghasilkan informasi dan LKPP secara sistematis"},{"key":"B","text":"Mengelola APBD"},{"key":"C","text":"Kebijakan moneter"},{"key":"D","text":"Pengadaan"}],"answer":"A","answerText":"Menghasilkan informasi dan LKPP secara sistematis","explanation":"SAPP menyediakan informasi anggaran, realisasi, posisi keuangan, serta mendukung akuntabilitas."},{"id":"p6q8","number":8,"question":"SAPP terdiri atas:","options":[{"key":"A","text":"SAI dan SABUN"},{"key":"B","text":"SPAN dan SAKTI"},{"key":"C","text":"LRA dan LO"},{"key":"D","text":"BUN dan KPPN"}],"answer":"A","answerText":"SAI dan SABUN","explanation":"SAPP mencakup sistem akuntansi instansi dan sistem akuntansi BUN."},{"id":"p6q9","number":9,"question":"SABUN dilaksanakan oleh:","options":[{"key":"A","text":"Pemda"},{"key":"B","text":"Kementerian Keuangan selaku BUN/PA BA-BUN"},{"key":"C","text":"BPK"},{"key":"D","text":"BI"}],"answer":"B","answerText":"Kementerian Keuangan selaku BUN/PA BA-BUN","explanation":"SABUN menghasilkan Laporan Keuangan BUN."},{"id":"p6q10","number":10,"question":"SAI dilaksanakan pada:","options":[{"key":"A","text":"Kementerian/Lembaga"},{"key":"B","text":"BI"},{"key":"C","text":"BPK"},{"key":"D","text":"Pemda"}],"answer":"A","answerText":"Kementerian/Lembaga","explanation":"SAI memproses data keuangan K/L untuk menghasilkan laporan keuangan."},{"id":"p6q11","number":11,"question":"SAI mencakup:","options":[{"key":"A","text":"Akuntansi keuangan dan BMN"},{"key":"B","text":"Kas saja"},{"key":"C","text":"Belanja saja"},{"key":"D","text":"Pengadaan saja"}],"answer":"A","answerText":"Akuntansi keuangan dan BMN","explanation":"SAI mengintegrasikan pelaporan keuangan dan barang milik negara."},{"id":"p6q12","number":12,"question":"Aplikasi utama K/L untuk proses akuntansi dan pelaporan adalah:","options":[{"key":"A","text":"SIKRI"},{"key":"B","text":"SAKTI"},{"key":"C","text":"SEHATI"},{"key":"D","text":"OM-SPAN TKD"}],"answer":"B","answerText":"SAKTI","explanation":"SAKTI mengintegrasikan transaksi K/L sampai penyusunan laporan."},{"id":"p6q13","number":13,"question":"Komponen laporan keuangan pemerintah yang lengkap adalah:","options":[{"key":"A","text":"LRA, LPSAL, Neraca, LO, LAK, LPE, CaLK"},{"key":"B","text":"DIPA, SPM, SP2D"},{"key":"C","text":"LRA, SPM, RKA"},{"key":"D","text":"LO, DIPA, SPP"}],"answer":"A","answerText":"LRA, LPSAL, Neraca, LO, LAK, LPE, CaLK","explanation":"Ketujuh komponen tersebut membentuk laporan keuangan pemerintah berbasis akrual."},{"id":"p6q14","number":14,"question":"Belanja dan Pendapatan-LRA disajikan dalam:","options":[{"key":"A","text":"LO"},{"key":"B","text":"Neraca"},{"key":"C","text":"LRA"},{"key":"D","text":"LPE"}],"answer":"C","answerText":"LRA","explanation":"LRA menunjukkan realisasi anggaran berbasis kas."},{"id":"p6q15","number":15,"question":"Beban dan Pendapatan-LO disajikan dalam:","options":[{"key":"A","text":"LO"},{"key":"B","text":"LRA"},{"key":"C","text":"LAK"},{"key":"D","text":"LPSAL"}],"answer":"A","answerText":"LO","explanation":"LO mencatat transaksi operasional berbasis akrual."},{"id":"p6q16","number":16,"question":"Aset dan kewajiban disajikan dalam:","options":[{"key":"A","text":"LPE"},{"key":"B","text":"Neraca"},{"key":"C","text":"LRA"},{"key":"D","text":"LAK"}],"answer":"B","answerText":"Neraca","explanation":"Neraca menggambarkan posisi keuangan pada tanggal pelaporan."},{"id":"p6q17","number":17,"question":"Perubahan ekuitas disajikan dalam:","options":[{"key":"A","text":"LPE"},{"key":"B","text":"LRA"},{"key":"C","text":"LAK"},{"key":"D","text":"LPSAL"}],"answer":"A","answerText":"LPE","explanation":"LPE menjelaskan perubahan saldo ekuitas selama periode pelaporan."},{"id":"p6q18","number":18,"question":"CaLK berfungsi untuk:","options":[{"key":"A","text":"Menggantikan laporan utama"},{"key":"B","text":"Memberi penjelasan dan pengungkapan tambahan"},{"key":"C","text":"Menetapkan pagu"},{"key":"D","text":"Menerbitkan SP2D"}],"answer":"B","answerText":"Memberi penjelasan dan pengungkapan tambahan","explanation":"CaLK membantu pengguna memahami angka dan kebijakan dalam laporan keuangan."},{"id":"p6q19","number":19,"question":"LKPP merupakan:","options":[{"key":"A","text":"Laporan Kemenkeu saja"},{"key":"B","text":"Konsolidasi laporan K/L dan BUN"},{"key":"C","text":"Laporan Pemda"},{"key":"D","text":"Laporan bank"}],"answer":"B","answerText":"Konsolidasi laporan K/L dan BUN","explanation":"LKPP merupakan pertanggungjawaban keuangan pemerintah pusat."},{"id":"p6q20","number":20,"question":"LKPP secara nasional disusun oleh:","options":[{"key":"A","text":"BPK"},{"key":"B","text":"Kementerian Keuangan"},{"key":"C","text":"DPR"},{"key":"D","text":"Bappenas"}],"answer":"B","answerText":"Kementerian Keuangan","explanation":"Menteri Keuangan mengonsolidasikan laporan K/L dan BUN."},{"id":"p6q21","number":21,"question":"LKPP disampaikan Presiden kepada BPK paling lambat:","options":[{"key":"A","text":"1 bulan"},{"key":"B","text":"2 bulan"},{"key":"C","text":"3 bulan"},{"key":"D","text":"6 bulan"}],"answer":"C","answerText":"3 bulan","explanation":"Batas penyampaian LKPP kepada BPK adalah paling lambat 3 bulan setelah tahun anggaran berakhir."},{"id":"p6q22","number":22,"question":"Opini WTP pertama atas LKPP diperoleh untuk TA:","options":[{"key":"A","text":"2015"},{"key":"B","text":"2016"},{"key":"C","text":"2017"},{"key":"D","text":"2018"}],"answer":"B","answerText":"2016","explanation":"LKPP TA 2015 memperoleh WDP, sedangkan TA 2016 meraih WTP pertama."},{"id":"p6q23","number":23,"question":"Piutang yang jatuh tempo lebih dari 12 bulan dikategorikan:","options":[{"key":"A","text":"Piutang lancar"},{"key":"B","text":"Piutang jangka panjang"},{"key":"C","text":"Kas lainnya"},{"key":"D","text":"Pendapatan diterima di muka"}],"answer":"B","answerText":"Piutang jangka panjang","explanation":"Klasifikasi didasarkan pada jangka waktu jatuh tempo."},{"id":"p6q24","number":24,"question":"Bagian piutang jangka panjang yang jatuh tempo dalam 12 bulan direklasifikasi menjadi:","options":[{"key":"A","text":"Piutang macet"},{"key":"B","text":"Bagian Lancar Piutang Jangka Panjang"},{"key":"C","text":"Uang Muka"},{"key":"D","text":"Pendapatan-LRA"}],"answer":"B","answerText":"Bagian Lancar Piutang Jangka Panjang","explanation":"Reklasifikasi dilakukan untuk penyajian Neraca yang tepat."},{"id":"p6q25","number":25,"question":"Penyisihan piutang kualitas Lancar adalah:","options":[{"key":"A","text":"0%"},{"key":"B","text":"0,5%"},{"key":"C","text":"10%"},{"key":"D","text":"50%"}],"answer":"B","answerText":"0,5%","explanation":"Tarif penyisihan untuk piutang lancar adalah 0,5%."},{"id":"p6q26","number":26,"question":"Penyisihan piutang Kurang Lancar adalah:","options":[{"key":"A","text":"0,5%"},{"key":"B","text":"10%"},{"key":"C","text":"50%"},{"key":"D","text":"100%"}],"answer":"B","answerText":"10%","explanation":"Kurang Lancar dikenakan penyisihan 10%."},{"id":"p6q27","number":27,"question":"Penyisihan piutang Diragukan adalah:","options":[{"key":"A","text":"0,5%"},{"key":"B","text":"10%"},{"key":"C","text":"50%"},{"key":"D","text":"100%"}],"answer":"C","answerText":"50%","explanation":"Piutang Diragukan dikenakan penyisihan 50%."},{"id":"p6q28","number":28,"question":"Penyisihan piutang Macet adalah:","options":[{"key":"A","text":"10%"},{"key":"B","text":"25%"},{"key":"C","text":"50%"},{"key":"D","text":"100%"}],"answer":"D","answerText":"100%","explanation":"Piutang Macet disisihkan 100%."},{"id":"p6q29","number":29,"question":"Pada penyediaan UP/TUP awal muncul:","options":[{"key":"A","text":"Kas di Bendahara Pengeluaran dan Uang Muka dari KPPN"},{"key":"B","text":"Piutang dan Pendapatan"},{"key":"C","text":"Aset Tetap dan Ekuitas"},{"key":"D","text":"Belanja dan Utang"}],"answer":"A","answerText":"Kas di Bendahara Pengeluaran dan Uang Muka dari KPPN","explanation":"UP/TUP diperlakukan sebagai uang muka kerja."},{"id":"p6q30","number":30,"question":"Rekonsiliasi eksternal SAKTI–SPAN membandingkan:","options":[{"key":"A","text":"Anggaran, realisasi, kas, hibah"},{"key":"B","text":"Pegawai dan aset"},{"key":"C","text":"SP2D saja"},{"key":"D","text":"DIPA saja"}],"answer":"A","answerText":"Anggaran, realisasi, kas, hibah","explanation":"Empat kelompok data utama ini menjadi basis rekonsiliasi eksternal."}]},{"id":7,"title":"Pelaksanaan Anggaran dan Pejabat Perbendaharaan","questions":[{"id":"p7q1","number":1,"question":"Pada umumnya jabatan KPA melekat secara ex officio pada:","options":[{"key":"A","text":"Bendahara Pengeluaran"},{"key":"B","text":"Kepala Satuan Kerja"},{"key":"C","text":"PPK"},{"key":"D","text":"Kepala KPPN"}],"answer":"B","answerText":"Kepala Satuan Kerja","explanation":"KPA pada umumnya melekat pada Kepala Satker yang mengelola DIPA."},{"id":"p7q2","number":2,"question":"Pejabat yang menetapkan PPK dan PPSPM adalah:","options":[{"key":"A","text":"Bendahara"},{"key":"B","text":"KPPN"},{"key":"C","text":"KPA"},{"key":"D","text":"Dirjen Perbendaharaan"}],"answer":"C","answerText":"KPA","explanation":"Salah satu kewenangan KPA adalah menetapkan PPK dan PPSPM."},{"id":"p7q3","number":3,"question":"Untuk satu DIPA, KPA dapat menetapkan:","options":[{"key":"A","text":"Satu PPK dan satu PPSPM saja"},{"key":"B","text":"Satu atau lebih PPK dan satu PPSPM"},{"key":"C","text":"Satu PPK dan banyak PPSPM"},{"key":"D","text":"Tanpa PPSPM"}],"answer":"B","answerText":"Satu atau lebih PPK dan satu PPSPM","explanation":"Jumlah PPK dapat disesuaikan kebutuhan, sedangkan satu DIPA memiliki satu PPSPM."},{"id":"p7q4","number":4,"question":"Pejabat yang bertanggung jawab atas tindakan yang menimbulkan pengeluaran adalah:","options":[{"key":"A","text":"PPSPM"},{"key":"B","text":"PPK"},{"key":"C","text":"Bendahara"},{"key":"D","text":"KPPN"}],"answer":"B","answerText":"PPK","explanation":"PPK berperan sebagai eksekutor komitmen dan kontrak."},{"id":"p7q5","number":5,"question":"Pejabat yang membuat dan menandatangani SPP adalah:","options":[{"key":"A","text":"PPSPM"},{"key":"B","text":"PPK"},{"key":"C","text":"Bendahara"},{"key":"D","text":"Kuasa BUN"}],"answer":"B","answerText":"PPK","explanation":"PPK menguji hak tagih dan menyusun SPP."},{"id":"p7q6","number":6,"question":"Pejabat yang menerbitkan SPM adalah:","options":[{"key":"A","text":"PPK"},{"key":"B","text":"KPA"},{"key":"C","text":"PPSPM"},{"key":"D","text":"Bendahara"}],"answer":"C","answerText":"PPSPM","explanation":"PPSPM menguji SPP dan menerbitkan SPM bila memenuhi syarat."},{"id":"p7q7","number":7,"question":"Jika SPP tidak memenuhi persyaratan, PPSPM harus:","options":[{"key":"A","text":"Tetap menerbitkan SPM"},{"key":"B","text":"Menolak dan mengembalikan SPP"},{"key":"C","text":"Mengubah menjadi UP"},{"key":"D","text":"Mengirim ke bank"}],"answer":"B","answerText":"Menolak dan mengembalikan SPP","explanation":"PPSPM wajib menjaga kualitas dan kepatuhan pembayaran."},{"id":"p7q8","number":8,"question":"Tugas Bendahara Pengeluaran antara lain:","options":[{"key":"A","text":"Menandatangani kontrak"},{"key":"B","text":"Menerbitkan SPM"},{"key":"C","text":"Menerima dan menyimpan UP serta melakukan pembayaran UP"},{"key":"D","text":"Menerbitkan SP2D"}],"answer":"C","answerText":"Menerima dan menyimpan UP serta melakukan pembayaran UP","explanation":"Bendahara juga melakukan pengujian, pemungutan/pemotongan, pembukuan, dan LPJ."},{"id":"p7q9","number":9,"question":"Jika tagihan UP tidak memenuhi syarat, Bendahara:","options":[{"key":"A","text":"Wajib membayar"},{"key":"B","text":"Dapat menolak pembayaran"},{"key":"C","text":"Harus ubah ke LS"},{"key":"D","text":"Harus minta BPK"}],"answer":"B","answerText":"Dapat menolak pembayaran","explanation":"Bendahara memiliki tanggung jawab pribadi dan wajib menolak pembayaran yang tidak sah."},{"id":"p7q10","number":10,"question":"Bendahara tidak boleh dirangkap oleh:","options":[{"key":"A","text":"KPA, PPK, atau PPSPM"},{"key":"B","text":"PPK saja"},{"key":"C","text":"KPA saja"},{"key":"D","text":"PPSPM saja"}],"answer":"A","answerText":"KPA, PPK, atau PPSPM","explanation":"Larangan rangkap mendukung check and balance."},{"id":"p7q11","number":11,"question":"PPK dan PPSPM:","options":[{"key":"A","text":"Boleh dirangkap"},{"key":"B","text":"Tidak boleh dirangkap"},{"key":"C","text":"Wajib dirangkap"},{"key":"D","text":"Hanya boleh pada BLU"}],"answer":"B","answerText":"Tidak boleh dirangkap","explanation":"Fungsi pembuat komitmen dan penguji pembayaran harus dipisahkan."},{"id":"p7q12","number":12,"question":"Menurut ketentuan dalam modul, KPA dapat merangkap:","options":[{"key":"A","text":"Sekaligus PPK dan PPSPM"},{"key":"B","text":"PPK atau PPSPM, tetapi tidak keduanya"},{"key":"C","text":"Bendahara"},{"key":"D","text":"Tidak boleh apa pun"}],"answer":"B","answerText":"PPK atau PPSPM, tetapi tidak keduanya","explanation":"Modul menjelaskan batas perangkapan untuk menjaga pemisahan fungsi."},{"id":"p7q13","number":13,"question":"Pasangan sertifikasi yang tepat adalah:","options":[{"key":"A","text":"PPK-BNT, PPSPM-PNT, Bendahara-SNT"},{"key":"B","text":"PPK-PNT, PPSPM-SNT, Bendahara-BNT"},{"key":"C","text":"PPK-SNT, PPSPM-BNT, Bendahara-PNT"},{"key":"D","text":"Semua BNT"}],"answer":"B","answerText":"PPK-PNT, PPSPM-SNT, Bendahara-BNT","explanation":"PNT untuk PPK, SNT untuk PPSPM, dan BNT untuk Bendahara."},{"id":"p7q14","number":14,"question":"Wetmatigheid menguji:","options":[{"key":"A","text":"Kesesuaian dengan peraturan"},{"key":"B","text":"Hak penerima"},{"key":"C","text":"Tujuan belanja"},{"key":"D","text":"Ketersediaan kas"}],"answer":"A","answerText":"Kesesuaian dengan peraturan","explanation":"Wetmatigheid berfokus pada legalitas."},{"id":"p7q15","number":15,"question":"Rechtmatigheid menguji:","options":[{"key":"A","text":"Tujuan"},{"key":"B","text":"Kebenaran hak penerima dan nilai tagihan"},{"key":"C","text":"Pagu"},{"key":"D","text":"RPD"}],"answer":"B","answerText":"Kebenaran hak penerima dan nilai tagihan","explanation":"Rechtmatigheid memastikan pembayaran kepada pihak yang memang berhak."},{"id":"p7q16","number":16,"question":"Doelmatigheid menguji:","options":[{"key":"A","text":"Tujuan/manfaat pengeluaran"},{"key":"B","text":"Nomor rekening"},{"key":"C","text":"Nomor kontrak"},{"key":"D","text":"Masa DIPA"}],"answer":"A","answerText":"Tujuan/manfaat pengeluaran","explanation":"Doelmatigheid menguji kesesuaian pengeluaran dengan tujuan yang hendak dicapai."},{"id":"p7q17","number":17,"question":"Pejabat yang menjadi benteng terakhir pengeluaran di tingkat K/L adalah:","options":[{"key":"A","text":"PPK"},{"key":"B","text":"PPSPM"},{"key":"C","text":"Bendahara"},{"key":"D","text":"KPPN"}],"answer":"B","answerText":"PPSPM","explanation":"PPSPM menjadi penguji terakhir di sisi K/L sebelum SPM dikirim ke KPPN."},{"id":"p7q18","number":18,"question":"Supplier dalam SPAN berarti:","options":[{"key":"A","text":"Hanya perusahaan"},{"key":"B","text":"Seluruh pihak yang berhak menerima pembayaran APBN"},{"key":"C","text":"Pegawai saja"},{"key":"D","text":"Bendahara saja"}],"answer":"B","answerText":"Seluruh pihak yang berhak menerima pembayaran APBN","explanation":"Supplier SPAN mencakup berbagai tipe penerima pembayaran."},{"id":"p7q19","number":19,"question":"Supplier tipe 1 adalah:","options":[{"key":"A","text":"Penyedia"},{"key":"B","text":"Pegawai"},{"key":"C","text":"Satker"},{"key":"D","text":"Transfer daerah"}],"answer":"C","answerText":"Satker","explanation":"Tipe 1 digunakan untuk Satker dalam transaksi tertentu."},{"id":"p7q20","number":20,"question":"Supplier tipe 2 adalah:","options":[{"key":"A","text":"Satker"},{"key":"B","text":"Penyedia Barang/Jasa"},{"key":"C","text":"Pegawai"},{"key":"D","text":"BA BUN"}],"answer":"B","answerText":"Penyedia Barang/Jasa","explanation":"Tipe 2 digunakan untuk pembayaran kepada penyedia/pihak ketiga."},{"id":"p7q21","number":21,"question":"Supplier tipe 3 adalah:","options":[{"key":"A","text":"Pegawai"},{"key":"B","text":"Pemda"},{"key":"C","text":"BUMN"},{"key":"D","text":"BUN"}],"answer":"A","answerText":"Pegawai","explanation":"Tipe 3 digunakan untuk transaksi pembayaran kepada pegawai."},{"id":"p7q22","number":22,"question":"Data kontrak didaftarkan ke KPPN paling lambat:","options":[{"key":"A","text":"2 HK"},{"key":"B","text":"3 HK"},{"key":"C","text":"5 HK setelah kontrak ditandatangani"},{"key":"D","text":"10 HK"}],"answer":"C","answerText":"5 HK setelah kontrak ditandatangani","explanation":"Kontrak dan addendum harus didaftarkan tepat waktu."},{"id":"p7q23","number":23,"question":"Jika pendaftaran kontrak terlambat, Satker melampirkan:","options":[{"key":"A","text":"Persetujuan Menteri"},{"key":"B","text":"Surat pernyataan KPA tentang alasan keterlambatan"},{"key":"C","text":"Surat bank"},{"key":"D","text":"Laporan audit"}],"answer":"B","answerText":"Surat pernyataan KPA tentang alasan keterlambatan","explanation":"Dokumen ini menjelaskan penyebab keterlambatan pendaftaran."},{"id":"p7q24","number":24,"question":"Penyedia mengajukan tagihan paling lambat:","options":[{"key":"A","text":"3 hari kalender"},{"key":"B","text":"5 HK sejak hak tagih muncul"},{"key":"C","text":"10 HK setelah SP2D"},{"key":"D","text":"Akhir bulan"}],"answer":"B","answerText":"5 HK sejak hak tagih muncul","explanation":"Jika belum diajukan, PPK memberikan pemberitahuan tertulis kepada penyedia."},{"id":"p7q25","number":25,"question":"Jika BAST yang dipersyaratkan belum tersedia, PPSPM:","options":[{"key":"A","text":"Tetap menerbitkan SPM"},{"key":"B","text":"Mengembalikan SPP sampai dokumen lengkap"},{"key":"C","text":"Bayar UP"},{"key":"D","text":"Kirim ke bank"}],"answer":"B","answerText":"Mengembalikan SPP sampai dokumen lengkap","explanation":"BAST membuktikan prestasi pekerjaan dan hak tagih."},{"id":"p7q26","number":26,"question":"BAST terutama dikelola pada Modul SAKTI:","options":[{"key":"A","text":"Penganggaran"},{"key":"B","text":"Komitmen"},{"key":"C","text":"Bendahara"},{"key":"D","text":"Piutang"}],"answer":"B","answerText":"Komitmen","explanation":"Modul Komitmen mengelola supplier, kontrak, BAST, dan capaian output."},{"id":"p7q27","number":27,"question":"Dua mekanisme utama pembayaran APBN adalah:","options":[{"key":"A","text":"LS dan UP"},{"key":"B","text":"SPP dan SPM"},{"key":"C","text":"DIPA dan RKA"},{"key":"D","text":"SPAN dan SAKTI"}],"answer":"A","answerText":"LS dan UP","explanation":"LS digunakan untuk pembayaran langsung, sedangkan UP untuk kebutuhan operasional tertentu."},{"id":"p7q28","number":28,"question":"UP adalah:","options":[{"key":"A","text":"Dana investasi"},{"key":"B","text":"Uang muka kerja kepada Bendahara untuk kebutuhan operasional"},{"key":"C","text":"Dana hibah"},{"key":"D","text":"SAL"}],"answer":"B","answerText":"Uang muka kerja kepada Bendahara untuk kebutuhan operasional","explanation":"UP berfungsi sebagai kas kerja Satker dan wajib dipertanggungjawabkan."},{"id":"p7q29","number":29,"question":"Besaran UP sesuai kebutuhan satu bulan paling banyak:","options":[{"key":"A","text":"1/4 pagu"},{"key":"B","text":"1/6 pagu"},{"key":"C","text":"1/12 pagu jenis belanja yang dapat dibayar UP"},{"key":"D","text":"Seluruh pagu"}],"answer":"C","answerText":"1/12 pagu jenis belanja yang dapat dibayar UP","explanation":"Batas ini menjadi salah satu angka penting dalam pengelolaan UP."},{"id":"p7q30","number":30,"question":"Revolving UP dapat diajukan setelah UP digunakan paling sedikit:","options":[{"key":"A","text":"25%"},{"key":"B","text":"40%"},{"key":"C","text":"50%"},{"key":"D","text":"75%"}],"answer":"C","answerText":"50%","explanation":"Revolving dilakukan setelah penggunaan UP mencapai sekurang-kurangnya 50%."}]},{"id":8,"title":"Sistem dan Teknologi Perbendaharaan","questions":[{"id":"p8q1","number":1,"question":"IFMIS adalah:","options":[{"key":"A","text":"Sistem terintegrasi pengelolaan keuangan negara end-to-end"},{"key":"B","text":"Sistem gaji saja"},{"key":"C","text":"Sistem pengadaan"},{"key":"D","text":"Sistem rekening"}],"answer":"A","answerText":"Sistem terintegrasi pengelolaan keuangan negara end-to-end","explanation":"IFMIS menghubungkan proses perencanaan, penganggaran, pelaksanaan, hingga pertanggungjawaban."},{"id":"p8q2","number":2,"question":"Tiga sistem utama dalam kerangka IFMIS DJPb adalah:","options":[{"key":"A","text":"SAKTI, SPAN, MPN"},{"key":"B","text":"SIKP, SEHATI, Siskeudes"},{"key":"C","text":"DJPb, DJA, DJPK"},{"key":"D","text":"RTGS, SKN, SWIFT"}],"answer":"A","answerText":"SAKTI, SPAN, MPN","explanation":"Ketiganya menjadi tulang punggung transformasi digital perbendaharaan."},{"id":"p8q3","number":3,"question":"Yang bukan tujuan modernisasi IFMIS adalah:","options":[{"key":"A","text":"Transparansi"},{"key":"B","text":"Akuntabilitas"},{"key":"C","text":"Efisiensi"},{"key":"D","text":"Memperbanyak input ulang"}],"answer":"D","answerText":"Memperbanyak input ulang","explanation":"Integrasi justru bertujuan mengurangi duplikasi dan inkonsistensi data."},{"id":"p8q4","number":4,"question":"Manfaat utama integrasi data antarsistem adalah:","options":[{"key":"A","text":"Menambah redundansi"},{"key":"B","text":"Mengurangi inkonsistensi dan mempercepat informasi"},{"key":"C","text":"Menghilangkan kontrol"},{"key":"D","text":"Menambah proses manual"}],"answer":"B","answerText":"Mengurangi inkonsistensi dan mempercepat informasi","explanation":"Data yang terintegrasi mendukung keputusan lebih cepat dan akurat."},{"id":"p8q5","number":5,"question":"IFMIS bukan hanya otomasi karena juga mendukung:","options":[{"key":"A","text":"Budaya kerja berbasis data dan kontrol internal"},{"key":"B","text":"Penggunaan akun bersama"},{"key":"C","text":"Penghapusan audit trail"},{"key":"D","text":"Pengurangan transparansi"}],"answer":"A","answerText":"Budaya kerja berbasis data dan kontrol internal","explanation":"Transformasi digital juga memperkuat governance dan data-driven policy."},{"id":"p8q6","number":6,"question":"SPAN terutama digunakan sebagai:","options":[{"key":"A","text":"Sistem sisi PA di Satker"},{"key":"B","text":"Sistem perbendaharaan dan anggaran negara di Kemenkeu"},{"key":"C","text":"Sistem kepegawaian"},{"key":"D","text":"Sistem APBD"}],"answer":"B","answerText":"Sistem perbendaharaan dan anggaran negara di Kemenkeu","explanation":"SPAN menjadi core system untuk fungsi BUN/perbendaharaan."},{"id":"p8q7","number":7,"question":"Karakteristik utama SPAN adalah:","options":[{"key":"A","text":"Offline"},{"key":"B","text":"Elektronik, terintegrasi, real-time"},{"key":"C","text":"Stand-alone tiap KPPN"},{"key":"D","text":"Hanya pelaporan"}],"answer":"B","answerText":"Elektronik, terintegrasi, real-time","explanation":"SPAN dibangun untuk menggantikan proses terfragmentasi dan manual."},{"id":"p8q8","number":8,"question":"Enam modul utama SPAN adalah:","options":[{"key":"A","text":"Penganggaran, Komitmen, Pembayaran, Kas, Penerimaan, Akuntansi/Pelaporan"},{"key":"B","text":"Penganggaran, Persediaan, Piutang, Aset, Bendahara, Pelaporan"},{"key":"C","text":"SDM, Gaji, Kas, Audit, Kontrak, Pajak"},{"key":"D","text":"SPM, SP2D, DIPA, BAS, RKUN, LKPP"}],"answer":"A","answerText":"Penganggaran, Komitmen, Pembayaran, Kas, Penerimaan, Akuntansi/Pelaporan","explanation":"Jangan tertukar dengan 11 modul utama SAKTI."},{"id":"p8q9","number":9,"question":"Modul Penganggaran SPAN terutama digunakan untuk:","options":[{"key":"A","text":"Menyusun RAPBN dari awal"},{"key":"B","text":"Validasi/posting DIPA dan Budget Control"},{"key":"C","text":"Menyusun Renja Satker"},{"key":"D","text":"Menghitung gaji"}],"answer":"B","answerText":"Validasi/posting DIPA dan Budget Control","explanation":"DIPA yang telah diposting menjadi dasar transaksi modul SPAN lainnya."},{"id":"p8q10","number":10,"question":"DIPA yang telah terposting berarti:","options":[{"key":"A","text":"Anggaran dihapus"},{"key":"B","text":"Data dapat digunakan untuk transaksi modul lain"},{"key":"C","text":"SP2D otomatis terbit"},{"key":"D","text":"DIPA tidak bisa direvisi"}],"answer":"B","answerText":"Data dapat digunakan untuk transaksi modul lain","explanation":"Posting merupakan tahap penting agar anggaran aktif dalam SPAN."},{"id":"p8q11","number":11,"question":"Alur SAKTI–SPAN yang tepat adalah:","options":[{"key":"A","text":"SPAN membuat SPM"},{"key":"B","text":"Satker membuat SPM di SAKTI lalu KPPN memproses dalam SPAN"},{"key":"C","text":"Bank membuat SPM"},{"key":"D","text":"MPN menerbitkan SPM"}],"answer":"B","answerText":"Satker membuat SPM di SAKTI lalu KPPN memproses dalam SPAN","explanation":"SAKTI berperan di sisi Satker, SPAN di sisi BUN/KPPN."},{"id":"p8q12","number":12,"question":"SPAN mendukung implementasi:","options":[{"key":"A","text":"TSA"},{"key":"B","text":"APBD"},{"key":"C","text":"Siskeudes"},{"key":"D","text":"E-katalog"}],"answer":"A","answerText":"TSA","explanation":"SPAN mendukung pengelolaan kas terpusat dalam kerangka Treasury Single Account."},{"id":"p8q13","number":13,"question":"Dalam interkoneksi pembayaran, SPAN:","options":[{"key":"A","text":"Mengirim data SP2D elektronik ke Bank Operasional"},{"key":"B","text":"Mengirim DIPA ke pegawai"},{"key":"C","text":"Tidak terhubung bank"},{"key":"D","text":"Hanya menerima data tahunan"}],"answer":"A","answerText":"Mengirim data SP2D elektronik ke Bank Operasional","explanation":"Bank kemudian menyalurkan dana dan menyampaikan informasi hasil pembayaran."},{"id":"p8q14","number":14,"question":"Arah SPAN Next Generation adalah:","options":[{"key":"A","text":"Kembali ke ADK manual"},{"key":"B","text":"Interkoneksi langsung berbasis SOA"},{"key":"C","text":"Menghapus SAKTI"},{"key":"D","text":"Menghilangkan otomasi"}],"answer":"B","answerText":"Interkoneksi langsung berbasis SOA","explanation":"Pengembangan diarahkan dari pertukaran file menuju integrasi layanan."},{"id":"p8q15","number":15,"question":"Dengan otomasi SPAN Next Generation, peran KPPN diarahkan lebih:","options":[{"key":"A","text":"Manual"},{"key":"B","text":"Konsultatif"},{"key":"C","text":"Administratif kertas"},{"key":"D","text":"Tidak berubah"}],"answer":"B","answerText":"Konsultatif","explanation":"Otomasi proses teknis memberi ruang bagi KPPN untuk memperkuat fungsi advisory."},{"id":"p8q16","number":16,"question":"SAKTI terutama digunakan di sisi:","options":[{"key":"A","text":"Pengguna Anggaran/KL"},{"key":"B","text":"Bank Indonesia"},{"key":"C","text":"Pemda"},{"key":"D","text":"BPK"}],"answer":"A","answerText":"Pengguna Anggaran/KL","explanation":"SAKTI mengintegrasikan proses pengelolaan APBN pada K/L."},{"id":"p8q17","number":17,"question":"SAKTI dapat dipandang sebagai:","options":[{"key":"A","text":"ERP sektor publik"},{"key":"B","text":"CRM"},{"key":"C","text":"Sistem kliring"},{"key":"D","text":"Data warehouse saja"}],"answer":"A","answerText":"ERP sektor publik","explanation":"SAKTI menyatukan berbagai fungsi keuangan dalam satu platform terpadu."},{"id":"p8q18","number":18,"question":"Konsep single pada SAKTI adalah:","options":[{"key":"A","text":"Single database, single user interface, single sign-on"},{"key":"B","text":"Single bank, DIPA, KPPN"},{"key":"C","text":"Single SPM, SP2D, supplier"},{"key":"D","text":"Single user, Satker, output"}],"answer":"A","answerText":"Single database, single user interface, single sign-on","explanation":"Konsep ini mengurangi duplikasi data dan memudahkan akses."},{"id":"p8q19","number":19,"question":"Jumlah modul utama SAKTI adalah:","options":[{"key":"A","text":"6"},{"key":"B","text":"8"},{"key":"C","text":"11"},{"key":"D","text":"15"}],"answer":"C","answerText":"11","explanation":"SAKTI memiliki 11 modul utama."},{"id":"p8q20","number":20,"question":"Modul Komitmen SAKTI mengelola:","options":[{"key":"A","text":"Supplier, kontrak, BAST, capaian output"},{"key":"B","text":"Gaji saja"},{"key":"C","text":"APBD"},{"key":"D","text":"Rekening BI"}],"answer":"A","answerText":"Supplier, kontrak, BAST, capaian output","explanation":"Modul Komitmen mencatat perikatan pemerintah dengan pihak ketiga."},{"id":"p8q21","number":21,"question":"Modul Pembayaran SAKTI memproses:","options":[{"key":"A","text":"SPP dan SPM"},{"key":"B","text":"Neraca saja"},{"key":"C","text":"BAST saja"},{"key":"D","text":"Kontrak saja"}],"answer":"A","answerText":"SPP dan SPM","explanation":"Modul Pembayaran mengelola proses sampai pengajuan SPM ke KPPN."},{"id":"p8q22","number":22,"question":"Tiga level user Modul Pembayaran adalah:","options":[{"key":"A","text":"Operator, Validator, Approver"},{"key":"B","text":"PPK, KPPN, Bank"},{"key":"C","text":"Admin, Auditor, Menteri"},{"key":"D","text":"Pembuat, Bendahara, BUN"}],"answer":"A","answerText":"Operator, Validator, Approver","explanation":"Pemisahan peran mendukung check and balance."},{"id":"p8q23","number":23,"question":"Maker-checker-approver mendukung:","options":[{"key":"A","text":"Konsentrasi kewenangan"},{"key":"B","text":"Check and balance elektronik"},{"key":"C","text":"Penghapusan jejak audit"},{"key":"D","text":"Akun bersama"}],"answer":"B","answerText":"Check and balance elektronik","explanation":"Pemisahan fungsi mengurangi risiko penyalahgunaan."},{"id":"p8q24","number":24,"question":"Output utama Modul Bendahara antara lain:","options":[{"key":"A","text":"LPJ Bendahara"},{"key":"B","text":"DIPA"},{"key":"C","text":"SP2D"},{"key":"D","text":"LKPP"}],"answer":"A","answerText":"LPJ Bendahara","explanation":"Modul Bendahara menangani penatausahaan kas Bendahara dan pertanggungjawabannya."},{"id":"p8q25","number":25,"question":"Metode penyusutan Modul Aset Tetap adalah:","options":[{"key":"A","text":"Saldo menurun"},{"key":"B","text":"Unit produksi"},{"key":"C","text":"Garis lurus"},{"key":"D","text":"Tanpa penyusutan"}],"answer":"C","answerText":"Garis lurus","explanation":"Modul Aset Tetap menggunakan metode garis lurus sesuai materi."},{"id":"p8q26","number":26,"question":"SAKTI berfungsi sebagai feeder bagi:","options":[{"key":"A","text":"SPAN"},{"key":"B","text":"Siskeudes"},{"key":"C","text":"BI-RTGS"},{"key":"D","text":"APBD"}],"answer":"A","answerText":"SPAN","explanation":"Data transaksi Satker diteruskan untuk diproses pada sistem BUN."},{"id":"p8q27","number":27,"question":"Fungsi utama MPN adalah:","options":[{"key":"A","text":"Pengeluaran negara"},{"key":"B","text":"Penerimaan negara"},{"key":"C","text":"BMN"},{"key":"D","text":"Transfer aset"}],"answer":"B","answerText":"Penerimaan negara","explanation":"MPN mengelola proses penerimaan negara dan ber-interface dengan SPAN."},{"id":"p8q28","number":28,"question":"Kapasitas MPN G3 mencapai:","options":[{"key":"A","text":"60 transaksi/detik"},{"key":"B","text":"100 transaksi/detik"},{"key":"C","text":"500 transaksi/detik"},{"key":"D","text":"1.000 transaksi/detik"}],"answer":"D","answerText":"1.000 transaksi/detik","explanation":"Kapasitas meningkat signifikan dibanding generasi sebelumnya."},{"id":"p8q29","number":29,"question":"NOW pada MPN G3 berarti:","options":[{"key":"A","text":"New Online Web"},{"key":"B","text":"New Payment Channels, One Stop Services, With Enhanced Capacity"},{"key":"C","text":"National One Window"},{"key":"D","text":"New Operational Workflow"}],"answer":"B","answerText":"New Payment Channels, One Stop Services, With Enhanced Capacity","explanation":"NOW menjadi tagline utama MPN G3."},{"id":"p8q30","number":30,"question":"Tiga prinsip keamanan informasi utama adalah:","options":[{"key":"A","text":"Kerahasiaan, Integritas, Ketersediaan"},{"key":"B","text":"Kecepatan, Biaya, Laba"},{"key":"C","text":"Input, Proses, Output"},{"key":"D","text":"Hardware, Software, Network"}],"answer":"A","answerText":"Kerahasiaan, Integritas, Ketersediaan","explanation":"Ketiga aspek ini menjadi fondasi perlindungan informasi."}]},{"id":9,"title":"Pengelolaan Keuangan Negara dan Kerugian Negara","questions":[{"id":"p9q1","number":1,"question":"Pemegang kekuasaan pengelolaan keuangan negara adalah:","options":[{"key":"A","text":"Presiden"},{"key":"B","text":"Menteri Keuangan"},{"key":"C","text":"DPR"},{"key":"D","text":"BPK"}],"answer":"A","answerText":"Presiden","explanation":"Presiden selaku kepala pemerintahan memegang kekuasaan pengelolaan keuangan negara sebagai bagian dari kekuasaan pemerintahan."},{"id":"p9q2","number":2,"question":"Sebagian kekuasaan Presiden dikuasakan kepada Menteri Keuangan sebagai:","options":[{"key":"A","text":"Pengguna Anggaran seluruh K/L"},{"key":"B","text":"Pengelola fiskal dan wakil pemerintah dalam kepemilikan kekayaan negara yang dipisahkan"},{"key":"C","text":"Auditor eksternal"},{"key":"D","text":"Kepala daerah"}],"answer":"B","answerText":"Pengelola fiskal dan wakil pemerintah dalam kepemilikan kekayaan negara yang dipisahkan","explanation":"Menteri Keuangan menjalankan fungsi pengelola fiskal/CFO dan Bendahara Umum Negara."},{"id":"p9q3","number":3,"question":"Sebagian kekuasaan Presiden dikuasakan kepada Menteri/Pimpinan Lembaga sebagai:","options":[{"key":"A","text":"Pengguna Anggaran/Pengguna Barang"},{"key":"B","text":"Bendahara Umum Negara"},{"key":"C","text":"Auditor"},{"key":"D","text":"Pengelola moneter"}],"answer":"A","answerText":"Pengguna Anggaran/Pengguna Barang","explanation":"Menteri/Pimpinan Lembaga menjalankan fungsi operasional pengelolaan anggaran pada K/L."},{"id":"p9q4","number":4,"question":"Pengelolaan keuangan daerah diserahkan kepada:","options":[{"key":"A","text":"Kepala KPPN"},{"key":"B","text":"Gubernur/Bupati/Walikota"},{"key":"C","text":"Menteri Keuangan"},{"key":"D","text":"BPK"}],"answer":"B","answerText":"Gubernur/Bupati/Walikota","explanation":"Kepala daerah memegang kekuasaan pengelolaan keuangan daerah sesuai kewenangannya."},{"id":"p9q5","number":5,"question":"Kewenangan yang tidak termasuk dalam pendelegasian kekuasaan pengelolaan keuangan negara tersebut adalah:","options":[{"key":"A","text":"Otorisasi"},{"key":"B","text":"Ordonansi"},{"key":"C","text":"Kebendaharaan"},{"key":"D","text":"Moneter seperti mengeluarkan dan mengedarkan uang"}],"answer":"D","answerText":"Moneter seperti mengeluarkan dan mengedarkan uang","explanation":"Kewenangan moneter diatur tersendiri dengan undang-undang."},{"id":"p9q6","number":6,"question":"Tiga kekuasaan utama dalam pengelolaan keuangan negara adalah:","options":[{"key":"A","text":"Otorisasi, ordonansi, kebendaharaan"},{"key":"B","text":"Legislatif, yudikatif, eksekutif"},{"key":"C","text":"Perencanaan, audit, pajak"},{"key":"D","text":"Anggaran, pajak, moneter"}],"answer":"A","answerText":"Otorisasi, ordonansi, kebendaharaan","explanation":"Ketiga kekuasaan ini menjelaskan pembagian fungsi pengelolaan keuangan negara."},{"id":"p9q7","number":7,"question":"Kekuasaan otorisasi adalah kekuasaan untuk:","options":[{"key":"A","text":"Mengambil keputusan yang dapat menambah atau mengurangi kekayaan negara"},{"key":"B","text":"Menyimpan uang saja"},{"key":"C","text":"Mengaudit laporan"},{"key":"D","text":"Menerbitkan opini"}],"answer":"A","answerText":"Mengambil keputusan yang dapat menambah atau mengurangi kekayaan negara","explanation":"Otorisasi melahirkan tindakan atau keputusan yang berdampak pada kekayaan negara."},{"id":"p9q8","number":8,"question":"Otorisasi yang bersifat umum diwujudkan antara lain dalam:","options":[{"key":"A","text":"Undang-undang seperti APBN"},{"key":"B","text":"Kuitansi"},{"key":"C","text":"Rekening koran"},{"key":"D","text":"SP2D"}],"answer":"A","answerText":"Undang-undang seperti APBN","explanation":"Otorisasi umum berupa norma atau keputusan yang berlaku umum dan memerlukan persetujuan legislatif sesuai sistem ketatanegaraan."},{"id":"p9q9","number":9,"question":"Otorisasi yang bersifat khusus diwujudkan dalam:","options":[{"key":"A","text":"Surat keputusan yang mengikat pihak tertentu"},{"key":"B","text":"UUD"},{"key":"C","text":"Laporan audit"},{"key":"D","text":"Nota bank"}],"answer":"A","answerText":"Surat keputusan yang mengikat pihak tertentu","explanation":"Otorisasi khusus merupakan pelaksanaan konkret dari otorisasi umum."},{"id":"p9q10","number":10,"question":"Kekuasaan ordonansi meliputi:","options":[{"key":"A","text":"Menerima, meneliti, menguji keabsahan, dan menerbitkan perintah menagih/membayar"},{"key":"B","text":"Menyusun undang-undang"},{"key":"C","text":"Menyimpan kas saja"},{"key":"D","text":"Mengaudit APBN"}],"answer":"A","answerText":"Menerima, meneliti, menguji keabsahan, dan menerbitkan perintah menagih/membayar","explanation":"Ordonansi merupakan fungsi pengujian tagihan dan penerbitan perintah pembayaran."},{"id":"p9q11","number":11,"question":"Dalam pengujian ordonansi, tiga aspek yang diperiksa adalah:","options":[{"key":"A","text":"Wetmatigheid, rechtmatigheid, doelmatigheid"},{"key":"B","text":"Likuiditas, solvabilitas, profitabilitas"},{"key":"C","text":"Pagu, output, SDM"},{"key":"D","text":"Kas, aset, utang"}],"answer":"A","answerText":"Wetmatigheid, rechtmatigheid, doelmatigheid","explanation":"Pengujian mencakup dasar hukum/aturan, hak tagih, dan tujuan pengeluaran."},{"id":"p9q12","number":12,"question":"Kekuasaan kebendaharaan adalah kekuasaan untuk:","options":[{"key":"A","text":"Menerima, menyimpan, membayar/mengeluarkan, dan mempertanggungjawabkan uang/barang"},{"key":"B","text":"Menyusun APBN"},{"key":"C","text":"Menerbitkan undang-undang"},{"key":"D","text":"Mengaudit laporan"}],"answer":"A","answerText":"Menerima, menyimpan, membayar/mengeluarkan, dan mempertanggungjawabkan uang/barang","explanation":"Fungsi kebendaharaan terkait penguasaan fisik dan pertanggungjawaban uang/barang."},{"id":"p9q13","number":13,"question":"Menteri Keuangan menjalankan fungsi:","options":[{"key":"A","text":"Chief Financial Officer (CFO)"},{"key":"B","text":"Chief Operating Officer semua K/L"},{"key":"C","text":"Auditor eksternal"},{"key":"D","text":"Kepala daerah"}],"answer":"A","answerText":"Chief Financial Officer (CFO)","explanation":"Sebagai CFO, Menteri Keuangan mengelola fiskal dan menjalankan fungsi BUN."},{"id":"p9q14","number":14,"question":"Menteri/Pimpinan Lembaga menjalankan fungsi:","options":[{"key":"A","text":"Chief Operating Officer (COO) sebagai Pengguna Anggaran"},{"key":"B","text":"CFO nasional"},{"key":"C","text":"BUN"},{"key":"D","text":"Auditor"}],"answer":"A","answerText":"Chief Operating Officer (COO) sebagai Pengguna Anggaran","explanation":"COO bertanggung jawab pada pelaksanaan program dan penggunaan anggaran K/L."},{"id":"p9q15","number":15,"question":"Tujuan pemisahan CFO dan COO adalah terutama untuk:","options":[{"key":"A","text":"Menciptakan check and balance"},{"key":"B","text":"Memusatkan semua kewenangan"},{"key":"C","text":"Mengurangi transparansi"},{"key":"D","text":"Menghapus pengujian"}],"answer":"A","answerText":"Menciptakan check and balance","explanation":"Pemisahan kewenangan mencegah konsentrasi kekuasaan dan memperkuat saling uji."},{"id":"p9q16","number":16,"question":"Menteri Keuangan selaku BUN antara lain berwenang:","options":[{"key":"A","text":"Menetapkan kebijakan/pedoman pelaksanaan anggaran dan sistem penerimaan-pengeluaran kas"},{"key":"B","text":"Menyusun APBD"},{"key":"C","text":"Menetapkan putusan pengadilan"},{"key":"D","text":"Menerbitkan opini BPK"}],"answer":"A","answerText":"Menetapkan kebijakan/pedoman pelaksanaan anggaran dan sistem penerimaan-pengeluaran kas","explanation":"Wewenang BUN mencakup kas, anggaran, rekening, utang/piutang, investasi, dan sistem akuntansi."},{"id":"p9q17","number":17,"question":"Kuasa BUN Pusat adalah:","options":[{"key":"A","text":"Direktur Jenderal Perbendaharaan"},{"key":"B","text":"Direktur Jenderal Anggaran"},{"key":"C","text":"Kepala BPK"},{"key":"D","text":"Gubernur BI"}],"answer":"A","answerText":"Direktur Jenderal Perbendaharaan","explanation":"Dirjen Perbendaharaan melaksanakan fungsi Kuasa BUN Pusat."},{"id":"p9q18","number":18,"question":"Kuasa BUN di Daerah adalah:","options":[{"key":"A","text":"Kepala KPPN"},{"key":"B","text":"Kepala Kanwil DJPb"},{"key":"C","text":"Kepala Satker"},{"key":"D","text":"Bupati"}],"answer":"A","answerText":"Kepala KPPN","explanation":"Kepala KPPN menjalankan fungsi Kuasa BUN dalam wilayah kerja yang ditetapkan."},{"id":"p9q19","number":19,"question":"Prinsip Anterioritas berarti:","options":[{"key":"A","text":"Anggaran harus mendapat persetujuan legislatif sebelum dilaksanakan"},{"key":"B","text":"Anggaran hanya berlaku setahun"},{"key":"C","text":"Semua penerimaan ke Kas Negara"},{"key":"D","text":"Anggaran satu dokumen"}],"answer":"A","answerText":"Anggaran harus mendapat persetujuan legislatif sebelum dilaksanakan","explanation":"Anterioritas atau prealable principle menuntut persetujuan terlebih dahulu."},{"id":"p9q20","number":20,"question":"Prinsip Annualitas berarti:","options":[{"key":"A","text":"Anggaran berlaku dalam periode tertentu"},{"key":"B","text":"Semua penerimaan ke Kas Negara"},{"key":"C","text":"Satu dokumen"},{"key":"D","text":"Anggaran spesifik"}],"answer":"A","answerText":"Anggaran berlaku dalam periode tertentu","explanation":"Anggaran dibatasi oleh periode awal dan akhir tahun anggaran."},{"id":"p9q21","number":21,"question":"Prinsip Unitas berarti:","options":[{"key":"A","text":"Anggaran dituangkan dalam satu dokumen dan berbentuk undang-undang"},{"key":"B","text":"Anggaran harus spesifik"},{"key":"C","text":"Semua penerimaan ke Kas Negara"},{"key":"D","text":"Semua belanja modal"}],"answer":"A","answerText":"Anggaran dituangkan dalam satu dokumen dan berbentuk undang-undang","explanation":"Unitas menekankan kesatuan dokumen anggaran."},{"id":"p9q22","number":22,"question":"Prinsip Spesialitas berarti:","options":[{"key":"A","text":"Alokasi digunakan untuk tujuan/kegiatan yang telah ditetapkan"},{"key":"B","text":"Semua penerimaan ke Kas Negara"},{"key":"C","text":"Anggaran satu tahun"},{"key":"D","text":"Semua belanja fleksibel"}],"answer":"A","answerText":"Alokasi digunakan untuk tujuan/kegiatan yang telah ditetapkan","explanation":"Spesialitas membatasi penggunaan anggaran sesuai peruntukannya."},{"id":"p9q23","number":23,"question":"Prinsip Universalitas berarti:","options":[{"key":"A","text":"Seluruh penerimaan disetor ke Kas Negara dan pengeluaran dibiayai melalui Kas Negara"},{"key":"B","text":"Anggaran hanya satu tahun"},{"key":"C","text":"Anggaran satu dokumen"},{"key":"D","text":"Alokasi spesifik"}],"answer":"A","answerText":"Seluruh penerimaan disetor ke Kas Negara dan pengeluaran dibiayai melalui Kas Negara","explanation":"Universalitas menekankan seluruh arus penerimaan dan pengeluaran melalui Kas Negara."},{"id":"p9q24","number":24,"question":"Tahun anggaran Indonesia saat ini berlangsung:","options":[{"key":"A","text":"1 Januari–31 Desember"},{"key":"B","text":"1 April–31 Maret"},{"key":"C","text":"1 Juli–30 Juni"},{"key":"D","text":"1 Oktober–30 September"}],"answer":"A","answerText":"1 Januari–31 Desember","explanation":"Sejak 2001 tahun anggaran kembali mengikuti tahun takwim."},{"id":"p9q25","number":25,"question":"LKPP yang disusun Menteri Keuangan disampaikan Presiden kepada BPK paling lambat:","options":[{"key":"A","text":"1 bulan"},{"key":"B","text":"2 bulan"},{"key":"C","text":"3 bulan setelah tahun anggaran berakhir"},{"key":"D","text":"6 bulan"}],"answer":"C","answerText":"3 bulan setelah tahun anggaran berakhir","explanation":"Batas ini menjadi bagian dari siklus pertanggungjawaban pelaksanaan APBN."},{"id":"p9q26","number":26,"question":"BPK melakukan pemeriksaan laporan keuangan pemerintah paling lambat:","options":[{"key":"A","text":"1 bulan"},{"key":"B","text":"2 bulan setelah menerima laporan"},{"key":"C","text":"3 bulan"},{"key":"D","text":"6 bulan"}],"answer":"B","answerText":"2 bulan setelah menerima laporan","explanation":"Modul menjelaskan batas pemeriksaan BPK paling lambat dua bulan sejak laporan diterima."},{"id":"p9q27","number":27,"question":"Laporan keuangan pemerintah yang telah diperiksa BPK disampaikan kepada DPR paling lambat:","options":[{"key":"A","text":"2 bulan"},{"key":"B","text":"3 bulan"},{"key":"C","text":"6 bulan setelah tahun anggaran berakhir"},{"key":"D","text":"12 bulan"}],"answer":"C","answerText":"6 bulan setelah tahun anggaran berakhir","explanation":"Batas ini berlaku pada penyampaian pertanggungjawaban kepada lembaga legislatif."},{"id":"p9q28","number":28,"question":"Pengenaan ganti kerugian negara terhadap Bendahara ditetapkan oleh:","options":[{"key":"A","text":"Menteri/Pimpinan Lembaga"},{"key":"B","text":"BPK"},{"key":"C","text":"KPPN"},{"key":"D","text":"Inspektorat"}],"answer":"B","answerText":"BPK","explanation":"BPK memiliki kewenangan menetapkan ganti kerugian terhadap Bendahara."},{"id":"p9q29","number":29,"question":"Pengenaan ganti kerugian terhadap pegawai negeri bukan Bendahara ditetapkan oleh:","options":[{"key":"A","text":"BPK selalu"},{"key":"B","text":"Menteri/Pimpinan Lembaga/Gubernur/Bupati/Walikota sesuai kewenangan"},{"key":"C","text":"KPPN"},{"key":"D","text":"Bank Indonesia"}],"answer":"B","answerText":"Menteri/Pimpinan Lembaga/Gubernur/Bupati/Walikota sesuai kewenangan","explanation":"Pihak yang menetapkan berbeda dari mekanisme terhadap Bendahara."},{"id":"p9q30","number":30,"question":"Setiap kerugian negara diberitahukan kepada BPK paling lambat:","options":[{"key":"A","text":"3 hari kalender"},{"key":"B","text":"5 HK"},{"key":"C","text":"7 HK setelah diketahui"},{"key":"D","text":"14 HK"}],"answer":"C","answerText":"7 HK setelah diketahui","explanation":"Atasan langsung atau kepala kantor wajib melaporkan kepada pimpinan dan memberitahukan BPK paling lambat 7 hari kerja."}]}]};
+// Generated by scripts/build_questions.py; edit the Markdown source.
+window.DJPB_QUESTION_BANK = {
+  "version": "case-analitis-4be2f51c00e6242a",
+  "source": "Bank_Soal_DJPb_Paket_1-9_CASE_ANALITIS.md",
+  "packages": [
+    {
+      "id": 1,
+      "title": "Campuran Clue Peserta",
+      "questions": [
+        {
+          "id": "p1q1",
+          "number": 1,
+          "question": "Kasus: Rapat evaluasi pelaksanaan APBN menemukan perbedaan interpretasi antara tim teknis dan pejabat pengambil keputusan. Fakta/isu yang harus diputuskan adalah: Manakah kegiatan Pemerintah Daerah yang dapat didanai dari alokasi dana penunjang DAK Fisik?. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Biaya tender dan desain perencanaan untuk kegiatan kontraktual"
+            },
+            {
+              "key": "B",
+              "text": "Pembayaran dividen BUMD (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            },
+            {
+              "key": "C",
+              "text": "Pembayaran cicilan pokok utang daerah"
+            },
+            {
+              "key": "D",
+              "text": "Penyertaan modal Pemerintah Daerah kepada BUMD (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Biaya tender dan desain perencanaan untuk kegiatan kontraktual",
+          "explanation": "Catatan peserta secara eksplisit mencantumkan biaya tender dan desain perencanaan kegiatan kontraktual sebagai kegiatan penunjang DAK Fisik. Kegiatan penunjang lain yang dicantumkan antara lain honor pejabat pengadaan/pengelola keuangan, jasa konsultan pengawas, perjalanan dinas terkait pengawasan, rapat koordinasi, dan pengadaan peralatan pendukung."
+        },
+        {
+          "id": "p1q2",
+          "number": 2,
+          "question": "Kasus: Pada Triwulan I, empat jenis belanja masing-masing memiliki pagu Rp100 juta. Realisasinya: Belanja Pegawai Rp21 juta, Belanja Barang Rp16 juta, Belanja Modal Rp8 juta, dan Belanja Bansos Rp26 juta. Jenis belanja yang belum mencapai target penyerapan Triwulan I adalah. KPA meminta second opinion karena beberapa opsi sama-sama terlihat dapat dilaksanakan secara administratif. Pimpinan meminta Anda memilih best answer, bukan sekadar opsi yang paling cepat dilakukan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Belanja Bansos"
+            },
+            {
+              "key": "B",
+              "text": "Belanja Pegawai"
+            },
+            {
+              "key": "C",
+              "text": "Belanja Barang"
+            },
+            {
+              "key": "D",
+              "text": "Belanja Modal"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Belanja Modal",
+          "explanation": "Target TW I menurut PER-5/PB/2024 adalah Pegawai 20%, Barang 15%, Modal 10%, dan Bansos 25%. Belanja Modal baru terealisasi 8%, sehingga belum mencapai target 10%."
+        },
+        {
+          "id": "p1q3",
+          "number": 3,
+          "question": "Kasus: Tim reviu menemukan bahwa keputusan yang cepat belum tentu merupakan keputusan yang sesuai ketentuan. Fakta/isu yang harus diputuskan adalah: Salah satu dokumen persyaratan administratif Satker untuk ditetapkan menerapkan PPK-BLU adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Surat penetapan sebagai BUMN"
+            },
+            {
+              "key": "B",
+              "text": "Persetujuan DPR"
+            },
+            {
+              "key": "C",
+              "text": "Laporan realisasi APBD"
+            },
+            {
+              "key": "D",
+              "text": "Pola Tata Kelola"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Pola Tata Kelola",
+          "explanation": "Persyaratan administratif BLU meliputi pernyataan kesanggupan meningkatkan kinerja, Pola Tata Kelola, RSB, laporan keuangan pokok, Standar Pelayanan Minimum, serta laporan audit terakhir atau pernyataan bersedia diaudit independen."
+        },
+        {
+          "id": "p1q4",
+          "number": 4,
+          "question": "Kasus: Rapat evaluasi pelaksanaan APBN menemukan perbedaan interpretasi antara tim teknis dan pejabat pengambil keputusan. Fakta/isu yang harus diputuskan adalah: Manakah kondisi yang dapat menjadi dasar pencabutan penerapan PPK-BLU?. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "BLU memperoleh surplus anggaran (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            },
+            {
+              "key": "B",
+              "text": "BLU tidak lagi memenuhi persyaratan substantif, teknis, dan/atau administratif"
+            },
+            {
+              "key": "C",
+              "text": "BLU meningkatkan jumlah layanan"
+            },
+            {
+              "key": "D",
+              "text": "BLU memiliki saldo kas pada akhir tahun (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "BLU tidak lagi memenuhi persyaratan substantif, teknis, dan/atau administratif",
+          "explanation": "Tidak lagi terpenuhinya persyaratan BLU merupakan salah satu dasar pencabutan. Dasar lain yang disebut dalam materi antara lain ketidakpatuhan terhadap ketentuan pengelolaan keuangan BLU dan hasil penilaian tata kelola/kinerja yang memenuhi kriteria buruk atau tidak mencapai ambang batas."
+        },
+        {
+          "id": "p1q5",
+          "number": 5,
+          "question": "Kasus: Satker akan menerima hibah untuk pertama kalinya atau hibah yang sifatnya tidak berulang. Langkah yang tepat sebelum melanjutkan proses penerimaan hibah adalah. KPA meminta second opinion karena beberapa opsi sama-sama terlihat dapat dilaksanakan secara administratif. Pimpinan meminta Anda memilih best answer, bukan sekadar opsi yang paling cepat dilakukan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Melakukan konsultasi mengenai rencana penerimaan hibah sesuai kewenangan"
+            },
+            {
+              "key": "B",
+              "text": "Langsung menggunakan dana hibah"
+            },
+            {
+              "key": "C",
+              "text": "Membuka rekening pribadi untuk menampung dana (serta dilanjutkan dengan koordinasi kepada pihak terkait tanpa mengubah tahapan utama proses)"
+            },
+            {
+              "key": "D",
+              "text": "Menunggu pemeriksaan BPK (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Melakukan konsultasi mengenai rencana penerimaan hibah sesuai kewenangan",
+          "explanation": "Clue peserta menekankan konsultasi sebelum menerima hibah pertama kali atau hibah tidak berulang. Dalam tata kelola hibah, konsultasi dilakukan sebelum proses penerimaan/penandatanganan dilanjutkan sesuai jenis dan sumber hibah."
+        },
+        {
+          "id": "p1q6",
+          "number": 6,
+          "question": "Kasus: Tim reviu menemukan bahwa keputusan yang cepat belum tentu merupakan keputusan yang sesuai ketentuan. Fakta/isu yang harus diputuskan adalah: Urutan umum penatausahaan hibah langsung dalam bentuk uang yang perlu diingat adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Rekening → Register → Pengesahan → Revisi (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)"
+            },
+            {
+              "key": "B",
+              "text": "Revisi → Register → Rekening → Pengesahan (serta dilanjutkan dengan koordinasi kepada pihak terkait tanpa mengubah tahapan utama proses)"
+            },
+            {
+              "key": "C",
+              "text": "Register → Revisi → Pengesahan → Rekening"
+            },
+            {
+              "key": "D",
+              "text": "Register → Rekening → Revisi → Pengesahan"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Register → Rekening → Revisi → Pengesahan",
+          "explanation": "Mnemonik yang dicatat peserta adalah Register – Rekening – Revisi – Pengesahan. Setelah register, Satker mengelola rekening hibah sesuai persetujuan Kuasa BUN, menyesuaikan pagu belanja melalui revisi DIPA, kemudian melakukan pengesahan transaksi hibah."
+        },
+        {
+          "id": "p1q7",
+          "number": 7,
+          "question": "Kasus: Rapat evaluasi pelaksanaan APBN menemukan perbedaan interpretasi antara tim teknis dan pejabat pengambil keputusan. Fakta/isu yang harus diputuskan adalah: Untuk memperbaiki kinerja Deviasi Halaman III DIPA, tindakan Satker yang paling tepat adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Memutakhirkan RPD Halaman III DIPA berdasarkan rencana realisasi bulanan yang realistis"
+            },
+            {
+              "key": "B",
+              "text": "Menetapkan RPD bulanan sama besar sepanjang tahun tanpa melihat rencana kegiatan (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)"
+            },
+            {
+              "key": "C",
+              "text": "Menghapus seluruh RPD yang belum terealisasi (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)"
+            },
+            {
+              "key": "D",
+              "text": "Menunda seluruh pembayaran sampai akhir tahun"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Memutakhirkan RPD Halaman III DIPA berdasarkan rencana realisasi bulanan yang realistis",
+          "explanation": "Indikator Deviasi Halaman III DIPA mengukur kesesuaian realisasi dengan RPD bulanan per jenis belanja. Karena itu, perbaikan utamanya adalah meningkatkan akurasi perencanaan dan melakukan pemutakhiran RPD pada periode yang ditentukan. Catatan peserta tentang tidak menyatukan revisi Halaman III dengan revisi lain tidak dinyatakan sebagai ketentuan formal dalam modul, sehingga tidak dijadikan kunci soal."
+        },
+        {
+          "id": "p1q8",
+          "number": 8,
+          "question": "Kasus: Data RPD pada Halaman III DIPA yang digunakan sebagai dasar penghitungan deviasi dikunci berdasarkan. KPA meminta second opinion karena beberapa opsi sama-sama terlihat dapat dilaksanakan secara administratif. Pimpinan meminta Anda memilih best answer, bukan sekadar opsi yang paling cepat dilakukan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tanggal penyusunan laporan keuangan semesteran (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)"
+            },
+            {
+              "key": "B",
+              "text": "Tanggal pengajuan SPM pertama setiap bulan"
+            },
+            {
+              "key": "C",
+              "text": "Tanggal posting DIPA hasil revisi pada sistem setiap awal triwulan"
+            },
+            {
+              "key": "D",
+              "text": "Tanggal akhir kontrak (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Tanggal posting DIPA hasil revisi pada sistem setiap awal triwulan",
+          "explanation": "PER-5/PB/2024 yang dirangkum dalam modul menetapkan penguncian data RPD Halaman III DIPA dan proporsi pagu berdasarkan tanggal posting DIPA hasil revisi pada sistem setiap awal triwulan."
+        },
+        {
+          "id": "p1q9",
+          "number": 9,
+          "question": "Kasus: Dalam Semester I, suatu Satker telah melakukan 2 kali revisi DIPA pagu tetap yang diperhitungkan dalam IKPA. Pada bulan Juni Satker melakukan revisi yang menambah pagu. Dengan asumsi tidak ada revisi lain yang diperhitungkan, bagaimana pengaruhnya terhadap indikator Revisi DIPA?. Tim reviu menemukan bahwa keputusan yang cepat belum tentu merupakan keputusan yang sesuai ketentuan. Pimpinan meminta Anda memilih best answer, bukan sekadar opsi yang paling cepat dilakukan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Nilai otomatis menjadi 0 karena ada penambahan pagu (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)"
+            },
+            {
+              "key": "B",
+              "text": "Frekuensi menjadi 3 karena semua revisi dihitung"
+            },
+            {
+              "key": "C",
+              "text": "Frekuensi yang diperhitungkan tetap 2 karena indikator menghitung jenis revisi pagu tetap tertentu"
+            },
+            {
+              "key": "D",
+              "text": "Seluruh revisi Semester I dihapus dari perhitungan"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Frekuensi yang diperhitungkan tetap 2 karena indikator menghitung jenis revisi pagu tetap tertentu",
+          "explanation": "Indikator Revisi DIPA menghitung jenis revisi pagu tetap tertentu yang disahkan Kementerian Keuangan. Dengan 2 revisi yang diperhitungkan dalam satu semester, nilai kinerja revisi adalah 100; revisi penambahan pagu tidak otomatis menambah frekuensi tersebut."
+        },
+        {
+          "id": "p1q10",
+          "number": 10,
+          "question": "Kasus: Rapat evaluasi pelaksanaan APBN menemukan perbedaan interpretasi antara tim teknis dan pejabat pengambil keputusan. Fakta/isu yang harus diputuskan adalah: Unit yang melakukan konsolidasi Spending Review tingkat Kanwil dan Spending Review tingkat Pengguna Anggaran adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Direktorat Pelaksanaan Anggaran"
+            },
+            {
+              "key": "B",
+              "text": "Direktorat Sistem Informasi dan Teknologi Perbendaharaan"
+            },
+            {
+              "key": "C",
+              "text": "Direktorat Sistem Manajemen Investasi"
+            },
+            {
+              "key": "D",
+              "text": "Direktorat Pengelolaan Kas Negara"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Direktorat Pelaksanaan Anggaran",
+          "explanation": "Sesuai clue peserta dan materi Spending Review, konsolidasi hasil Spending Review Kanwil dan tingkat PA dilakukan pada Direktorat Pelaksanaan Anggaran."
+        },
+        {
+          "id": "p1q11",
+          "number": 11,
+          "question": "Kasus: KPA meminta second opinion karena beberapa opsi sama-sama terlihat dapat dilaksanakan secara administratif. Fakta/isu yang harus diputuskan adalah: Pejabat yang menguji SPP beserta dokumen pendukung dan menerbitkan SPM apabila persyaratan terpenuhi adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Bendahara Pengeluaran"
+            },
+            {
+              "key": "B",
+              "text": "Pejabat Penandatangan SPM"
+            },
+            {
+              "key": "C",
+              "text": "Pejabat Pembuat Komitmen (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)"
+            },
+            {
+              "key": "D",
+              "text": "Penyedia barang/jasa (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Pejabat Penandatangan SPM",
+          "explanation": "PPSPM melakukan pengujian atas SPP dan dokumen pendukung, menolak/mengembalikan SPP yang tidak memenuhi persyaratan, membebankan tagihan pada mata anggaran yang tersedia, serta menerbitkan SPM."
+        },
+        {
+          "id": "p1q12",
+          "number": 12,
+          "question": "Kasus: Tim reviu menemukan bahwa keputusan yang cepat belum tentu merupakan keputusan yang sesuai ketentuan. Fakta/isu yang harus diputuskan adalah: Urutan awal pembukaan rekening Bendahara/Satker yang benar adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "KPA mengajukan permohonan → KPPN/Kuasa BUN memverifikasi → persetujuan diterbitkan → rekening dibuka → pembukaan dilaporkan"
+            },
+            {
+              "key": "B",
+              "text": "Satker membuka rekening di bank → meminta persetujuan KPPN"
+            },
+            {
+              "key": "C",
+              "text": "Bank membuka rekening → KPA mengajukan pengesahan kepada BPK"
+            },
+            {
+              "key": "D",
+              "text": "Bendahara membuka rekening pribadi → kemudian dilaporkan kepada KPPN (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)"
+            }
+          ],
+          "answer": "A",
+          "answerText": "KPA mengajukan permohonan → KPPN/Kuasa BUN memverifikasi → persetujuan diterbitkan → rekening dibuka → pembukaan dilaporkan",
+          "explanation": "Pembukaan rekening pemerintah harus didahului persetujuan Kuasa BUN di Daerah. Setelah persetujuan diperoleh, Satker membuka rekening pada bank dan kemudian melaporkan pembukaannya kepada Kuasa BUN/KPPN."
+        },
+        {
+          "id": "p1q13",
+          "number": 13,
+          "question": "Kasus: Rapat evaluasi pelaksanaan APBN menemukan perbedaan interpretasi antara tim teknis dan pejabat pengambil keputusan. Fakta/isu yang harus diputuskan adalah: Pasangan fungsi Komite Investasi Pemerintah (KIP) dan Operator Investasi Pemerintah (OIP) yang tepat adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "KIP supervisi — OIP operasional"
+            },
+            {
+              "key": "B",
+              "text": "KIP audit eksternal — OIP legislasi"
+            },
+            {
+              "key": "C",
+              "text": "KIP pembayaran — OIP penganggaran K/L"
+            },
+            {
+              "key": "D",
+              "text": "KIP operasional — OIP regulasi"
+            }
+          ],
+          "answer": "A",
+          "answerText": "KIP supervisi — OIP operasional",
+          "explanation": "KIP dibentuk untuk melaksanakan fungsi supervisi pengelolaan investasi pemerintah. OIP adalah BLU, BUMN, dan/atau BHL yang ditetapkan Menteri Keuangan selaku BUN untuk melaksanakan kewenangan operasional investasi pemerintah."
+        },
+        {
+          "id": "p1q14",
+          "number": 14,
+          "question": "Kasus: KPA meminta second opinion karena beberapa opsi sama-sama terlihat dapat dilaksanakan secara administratif. Fakta/isu yang harus diputuskan adalah: Wetmatigheid dalam pengujian pengeluaran negara berkaitan dengan. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Besarnya saldo kas Satker (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            },
+            {
+              "key": "B",
+              "text": "Tingkat popularitas program"
+            },
+            {
+              "key": "C",
+              "text": "Keuntungan komersial penyedia (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            },
+            {
+              "key": "D",
+              "text": "Kesesuaian pengeluaran dengan peraturan perundang-undangan"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Kesesuaian pengeluaran dengan peraturan perundang-undangan",
+          "explanation": "Wetmatigheid menguji aspek legalitas/ketaatan terhadap ketentuan. Pengujian PPSPM juga mencakup rechtmatigheid dan doelmatigheid."
+        },
+        {
+          "id": "p1q15",
+          "number": 15,
+          "question": "Kasus: Tim reviu menemukan bahwa keputusan yang cepat belum tentu merupakan keputusan yang sesuai ketentuan. Fakta/isu yang harus diputuskan adalah: Pasangan pengertian yang tepat dalam pengujian pengeluaran negara adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Rechtmatigheid = kebenaran hak/tagihan; Doelmatigheid = tujuan atau kemanfaatan pengeluaran"
+            },
+            {
+              "key": "B",
+              "text": "Rechtmatigheid = ketersediaan kas; Doelmatigheid = penyusunan DIPA (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "C",
+              "text": "Rechtmatigheid = tujuan/manfaat; Doelmatigheid = legalitas"
+            },
+            {
+              "key": "D",
+              "text": "Rechtmatigheid = audit eksternal; Doelmatigheid = pengadaan"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Rechtmatigheid = kebenaran hak/tagihan; Doelmatigheid = tujuan atau kemanfaatan pengeluaran",
+          "explanation": "Secara ringkas: wetmatigheid = sesuai aturan, rechtmatigheid = benar hak/nominal/penerimanya, dan doelmatigheid = sesuai tujuan/manfaat pengeluaran."
+        },
+        {
+          "id": "p1q16",
+          "number": 16,
+          "question": "Kasus: Rapat evaluasi pelaksanaan APBN menemukan perbedaan interpretasi antara tim teknis dan pejabat pengambil keputusan. Fakta/isu yang harus diputuskan adalah: LKPP pada dasarnya merupakan laporan keuangan Pemerintah Pusat yang disusun melalui konsolidasi. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Laporan BUMN saja (karena pihak tersebut dipandang paling dekat dengan pelaksanaan operasional transaksi)"
+            },
+            {
+              "key": "B",
+              "text": "Laporan perbankan nasional"
+            },
+            {
+              "key": "C",
+              "text": "Laporan Kementerian/Lembaga dan laporan Bendahara Umum Negara"
+            },
+            {
+              "key": "D",
+              "text": "Seluruh APBD provinsi dan kabupaten/kota (dengan asumsi pihak tersebut memegang fungsi pengujian sekaligus tindak lanjut pada tahap itu)"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Laporan Kementerian/Lembaga dan laporan Bendahara Umum Negara",
+          "explanation": "Menteri Keuangan menggabungkan laporan keuangan Kementerian/Lembaga dan laporan dalam lingkup BUN untuk menyusun LKPP sesuai SAP dan kebijakan akuntansi pemerintah pusat."
+        },
+        {
+          "id": "p1q17",
+          "number": 17,
+          "question": "Kasus: KPA meminta second opinion karena beberapa opsi sama-sama terlihat dapat dilaksanakan secara administratif. Fakta/isu yang harus diputuskan adalah: Pernyataan yang paling tepat mengenai perbedaan DAU dan DBH adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "DAU hanya untuk provinsi, sedangkan DBH hanya untuk desa"
+            },
+            {
+              "key": "B",
+              "text": "DAU dan DBH sama-sama hanya untuk kegiatan fisik (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "C",
+              "text": "DAU berasal dari PAD, sedangkan DBH berasal dari pinjaman daerah (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "D",
+              "text": "DAU berbasis pemerataan/celah fiskal, sedangkan DBH berbasis penerimaan tertentu yang dibagihasilkan"
+            }
+          ],
+          "answer": "D",
+          "answerText": "DAU berbasis pemerataan/celah fiskal, sedangkan DBH berbasis penerimaan tertentu yang dibagihasilkan",
+          "explanation": "DAU ditujukan untuk pemerataan kemampuan keuangan antardaerah, sedangkan DBH merupakan bagian pendapatan APBN tertentu yang dialokasikan kepada daerah berdasarkan ketentuan pembagian hasil."
+        },
+        {
+          "id": "p1q18",
+          "number": 18,
+          "question": "Kasus: Kabupaten A memiliki PAD dan kapasitas fiskal lebih tinggi daripada Kabupaten B. Kabupaten A memprotes karena memperoleh DAU lebih kecil. Penjelasan yang paling tepat adalah. Tim reviu menemukan bahwa keputusan yang cepat belum tentu merupakan keputusan yang sesuai ketentuan. Pimpinan meminta Anda memilih best answer, bukan sekadar opsi yang paling cepat dilakukan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "DAU ditentukan oleh besarnya DBH tahun sebelumnya"
+            },
+            {
+              "key": "B",
+              "text": "DAU mempertimbangkan celah fiskal sehingga daerah dengan kebutuhan lebih tinggi dan kapasitas lebih rendah dapat memperoleh alokasi lebih besar"
+            },
+            {
+              "key": "C",
+              "text": "DAU harus selalu sama untuk semua kabupaten dalam satu provinsi (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)"
+            },
+            {
+              "key": "D",
+              "text": "DAU hanya ditentukan oleh jumlah penduduk (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "DAU mempertimbangkan celah fiskal sehingga daerah dengan kebutuhan lebih tinggi dan kapasitas lebih rendah dapat memperoleh alokasi lebih besar",
+          "explanation": "Logika pemerataan DAU adalah menutup ketimpangan kemampuan keuangan. Karena itu, daerah dengan kapasitas fiskal lebih kuat tidak otomatis menerima DAU lebih besar."
+        },
+        {
+          "id": "p1q19",
+          "number": 19,
+          "question": "Kasus: Suatu tagihan diajukan kepada PPSPM, tetapi BAST yang dipersyaratkan sebagai dokumen pendukung belum tersedia. Tindakan PPSPM yang tepat adalah. Rapat evaluasi pelaksanaan APBN menemukan perbedaan interpretasi antara tim teknis dan pejabat pengambil keputusan. Pimpinan meminta Anda memilih best answer, bukan sekadar opsi yang paling cepat dilakukan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Mengganti BAST dengan memo informal (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)"
+            },
+            {
+              "key": "B",
+              "text": "Menolak/mengembalikan SPP sampai persyaratan pembayaran dilengkapi"
+            },
+            {
+              "key": "C",
+              "text": "Tetap menerbitkan SPM agar pembayaran tidak terlambat (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)"
+            },
+            {
+              "key": "D",
+              "text": "Membayar dahulu melalui UP tanpa pengujian"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Menolak/mengembalikan SPP sampai persyaratan pembayaran dilengkapi",
+          "explanation": "PPSPM wajib menguji SPP dan dokumen pendukung. Jika dokumen yang dipersyaratkan belum lengkap, PPSPM tidak menerbitkan SPM dan mengembalikan SPP untuk dilengkapi."
+        },
+        {
+          "id": "p1q20",
+          "number": 20,
+          "question": "Kasus: KPA meminta second opinion karena beberapa opsi sama-sama terlihat dapat dilaksanakan secara administratif. Fakta/isu yang harus diputuskan adalah: Pasangan ketentuan MP PNBP yang tepat adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tahap I semua Satker 100%; Tahap III 20%"
+            },
+            {
+              "key": "B",
+              "text": "Tahap I Klaster 1 80%; Tahap III tidak menggunakan MP Riil"
+            },
+            {
+              "key": "C",
+              "text": "Tahap I Klaster 1 maksimal 60%; Tahap III sebesar MP Riil"
+            },
+            {
+              "key": "D",
+              "text": "Tahap I Klaster 1 20%; Tahap III selalu 60%"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Tahap I Klaster 1 maksimal 60%; Tahap III sebesar MP Riil",
+          "explanation": "Klaster 1 memperoleh MP PNBP Tahap I maksimal 60% jika MP Riil tiga tahun terakhir minimal 60% dan belanja Semester I TAYL minimal 30%. Formula Tahap III adalah sebesar MP Riil."
+        },
+        {
+          "id": "p1q21",
+          "number": 21,
+          "question": "Kasus: Tim reviu menemukan bahwa keputusan yang cepat belum tentu merupakan keputusan yang sesuai ketentuan. Fakta/isu yang harus diputuskan adalah: Dalam terminologi sistem perbendaharaan, “void” berarti. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Pemindahbukuan rekening Satker (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "B",
+              "text": "Rekonsiliasi bank (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "C",
+              "text": "Penambahan pagu anggaran"
+            },
+            {
+              "key": "D",
+              "text": "Pembatalan transaksi/pencatatan"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Pembatalan transaksi/pencatatan",
+          "explanation": "Modul Sistem dan Teknologi Perbendaharaan mendefinisikan Void sebagai proses pembatalan transaksi/pencatatan. Clue peserta menyebut “SP2D yang bisa di-void”, tetapi modul yang tersedia tidak cukup untuk membuat generalisasi jenis SP2D tertentu; karena itu soal ini dibatasi pada definisi yang terverifikasi."
+        },
+        {
+          "id": "p1q22",
+          "number": 22,
+          "question": "Kasus: Rapat evaluasi pelaksanaan APBN menemukan perbedaan interpretasi antara tim teknis dan pejabat pengambil keputusan. Fakta/isu yang harus diputuskan adalah: Pernyataan yang tepat mengenai SRG dan S-SRG adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "SRG hanya untuk deposito pemerintah (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "B",
+              "text": "SRG adalah sistem gaji dan S-SRG adalah sistem pajak (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "C",
+              "text": "SRG merupakan sistem Resi Gudang; S-SRG merupakan pembiayaan dengan agunan Resi Gudang yang memperoleh subsidi bunga/margin pemerintah"
+            },
+            {
+              "key": "D",
+              "text": "S-SRG tidak berkaitan dengan pembiayaan"
+            }
+          ],
+          "answer": "C",
+          "answerText": "SRG merupakan sistem Resi Gudang; S-SRG merupakan pembiayaan dengan agunan Resi Gudang yang memperoleh subsidi bunga/margin pemerintah",
+          "explanation": "Resi Gudang merupakan bukti kepemilikan barang yang disimpan di gudang dan dapat digunakan dalam skema pembiayaan. S-SRG merupakan skema subsidi untuk pembiayaan dengan agunan Resi Gudang."
+        },
+        {
+          "id": "p1q23",
+          "number": 23,
+          "question": "Kasus: Satker akan mengajukan revolving UP, tetapi sebagian bukti transaksi belum lengkap. Tindakan yang paling tepat adalah. KPA meminta second opinion karena beberapa opsi sama-sama terlihat dapat dilaksanakan secara administratif. Pimpinan meminta Anda memilih best answer, bukan sekadar opsi yang paling cepat dilakukan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Memasukkan seluruh transaksi termasuk yang belum lengkap"
+            },
+            {
+              "key": "B",
+              "text": "Menunda seluruh pertanggungjawaban sampai akhir tahun (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)"
+            },
+            {
+              "key": "C",
+              "text": "Menghapus transaksi yang belum lengkap tanpa pertanggungjawaban (serta dilanjutkan dengan koordinasi kepada pihak terkait tanpa mengubah tahapan utama proses)"
+            },
+            {
+              "key": "D",
+              "text": "Mengajukan GUP untuk transaksi yang bukti pertanggungjawabannya sudah lengkap, sedangkan transaksi lain diajukan setelah dokumennya lengkap"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Mengajukan GUP untuk transaksi yang bukti pertanggungjawabannya sudah lengkap, sedangkan transaksi lain diajukan setelah dokumennya lengkap",
+          "explanation": "GUP harus didukung bukti pengeluaran yang sah/terverifikasi. UP bersifat revolving dan dapat diganti setelah digunakan sesuai ketentuan, tetapi transaksi yang dipertanggungjawabkan harus memiliki dokumen yang lengkap."
+        },
+        {
+          "id": "p1q24",
+          "number": 24,
+          "question": "Kasus: Tim reviu menemukan bahwa keputusan yang cepat belum tentu merupakan keputusan yang sesuai ketentuan. Fakta/isu yang harus diputuskan adalah: Berdasarkan urutan proses Satker baru dalam catatan peserta, setelah Satker dan DIPA terbentuk, langkah berikutnya adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Menetapkan pejabat perbendaharaan"
+            },
+            {
+              "key": "B",
+              "text": "Melakukan penghapusan supplier"
+            },
+            {
+              "key": "C",
+              "text": "Mengajukan laporan keuangan tahunan"
+            },
+            {
+              "key": "D",
+              "text": "Menerbitkan SP2D"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Menetapkan pejabat perbendaharaan",
+          "explanation": "Urutan awal yang dicatat adalah pembentukan Satker/DIPA → penetapan KPA, PPK, PPSPM, dan Bendahara → registrasi user SAKTI dan role → aktivasi TTE → penyampaian SK pejabat → pembukaan rekening bila diperlukan → supplier → POK/RPD → pelaksanaan kegiatan hingga pembayaran."
+        },
+        {
+          "id": "p1q25",
+          "number": 25,
+          "question": "Kasus: Dalam skema Rekening Pengeluaran berbasis rekening virtual, rekening Satker baru seharusnya. Rapat evaluasi pelaksanaan APBN menemukan perbedaan interpretasi antara tim teknis dan pejabat pengambil keputusan. Pimpinan meminta Anda memilih best answer, bukan sekadar opsi yang paling cepat dilakukan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Menggunakan rekening pribadi Bendahara"
+            },
+            {
+              "key": "B",
+              "text": "Selalu menggunakan rekening deposito (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)"
+            },
+            {
+              "key": "C",
+              "text": "Menggunakan Rekening Pengeluaran Satker/VA yang terkonsolidasi dengan Rekening Induk Unit Eselon I sesuai prosedur"
+            },
+            {
+              "key": "D",
+              "text": "Dibuka sendiri tanpa hubungan dengan Unit Eselon I (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Menggunakan Rekening Pengeluaran Satker/VA yang terkonsolidasi dengan Rekening Induk Unit Eselon I sesuai prosedur",
+          "explanation": "Dalam pengelolaan rekening virtual, pimpinan Unit Eselon I berperan pada Rekening Induk dan koordinasi pembukaan rekening Satker, sedangkan KPA mengoperasikan rekening Satker. Rekening lama yang tidak lagi digunakan ditutup sesuai prosedur pengelolaan rekening pemerintah."
+        },
+        {
+          "id": "p1q26",
+          "number": 26,
+          "question": "Kasus: KPA meminta second opinion karena beberapa opsi sama-sama terlihat dapat dilaksanakan secara administratif. Fakta/isu yang harus diputuskan adalah: Ketentuan agunan dalam Pembiayaan UMi yang tepat adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Semua UMi dilarang menggunakan bentuk pengamanan risiko apa pun"
+            },
+            {
+              "key": "B",
+              "text": "Individual lending dapat dikenakan agunan sesuai penilaian risiko, sedangkan group lending tidak boleh dikenakan agunan tambahan"
+            },
+            {
+              "key": "C",
+              "text": "Semua UMi wajib menggunakan sertifikat tanah (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "D",
+              "text": "Individual lending tidak boleh memakai agunan; group lending wajib memakai agunan tambahan (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Individual lending dapat dikenakan agunan sesuai penilaian risiko, sedangkan group lending tidak boleh dikenakan agunan tambahan",
+          "explanation": "Pada individual lending, agunan dapat dikenakan berdasarkan penilaian risiko Penyalur/Lembaga Linkage. Pada group lending, debitur membentuk kelompok dan menerapkan tanggung renteng sehingga tidak boleh dikenakan agunan tambahan."
+        },
+        {
+          "id": "p1q27",
+          "number": 27,
+          "question": "Kasus: Tim reviu menemukan bahwa keputusan yang cepat belum tentu merupakan keputusan yang sesuai ketentuan. Fakta/isu yang harus diputuskan adalah: Selain tidak lagi memenuhi persyaratan BLU, kondisi lain yang dapat menjadi dasar pencabutan penerapan PPK-BLU adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "BLU meningkatkan kualitas pelayanan"
+            },
+            {
+              "key": "B",
+              "text": "BLU tidak mengikuti ketentuan peraturan perundang-undangan di bidang pengelolaan keuangan BLU"
+            },
+            {
+              "key": "C",
+              "text": "BLU mematuhi seluruh ketentuan pengelolaan keuangan (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "D",
+              "text": "BLU memiliki pendapatan PNBP (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "BLU tidak mengikuti ketentuan peraturan perundang-undangan di bidang pengelolaan keuangan BLU",
+          "explanation": "Materi pencabutan BLU menyebut ketidakpatuhan terhadap ketentuan pengelolaan keuangan BLU sebagai salah satu dasar pencabutan, selain tidak memenuhi persyaratan dan hasil penilaian tata kelola/kinerja yang buruk."
+        },
+        {
+          "id": "p1q28",
+          "number": 28,
+          "question": "Kasus: Dalam akuntansi pemerintah, bagian piutang jangka panjang yang akan jatuh tempo dalam 12 bulan setelah tanggal pelaporan harus. Rapat evaluasi pelaksanaan APBN menemukan perbedaan interpretasi antara tim teknis dan pejabat pengambil keputusan. Pimpinan meminta Anda memilih best answer, bukan sekadar opsi yang paling cepat dilakukan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Dipindahkan menjadi ekuitas tanpa jurnal (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)"
+            },
+            {
+              "key": "B",
+              "text": "Dihapuskan seluruhnya (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)"
+            },
+            {
+              "key": "C",
+              "text": "Dicatat sebagai belanja modal"
+            },
+            {
+              "key": "D",
+              "text": "Direklasifikasi menjadi Bagian Lancar Piutang Jangka Panjang"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Direklasifikasi menjadi Bagian Lancar Piutang Jangka Panjang",
+          "explanation": "Modul Akuntansi menegaskan bahwa porsi piutang jangka panjang yang jatuh tempo dalam 12 bulan ke depan direklasifikasi menjadi Bagian Lancar Piutang Jangka Panjang. Clue peserta juga menyebut “uang muka pendapatan”, tetapi istilah tersebut tidak dijelaskan secara spesifik pada modul yang tersedia, sehingga soal difokuskan pada bagian piutang yang terverifikasi."
+        },
+        {
+          "id": "p1q29",
+          "number": 29,
+          "question": "Kasus: KPA meminta second opinion karena beberapa opsi sama-sama terlihat dapat dilaksanakan secara administratif. Fakta/isu yang harus diputuskan adalah: Pernyataan yang tepat mengenai DAU, DAK Fisik, dan DBH adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Ketiganya bersumber dari PAD (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "B",
+              "text": "Ketiganya selalu merupakan block grant tanpa tujuan khusus (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "C",
+              "text": "DAU untuk pemerataan kemampuan keuangan; DAK Fisik mendukung kegiatan fisik/prioritas tertentu; DBH berasal dari penerimaan tertentu yang dibagihasilkan"
+            },
+            {
+              "key": "D",
+              "text": "DAK Fisik hanya digunakan untuk belanja pegawai"
+            }
+          ],
+          "answer": "C",
+          "answerText": "DAU untuk pemerataan kemampuan keuangan; DAK Fisik mendukung kegiatan fisik/prioritas tertentu; DBH berasal dari penerimaan tertentu yang dibagihasilkan",
+          "explanation": "Ketiga instrumen TKD memiliki karakter berbeda: DAU berorientasi pemerataan, DAK Fisik mendanai kebutuhan fisik tertentu yang selaras prioritas, sedangkan DBH membagikan penerimaan negara tertentu kepada daerah sesuai ketentuan."
+        },
+        {
+          "id": "p1q30",
+          "number": 30,
+          "question": "Kasus: Tim reviu menemukan bahwa keputusan yang cepat belum tentu merupakan keputusan yang sesuai ketentuan. Fakta/isu yang harus diputuskan adalah: Formula MP PNBP Tahap III adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Selalu 60% dari pagu"
+            },
+            {
+              "key": "B",
+              "text": "Selalu 40% dari pagu"
+            },
+            {
+              "key": "C",
+              "text": "Sebesar MP Riil"
+            },
+            {
+              "key": "D",
+              "text": "Selalu 20% dari pagu"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Sebesar MP Riil",
+          "explanation": "Modul Pelaksanaan Anggaran secara eksplisit menyebut Penetapan MP PNBP Tahap III diberikan sebesar MP Riil. Ini merupakan formula yang perlu dicermati sebagaimana clue peserta."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Deviasi, MP PNBP, Retur, Rekonsiliasi, Kerugian Negara",
+      "questions": [
+        {
+          "id": "p2q1",
+          "number": 1,
+          "question": "Kasus: KPPN dan Satker sedang menyelesaikan transaksi yang berpotensi memengaruhi kualitas pelaksanaan anggaran dan rekonsiliasi. Fakta/isu yang harus diputuskan adalah: Indikator Deviasi Halaman III DIPA mengukur. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Kesesuaian realisasi dengan RPD bulanan"
+            },
+            {
+              "key": "B",
+              "text": "Kecepatan penyelesaian tagihan (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            },
+            {
+              "key": "C",
+              "text": "Capaian output saja (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            },
+            {
+              "key": "D",
+              "text": "Frekuensi revisi DIPA"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Kesesuaian realisasi dengan RPD bulanan",
+          "explanation": "Indikator ini menilai seberapa dekat realisasi dengan rencana penarikan dana bulanan pada Halaman III DIPA."
+        },
+        {
+          "id": "p2q2",
+          "number": 2,
+          "question": "Kasus: Pada akhir periode, tim harus menentukan tindak lanjut tanpa menimbulkan kesalahan data maupun keterlambatan proses berikutnya. Fakta/isu yang harus diputuskan adalah: Jika rata-rata deviasi Halaman III DIPA sebesar 4,5%, nilai indikator adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tidak dapat dihitung"
+            },
+            {
+              "key": "B",
+              "text": "95 (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)"
+            },
+            {
+              "key": "C",
+              "text": "95,5"
+            },
+            {
+              "key": "D",
+              "text": "100"
+            }
+          ],
+          "answer": "D",
+          "answerText": "100",
+          "explanation": "Deviasi sampai dengan 5% masih memperoleh nilai maksimal."
+        },
+        {
+          "id": "p2q3",
+          "number": 3,
+          "question": "Kasus: Dalam forum evaluasi, terdapat dua kepentingan: percepatan penyelesaian dan kepatuhan terhadap mekanisme perbendaharaan. Fakta/isu yang harus diputuskan adalah: Data RPD yang digunakan dalam perhitungan deviasi dikunci berdasarkan. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tanggal SP2D terakhir (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)"
+            },
+            {
+              "key": "B",
+              "text": "Tanggal SPM (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)"
+            },
+            {
+              "key": "C",
+              "text": "Tanggal posting DIPA hasil revisi pada sistem setiap awal triwulan"
+            },
+            {
+              "key": "D",
+              "text": "Tanggal kontrak"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Tanggal posting DIPA hasil revisi pada sistem setiap awal triwulan",
+          "explanation": "Posting DIPA hasil revisi menjadi cut-off data RPD untuk perhitungan indikator."
+        },
+        {
+          "id": "p2q4",
+          "number": 4,
+          "question": "Kasus: KPPN dan Satker sedang menyelesaikan transaksi yang berpotensi memengaruhi kualitas pelaksanaan anggaran dan rekonsiliasi. Fakta/isu yang harus diputuskan adalah: Pemutakhiran Halaman III DIPA untuk Triwulan III paling lambat dilakukan pada. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Akhir Juli"
+            },
+            {
+              "key": "B",
+              "text": "10 HK awal Juni"
+            },
+            {
+              "key": "C",
+              "text": "10 HK awal April"
+            },
+            {
+              "key": "D",
+              "text": "10 HK awal Juli"
+            }
+          ],
+          "answer": "D",
+          "answerText": "10 HK awal Juli",
+          "explanation": "Jadwal pemutakhiran dilakukan pada awal triwulan sesuai ketentuan indikator."
+        },
+        {
+          "id": "p2q5",
+          "number": 5,
+          "question": "Kasus: Pada akhir periode, tim harus menentukan tindak lanjut tanpa menimbulkan kesalahan data maupun keterlambatan proses berikutnya. Fakta/isu yang harus diputuskan adalah: MP PNBP reguler Tahap III dapat diberikan maksimal. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "60% (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)"
+            },
+            {
+              "key": "B",
+              "text": "70% (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)"
+            },
+            {
+              "key": "C",
+              "text": "80%"
+            },
+            {
+              "key": "D",
+              "text": "100%"
+            }
+          ],
+          "answer": "D",
+          "answerText": "100%",
+          "explanation": "Tahap I maksimal 60%, Tahap II 80%, dan Tahap III 100%."
+        },
+        {
+          "id": "p2q6",
+          "number": 6,
+          "question": "Kasus: Dalam forum evaluasi, terdapat dua kepentingan: percepatan penyelesaian dan kepatuhan terhadap mekanisme perbendaharaan. Fakta/isu yang harus diputuskan adalah: MP PNBP reguler Tahap III paling cepat diajukan pada. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "September"
+            },
+            {
+              "key": "B",
+              "text": "Juli"
+            },
+            {
+              "key": "C",
+              "text": "Agustus"
+            },
+            {
+              "key": "D",
+              "text": "Oktober"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Oktober",
+          "explanation": "Tahap III reguler menggunakan data realisasi sampai September dan diajukan paling cepat Oktober."
+        },
+        {
+          "id": "p2q7",
+          "number": 7,
+          "question": "Kasus: KPPN dan Satker sedang menyelesaikan transaksi yang berpotensi memengaruhi kualitas pelaksanaan anggaran dan rekonsiliasi. Fakta/isu yang harus diputuskan adalah: Formula MP PNBP Tahap III adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Sebesar MP Riil"
+            },
+            {
+              "key": "B",
+              "text": "80% pagu"
+            },
+            {
+              "key": "C",
+              "text": "60% pagu (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)"
+            },
+            {
+              "key": "D",
+              "text": "Sebesar realisasi belanja semester I"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Sebesar MP Riil",
+          "explanation": "Tahap III diberikan berdasarkan MP Riil sesuai formula pada modul."
+        },
+        {
+          "id": "p2q8",
+          "number": 8,
+          "question": "Kasus: Pada akhir periode, tim harus menentukan tindak lanjut tanpa menimbulkan kesalahan data maupun keterlambatan proses berikutnya. Fakta/isu yang harus diputuskan adalah: Percepatan MP PNBP Tahap III mensyaratkan realisasi setoran PNBP paling sedikit. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "40% (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)"
+            },
+            {
+              "key": "B",
+              "text": "60% (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)"
+            },
+            {
+              "key": "C",
+              "text": "70%"
+            },
+            {
+              "key": "D",
+              "text": "80%"
+            }
+          ],
+          "answer": "D",
+          "answerText": "80%",
+          "explanation": "Threshold percepatan Tahap III adalah realisasi setoran minimal 80%."
+        },
+        {
+          "id": "p2q9",
+          "number": 9,
+          "question": "Kasus: Dalam forum evaluasi, terdapat dua kepentingan: percepatan penyelesaian dan kepatuhan terhadap mekanisme perbendaharaan. Fakta/isu yang harus diputuskan adalah: Retur SP2D terjadi ketika. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "DIPA belum direvisi (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            },
+            {
+              "key": "B",
+              "text": "Satker terlambat membuat RPD (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            },
+            {
+              "key": "C",
+              "text": "Dana SP2D gagal disalurkan kepada penerima"
+            },
+            {
+              "key": "D",
+              "text": "Kontrak belum didaftarkan"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Dana SP2D gagal disalurkan kepada penerima",
+          "explanation": "Retur umumnya timbul karena masalah data rekening atau penyebab lain yang membuat pembayaran gagal diterima."
+        },
+        {
+          "id": "p2q10",
+          "number": 10,
+          "question": "Kasus: KPPN dan Satker sedang menyelesaikan transaksi yang berpotensi memengaruhi kualitas pelaksanaan anggaran dan rekonsiliasi. Fakta/isu yang harus diputuskan adalah: Dana retur SP2D dibukukan oleh Bank Operasional ke. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Rekening Retur pada RPKBUNP"
+            },
+            {
+              "key": "B",
+              "text": "RKUN langsung (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            },
+            {
+              "key": "C",
+              "text": "Rekening Bendahara (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            },
+            {
+              "key": "D",
+              "text": "Rekening supplier"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Rekening Retur pada RPKBUNP",
+          "explanation": "Dana yang gagal disalurkan ditampung pada rekening retur sesuai mekanisme."
+        },
+        {
+          "id": "p2q11",
+          "number": 11,
+          "question": "Kasus: Pada akhir periode, tim harus menentukan tindak lanjut tanpa menimbulkan kesalahan data maupun keterlambatan proses berikutnya. Fakta/isu yang harus diputuskan adalah: Surat pemberitahuan retur kepada Satker antara lain meminta. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Pemutakhiran data supplier"
+            },
+            {
+              "key": "B",
+              "text": "Perubahan RPD"
+            },
+            {
+              "key": "C",
+              "text": "Revisi DIPA (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            },
+            {
+              "key": "D",
+              "text": "Penambahan pagu (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Pemutakhiran data supplier",
+          "explanation": "Perbaikan supplier diperlukan jika retur disebabkan data penerima/rekening."
+        },
+        {
+          "id": "p2q12",
+          "number": 12,
+          "question": "Kasus: Dalam forum evaluasi, terdapat dua kepentingan: percepatan penyelesaian dan kepatuhan terhadap mekanisme perbendaharaan. Fakta/isu yang harus diputuskan adalah: Pemberitahuan retur kepada Satker disampaikan paling lama. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "2 HK (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            },
+            {
+              "key": "B",
+              "text": "1 HK (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            },
+            {
+              "key": "C",
+              "text": "5 HK"
+            },
+            {
+              "key": "D",
+              "text": "3 HK berikutnya"
+            }
+          ],
+          "answer": "D",
+          "answerText": "3 HK berikutnya",
+          "explanation": "Batas waktu pemberitahuan retur adalah paling lama 3 hari kerja berikutnya."
+        },
+        {
+          "id": "p2q13",
+          "number": 13,
+          "question": "Kasus: KPPN dan Satker sedang menyelesaikan transaksi yang berpotensi memengaruhi kualitas pelaksanaan anggaran dan rekonsiliasi. Fakta/isu yang harus diputuskan adalah: Setelah data supplier diperbaiki, SPP Retur dan SPM Retur diterbitkan oleh. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Satker biasa"
+            },
+            {
+              "key": "B",
+              "text": "Bank Operasional"
+            },
+            {
+              "key": "C",
+              "text": "KPPN selaku Satker BUN"
+            },
+            {
+              "key": "D",
+              "text": "Direktorat PKN langsung"
+            }
+          ],
+          "answer": "C",
+          "answerText": "KPPN selaku Satker BUN",
+          "explanation": "KPPN bertindak sebagai Satker BUN dalam proses pembayaran kembali dana retur."
+        },
+        {
+          "id": "p2q14",
+          "number": 14,
+          "question": "Kasus: Pada akhir periode, tim harus menentukan tindak lanjut tanpa menimbulkan kesalahan data maupun keterlambatan proses berikutnya. Fakta/isu yang harus diputuskan adalah: Urutan akhir penyelesaian retur yang tepat adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "PPR–SPPT–SPP (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)"
+            },
+            {
+              "key": "B",
+              "text": "SPPT–PPR–SP2D Retur"
+            },
+            {
+              "key": "C",
+              "text": "SPPT–DIPA–SP2D (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)"
+            },
+            {
+              "key": "D",
+              "text": "SP2D–SPP–SPPT"
+            }
+          ],
+          "answer": "B",
+          "answerText": "SPPT–PPR–SP2D Retur",
+          "explanation": "Setelah pengujian, proses berlanjut melalui SPPT, PPR, lalu SP2D Retur."
+        },
+        {
+          "id": "p2q15",
+          "number": 15,
+          "question": "Kasus: Dalam forum evaluasi, terdapat dua kepentingan: percepatan penyelesaian dan kepatuhan terhadap mekanisme perbendaharaan. Fakta/isu yang harus diputuskan adalah: Penyelesaian retur SP2D-Pembayaran dilakukan paling lama. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hari kerja terakhir minggu ketiga bulan berikutnya"
+            },
+            {
+              "key": "B",
+              "text": "Akhir tahun (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            },
+            {
+              "key": "C",
+              "text": "Akhir bulan retur"
+            },
+            {
+              "key": "D",
+              "text": "Minggu pertama bulan berikutnya (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Hari kerja terakhir minggu ketiga bulan berikutnya",
+          "explanation": "Modul menetapkan batas penyelesaian sampai minggu ketiga bulan berikutnya."
+        },
+        {
+          "id": "p2q16",
+          "number": 16,
+          "question": "Kasus: KPPN dan Satker sedang menyelesaikan transaksi yang berpotensi memengaruhi kualitas pelaksanaan anggaran dan rekonsiliasi. Fakta/isu yang harus diputuskan adalah: Rekonsiliasi eksternal SAKTI–SPAN membandingkan. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "RPD dan IKPA"
+            },
+            {
+              "key": "B",
+              "text": "Anggaran, realisasi, kas, hibah"
+            },
+            {
+              "key": "C",
+              "text": "SPM saja (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            },
+            {
+              "key": "D",
+              "text": "Pegawai, aset, kontrak (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Anggaran, realisasi, kas, hibah",
+          "explanation": "Empat kelompok data ini menjadi basis rekonsiliasi eksternal."
+        },
+        {
+          "id": "p2q17",
+          "number": 17,
+          "question": "Kasus: Pada akhir periode, tim harus menentukan tindak lanjut tanpa menimbulkan kesalahan data maupun keterlambatan proses berikutnya. Fakta/isu yang harus diputuskan adalah: TDK terdiri atas. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "TDK Rupiah, TDK CoA, TDK Detail"
+            },
+            {
+              "key": "B",
+              "text": "TDK Anggaran, Kas, Hibah"
+            },
+            {
+              "key": "C",
+              "text": "TDK SPM, SP2D, DIPA (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            },
+            {
+              "key": "D",
+              "text": "TDK Internal dan Eksternal (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            }
+          ],
+          "answer": "A",
+          "answerText": "TDK Rupiah, TDK CoA, TDK Detail",
+          "explanation": "Jenis TDK dibedakan berdasarkan tingkat ketidaksesuaian data."
+        },
+        {
+          "id": "p2q18",
+          "number": 18,
+          "question": "Kasus: Dalam forum evaluasi, terdapat dua kepentingan: percepatan penyelesaian dan kepatuhan terhadap mekanisme perbendaharaan. Fakta/isu yang harus diputuskan adalah: Dokumen hasil rekonsiliasi eksternal adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "BAR"
+            },
+            {
+              "key": "B",
+              "text": "LRA"
+            },
+            {
+              "key": "C",
+              "text": "SP2D"
+            },
+            {
+              "key": "D",
+              "text": "SHR"
+            }
+          ],
+          "answer": "D",
+          "answerText": "SHR",
+          "explanation": "SHR atau Surat Hasil Rekonsiliasi menandakan proses rekonsiliasi selesai."
+        },
+        {
+          "id": "p2q19",
+          "number": 19,
+          "question": "Kasus: KPPN dan Satker sedang menyelesaikan transaksi yang berpotensi memengaruhi kualitas pelaksanaan anggaran dan rekonsiliasi. Fakta/isu yang harus diputuskan adalah: Tujuan rekonsiliasi internal adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Menghitung IKPA"
+            },
+            {
+              "key": "B",
+              "text": "Menghitung DBH (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "C",
+              "text": "Membandingkan SAKTI dengan bank (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "D",
+              "text": "Memastikan GLP sesuai dengan subledger"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Memastikan GLP sesuai dengan subledger",
+          "explanation": "Rekonsiliasi internal menjaga konsistensi saldo antara buku besar dan modul/subledger."
+        },
+        {
+          "id": "p2q20",
+          "number": 20,
+          "question": "Kasus: Pada akhir periode, tim harus menentukan tindak lanjut tanpa menimbulkan kesalahan data maupun keterlambatan proses berikutnya. Fakta/isu yang harus diputuskan adalah: Piutang pemerintah adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Belanja belum direalisasikan (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "B",
+              "text": "Semua utang pemerintah (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "C",
+              "text": "Semua kas belum disetor"
+            },
+            {
+              "key": "D",
+              "text": "Hak pemerintah yang dapat dinilai dengan uang dan akan diterima"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Hak pemerintah yang dapat dinilai dengan uang dan akan diterima",
+          "explanation": "Piutang mencerminkan hak pemerintah yang dapat diukur dalam satuan uang."
+        },
+        {
+          "id": "p2q21",
+          "number": 21,
+          "question": "Kasus: Dalam forum evaluasi, terdapat dua kepentingan: percepatan penyelesaian dan kepatuhan terhadap mekanisme perbendaharaan. Fakta/isu yang harus diputuskan adalah: Piutang jangka panjang yang jatuh tempo dalam 12 bulan direklasifikasi menjadi. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Persediaan"
+            },
+            {
+              "key": "B",
+              "text": "Bagian Lancar Piutang Jangka Panjang"
+            },
+            {
+              "key": "C",
+              "text": "Piutang Macet (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)"
+            },
+            {
+              "key": "D",
+              "text": "Pendapatan (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Bagian Lancar Piutang Jangka Panjang",
+          "explanation": "Reklasifikasi diperlukan agar penyajian Neraca mencerminkan bagian yang segera jatuh tempo."
+        },
+        {
+          "id": "p2q22",
+          "number": 22,
+          "question": "Kasus: KPPN dan Satker sedang menyelesaikan transaksi yang berpotensi memengaruhi kualitas pelaksanaan anggaran dan rekonsiliasi. Fakta/isu yang harus diputuskan adalah: Penyisihan piutang tidak tertagih dipengaruhi oleh. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Kualitas piutang dan faktor terkait penagihan/jaminan"
+            },
+            {
+              "key": "B",
+              "text": "Jumlah output"
+            },
+            {
+              "key": "C",
+              "text": "Pagu DIPA (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            },
+            {
+              "key": "D",
+              "text": "Jumlah pegawai (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Kualitas piutang dan faktor terkait penagihan/jaminan",
+          "explanation": "Kualitas piutang, tarif penyisihan, agunan/jaminan, dan status penagihan menjadi faktor utama."
+        },
+        {
+          "id": "p2q23",
+          "number": 23,
+          "question": "Kasus: Pada akhir periode, tim harus menentukan tindak lanjut tanpa menimbulkan kesalahan data maupun keterlambatan proses berikutnya. Fakta/isu yang harus diputuskan adalah: Pada penyediaan UP/TUP pertama kali muncul. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Belanja dan Utang (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            },
+            {
+              "key": "B",
+              "text": "Kas di Bendahara Pengeluaran dan Uang Muka dari KPPN"
+            },
+            {
+              "key": "C",
+              "text": "Piutang dan Pendapatan (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            },
+            {
+              "key": "D",
+              "text": "Aset Tetap dan Ekuitas"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Kas di Bendahara Pengeluaran dan Uang Muka dari KPPN",
+          "explanation": "UP/TUP merupakan uang muka kerja yang dikuasai Bendahara."
+        },
+        {
+          "id": "p2q24",
+          "number": 24,
+          "question": "Kasus: Dalam forum evaluasi, terdapat dua kepentingan: percepatan penyelesaian dan kepatuhan terhadap mekanisme perbendaharaan. Fakta/isu yang harus diputuskan adalah: Ganti kerugian negara terhadap Bendahara ditetapkan oleh. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Inspektorat"
+            },
+            {
+              "key": "B",
+              "text": "KPA (dengan asumsi pihak tersebut memegang fungsi pengujian sekaligus tindak lanjut pada tahap itu)"
+            },
+            {
+              "key": "C",
+              "text": "BPK"
+            },
+            {
+              "key": "D",
+              "text": "Menteri Keuangan"
+            }
+          ],
+          "answer": "C",
+          "answerText": "BPK",
+          "explanation": "BPK berwenang menetapkan tuntutan ganti kerugian terhadap Bendahara."
+        },
+        {
+          "id": "p2q25",
+          "number": 25,
+          "question": "Kasus: KPPN dan Satker sedang menyelesaikan transaksi yang berpotensi memengaruhi kualitas pelaksanaan anggaran dan rekonsiliasi. Fakta/isu yang harus diputuskan adalah: Ganti kerugian terhadap pegawai negeri bukan Bendahara ditetapkan oleh. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Bank Indonesia (karena pihak tersebut dipandang paling dekat dengan pelaksanaan operasional transaksi)"
+            },
+            {
+              "key": "B",
+              "text": "Menteri/Pimpinan Lembaga atau kepala daerah sesuai kewenangan"
+            },
+            {
+              "key": "C",
+              "text": "KPPN"
+            },
+            {
+              "key": "D",
+              "text": "BPK (dengan pertimbangan bahwa kewenangan keputusan berada pada unit tersebut sebelum proses dilanjutkan)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Menteri/Pimpinan Lembaga atau kepala daerah sesuai kewenangan",
+          "explanation": "Mekanismenya berbeda dengan Bendahara."
+        },
+        {
+          "id": "p2q26",
+          "number": 26,
+          "question": "Kasus: Pada akhir periode, tim harus menentukan tindak lanjut tanpa menimbulkan kesalahan data maupun keterlambatan proses berikutnya. Fakta/isu yang harus diputuskan adalah: Kerugian negara diberitahukan kepada BPK paling lambat. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "14 HK"
+            },
+            {
+              "key": "B",
+              "text": "5 HK (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)"
+            },
+            {
+              "key": "C",
+              "text": "7 HK"
+            },
+            {
+              "key": "D",
+              "text": "3 hari kalender"
+            }
+          ],
+          "answer": "C",
+          "answerText": "7 HK",
+          "explanation": "Batas pemberitahuan adalah 7 hari kerja setelah kerugian diketahui."
+        },
+        {
+          "id": "p2q27",
+          "number": 27,
+          "question": "Kasus: Dalam forum evaluasi, terdapat dua kepentingan: percepatan penyelesaian dan kepatuhan terhadap mekanisme perbendaharaan. Fakta/isu yang harus diputuskan adalah: Langkah awal pembukaan rekening Satker adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Mengajukan permohonan persetujuan kepada Kuasa BUN di Daerah"
+            },
+            {
+              "key": "B",
+              "text": "Bank meminta izin Menteri (serta dilanjutkan dengan koordinasi kepada pihak terkait tanpa mengubah tahapan utama proses)"
+            },
+            {
+              "key": "C",
+              "text": "Langsung ke bank (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)"
+            },
+            {
+              "key": "D",
+              "text": "KPPN membuka otomatis"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Mengajukan permohonan persetujuan kepada Kuasa BUN di Daerah",
+          "explanation": "Persetujuan Kuasa BUN wajib diperoleh sebelum rekening pemerintah dibuka."
+        },
+        {
+          "id": "p2q28",
+          "number": 28,
+          "question": "Kasus: KPPN dan Satker sedang menyelesaikan transaksi yang berpotensi memengaruhi kualitas pelaksanaan anggaran dan rekonsiliasi. Fakta/isu yang harus diputuskan adalah: Kuasa BUN di Daerah memberi persetujuan/penolakan pembukaan rekening paling lambat. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "2 HK"
+            },
+            {
+              "key": "B",
+              "text": "3 HK"
+            },
+            {
+              "key": "C",
+              "text": "5 HK"
+            },
+            {
+              "key": "D",
+              "text": "10 HK"
+            }
+          ],
+          "answer": "C",
+          "answerText": "5 HK",
+          "explanation": "Ini bagian dari pola hafalan pembukaan rekening: 5–15–20."
+        },
+        {
+          "id": "p2q29",
+          "number": 29,
+          "question": "Kasus: Pada akhir periode, tim harus menentukan tindak lanjut tanpa menimbulkan kesalahan data maupun keterlambatan proses berikutnya. Fakta/isu yang harus diputuskan adalah: Pengamanan SPAN mencakup. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Password saja (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "B",
+              "text": "Kontrol akses, enkripsi, pemantauan aktivitas, serta dukungan DC/DRC"
+            },
+            {
+              "key": "C",
+              "text": "Tanda tangan basah saja (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "D",
+              "text": "Antivirus saja"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Kontrol akses, enkripsi, pemantauan aktivitas, serta dukungan DC/DRC",
+          "explanation": "Pengamanan sistem mencakup aspek akses, data, monitoring, dan kontinuitas layanan."
+        },
+        {
+          "id": "p2q30",
+          "number": 30,
+          "question": "Kasus: Dalam forum evaluasi, terdapat dua kepentingan: percepatan penyelesaian dan kepatuhan terhadap mekanisme perbendaharaan. Fakta/isu yang harus diputuskan adalah: Void berarti. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Pemindahan rekening (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "B",
+              "text": "Pengembalian dana"
+            },
+            {
+              "key": "C",
+              "text": "Penghapusan DIPA (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "D",
+              "text": "Pembatalan transaksi/pencatatan"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Pembatalan transaksi/pencatatan",
+          "explanation": "Istilah Void pada modul didefinisikan sebagai proses pembatalan transaksi atau pencatatan."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "DAU, DBH, DAK Fisik, Dana Desa, MP PNBP",
+      "questions": [
+        {
+          "id": "p3q1",
+          "number": 1,
+          "question": "Kasus: Kanwil DJPb melakukan monev TKD dan menemukan beberapa interpretasi berbeda mengenai syarat, formula, dan pola penyaluran. Fakta/isu yang harus diputuskan adalah: Tujuan utama DAU adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Memberi insentif kepada PAD tertinggi (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "B",
+              "text": "Mengurangi ketimpangan kemampuan keuangan dan kualitas layanan publik antar daerah"
+            },
+            {
+              "key": "C",
+              "text": "Membiayai seluruh proyek fisik"
+            },
+            {
+              "key": "D",
+              "text": "Membagi penerimaan pajak pusat (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Mengurangi ketimpangan kemampuan keuangan dan kualitas layanan publik antar daerah",
+          "explanation": "DAU merupakan instrumen pemerataan fiskal antar daerah."
+        },
+        {
+          "id": "p3q2",
+          "number": 2,
+          "question": "Kasus: Pemda meminta kepastian karena keputusan yang salah dapat menunda penyaluran atau memengaruhi kualitas layanan publik. Fakta/isu yang harus diputuskan adalah: Formula dasar celah fiskal DAU adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Potensi Pendapatan − Kebutuhan Fiskal (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "B",
+              "text": "Kebutuhan Fiskal − Potensi Pendapatan Daerah"
+            },
+            {
+              "key": "C",
+              "text": "PAD + DBH (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "D",
+              "text": "Belanja − PAD"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Kebutuhan Fiskal − Potensi Pendapatan Daerah",
+          "explanation": "Celah fiskal menggambarkan gap antara kebutuhan fiskal dan kemampuan pendapatan daerah."
+        },
+        {
+          "id": "p3q3",
+          "number": 3,
+          "question": "Kasus: KPPN mitra Pemda harus memastikan kesimpulan didasarkan pada parameter penyaluran, bukan sekadar capaian nominal. Fakta/isu yang harus diputuskan adalah: Kebutuhan fiskal Rp1,5 triliun dan potensi pendapatan Rp1,1 triliun menghasilkan celah fiskal. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Rp600 miliar"
+            },
+            {
+              "key": "B",
+              "text": "Rp400 miliar"
+            },
+            {
+              "key": "C",
+              "text": "Rp200 miliar (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)"
+            },
+            {
+              "key": "D",
+              "text": "Rp300 miliar (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Rp400 miliar",
+          "explanation": "Rp1,5 triliun dikurangi Rp1,1 triliun sama dengan Rp400 miliar."
+        },
+        {
+          "id": "p3q4",
+          "number": 4,
+          "question": "Kasus: Kanwil DJPb melakukan monev TKD dan menemukan beberapa interpretasi berbeda mengenai syarat, formula, dan pola penyaluran. Fakta/isu yang harus diputuskan adalah: Pernyataan yang tepat tentang block grant dan specific grant adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Block grant penggunaannya ditentukan pusat (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "B",
+              "text": "Keduanya sama (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "C",
+              "text": "Block grant lebih fleksibel, specific grant ditentukan penggunaannya"
+            },
+            {
+              "key": "D",
+              "text": "Specific grant bebas"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Block grant lebih fleksibel, specific grant ditentukan penggunaannya",
+          "explanation": "DAU yang tidak ditentukan penggunaannya bersifat block grant, sedangkan yang ditentukan penggunaannya bersifat specific grant."
+        },
+        {
+          "id": "p3q5",
+          "number": 5,
+          "question": "Kasus: Pemda meminta kepastian karena keputusan yang salah dapat menunda penyaluran atau memengaruhi kualitas layanan publik. Fakta/isu yang harus diputuskan adalah: Besaran DAU bidang Pendidikan Tahap II adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "25% (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)"
+            },
+            {
+              "key": "B",
+              "text": "30% (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)"
+            },
+            {
+              "key": "C",
+              "text": "45%"
+            },
+            {
+              "key": "D",
+              "text": "40%"
+            }
+          ],
+          "answer": "C",
+          "answerText": "45%",
+          "explanation": "Tahapan DAU Pendidikan adalah 30%–45%–25%."
+        },
+        {
+          "id": "p3q6",
+          "number": 6,
+          "question": "Kasus: KPPN mitra Pemda harus memastikan kesimpulan didasarkan pada parameter penyaluran, bukan sekadar capaian nominal. Fakta/isu yang harus diputuskan adalah: Daerah dengan PAD rendah dan kebutuhan fiskal tinggi dapat menerima DAU lebih besar karena. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "DAU berbasis DBH"
+            },
+            {
+              "key": "B",
+              "text": "DAU dibagi sama rata"
+            },
+            {
+              "key": "C",
+              "text": "DAU berbasis celah fiskal"
+            },
+            {
+              "key": "D",
+              "text": "DAU berbasis luas wilayah saja"
+            }
+          ],
+          "answer": "C",
+          "answerText": "DAU berbasis celah fiskal",
+          "explanation": "Mekanisme ini mendukung pemerataan kemampuan keuangan daerah."
+        },
+        {
+          "id": "p3q7",
+          "number": 7,
+          "question": "Kasus: Kanwil DJPb melakukan monev TKD dan menemukan beberapa interpretasi berbeda mengenai syarat, formula, dan pola penyaluran. Fakta/isu yang harus diputuskan adalah: Perbedaan utama DAU dan DBH adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "DAU berbasis penerimaan tertentu (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "B",
+              "text": "Keduanya sama (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "C",
+              "text": "DAU untuk pemerataan, DBH berdasarkan penerimaan tertentu yang dibagihasilkan"
+            },
+            {
+              "key": "D",
+              "text": "DBH berbasis celah fiskal"
+            }
+          ],
+          "answer": "C",
+          "answerText": "DAU untuk pemerataan, DBH berdasarkan penerimaan tertentu yang dibagihasilkan",
+          "explanation": "DAU dan DBH memiliki tujuan dan basis penghitungan yang berbeda."
+        },
+        {
+          "id": "p3q8",
+          "number": 8,
+          "question": "Kasus: Pemda meminta kepastian karena keputusan yang salah dapat menunda penyaluran atau memengaruhi kualitas layanan publik. Fakta/isu yang harus diputuskan adalah: Kelompok utama DBH adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "DBH Provinsi dan Kabupaten"
+            },
+            {
+              "key": "B",
+              "text": "DBH Reguler dan Afirmasi"
+            },
+            {
+              "key": "C",
+              "text": "DBH Fisik dan Nonfisik"
+            },
+            {
+              "key": "D",
+              "text": "DBH Pajak dan DBH SDA"
+            }
+          ],
+          "answer": "D",
+          "answerText": "DBH Pajak dan DBH SDA",
+          "explanation": "DBH dikelompokkan antara lain menjadi DBH Pajak dan DBH Sumber Daya Alam."
+        },
+        {
+          "id": "p3q9",
+          "number": 9,
+          "question": "Kasus: KPPN mitra Pemda harus memastikan kesimpulan didasarkan pada parameter penyaluran, bukan sekadar capaian nominal. Fakta/isu yang harus diputuskan adalah: Penyaluran DBH SDA pada bulan Januari sebesar. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "20%"
+            },
+            {
+              "key": "B",
+              "text": "5% (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)"
+            },
+            {
+              "key": "C",
+              "text": "15% (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)"
+            },
+            {
+              "key": "D",
+              "text": "10%"
+            }
+          ],
+          "answer": "D",
+          "answerText": "10%",
+          "explanation": "Pola yang digunakan adalah 10%–15%–15%–20%–20%–selisih."
+        },
+        {
+          "id": "p3q10",
+          "number": 10,
+          "question": "Kasus: Kanwil DJPb melakukan monev TKD dan menemukan beberapa interpretasi berbeda mengenai syarat, formula, dan pola penyaluran. Fakta/isu yang harus diputuskan adalah: Jika pagu DBH SDA Rp500 miliar, penyaluran bulan Juli sebesar. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Rp100 miliar"
+            },
+            {
+              "key": "B",
+              "text": "Rp50 miliar (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)"
+            },
+            {
+              "key": "C",
+              "text": "Rp125 miliar (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)"
+            },
+            {
+              "key": "D",
+              "text": "Rp75 miliar"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Rp100 miliar",
+          "explanation": "Juli sebesar 20% dari pagu, yaitu Rp100 miliar."
+        },
+        {
+          "id": "p3q11",
+          "number": 11,
+          "question": "Kasus: Pemda meminta kepastian karena keputusan yang salah dapat menunda penyaluran atau memengaruhi kualitas layanan publik. Fakta/isu yang harus diputuskan adalah: DBH Sawit disalurkan. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "30%–70% (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            },
+            {
+              "key": "B",
+              "text": "60%–40%"
+            },
+            {
+              "key": "C",
+              "text": "40%–60% (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            },
+            {
+              "key": "D",
+              "text": "50%–50%"
+            }
+          ],
+          "answer": "D",
+          "answerText": "50%–50%",
+          "explanation": "DBH Sawit dibagi dua tahap dengan proporsi sama."
+        },
+        {
+          "id": "p3q12",
+          "number": 12,
+          "question": "Kasus: KPPN mitra Pemda harus memastikan kesimpulan didasarkan pada parameter penyaluran, bukan sekadar capaian nominal. Fakta/isu yang harus diputuskan adalah: Untuk jenis DBH tertentu dengan alokasi kurang dari Rp100 juta, pola penyalurannya adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Sekaligus Desember (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)"
+            },
+            {
+              "key": "B",
+              "text": "Empat tahap"
+            },
+            {
+              "key": "C",
+              "text": "Sekaligus pada Februari tanpa syarat salur"
+            },
+            {
+              "key": "D",
+              "text": "Dua tahap (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Sekaligus pada Februari tanpa syarat salur",
+          "explanation": "Modul memberi perlakuan khusus untuk alokasi DBH tertentu yang kecil."
+        },
+        {
+          "id": "p3q13",
+          "number": 13,
+          "question": "Kasus: Kanwil DJPb melakukan monev TKD dan menemukan beberapa interpretasi berbeda mengenai syarat, formula, dan pola penyaluran. Fakta/isu yang harus diputuskan adalah: DAK Fisik terutama digunakan untuk. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Penyertaan modal BUMD"
+            },
+            {
+              "key": "B",
+              "text": "Sarana/prasarana layanan publik dan prioritas nasional"
+            },
+            {
+              "key": "C",
+              "text": "Gaji ASN daerah (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)"
+            },
+            {
+              "key": "D",
+              "text": "Seluruh belanja rutin (serta dilanjutkan dengan koordinasi kepada pihak terkait tanpa mengubah tahapan utama proses)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Sarana/prasarana layanan publik dan prioritas nasional",
+          "explanation": "DAK Fisik diarahkan pada pembangunan/pengadaan sarana prasarana tertentu."
+        },
+        {
+          "id": "p3q14",
+          "number": 14,
+          "question": "Kasus: Pemda meminta kepastian karena keputusan yang salah dapat menunda penyaluran atau memengaruhi kualitas layanan publik. Fakta/isu yang harus diputuskan adalah: Contoh kegiatan penunjang DAK Fisik yang diperbolehkan adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Jasa konsultan pengawas kegiatan kontraktual"
+            },
+            {
+              "key": "B",
+              "text": "Penyertaan modal (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "C",
+              "text": "Pembayaran dividen BUMD (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "D",
+              "text": "Cicilan utang daerah"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Jasa konsultan pengawas kegiatan kontraktual",
+          "explanation": "Kegiatan penunjang harus terkait langsung dengan pelaksanaan DAK Fisik."
+        },
+        {
+          "id": "p3q15",
+          "number": 15,
+          "question": "Kasus: KPPN mitra Pemda harus memastikan kesimpulan didasarkan pada parameter penyaluran, bukan sekadar capaian nominal. Fakta/isu yang harus diputuskan adalah: Dokumen persyaratan penyaluran DAK Fisik disampaikan Pemda melalui. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "SPAN langsung"
+            },
+            {
+              "key": "B",
+              "text": "OM-SPAN TKD"
+            },
+            {
+              "key": "C",
+              "text": "SIMPONI"
+            },
+            {
+              "key": "D",
+              "text": "SAKTI"
+            }
+          ],
+          "answer": "B",
+          "answerText": "OM-SPAN TKD",
+          "explanation": "OM-SPAN TKD menjadi sarana pengelolaan dokumen penyaluran TKD."
+        },
+        {
+          "id": "p3q16",
+          "number": 16,
+          "question": "Kasus: Kanwil DJPb melakukan monev TKD dan menemukan beberapa interpretasi berbeda mengenai syarat, formula, dan pola penyaluran. Fakta/isu yang harus diputuskan adalah: DAK Fisik disalurkan melalui pemindahbukuan. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "KPPN ke penyedia langsung"
+            },
+            {
+              "key": "B",
+              "text": "RKUN ke RKUD"
+            },
+            {
+              "key": "C",
+              "text": "BI ke Bendahara"
+            },
+            {
+              "key": "D",
+              "text": "RKUD ke RKUN"
+            }
+          ],
+          "answer": "B",
+          "answerText": "RKUN ke RKUD",
+          "explanation": "Penyaluran TKD dilakukan dari kas negara ke kas daerah."
+        },
+        {
+          "id": "p3q17",
+          "number": 17,
+          "question": "Kasus: Pemda meminta kepastian karena keputusan yang salah dapat menunda penyaluran atau memengaruhi kualitas layanan publik. Fakta/isu yang harus diputuskan adalah: Syarat penyerapan untuk DAK Fisik Tahap II paling rendah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "70%"
+            },
+            {
+              "key": "B",
+              "text": "75%"
+            },
+            {
+              "key": "C",
+              "text": "50% (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)"
+            },
+            {
+              "key": "D",
+              "text": "60% (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "75%",
+          "explanation": "Tahap II mensyaratkan realisasi penyerapan tertentu atas dana yang sudah diterima."
+        },
+        {
+          "id": "p3q18",
+          "number": 18,
+          "question": "Kasus: KPPN mitra Pemda harus memastikan kesimpulan didasarkan pada parameter penyaluran, bukan sekadar capaian nominal. Fakta/isu yang harus diputuskan adalah: Syarat Tahap III DAK Fisik adalah penyerapan minimal dan output minimal. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "70% dan 50%"
+            },
+            {
+              "key": "B",
+              "text": "75% dan 60%"
+            },
+            {
+              "key": "C",
+              "text": "100% dan 100%"
+            },
+            {
+              "key": "D",
+              "text": "90% dan 70%"
+            }
+          ],
+          "answer": "D",
+          "answerText": "90% dan 70%",
+          "explanation": "Tahap III mensyaratkan penyerapan sekurang-kurangnya 90% dan capaian keluaran minimal 70%."
+        },
+        {
+          "id": "p3q19",
+          "number": 19,
+          "question": "Kasus: Kanwil DJPb melakukan monev TKD dan menemukan beberapa interpretasi berbeda mengenai syarat, formula, dan pola penyaluran. Fakta/isu yang harus diputuskan adalah: Jika dokumen syarat salur DAK Fisik melewati batas waktu. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "KPPN wajib membayar 50%"
+            },
+            {
+              "key": "B",
+              "text": "Penyaluran otomatis dilanjutkan (serta dilanjutkan dengan koordinasi kepada pihak terkait tanpa mengubah tahapan utama proses)"
+            },
+            {
+              "key": "C",
+              "text": "Penyaluran dapat dihentikan/tidak dilakukan"
+            },
+            {
+              "key": "D",
+              "text": "DAK menjadi DAU (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Penyaluran dapat dihentikan/tidak dilakukan",
+          "explanation": "Kelengkapan dan ketepatan waktu dokumen menjadi syarat penyaluran."
+        },
+        {
+          "id": "p3q20",
+          "number": 20,
+          "question": "Kasus: Jika DAK Fisik tidak tersalur penuh, kewajiban penyelesaian kegiatan kepada pihak ketiga menjadi tanggung jawab. Pemda meminta kepastian karena keputusan yang salah dapat menunda penyaluran atau memengaruhi kualitas layanan publik. Pimpinan meminta Anda memilih best answer, bukan sekadar opsi yang paling cepat dilakukan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "KPPN (serta dilanjutkan dengan koordinasi kepada pihak terkait tanpa mengubah tahapan utama proses)"
+            },
+            {
+              "key": "B",
+              "text": "Kementerian teknis"
+            },
+            {
+              "key": "C",
+              "text": "Pemerintah Daerah"
+            },
+            {
+              "key": "D",
+              "text": "DJPK"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Pemerintah Daerah",
+          "explanation": "Pemda tetap bertanggung jawab menyelesaikan kewajiban atas kegiatan yang telah dilaksanakan."
+        },
+        {
+          "id": "p3q21",
+          "number": 21,
+          "question": "Kasus: KPPN mitra Pemda harus memastikan kesimpulan didasarkan pada parameter penyaluran, bukan sekadar capaian nominal. Fakta/isu yang harus diputuskan adalah: Dana Desa Non-Earmarked untuk desa selain mandiri Tahap I adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "40%"
+            },
+            {
+              "key": "B",
+              "text": "80%"
+            },
+            {
+              "key": "C",
+              "text": "60% (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)"
+            },
+            {
+              "key": "D",
+              "text": "20% (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)"
+            }
+          ],
+          "answer": "A",
+          "answerText": "40%",
+          "explanation": "Untuk desa selain mandiri, pola Non-Earmarked adalah 40%–60%."
+        },
+        {
+          "id": "p3q22",
+          "number": 22,
+          "question": "Kasus: Kanwil DJPb melakukan monev TKD dan menemukan beberapa interpretasi berbeda mengenai syarat, formula, dan pola penyaluran. Fakta/isu yang harus diputuskan adalah: Dana Desa Non-Earmarked untuk desa mandiri adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "80%–20%"
+            },
+            {
+              "key": "B",
+              "text": "50%–50% (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "C",
+              "text": "60%–40%"
+            },
+            {
+              "key": "D",
+              "text": "40%–60% (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            }
+          ],
+          "answer": "C",
+          "answerText": "60%–40%",
+          "explanation": "Desa mandiri memperoleh porsi Tahap I lebih besar."
+        },
+        {
+          "id": "p3q23",
+          "number": 23,
+          "question": "Kasus: Pemda meminta kepastian karena keputusan yang salah dapat menunda penyaluran atau memengaruhi kualitas layanan publik. Fakta/isu yang harus diputuskan adalah: Dana Desa Earmarked disalurkan. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "70%–30%"
+            },
+            {
+              "key": "B",
+              "text": "40%–60% (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            },
+            {
+              "key": "C",
+              "text": "50%–50% (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            },
+            {
+              "key": "D",
+              "text": "60%–40%"
+            }
+          ],
+          "answer": "D",
+          "answerText": "60%–40%",
+          "explanation": "Proporsi Earmarked adalah 60% pada tahap pertama dan 40% tahap kedua."
+        },
+        {
+          "id": "p3q24",
+          "number": 24,
+          "question": "Kasus: KPPN mitra Pemda harus memastikan kesimpulan didasarkan pada parameter penyaluran, bukan sekadar capaian nominal. Fakta/isu yang harus diputuskan adalah: Syarat unik Non-Earmarked Tahap II adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Penyerapan minimal 60% dan output minimal 40% atas Tahap I"
+            },
+            {
+              "key": "B",
+              "text": "Surat kuasa daftar RKD (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)"
+            },
+            {
+              "key": "C",
+              "text": "APBDes (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)"
+            },
+            {
+              "key": "D",
+              "text": "Pagu earmarked"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Penyerapan minimal 60% dan output minimal 40% atas Tahap I",
+          "explanation": "Threshold kinerja Tahap I menjadi syarat penyaluran Tahap II."
+        },
+        {
+          "id": "p3q25",
+          "number": 25,
+          "question": "Kasus: Kanwil DJPb melakukan monev TKD dan menemukan beberapa interpretasi berbeda mengenai syarat, formula, dan pola penyaluran. Fakta/isu yang harus diputuskan adalah: Jika penyerapan Tahap I Dana Desa baru 55% tetapi output 70%, maka. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Cukup surat pernyataan"
+            },
+            {
+              "key": "B",
+              "text": "Dapat disalurkan (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)"
+            },
+            {
+              "key": "C",
+              "text": "Belum memenuhi syarat Tahap II"
+            },
+            {
+              "key": "D",
+              "text": "Otomatis cair akhir tahun (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Belum memenuhi syarat Tahap II",
+          "explanation": "Meskipun output memenuhi, penyerapan belum mencapai minimum 60%."
+        },
+        {
+          "id": "p3q26",
+          "number": 26,
+          "question": "Kasus: Pemda meminta kepastian karena keputusan yang salah dapat menunda penyaluran atau memengaruhi kualitas layanan publik. Fakta/isu yang harus diputuskan adalah: Klaster 1 MP PNBP Tahap I memperoleh alokasi awal. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "20% (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)"
+            },
+            {
+              "key": "B",
+              "text": "80%"
+            },
+            {
+              "key": "C",
+              "text": "40% (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)"
+            },
+            {
+              "key": "D",
+              "text": "60%"
+            }
+          ],
+          "answer": "D",
+          "answerText": "60%",
+          "explanation": "Klaster 1 memiliki kinerja historis terbaik pada formula Tahap I."
+        },
+        {
+          "id": "p3q27",
+          "number": 27,
+          "question": "Kasus: KPPN mitra Pemda harus memastikan kesimpulan didasarkan pada parameter penyaluran, bukan sekadar capaian nominal. Fakta/isu yang harus diputuskan adalah: Jika MP Riil <60% tetapi realisasi belanja Semester I TAYL ≥30%, Satker masuk. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Klaster 3 (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)"
+            },
+            {
+              "key": "B",
+              "text": "Klaster 1 (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)"
+            },
+            {
+              "key": "C",
+              "text": "Klaster 2"
+            },
+            {
+              "key": "D",
+              "text": "Klaster 4"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Klaster 2",
+          "explanation": "Klaster 2 memperoleh alokasi awal 40%."
+        },
+        {
+          "id": "p3q28",
+          "number": 28,
+          "question": "Kasus: Kanwil DJPb melakukan monev TKD dan menemukan beberapa interpretasi berbeda mengenai syarat, formula, dan pola penyaluran. Fakta/isu yang harus diputuskan adalah: Jika MP Riil ≥60% tetapi belanja Semester I TAYL <30%, Satker masuk. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Klaster 3"
+            },
+            {
+              "key": "B",
+              "text": "Klaster 2 (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)"
+            },
+            {
+              "key": "C",
+              "text": "Klaster 4"
+            },
+            {
+              "key": "D",
+              "text": "Klaster 1 (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Klaster 3",
+          "explanation": "Klaster 3 juga memperoleh alokasi awal 40%."
+        },
+        {
+          "id": "p3q29",
+          "number": 29,
+          "question": "Kasus: Pemda meminta kepastian karena keputusan yang salah dapat menunda penyaluran atau memengaruhi kualitas layanan publik. Fakta/isu yang harus diputuskan adalah: Klaster 4 dan Satker baru memperoleh alokasi awal MP PNBP Tahap I masing-masing. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "60% dan 20% (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)"
+            },
+            {
+              "key": "B",
+              "text": "20% dan 20%"
+            },
+            {
+              "key": "C",
+              "text": "40% dan 60% (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)"
+            },
+            {
+              "key": "D",
+              "text": "80% dan 40%"
+            }
+          ],
+          "answer": "B",
+          "answerText": "20% dan 20%",
+          "explanation": "Klaster 4 berkinerja historis rendah, sedangkan Satker baru belum memiliki historis."
+        },
+        {
+          "id": "p3q30",
+          "number": 30,
+          "question": "Kasus: KPPN mitra Pemda harus memastikan kesimpulan didasarkan pada parameter penyaluran, bukan sekadar capaian nominal. Fakta/isu yang harus diputuskan adalah: Klaster 2–5 dapat mengajukan penambahan MP setelah realisasi belanja sumber dana PNBP mencapai minimal. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "40% dari MP awal (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)"
+            },
+            {
+              "key": "B",
+              "text": "50% dari MP awal"
+            },
+            {
+              "key": "C",
+              "text": "60% dari MP awal"
+            },
+            {
+              "key": "D",
+              "text": "30% dari pagu (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)"
+            }
+          ],
+          "answer": "C",
+          "answerText": "60% dari MP awal",
+          "explanation": "Realisasi minimal 60% dari MP awal menjadi salah satu syarat penambahan."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Special Mission: Investasi, UMi, SIKP, SRG, BLU",
+      "questions": [
+        {
+          "id": "p4q1",
+          "number": 1,
+          "question": "Kasus: Tim special mission menilai sebuah kasus yang melibatkan tata kelola investasi/pembiayaan dan kepatuhan terhadap skema program. Fakta/isu yang harus diputuskan adalah: Investasi Pemerintah adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Seluruh dana BLU (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "B",
+              "text": "Penempatan dana/aset keuangan jangka panjang dalam saham, surat utang, dan/atau investasi langsung"
+            },
+            {
+              "key": "C",
+              "text": "Seluruh pembiayaan APBN (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "D",
+              "text": "Seluruh belanja modal"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Penempatan dana/aset keuangan jangka panjang dalam saham, surat utang, dan/atau investasi langsung",
+          "explanation": "Definisi investasi pemerintah menekankan penempatan jangka panjang untuk memperoleh manfaat ekonomi, sosial, dan/atau manfaat lainnya."
+        },
+        {
+          "id": "p4q2",
+          "number": 2,
+          "question": "Kasus: Kanwil/KPPN harus menentukan posisi yang tepat karena setiap pilihan memiliki implikasi terhadap pengawasan dan akuntabilitas. Fakta/isu yang harus diputuskan adalah: Bentuk Investasi Pemerintah meliputi. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Belanja pegawai, barang, modal (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "B",
+              "text": "Pajak, PNBP, hibah (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "C",
+              "text": "Kas, piutang, persediaan"
+            },
+            {
+              "key": "D",
+              "text": "Saham, surat utang, investasi langsung"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Saham, surat utang, investasi langsung",
+          "explanation": "Tiga bentuk utama investasi pemerintah disebut secara eksplisit dalam modul."
+        },
+        {
+          "id": "p4q3",
+          "number": 3,
+          "question": "Kasus: Dalam forum monev special mission, beberapa stakeholder menyampaikan penafsiran yang berbeda atas ketentuan program. Fakta/isu yang harus diputuskan adalah: Pembagian kewenangan yang tepat adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Menkeu-operasional, KIP-regulasi, OIP-supervisi (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "B",
+              "text": "OIP-regulasi, Menkeu-supervisi, KIP-operasional"
+            },
+            {
+              "key": "C",
+              "text": "Menkeu-regulasi, KIP-supervisi, OIP-operasional"
+            },
+            {
+              "key": "D",
+              "text": "KIP-regulasi, OIP-supervisi, BPK-operasional (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Menkeu-regulasi, KIP-supervisi, OIP-operasional",
+          "explanation": "Pemisahan ini memperkuat check and balance dalam tata kelola investasi pemerintah."
+        },
+        {
+          "id": "p4q4",
+          "number": 4,
+          "question": "Kasus: Tim special mission menilai sebuah kasus yang melibatkan tata kelola investasi/pembiayaan dan kepatuhan terhadap skema program. Fakta/isu yang harus diputuskan adalah: Ketua KIP adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Direktur SMI (karena pihak tersebut dipandang paling dekat dengan pelaksanaan operasional transaksi)"
+            },
+            {
+              "key": "B",
+              "text": "Dirjen Anggaran"
+            },
+            {
+              "key": "C",
+              "text": "Dirjen Perbendaharaan"
+            },
+            {
+              "key": "D",
+              "text": "Menteri Keuangan (dengan asumsi pihak tersebut memegang fungsi pengujian sekaligus tindak lanjut pada tahap itu)"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Dirjen Perbendaharaan",
+          "explanation": "Ketua Komite Investasi Pemerintah adalah Direktur Jenderal Perbendaharaan."
+        },
+        {
+          "id": "p4q5",
+          "number": 5,
+          "question": "Kasus: Kanwil/KPPN harus menentukan posisi yang tepat karena setiap pilihan memiliki implikasi terhadap pengawasan dan akuntabilitas. Fakta/isu yang harus diputuskan adalah: Anggota KIP dapat berasal dari. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Pimpinan Unit Eselon I K/L, auditor internal, dan/atau tenaga ahli"
+            },
+            {
+              "key": "B",
+              "text": "Hanya BUMN"
+            },
+            {
+              "key": "C",
+              "text": "Hanya DJPb (dengan pertimbangan bahwa kewenangan keputusan berada pada unit tersebut sebelum proses dilanjutkan)"
+            },
+            {
+              "key": "D",
+              "text": "Hanya BLU (dengan asumsi pihak tersebut memegang fungsi pengujian sekaligus tindak lanjut pada tahap itu)"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Pimpinan Unit Eselon I K/L, auditor internal, dan/atau tenaga ahli",
+          "explanation": "Komposisi KIP dirancang untuk mendukung fungsi supervisi dan kualitas keputusan."
+        },
+        {
+          "id": "p4q6",
+          "number": 6,
+          "question": "Kasus: Dalam forum monev special mission, beberapa stakeholder menyampaikan penafsiran yang berbeda atas ketentuan program. Fakta/isu yang harus diputuskan adalah: Salah satu tugas KIP adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Menyalurkan kredit langsung (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "B",
+              "text": "Menerbitkan SP2D (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "C",
+              "text": "Menyusun kebijakan umum dan rencana strategis investasi pemerintah"
+            },
+            {
+              "key": "D",
+              "text": "Menetapkan tarif BLU"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Menyusun kebijakan umum dan rencana strategis investasi pemerintah",
+          "explanation": "KIP menyampaikan rekomendasi strategis kepada Menteri Keuangan."
+        },
+        {
+          "id": "p4q7",
+          "number": 7,
+          "question": "Kasus: Tim special mission menilai sebuah kasus yang melibatkan tata kelola investasi/pembiayaan dan kepatuhan terhadap skema program. Fakta/isu yang harus diputuskan adalah: Rapat KIP dilaksanakan paling sedikit. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "1 kali sebulan"
+            },
+            {
+              "key": "B",
+              "text": "1 kali setahun"
+            },
+            {
+              "key": "C",
+              "text": "2 kali setahun"
+            },
+            {
+              "key": "D",
+              "text": "1 kali tiap dua bulan"
+            }
+          ],
+          "answer": "C",
+          "answerText": "2 kali setahun",
+          "explanation": "Ini merupakan koreksi penting atas catatan awal; modul menyebut minimal dua kali dalam setahun."
+        },
+        {
+          "id": "p4q8",
+          "number": 8,
+          "question": "Kasus: Kanwil/KPPN harus menentukan posisi yang tepat karena setiap pilihan memiliki implikasi terhadap pengawasan dan akuntabilitas. Fakta/isu yang harus diputuskan adalah: UKP KIP dijalankan oleh. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Direktorat SMI"
+            },
+            {
+              "key": "B",
+              "text": "Direktorat PA"
+            },
+            {
+              "key": "C",
+              "text": "Direktorat PPKBLU"
+            },
+            {
+              "key": "D",
+              "text": "Direktorat PKN"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Direktorat SMI",
+          "explanation": "Direktorat Sistem Manajemen Investasi menjalankan fungsi Unit Kerja Pembantu KIP."
+        },
+        {
+          "id": "p4q9",
+          "number": 9,
+          "question": "Kasus: Dalam forum monev special mission, beberapa stakeholder menyampaikan penafsiran yang berbeda atas ketentuan program. Fakta/isu yang harus diputuskan adalah: OIP adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "BLU/BUMN/BHL yang ditetapkan Menteri Keuangan untuk kewenangan operasional investasi"
+            },
+            {
+              "key": "B",
+              "text": "Komite audit (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "C",
+              "text": "Semua K/L (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "D",
+              "text": "Semua KPPN"
+            }
+          ],
+          "answer": "A",
+          "answerText": "BLU/BUMN/BHL yang ditetapkan Menteri Keuangan untuk kewenangan operasional investasi",
+          "explanation": "Kata kuncinya adalah pelaksanaan operasional investasi pemerintah."
+        },
+        {
+          "id": "p4q10",
+          "number": 10,
+          "question": "Kasus: Tim special mission menilai sebuah kasus yang melibatkan tata kelola investasi/pembiayaan dan kepatuhan terhadap skema program. Fakta/isu yang harus diputuskan adalah: Entitas yang dapat ditunjuk sebagai OIP adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "BLU saja (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "B",
+              "text": "BLU, BUMN, dan/atau BHL"
+            },
+            {
+              "key": "C",
+              "text": "Pemda saja (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "D",
+              "text": "BUMN saja"
+            }
+          ],
+          "answer": "B",
+          "answerText": "BLU, BUMN, dan/atau BHL",
+          "explanation": "Ketiga jenis entitas dapat ditetapkan sebagai operator investasi pemerintah."
+        },
+        {
+          "id": "p4q11",
+          "number": 11,
+          "question": "Kasus: Kanwil/KPPN harus menentukan posisi yang tepat karena setiap pilihan memiliki implikasi terhadap pengawasan dan akuntabilitas. Fakta/isu yang harus diputuskan adalah: Yang bukan kemampuan yang dipersyaratkan bagi OIP adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Manajemen risiko (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "B",
+              "text": "Tata kelola investasi (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "C",
+              "text": "Kewenangan menetapkan APBN"
+            },
+            {
+              "key": "D",
+              "text": "Teknologi informasi"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Kewenangan menetapkan APBN",
+          "explanation": "OIP perlu kapasitas operasional investasi, bukan kewenangan legislasi anggaran."
+        },
+        {
+          "id": "p4q12",
+          "number": 12,
+          "question": "Kasus: Dalam forum monev special mission, beberapa stakeholder menyampaikan penafsiran yang berbeda atas ketentuan program. Fakta/isu yang harus diputuskan adalah: Unit investasi calon OIP setidaknya memiliki. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "5 akuntan publik (karena pihak tersebut dipandang paling dekat dengan pelaksanaan operasional transaksi)"
+            },
+            {
+              "key": "B",
+              "text": "10 auditor BPK (dengan pertimbangan bahwa kewenangan keputusan berada pada unit tersebut sebelum proses dilanjutkan)"
+            },
+            {
+              "key": "C",
+              "text": "1 pejabat KPPN"
+            },
+            {
+              "key": "D",
+              "text": "Pegawai bersertifikasi bidang pasar modal/investasi-keuangan"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Pegawai bersertifikasi bidang pasar modal/investasi-keuangan",
+          "explanation": "Sertifikasi profesional mendukung kompetensi pengelolaan investasi."
+        },
+        {
+          "id": "p4q13",
+          "number": 13,
+          "question": "Kasus: Tim special mission menilai sebuah kasus yang melibatkan tata kelola investasi/pembiayaan dan kepatuhan terhadap skema program. Fakta/isu yang harus diputuskan adalah: Dalam individual lending UMi, agunan. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Wajib tanah"
+            },
+            {
+              "key": "B",
+              "text": "Hanya Resi Gudang (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            },
+            {
+              "key": "C",
+              "text": "Dapat dikenakan sesuai penilaian risiko"
+            },
+            {
+              "key": "D",
+              "text": "Dilarang (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Dapat dikenakan sesuai penilaian risiko",
+          "explanation": "Penyalur dapat meminta agunan berdasarkan hasil risk assessment."
+        },
+        {
+          "id": "p4q14",
+          "number": 14,
+          "question": "Kasus: Kanwil/KPPN harus menentukan posisi yang tepat karena setiap pilihan memiliki implikasi terhadap pengawasan dan akuntabilitas. Fakta/isu yang harus diputuskan adalah: Dalam group lending UMi, penyalur. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tidak boleh mengenakan agunan tambahan"
+            },
+            {
+              "key": "B",
+              "text": "Boleh agunan tanpa batas (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            },
+            {
+              "key": "C",
+              "text": "Harus kendaraan (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            },
+            {
+              "key": "D",
+              "text": "Wajib meminta tanah"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Tidak boleh mengenakan agunan tambahan",
+          "explanation": "Group lending mengandalkan mekanisme kelompok/tanggung renteng."
+        },
+        {
+          "id": "p4q15",
+          "number": 15,
+          "question": "Kasus: Dalam forum monev special mission, beberapa stakeholder menyampaikan penafsiran yang berbeda atas ketentuan program. Fakta/isu yang harus diputuskan adalah: Ciri utama group lending UMi adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Wajib badan hukum"
+            },
+            {
+              "key": "B",
+              "text": "Kelompok dan tanggung renteng"
+            },
+            {
+              "key": "C",
+              "text": "Wajib NPWP perusahaan (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "D",
+              "text": "Debitur harus ASN (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Kelompok dan tanggung renteng",
+          "explanation": "Pendekatan kelompok menjadi ciri penting skema group lending."
+        },
+        {
+          "id": "p4q16",
+          "number": 16,
+          "question": "Kasus: Tim special mission menilai sebuah kasus yang melibatkan tata kelola investasi/pembiayaan dan kepatuhan terhadap skema program. Fakta/isu yang harus diputuskan adalah: Plafon UMi adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "≤ Rp10 juta"
+            },
+            {
+              "key": "B",
+              "text": "≤ Rp20 juta"
+            },
+            {
+              "key": "C",
+              "text": "Rp20–100 juta"
+            },
+            {
+              "key": "D",
+              "text": "Rp100–500 juta"
+            }
+          ],
+          "answer": "B",
+          "answerText": "≤ Rp20 juta",
+          "explanation": "Pembiayaan UMi ditujukan bagi usaha ultra mikro dengan plafon sampai Rp20 juta."
+        },
+        {
+          "id": "p4q17",
+          "number": 17,
+          "question": "Kasus: Kanwil/KPPN harus menentukan posisi yang tepat karena setiap pilihan memiliki implikasi terhadap pengawasan dan akuntabilitas. Fakta/isu yang harus diputuskan adalah: Plafon UMi Pro adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Rp100–500 juta"
+            },
+            {
+              "key": "B",
+              "text": "> Rp1 miliar"
+            },
+            {
+              "key": "C",
+              "text": "≤ Rp20 juta"
+            },
+            {
+              "key": "D",
+              "text": "Rp20–100 juta"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Rp20–100 juta",
+          "explanation": "UMi Pro berada di atas plafon UMi reguler."
+        },
+        {
+          "id": "p4q18",
+          "number": 18,
+          "question": "Kasus: Dalam forum monev special mission, beberapa stakeholder menyampaikan penafsiran yang berbeda atas ketentuan program. Fakta/isu yang harus diputuskan adalah: Monev ketepatan data UMi oleh KPPN membandingkan. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Pajak dengan NIK"
+            },
+            {
+              "key": "B",
+              "text": "Data SIKP dengan dokumen penyaluran"
+            },
+            {
+              "key": "C",
+              "text": "DIPA dengan APBD (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            },
+            {
+              "key": "D",
+              "text": "SPAN dengan RKUN (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Data SIKP dengan dokumen penyaluran",
+          "explanation": "Tujuannya memastikan kesesuaian data sistem dengan dokumen sumber."
+        },
+        {
+          "id": "p4q19",
+          "number": 19,
+          "question": "Kasus: Tim special mission menilai sebuah kasus yang melibatkan tata kelola investasi/pembiayaan dan kepatuhan terhadap skema program. Fakta/isu yang harus diputuskan adalah: Sampel monev UMi yang disebut modul adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "100 debitur (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "B",
+              "text": "50% debitur"
+            },
+            {
+              "key": "C",
+              "text": "Semua debitur (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "D",
+              "text": "5% debitur aktif, minimal 1 per penyalur, maksimal 25 per penyalur"
+            }
+          ],
+          "answer": "D",
+          "answerText": "5% debitur aktif, minimal 1 per penyalur, maksimal 25 per penyalur",
+          "explanation": "Angka 5%–1–25 merupakan pola hafalan yang penting."
+        },
+        {
+          "id": "p4q20",
+          "number": 20,
+          "question": "Kasus: Kanwil/KPPN harus menentukan posisi yang tepat karena setiap pilihan memiliki implikasi terhadap pengawasan dan akuntabilitas. Fakta/isu yang harus diputuskan adalah: Data monev UMi antara lain mencakup. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Nilai saja"
+            },
+            {
+              "key": "B",
+              "text": "Nama saja (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "C",
+              "text": "NPWP penyalur saja (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "D",
+              "text": "NIK, nama, akad, nilai pembiayaan, tenor, agunan bila ada"
+            }
+          ],
+          "answer": "D",
+          "answerText": "NIK, nama, akad, nilai pembiayaan, tenor, agunan bila ada",
+          "explanation": "Monev dilakukan terhadap elemen data yang dapat membuktikan ketepatan penyaluran."
+        },
+        {
+          "id": "p4q21",
+          "number": 21,
+          "question": "Kasus: Dalam forum monev special mission, beberapa stakeholder menyampaikan penafsiran yang berbeda atas ketentuan program. Fakta/isu yang harus diputuskan adalah: Peran Kanwil DJPb pada monev UMi adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Debitur (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "B",
+              "text": "Supervisor monev KPPN dan pengompilasi laporan"
+            },
+            {
+              "key": "C",
+              "text": "Penyalur (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "D",
+              "text": "Penjamin"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Supervisor monev KPPN dan pengompilasi laporan",
+          "explanation": "Kanwil melakukan pembinaan, monitoring, evaluasi, dan konsolidasi hasil KPPN."
+        },
+        {
+          "id": "p4q22",
+          "number": 22,
+          "question": "Kasus: Tim special mission menilai sebuah kasus yang melibatkan tata kelola investasi/pembiayaan dan kepatuhan terhadap skema program. Fakta/isu yang harus diputuskan adalah: SIKP adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Sistem informasi elektronik penatausahaan dan informasi kredit program"
+            },
+            {
+              "key": "B",
+              "text": "Sistem DAK (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "C",
+              "text": "Sistem pembayaran APBN"
+            },
+            {
+              "key": "D",
+              "text": "Sistem rekening pemerintah (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Sistem informasi elektronik penatausahaan dan informasi kredit program",
+          "explanation": "SIKP mendukung database kredit program dan ketepatan sasaran."
+        },
+        {
+          "id": "p4q23",
+          "number": 23,
+          "question": "Kasus: Kanwil/KPPN harus menentukan posisi yang tepat karena setiap pilihan memiliki implikasi terhadap pengawasan dan akuntabilitas. Fakta/isu yang harus diputuskan adalah: Pemda mengunggah ke SIKP. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Rekening pemerintah (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            },
+            {
+              "key": "B",
+              "text": "Pajak pusat (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            },
+            {
+              "key": "C",
+              "text": "Data pegawai"
+            },
+            {
+              "key": "D",
+              "text": "Calon debitur potensial"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Calon debitur potensial",
+          "explanation": "Pemda berperan menyediakan data calon debitur potensial di wilayahnya."
+        },
+        {
+          "id": "p4q24",
+          "number": 24,
+          "question": "Kasus: Dalam forum monev special mission, beberapa stakeholder menyampaikan penafsiran yang berbeda atas ketentuan program. Fakta/isu yang harus diputuskan adalah: Penyalur mengunggah ke SIKP antara lain. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Laporan APBD (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            },
+            {
+              "key": "B",
+              "text": "Penerimaan negara"
+            },
+            {
+              "key": "C",
+              "text": "Data pegawai bank (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            },
+            {
+              "key": "D",
+              "text": "Calon debitur, akad, transaksi, tagihan subsidi, plafon wilayah"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Calon debitur, akad, transaksi, tagihan subsidi, plafon wilayah",
+          "explanation": "Data tersebut mendukung monitoring penyaluran kredit program."
+        },
+        {
+          "id": "p4q25",
+          "number": 25,
+          "question": "Kasus: Tim special mission menilai sebuah kasus yang melibatkan tata kelola investasi/pembiayaan dan kepatuhan terhadap skema program. Fakta/isu yang harus diputuskan adalah: Linimasa SIKP yang tepat adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "2013 dikembangkan, 2015 untuk subsidi KUR, 2016 efektif"
+            },
+            {
+              "key": "B",
+              "text": "2025–2026–2027"
+            },
+            {
+              "key": "C",
+              "text": "2020–2021–2022 (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "D",
+              "text": "2004–2005–2006 (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            }
+          ],
+          "answer": "A",
+          "answerText": "2013 dikembangkan, 2015 untuk subsidi KUR, 2016 efektif",
+          "explanation": "Urutan tahun ini sering dijadikan hafalan."
+        },
+        {
+          "id": "p4q26",
+          "number": 26,
+          "question": "Kasus: Kanwil/KPPN harus menentukan posisi yang tepat karena setiap pilihan memiliki implikasi terhadap pengawasan dan akuntabilitas. Fakta/isu yang harus diputuskan adalah: SRG adalah sistem terkait. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "SP2D"
+            },
+            {
+              "key": "B",
+              "text": "DAU (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "C",
+              "text": "Penerbitan, pengalihan, penjaminan, dan penyelesaian transaksi Resi Gudang"
+            },
+            {
+              "key": "D",
+              "text": "Pembukaan rekening (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Penerbitan, pengalihan, penjaminan, dan penyelesaian transaksi Resi Gudang",
+          "explanation": "Resi Gudang menjadi dokumen kepemilikan atas komoditas yang disimpan."
+        },
+        {
+          "id": "p4q27",
+          "number": 27,
+          "question": "Kasus: Dalam forum monev special mission, beberapa stakeholder menyampaikan penafsiran yang berbeda atas ketentuan program. Fakta/isu yang harus diputuskan adalah: Dalam SRG, Resi Gudang dapat berfungsi sebagai. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Agunan pembiayaan"
+            },
+            {
+              "key": "B",
+              "text": "DIPA (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "C",
+              "text": "SP2D"
+            },
+            {
+              "key": "D",
+              "text": "Surat tugas (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Agunan pembiayaan",
+          "explanation": "Komoditas yang disimpan di gudang menjadi underlying pembiayaan."
+        },
+        {
+          "id": "p4q28",
+          "number": 28,
+          "question": "Kasus: Tim special mission menilai sebuah kasus yang melibatkan tata kelola investasi/pembiayaan dan kepatuhan terhadap skema program. Fakta/isu yang harus diputuskan adalah: S-SRG adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Pembayaran APBN (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "B",
+              "text": "Pembiayaan dengan agunan Resi Gudang yang memperoleh subsidi bunga/margin"
+            },
+            {
+              "key": "C",
+              "text": "Dana Desa (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "D",
+              "text": "Hibah petani"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Pembiayaan dengan agunan Resi Gudang yang memperoleh subsidi bunga/margin",
+          "explanation": "S-SRG menambahkan dukungan subsidi pada pembiayaan berbasis Resi Gudang."
+        },
+        {
+          "id": "p4q29",
+          "number": 29,
+          "question": "Kasus: Kanwil/KPPN harus menentukan posisi yang tepat karena setiap pilihan memiliki implikasi terhadap pengawasan dan akuntabilitas. Fakta/isu yang harus diputuskan adalah: Dokumen administratif BLU mencakup. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Pola tata kelola, RSB, laporan keuangan pokok, SPM dan dokumen terkait lainnya"
+            },
+            {
+              "key": "B",
+              "text": "DIPA saja"
+            },
+            {
+              "key": "C",
+              "text": "APBD saja (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "D",
+              "text": "ISO saja (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Pola tata kelola, RSB, laporan keuangan pokok, SPM dan dokumen terkait lainnya",
+          "explanation": "Dokumen administratif menjadi bukti kesiapan tata kelola dan kinerja Satker calon BLU."
+        },
+        {
+          "id": "p4q30",
+          "number": 30,
+          "question": "Kasus: Dalam forum monev special mission, beberapa stakeholder menyampaikan penafsiran yang berbeda atas ketentuan program. Fakta/isu yang harus diputuskan adalah: Status BLU dapat dicabut apabila. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tidak memenuhi persyaratan, tidak patuh ketentuan, dan/atau berkinerja buruk"
+            },
+            {
+              "key": "B",
+              "text": "Pendapatan naik"
+            },
+            {
+              "key": "C",
+              "text": "Layanan bertambah (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            },
+            {
+              "key": "D",
+              "text": "Kas meningkat (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Tidak memenuhi persyaratan, tidak patuh ketentuan, dan/atau berkinerja buruk",
+          "explanation": "Pencabutan dapat didasarkan pada hasil monitoring/evaluasi dan penilaian kinerja."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Pengelolaan Kas, Rekening Pemerintah, TSA/TNP, MPN",
+      "questions": [
+        {
+          "id": "p5q1",
+          "number": 1,
+          "question": "Kasus: Satker dan KPPN sedang menata rekening serta posisi kas agar tidak menimbulkan idle cash atau pelanggaran mekanisme pengelolaan rekening. Fakta/isu yang harus diputuskan adalah: Treasury Single Account (TSA) adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Sistem DAK (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "B",
+              "text": "Sistem konsolidasi kas pemerintah melalui satu rekening induk"
+            },
+            {
+              "key": "C",
+              "text": "Sistem investasi"
+            },
+            {
+              "key": "D",
+              "text": "Sistem rekening terpisah tiap Satker (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Sistem konsolidasi kas pemerintah melalui satu rekening induk",
+          "explanation": "TSA mengurangi fragmentasi kas dan meningkatkan visibilitas posisi kas pemerintah."
+        },
+        {
+          "id": "p5q2",
+          "number": 2,
+          "question": "Kasus: Tim treasury membandingkan beberapa alternatif yang tampak efisien, tetapi tidak semuanya sesuai dengan desain pengelolaan kas pemerintah. Fakta/isu yang harus diputuskan adalah: Rekening utama dalam implementasi TSA Indonesia adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Rekening Induk Eselon I"
+            },
+            {
+              "key": "B",
+              "text": "Rekening Penerimaan KPPN"
+            },
+            {
+              "key": "C",
+              "text": "RKUN di Bank Indonesia"
+            },
+            {
+              "key": "D",
+              "text": "Rekening Bendahara"
+            }
+          ],
+          "answer": "C",
+          "answerText": "RKUN di Bank Indonesia",
+          "explanation": "RKUN menjadi rekening utama kas negara dalam kerangka TSA."
+        },
+        {
+          "id": "p5q3",
+          "number": 3,
+          "question": "Kasus: Dalam review payment system, keputusan harus mempertimbangkan konsolidasi kas, kontrol, dan ketepatan proses. Fakta/isu yang harus diputuskan adalah: Yang bukan manfaat TSA adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Meningkatkan visibilitas kas (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "B",
+              "text": "Membiarkan saldo tersebar tanpa konsolidasi"
+            },
+            {
+              "key": "C",
+              "text": "Mengurangi fragmentasi"
+            },
+            {
+              "key": "D",
+              "text": "Mengurangi idle cash (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Membiarkan saldo tersebar tanpa konsolidasi",
+          "explanation": "TSA justru bertujuan mengatasi kas yang tersebar dan tidak terkonsolidasi."
+        },
+        {
+          "id": "p5q4",
+          "number": 4,
+          "question": "Kasus: Satker dan KPPN sedang menata rekening serta posisi kas agar tidak menimbulkan idle cash atau pelanggaran mekanisme pengelolaan rekening. Fakta/isu yang harus diputuskan adalah: Treasury Notional Pooling (TNP) memungkinkan. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Penghapusan rekening Satker"
+            },
+            {
+              "key": "B",
+              "text": "Penggantian RKUN (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            },
+            {
+              "key": "C",
+              "text": "Pemindahan semua saldo ke Eselon I (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            },
+            {
+              "key": "D",
+              "text": "Konsolidasi saldo tanpa perpindahan fisik dana"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Konsolidasi saldo tanpa perpindahan fisik dana",
+          "explanation": "TNP menghitung posisi saldo secara notional tanpa memindahkan dana antar rekening."
+        },
+        {
+          "id": "p5q5",
+          "number": 5,
+          "question": "Kasus: Tim treasury membandingkan beberapa alternatif yang tampak efisien, tetapi tidak semuanya sesuai dengan desain pengelolaan kas pemerintah. Fakta/isu yang harus diputuskan adalah: Perbedaan utama TSA dan TNP adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "TSA hanya penerimaan (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "B",
+              "text": "TSA konsolidasi kas, TNP konsolidasi saldo notional"
+            },
+            {
+              "key": "C",
+              "text": "Keduanya sama (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "D",
+              "text": "TNP hanya BLU"
+            }
+          ],
+          "answer": "B",
+          "answerText": "TSA konsolidasi kas, TNP konsolidasi saldo notional",
+          "explanation": "TNP memungkinkan konsolidasi informasi saldo tanpa transfer fisik."
+        },
+        {
+          "id": "p5q6",
+          "number": 6,
+          "question": "Kasus: Dalam review payment system, keputusan harus mempertimbangkan konsolidasi kas, kontrol, dan ketepatan proses. Fakta/isu yang harus diputuskan adalah: Jenis rekening Satker secara umum adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "APBN dan APBD (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "B",
+              "text": "Belanja dan Pembiayaan (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "C",
+              "text": "Pengeluaran, Penerimaan, Lainnya"
+            },
+            {
+              "key": "D",
+              "text": "Pusat dan Daerah"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Pengeluaran, Penerimaan, Lainnya",
+          "explanation": "Tiga kelompok ini menjadi klasifikasi dasar rekening milik K/L."
+        },
+        {
+          "id": "p5q7",
+          "number": 7,
+          "question": "Kasus: Satker dan KPPN sedang menata rekening serta posisi kas agar tidak menimbulkan idle cash atau pelanggaran mekanisme pengelolaan rekening. Fakta/isu yang harus diputuskan adalah: Rekening Pengeluaran digunakan untuk. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Menampung jaminan saja"
+            },
+            {
+              "key": "B",
+              "text": "Menampung pendapatan negara (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)"
+            },
+            {
+              "key": "C",
+              "text": "Menampung hibah saja (serta dilanjutkan dengan koordinasi kepada pihak terkait tanpa mengubah tahapan utama proses)"
+            },
+            {
+              "key": "D",
+              "text": "Menampung dana untuk belanja/pengeluaran negara"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Menampung dana untuk belanja/pengeluaran negara",
+          "explanation": "Rekening Pengeluaran mendukung pembayaran kebutuhan belanja Satker."
+        },
+        {
+          "id": "p5q8",
+          "number": 8,
+          "question": "Kasus: Tim treasury membandingkan beberapa alternatif yang tampak efisien, tetapi tidak semuanya sesuai dengan desain pengelolaan kas pemerintah. Fakta/isu yang harus diputuskan adalah: Rekening Penerimaan digunakan untuk. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Membayar gaji (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)"
+            },
+            {
+              "key": "B",
+              "text": "Membayar supplier (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)"
+            },
+            {
+              "key": "C",
+              "text": "Menyalurkan UP"
+            },
+            {
+              "key": "D",
+              "text": "Menampung pendapatan negara"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Menampung pendapatan negara",
+          "explanation": "Saldo rekening penerimaan selanjutnya dilimpahkan ke Kas Negara."
+        },
+        {
+          "id": "p5q9",
+          "number": 9,
+          "question": "Kasus: Dalam review payment system, keputusan harus mempertimbangkan konsolidasi kas, kontrol, dan ketepatan proses. Fakta/isu yang harus diputuskan adalah: Rekening Lainnya digunakan untuk. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Semua belanja pegawai (serta dilanjutkan dengan koordinasi kepada pihak terkait tanpa mengubah tahapan utama proses)"
+            },
+            {
+              "key": "B",
+              "text": "Hanya SP2D (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)"
+            },
+            {
+              "key": "C",
+              "text": "Hanya pajak"
+            },
+            {
+              "key": "D",
+              "text": "Menampung dana yang tidak sesuai dimasukkan ke rekening penerimaan/pengeluaran"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Menampung dana yang tidak sesuai dimasukkan ke rekening penerimaan/pengeluaran",
+          "explanation": "Contohnya rekening hibah, jaminan, titipan, dan rekening khusus lainnya."
+        },
+        {
+          "id": "p5q10",
+          "number": 10,
+          "question": "Kasus: Satker dan KPPN sedang menata rekening serta posisi kas agar tidak menimbulkan idle cash atau pelanggaran mekanisme pengelolaan rekening. Fakta/isu yang harus diputuskan adalah: Rekening Penampungan Dana Jaminan digunakan untuk. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Pajak (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)"
+            },
+            {
+              "key": "B",
+              "text": "KKP (serta dilanjutkan dengan koordinasi kepada pihak terkait tanpa mengubah tahapan utama proses)"
+            },
+            {
+              "key": "C",
+              "text": "Gaji"
+            },
+            {
+              "key": "D",
+              "text": "Dana jaminan pihak ketiga"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Dana jaminan pihak ketiga",
+          "explanation": "Dana tersebut nantinya dikembalikan kepada pihak yang berhak sesuai ketentuan."
+        },
+        {
+          "id": "p5q11",
+          "number": 11,
+          "question": "Kasus: Tim treasury membandingkan beberapa alternatif yang tampak efisien, tetapi tidak semuanya sesuai dengan desain pengelolaan kas pemerintah. Fakta/isu yang harus diputuskan adalah: Rekening Penampungan Dana Titipan dapat digunakan untuk. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Pajak rutin (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)"
+            },
+            {
+              "key": "B",
+              "text": "DBH (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)"
+            },
+            {
+              "key": "C",
+              "text": "Dana titipan/sitaan dalam kasus tertentu"
+            },
+            {
+              "key": "D",
+              "text": "Uang makan"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Dana titipan/sitaan dalam kasus tertentu",
+          "explanation": "Rekening ini termasuk kelompok Rekening Lainnya."
+        },
+        {
+          "id": "p5q12",
+          "number": 12,
+          "question": "Kasus: Dalam review payment system, keputusan harus mempertimbangkan konsolidasi kas, kontrol, dan ketepatan proses. Fakta/isu yang harus diputuskan adalah: RPDHL digunakan untuk. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Menampung hibah langsung dalam bentuk uang"
+            },
+            {
+              "key": "B",
+              "text": "Menampung pajak (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)"
+            },
+            {
+              "key": "C",
+              "text": "Menyalurkan UP (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)"
+            },
+            {
+              "key": "D",
+              "text": "Menampung gaji"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Menampung hibah langsung dalam bentuk uang",
+          "explanation": "RPDHL menjadi rekening penerimaan dana hibah langsung."
+        },
+        {
+          "id": "p5q13",
+          "number": 13,
+          "question": "Kasus: Satker dan KPPN sedang menata rekening serta posisi kas agar tidak menimbulkan idle cash atau pelanggaran mekanisme pengelolaan rekening. Fakta/isu yang harus diputuskan adalah: RPH menerima dana dari. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "RPDHL"
+            },
+            {
+              "key": "B",
+              "text": "Bendahara"
+            },
+            {
+              "key": "C",
+              "text": "RKUD (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)"
+            },
+            {
+              "key": "D",
+              "text": "Donor langsung"
+            }
+          ],
+          "answer": "A",
+          "answerText": "RPDHL",
+          "explanation": "Alur yang perlu diingat adalah Donor → RPDHL → RPH."
+        },
+        {
+          "id": "p5q14",
+          "number": 14,
+          "question": "Kasus: Tim treasury membandingkan beberapa alternatif yang tampak efisien, tetapi tidak semuanya sesuai dengan desain pengelolaan kas pemerintah. Fakta/isu yang harus diputuskan adalah: Langkah awal pembukaan rekening Satker adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Buka langsung di bank (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)"
+            },
+            {
+              "key": "B",
+              "text": "Bank meminta izin DJA (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)"
+            },
+            {
+              "key": "C",
+              "text": "Ajukan persetujuan kepada Kuasa BUN di Daerah"
+            },
+            {
+              "key": "D",
+              "text": "KPPN membuka otomatis"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Ajukan persetujuan kepada Kuasa BUN di Daerah",
+          "explanation": "Persetujuan Kuasa BUN harus diperoleh sebelum rekening pemerintah dibuka."
+        },
+        {
+          "id": "p5q15",
+          "number": 15,
+          "question": "Kasus: Dalam review payment system, keputusan harus mempertimbangkan konsolidasi kas, kontrol, dan ketepatan proses. Fakta/isu yang harus diputuskan adalah: Permohonan pembukaan rekening memuat antara lain. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tujuan penggunaan, sumber dana, mekanisme penyaluran, perlakuan bunga/jasa giro"
+            },
+            {
+              "key": "B",
+              "text": "Nomor DIPA saja"
+            },
+            {
+              "key": "C",
+              "text": "Nama Bendahara saja (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            },
+            {
+              "key": "D",
+              "text": "Pagu saja (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Tujuan penggunaan, sumber dana, mekanisme penyaluran, perlakuan bunga/jasa giro",
+          "explanation": "Informasi tersebut digunakan Kuasa BUN untuk menilai kebutuhan dan tata kelola rekening."
+        },
+        {
+          "id": "p5q16",
+          "number": 16,
+          "question": "Kasus: Satker dan KPPN sedang menata rekening serta posisi kas agar tidak menimbulkan idle cash atau pelanggaran mekanisme pengelolaan rekening. Fakta/isu yang harus diputuskan adalah: Persetujuan/penolakan pembukaan rekening diterbitkan paling lambat. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "5 HK"
+            },
+            {
+              "key": "B",
+              "text": "3 HK"
+            },
+            {
+              "key": "C",
+              "text": "2 HK"
+            },
+            {
+              "key": "D",
+              "text": "10 HK"
+            }
+          ],
+          "answer": "A",
+          "answerText": "5 HK",
+          "explanation": "Ini bagian dari pola hafalan 5–15–20."
+        },
+        {
+          "id": "p5q17",
+          "number": 17,
+          "question": "Kasus: Tim treasury membandingkan beberapa alternatif yang tampak efisien, tetapi tidak semuanya sesuai dengan desain pengelolaan kas pemerintah. Fakta/isu yang harus diputuskan adalah: Surat persetujuan pembukaan rekening secara umum berlaku. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "10 HK"
+            },
+            {
+              "key": "B",
+              "text": "15 HK"
+            },
+            {
+              "key": "C",
+              "text": "30 hari"
+            },
+            {
+              "key": "D",
+              "text": "5 HK"
+            }
+          ],
+          "answer": "B",
+          "answerText": "15 HK",
+          "explanation": "Secara umum masa berlaku persetujuan adalah 15 hari kerja."
+        },
+        {
+          "id": "p5q18",
+          "number": 18,
+          "question": "Kasus: Dalam review payment system, keputusan harus mempertimbangkan konsolidasi kas, kontrol, dan ketepatan proses. Fakta/isu yang harus diputuskan adalah: Laporan pembukaan rekening disampaikan paling lambat. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "15 HK"
+            },
+            {
+              "key": "B",
+              "text": "10 HK (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)"
+            },
+            {
+              "key": "C",
+              "text": "5 HK (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)"
+            },
+            {
+              "key": "D",
+              "text": "20 HK sejak surat persetujuan diterbitkan"
+            }
+          ],
+          "answer": "D",
+          "answerText": "20 HK sejak surat persetujuan diterbitkan",
+          "explanation": "Batas ini melengkapi pola 5–15–20."
+        },
+        {
+          "id": "p5q19",
+          "number": 19,
+          "question": "Kasus: Satker dan KPPN sedang menata rekening serta posisi kas agar tidak menimbulkan idle cash atau pelanggaran mekanisme pengelolaan rekening. Fakta/isu yang harus diputuskan adalah: Khusus rekening deposito pengelolaan kas BLU, laporan pembukaan disampaikan paling lambat. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "10 HK sejak rekening dibuka"
+            },
+            {
+              "key": "B",
+              "text": "20 HK (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)"
+            },
+            {
+              "key": "C",
+              "text": "5 HK"
+            },
+            {
+              "key": "D",
+              "text": "3 HK (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)"
+            }
+          ],
+          "answer": "A",
+          "answerText": "10 HK sejak rekening dibuka",
+          "explanation": "Ketentuan ini merupakan pengecualian khusus untuk rekening deposito BLU."
+        },
+        {
+          "id": "p5q20",
+          "number": 20,
+          "question": "Kasus: Tim treasury membandingkan beberapa alternatif yang tampak efisien, tetapi tidak semuanya sesuai dengan desain pengelolaan kas pemerintah. Fakta/isu yang harus diputuskan adalah: Urutan perubahan bank rekening yang tepat adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tutup lama lalu minta izin (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)"
+            },
+            {
+              "key": "B",
+              "text": "Update supplier dulu (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)"
+            },
+            {
+              "key": "C",
+              "text": "Pindah ke rekening pribadi"
+            },
+            {
+              "key": "D",
+              "text": "Buka baru–pindah saldo–tutup lama–lapor–update supplier"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Buka baru–pindah saldo–tutup lama–lapor–update supplier",
+          "explanation": "Perubahan bank harus diikuti penyelesaian saldo, pelaporan, dan pemutakhiran supplier pada sistem."
+        },
+        {
+          "id": "p5q21",
+          "number": 21,
+          "question": "Kasus: Dalam review payment system, keputusan harus mempertimbangkan konsolidasi kas, kontrol, dan ketepatan proses. Fakta/isu yang harus diputuskan adalah: Sisa saldo rekening yang ditutup secara umum. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Dipindahkan ke Kas Negara sesuai ketentuan"
+            },
+            {
+              "key": "B",
+              "text": "Dibiarkan (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)"
+            },
+            {
+              "key": "C",
+              "text": "Menjadi milik bank"
+            },
+            {
+              "key": "D",
+              "text": "Menjadi hak Bendahara (serta dilanjutkan dengan koordinasi kepada pihak terkait tanpa mengubah tahapan utama proses)"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Dipindahkan ke Kas Negara sesuai ketentuan",
+          "explanation": "Penutupan rekening harus menyelesaikan saldo yang masih ada."
+        },
+        {
+          "id": "p5q22",
+          "number": 22,
+          "question": "Kasus: Satker dan KPPN sedang menata rekening serta posisi kas agar tidak menimbulkan idle cash atau pelanggaran mekanisme pengelolaan rekening. Fakta/isu yang harus diputuskan adalah: Struktur Rekening Pengeluaran setelah reformasi terdiri atas. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Rekening pegawai"
+            },
+            {
+              "key": "B",
+              "text": "Satu rekening nasional saja (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            },
+            {
+              "key": "C",
+              "text": "Rekening pajak (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            },
+            {
+              "key": "D",
+              "text": "Rekening Induk Eselon I dan rekening Satker/VA"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Rekening Induk Eselon I dan rekening Satker/VA",
+          "explanation": "Rekening virtual Satker terkonsolidasi di bawah Rekening Induk."
+        },
+        {
+          "id": "p5q23",
+          "number": 23,
+          "question": "Kasus: Tim treasury membandingkan beberapa alternatif yang tampak efisien, tetapi tidak semuanya sesuai dengan desain pengelolaan kas pemerintah. Fakta/isu yang harus diputuskan adalah: Fungsi Rekening Induk Eselon I adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Pembayaran manual oleh Eselon I (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "B",
+              "text": "Penggajian nasional"
+            },
+            {
+              "key": "C",
+              "text": "Monitoring dan konsolidasi saldo/transaksi rekening virtual"
+            },
+            {
+              "key": "D",
+              "text": "Pajak (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Monitoring dan konsolidasi saldo/transaksi rekening virtual",
+          "explanation": "Rekening Induk berfungsi sebagai sarana konsolidasi dan monitoring, bukan rekening operasional bebas."
+        },
+        {
+          "id": "p5q24",
+          "number": 24,
+          "question": "Kasus: Dalam review payment system, keputusan harus mempertimbangkan konsolidasi kas, kontrol, dan ketepatan proses. Fakta/isu yang harus diputuskan adalah: Awalan nomenklatur Rekening Pengeluaran Satker adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "RPDHL"
+            },
+            {
+              "key": "B",
+              "text": "RPH"
+            },
+            {
+              "key": "C",
+              "text": "BPG"
+            },
+            {
+              "key": "D",
+              "text": "BPN"
+            }
+          ],
+          "answer": "C",
+          "answerText": "BPG",
+          "explanation": "BPG digunakan untuk Rekening Pengeluaran Satker; BPP untuk pembantu; BPN untuk penerimaan."
+        },
+        {
+          "id": "p5q25",
+          "number": 25,
+          "question": "Kasus: Satker dan KPPN sedang menata rekening serta posisi kas agar tidak menimbulkan idle cash atau pelanggaran mekanisme pengelolaan rekening. Fakta/isu yang harus diputuskan adalah: Satker baru dalam skema virtual account seharusnya. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Menggunakan rekening pribadi (serta dilanjutkan dengan koordinasi kepada pihak terkait tanpa mengubah tahapan utama proses)"
+            },
+            {
+              "key": "B",
+              "text": "Membuka giro fisik tanpa koordinasi (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)"
+            },
+            {
+              "key": "C",
+              "text": "Menggunakan rekening Satker lain"
+            },
+            {
+              "key": "D",
+              "text": "Menggunakan rekening Satker/VA yang terkonsolidasi dengan Rekening Induk Eselon I"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Menggunakan rekening Satker/VA yang terkonsolidasi dengan Rekening Induk Eselon I",
+          "explanation": "Konsep ini sejalan dengan konsolidasi rekening pemerintah."
+        },
+        {
+          "id": "p5q26",
+          "number": 26,
+          "question": "Kasus: Tim treasury membandingkan beberapa alternatif yang tampak efisien, tetapi tidak semuanya sesuai dengan desain pengelolaan kas pemerintah. Fakta/isu yang harus diputuskan adalah: Zero Balance Account bekerja dengan pola. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hanya penerimaan"
+            },
+            {
+              "key": "B",
+              "text": "Hanya BLU (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            },
+            {
+              "key": "C",
+              "text": "0–dropping–pembayaran–sisa dikembalikan–0"
+            },
+            {
+              "key": "D",
+              "text": "Saldo tetap besar (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            }
+          ],
+          "answer": "C",
+          "answerText": "0–dropping–pembayaran–sisa dikembalikan–0",
+          "explanation": "ZBA menjaga rekening pengeluaran kembali bersaldo nihil pada akhir hari."
+        },
+        {
+          "id": "p5q27",
+          "number": 27,
+          "question": "Kasus: Dalam review payment system, keputusan harus mempertimbangkan konsolidasi kas, kontrol, dan ketepatan proses. Fakta/isu yang harus diputuskan adalah: Saldo Rekening Penerimaan dilimpahkan ke RKUN melalui. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Revisi DIPA (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            },
+            {
+              "key": "B",
+              "text": "Sweeping harian"
+            },
+            {
+              "key": "C",
+              "text": "SPM (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            },
+            {
+              "key": "D",
+              "text": "TUP"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Sweeping harian",
+          "explanation": "Sweeping memastikan penerimaan tidak mengendap di bank persepsi."
+        },
+        {
+          "id": "p5q28",
+          "number": 28,
+          "question": "Kasus: Satker dan KPPN sedang menata rekening serta posisi kas agar tidak menimbulkan idle cash atau pelanggaran mekanisme pengelolaan rekening. Fakta/isu yang harus diputuskan adalah: Setelah perluasan biller yang disebut dalam Modul Sistem dan Teknologi Perbendaharaan, jumlah biller pada MPN G3 menjadi. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "4 biller (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            },
+            {
+              "key": "B",
+              "text": "3 biller (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            },
+            {
+              "key": "C",
+              "text": "5 biller"
+            },
+            {
+              "key": "D",
+              "text": "6 biller"
+            }
+          ],
+          "answer": "C",
+          "answerText": "5 biller",
+          "explanation": "Modul menyebut total lima biller, yaitu DJP, DJBC, DJA, DJPb, dan DJPPR. Soal tahun peluncuran MPN G3 pada versi sebelumnya dihapus karena dua modul yang diunggah menggunakan penanda waktu yang berbeda (evolusi sistem dan landasan kebijakan), sehingga tidak tepat dijadikan soal dengan satu kunci tahun."
+        },
+        {
+          "id": "p5q29",
+          "number": 29,
+          "question": "Kasus: Tim treasury membandingkan beberapa alternatif yang tampak efisien, tetapi tidak semuanya sesuai dengan desain pengelolaan kas pemerintah. Fakta/isu yang harus diputuskan adalah: NOW pada MPN G3 berarti. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "New Operational Workflow (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "B",
+              "text": "National Online Window"
+            },
+            {
+              "key": "C",
+              "text": "National One Way (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "D",
+              "text": "New Payment Channels, One Stop Services, With Enhanced Capacity"
+            }
+          ],
+          "answer": "D",
+          "answerText": "New Payment Channels, One Stop Services, With Enhanced Capacity",
+          "explanation": "Akronim NOW menjadi tagline utama MPN G3."
+        },
+        {
+          "id": "p5q30",
+          "number": 30,
+          "question": "Kasus: Dalam review payment system, keputusan harus mempertimbangkan konsolidasi kas, kontrol, dan ketepatan proses. Fakta/isu yang harus diputuskan adalah: Kapasitas MPN G3 meningkat dari sekitar. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "1.000 ke 10.000 transaksi/detik"
+            },
+            {
+              "key": "B",
+              "text": "10 ke 100 transaksi/detik"
+            },
+            {
+              "key": "C",
+              "text": "100 ke 500 transaksi/detik"
+            },
+            {
+              "key": "D",
+              "text": "60 ke 1.000 transaksi/detik"
+            }
+          ],
+          "answer": "D",
+          "answerText": "60 ke 1.000 transaksi/detik",
+          "explanation": "Peningkatan kapasitas merupakan salah satu karakteristik penting MPN G3."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Akuntansi dan Pertanggungjawaban Keuangan",
+      "questions": [
+        {
+          "id": "p6q1",
+          "number": 1,
+          "question": "Kasus: Tim penyusun laporan keuangan menemukan perbedaan pandangan mengenai pengakuan, klasifikasi, dan penyajian transaksi. Fakta/isu yang harus diputuskan adalah: SAP merupakan. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Standar audit BPK (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "B",
+              "text": "Prinsip akuntansi untuk menyusun dan menyajikan laporan keuangan pemerintah"
+            },
+            {
+              "key": "C",
+              "text": "Pedoman DIPA (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "D",
+              "text": "Pedoman pengadaan"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Prinsip akuntansi untuk menyusun dan menyajikan laporan keuangan pemerintah",
+          "explanation": "SAP mengatur pengakuan, pengukuran, penyajian, dan pengungkapan laporan keuangan pemerintah."
+        },
+        {
+          "id": "p6q2",
+          "number": 2,
+          "question": "Kasus: Pada saat rekonsiliasi, angka dapat terlihat wajar tetapi klasifikasi yang salah tetap dapat memengaruhi kualitas laporan keuangan. Fakta/isu yang harus diputuskan adalah: SAP pertama pemerintah ditetapkan melalui. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "PP 50/2018"
+            },
+            {
+              "key": "B",
+              "text": "PP 71/2010 (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            },
+            {
+              "key": "C",
+              "text": "PP 24/2005"
+            },
+            {
+              "key": "D",
+              "text": "PP 45/2013 (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            }
+          ],
+          "answer": "C",
+          "answerText": "PP 24/2005",
+          "explanation": "PP 24 Tahun 2005 menjadi tonggak awal SAP di Indonesia."
+        },
+        {
+          "id": "p6q3",
+          "number": 3,
+          "question": "Kasus: Pejabat penanggung jawab laporan meminta analisis sebelum koreksi dilakukan agar perlakuan akuntansi tetap konsisten. Fakta/isu yang harus diputuskan adalah: PP 24/2005 digantikan oleh. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "PP 45/2013 (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            },
+            {
+              "key": "B",
+              "text": "PP 71/2010"
+            },
+            {
+              "key": "C",
+              "text": "PP 50/2018 (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            },
+            {
+              "key": "D",
+              "text": "PP 12/2019"
+            }
+          ],
+          "answer": "B",
+          "answerText": "PP 71/2010",
+          "explanation": "PP 71 Tahun 2010 menjadi dasar SAP berbasis akrual."
+        },
+        {
+          "id": "p6q4",
+          "number": 4,
+          "question": "Kasus: Tim penyusun laporan keuangan menemukan perbedaan pandangan mengenai pengakuan, klasifikasi, dan penyajian transaksi. Fakta/isu yang harus diputuskan adalah: Pada basis kas, transaksi diakui saat. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hak muncul (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            },
+            {
+              "key": "B",
+              "text": "DIPA diterbitkan"
+            },
+            {
+              "key": "C",
+              "text": "Kas diterima/dikeluarkan"
+            },
+            {
+              "key": "D",
+              "text": "Kontrak ditandatangani (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Kas diterima/dikeluarkan",
+          "explanation": "Basis kas mengakui transaksi ketika arus kas terjadi."
+        },
+        {
+          "id": "p6q5",
+          "number": 5,
+          "question": "Kasus: Pada saat rekonsiliasi, angka dapat terlihat wajar tetapi klasifikasi yang salah tetap dapat memengaruhi kualitas laporan keuangan. Fakta/isu yang harus diputuskan adalah: Cash Toward Accrual berarti. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Semua berbasis kas"
+            },
+            {
+              "key": "B",
+              "text": "Aset tetap saja akrual (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "C",
+              "text": "Semua akrual (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "D",
+              "text": "Aset/kewajiban/ekuitas akrual, LRA berbasis kas"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Aset/kewajiban/ekuitas akrual, LRA berbasis kas",
+          "explanation": "CTA merupakan tahap transisi menuju akrual penuh."
+        },
+        {
+          "id": "p6q6",
+          "number": 6,
+          "question": "Kasus: Pejabat penanggung jawab laporan meminta analisis sebelum koreksi dilakukan agar perlakuan akuntansi tetap konsisten. Fakta/isu yang harus diputuskan adalah: Implementasi penuh SAP berbasis akrual untuk pemerintah pusat dilakukan pada. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "2008 (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            },
+            {
+              "key": "B",
+              "text": "2015"
+            },
+            {
+              "key": "C",
+              "text": "2010"
+            },
+            {
+              "key": "D",
+              "text": "2005 (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "2015",
+          "explanation": "LKPP TA 2015 disusun berbasis akrual dan menjadi tonggak implementasi penuh."
+        },
+        {
+          "id": "p6q7",
+          "number": 7,
+          "question": "Kasus: Tim penyusun laporan keuangan menemukan perbedaan pandangan mengenai pengakuan, klasifikasi, dan penyajian transaksi. Fakta/isu yang harus diputuskan adalah: SAPP bertujuan utama. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Menghasilkan informasi dan LKPP secara sistematis"
+            },
+            {
+              "key": "B",
+              "text": "Mengelola APBD"
+            },
+            {
+              "key": "C",
+              "text": "Kebijakan moneter (dengan pertimbangan bahwa kewenangan keputusan berada pada unit tersebut sebelum proses dilanjutkan)"
+            },
+            {
+              "key": "D",
+              "text": "Pengadaan (dengan asumsi pihak tersebut memegang fungsi pengujian sekaligus tindak lanjut pada tahap itu)"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Menghasilkan informasi dan LKPP secara sistematis",
+          "explanation": "SAPP menyediakan informasi anggaran, realisasi, posisi keuangan, serta mendukung akuntabilitas."
+        },
+        {
+          "id": "p6q8",
+          "number": 8,
+          "question": "Kasus: Pada saat rekonsiliasi, angka dapat terlihat wajar tetapi klasifikasi yang salah tetap dapat memengaruhi kualitas laporan keuangan. Fakta/isu yang harus diputuskan adalah: SAPP terdiri atas. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "BUN dan KPPN"
+            },
+            {
+              "key": "B",
+              "text": "LRA dan LO"
+            },
+            {
+              "key": "C",
+              "text": "SPAN dan SAKTI"
+            },
+            {
+              "key": "D",
+              "text": "SAI dan SABUN"
+            }
+          ],
+          "answer": "D",
+          "answerText": "SAI dan SABUN",
+          "explanation": "SAPP mencakup sistem akuntansi instansi dan sistem akuntansi BUN."
+        },
+        {
+          "id": "p6q9",
+          "number": 9,
+          "question": "Kasus: Pejabat penanggung jawab laporan meminta analisis sebelum koreksi dilakukan agar perlakuan akuntansi tetap konsisten. Fakta/isu yang harus diputuskan adalah: SABUN dilaksanakan oleh. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Pemda (dengan asumsi pihak tersebut memegang fungsi pengujian sekaligus tindak lanjut pada tahap itu)"
+            },
+            {
+              "key": "B",
+              "text": "Kementerian Keuangan selaku BUN/PA BA-BUN"
+            },
+            {
+              "key": "C",
+              "text": "BI (karena pihak tersebut dipandang paling dekat dengan pelaksanaan operasional transaksi)"
+            },
+            {
+              "key": "D",
+              "text": "BPK"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Kementerian Keuangan selaku BUN/PA BA-BUN",
+          "explanation": "SABUN menghasilkan Laporan Keuangan BUN."
+        },
+        {
+          "id": "p6q10",
+          "number": 10,
+          "question": "Kasus: Tim penyusun laporan keuangan menemukan perbedaan pandangan mengenai pengakuan, klasifikasi, dan penyajian transaksi. Fakta/isu yang harus diputuskan adalah: SAI dilaksanakan pada. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "BPK"
+            },
+            {
+              "key": "B",
+              "text": "Pemda (dengan pertimbangan bahwa kewenangan keputusan berada pada unit tersebut sebelum proses dilanjutkan)"
+            },
+            {
+              "key": "C",
+              "text": "Kementerian/Lembaga"
+            },
+            {
+              "key": "D",
+              "text": "BI (dengan asumsi pihak tersebut memegang fungsi pengujian sekaligus tindak lanjut pada tahap itu)"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Kementerian/Lembaga",
+          "explanation": "SAI memproses data keuangan K/L untuk menghasilkan laporan keuangan."
+        },
+        {
+          "id": "p6q11",
+          "number": 11,
+          "question": "Kasus: Pada saat rekonsiliasi, angka dapat terlihat wajar tetapi klasifikasi yang salah tetap dapat memengaruhi kualitas laporan keuangan. Fakta/isu yang harus diputuskan adalah: SAI mencakup. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Pengadaan saja (karena pihak tersebut dipandang paling dekat dengan pelaksanaan operasional transaksi)"
+            },
+            {
+              "key": "B",
+              "text": "Akuntansi keuangan dan BMN"
+            },
+            {
+              "key": "C",
+              "text": "Belanja saja"
+            },
+            {
+              "key": "D",
+              "text": "Kas saja (dengan pertimbangan bahwa kewenangan keputusan berada pada unit tersebut sebelum proses dilanjutkan)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Akuntansi keuangan dan BMN",
+          "explanation": "SAI mengintegrasikan pelaporan keuangan dan barang milik negara."
+        },
+        {
+          "id": "p6q12",
+          "number": 12,
+          "question": "Kasus: Pejabat penanggung jawab laporan meminta analisis sebelum koreksi dilakukan agar perlakuan akuntansi tetap konsisten. Fakta/isu yang harus diputuskan adalah: Aplikasi utama K/L untuk proses akuntansi dan pelaporan adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "OM-SPAN TKD"
+            },
+            {
+              "key": "B",
+              "text": "SAKTI"
+            },
+            {
+              "key": "C",
+              "text": "SIKRI"
+            },
+            {
+              "key": "D",
+              "text": "SEHATI"
+            }
+          ],
+          "answer": "B",
+          "answerText": "SAKTI",
+          "explanation": "SAKTI mengintegrasikan transaksi K/L sampai penyusunan laporan."
+        },
+        {
+          "id": "p6q13",
+          "number": 13,
+          "question": "Kasus: Tim penyusun laporan keuangan menemukan perbedaan pandangan mengenai pengakuan, klasifikasi, dan penyajian transaksi. Fakta/isu yang harus diputuskan adalah: Komponen laporan keuangan pemerintah yang lengkap adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "LRA, LPSAL, Neraca, LO, LAK, LPE, CaLK"
+            },
+            {
+              "key": "B",
+              "text": "DIPA, SPM, SP2D (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "C",
+              "text": "LO, DIPA, SPP"
+            },
+            {
+              "key": "D",
+              "text": "LRA, SPM, RKA (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            }
+          ],
+          "answer": "A",
+          "answerText": "LRA, LPSAL, Neraca, LO, LAK, LPE, CaLK",
+          "explanation": "Ketujuh komponen tersebut membentuk laporan keuangan pemerintah berbasis akrual."
+        },
+        {
+          "id": "p6q14",
+          "number": 14,
+          "question": "Kasus: Pada saat rekonsiliasi, angka dapat terlihat wajar tetapi klasifikasi yang salah tetap dapat memengaruhi kualitas laporan keuangan. Fakta/isu yang harus diputuskan adalah: Belanja dan Pendapatan-LRA disajikan dalam. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "LPE"
+            },
+            {
+              "key": "B",
+              "text": "LRA"
+            },
+            {
+              "key": "C",
+              "text": "Neraca"
+            },
+            {
+              "key": "D",
+              "text": "LO (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "LRA",
+          "explanation": "LRA menunjukkan realisasi anggaran berbasis kas."
+        },
+        {
+          "id": "p6q15",
+          "number": 15,
+          "question": "Kasus: Pejabat penanggung jawab laporan meminta analisis sebelum koreksi dilakukan agar perlakuan akuntansi tetap konsisten. Fakta/isu yang harus diputuskan adalah: Beban dan Pendapatan-LO disajikan dalam. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "LAK"
+            },
+            {
+              "key": "B",
+              "text": "LO"
+            },
+            {
+              "key": "C",
+              "text": "LRA"
+            },
+            {
+              "key": "D",
+              "text": "LPSAL"
+            }
+          ],
+          "answer": "B",
+          "answerText": "LO",
+          "explanation": "LO mencatat transaksi operasional berbasis akrual."
+        },
+        {
+          "id": "p6q16",
+          "number": 16,
+          "question": "Kasus: Tim penyusun laporan keuangan menemukan perbedaan pandangan mengenai pengakuan, klasifikasi, dan penyajian transaksi. Fakta/isu yang harus diputuskan adalah: Aset dan kewajiban disajikan dalam. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "LAK"
+            },
+            {
+              "key": "B",
+              "text": "LRA (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            },
+            {
+              "key": "C",
+              "text": "Neraca"
+            },
+            {
+              "key": "D",
+              "text": "LPE (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Neraca",
+          "explanation": "Neraca menggambarkan posisi keuangan pada tanggal pelaporan."
+        },
+        {
+          "id": "p6q17",
+          "number": 17,
+          "question": "Kasus: Pada saat rekonsiliasi, angka dapat terlihat wajar tetapi klasifikasi yang salah tetap dapat memengaruhi kualitas laporan keuangan. Fakta/isu yang harus diputuskan adalah: Perubahan ekuitas disajikan dalam. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "LPE"
+            },
+            {
+              "key": "B",
+              "text": "LPSAL"
+            },
+            {
+              "key": "C",
+              "text": "LAK"
+            },
+            {
+              "key": "D",
+              "text": "LRA"
+            }
+          ],
+          "answer": "A",
+          "answerText": "LPE",
+          "explanation": "LPE menjelaskan perubahan saldo ekuitas selama periode pelaporan."
+        },
+        {
+          "id": "p6q18",
+          "number": 18,
+          "question": "Kasus: Pejabat penanggung jawab laporan meminta analisis sebelum koreksi dilakukan agar perlakuan akuntansi tetap konsisten. Fakta/isu yang harus diputuskan adalah: CaLK berfungsi untuk. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Memberi penjelasan dan pengungkapan tambahan"
+            },
+            {
+              "key": "B",
+              "text": "Menetapkan pagu (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "C",
+              "text": "Menerbitkan SP2D"
+            },
+            {
+              "key": "D",
+              "text": "Menggantikan laporan utama (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Memberi penjelasan dan pengungkapan tambahan",
+          "explanation": "CaLK membantu pengguna memahami angka dan kebijakan dalam laporan keuangan."
+        },
+        {
+          "id": "p6q19",
+          "number": 19,
+          "question": "Kasus: Tim penyusun laporan keuangan menemukan perbedaan pandangan mengenai pengakuan, klasifikasi, dan penyajian transaksi. Fakta/isu yang harus diputuskan adalah: LKPP merupakan. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Laporan Kemenkeu saja (dengan pertimbangan bahwa kewenangan keputusan berada pada unit tersebut sebelum proses dilanjutkan)"
+            },
+            {
+              "key": "B",
+              "text": "Laporan Pemda"
+            },
+            {
+              "key": "C",
+              "text": "Laporan bank (dengan asumsi pihak tersebut memegang fungsi pengujian sekaligus tindak lanjut pada tahap itu)"
+            },
+            {
+              "key": "D",
+              "text": "Konsolidasi laporan K/L dan BUN"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Konsolidasi laporan K/L dan BUN",
+          "explanation": "LKPP merupakan pertanggungjawaban keuangan pemerintah pusat."
+        },
+        {
+          "id": "p6q20",
+          "number": 20,
+          "question": "Kasus: Pada saat rekonsiliasi, angka dapat terlihat wajar tetapi klasifikasi yang salah tetap dapat memengaruhi kualitas laporan keuangan. Fakta/isu yang harus diputuskan adalah: LKPP secara nasional disusun oleh. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "BPK (dengan pertimbangan bahwa kewenangan keputusan berada pada unit tersebut sebelum proses dilanjutkan)"
+            },
+            {
+              "key": "B",
+              "text": "Kementerian Keuangan"
+            },
+            {
+              "key": "C",
+              "text": "DPR"
+            },
+            {
+              "key": "D",
+              "text": "Bappenas (karena pihak tersebut dipandang paling dekat dengan pelaksanaan operasional transaksi)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Kementerian Keuangan",
+          "explanation": "Menteri Keuangan mengonsolidasikan laporan K/L dan BUN."
+        },
+        {
+          "id": "p6q21",
+          "number": 21,
+          "question": "Kasus: Pejabat penanggung jawab laporan meminta analisis sebelum koreksi dilakukan agar perlakuan akuntansi tetap konsisten. Fakta/isu yang harus diputuskan adalah: LKPP disampaikan Presiden kepada BPK paling lambat. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "3 bulan"
+            },
+            {
+              "key": "B",
+              "text": "1 bulan (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)"
+            },
+            {
+              "key": "C",
+              "text": "6 bulan"
+            },
+            {
+              "key": "D",
+              "text": "2 bulan (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)"
+            }
+          ],
+          "answer": "A",
+          "answerText": "3 bulan",
+          "explanation": "Batas penyampaian LKPP kepada BPK adalah paling lambat 3 bulan setelah tahun anggaran berakhir."
+        },
+        {
+          "id": "p6q22",
+          "number": 22,
+          "question": "Kasus: Tim penyusun laporan keuangan menemukan perbedaan pandangan mengenai pengakuan, klasifikasi, dan penyajian transaksi. Fakta/isu yang harus diputuskan adalah: Opini WTP pertama atas LKPP diperoleh untuk TA. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "2015 (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            },
+            {
+              "key": "B",
+              "text": "2016"
+            },
+            {
+              "key": "C",
+              "text": "2018"
+            },
+            {
+              "key": "D",
+              "text": "2017 (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "2016",
+          "explanation": "LKPP TA 2015 memperoleh WDP, sedangkan TA 2016 meraih WTP pertama."
+        },
+        {
+          "id": "p6q23",
+          "number": 23,
+          "question": "Kasus: Pada saat rekonsiliasi, angka dapat terlihat wajar tetapi klasifikasi yang salah tetap dapat memengaruhi kualitas laporan keuangan. Fakta/isu yang harus diputuskan adalah: Piutang yang jatuh tempo lebih dari 12 bulan dikategorikan. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Pendapatan diterima di muka"
+            },
+            {
+              "key": "B",
+              "text": "Kas lainnya"
+            },
+            {
+              "key": "C",
+              "text": "Piutang lancar"
+            },
+            {
+              "key": "D",
+              "text": "Piutang jangka panjang"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Piutang jangka panjang",
+          "explanation": "Klasifikasi didasarkan pada jangka waktu jatuh tempo."
+        },
+        {
+          "id": "p6q24",
+          "number": 24,
+          "question": "Kasus: Pejabat penanggung jawab laporan meminta analisis sebelum koreksi dilakukan agar perlakuan akuntansi tetap konsisten. Fakta/isu yang harus diputuskan adalah: Bagian piutang jangka panjang yang jatuh tempo dalam 12 bulan direklasifikasi menjadi. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Bagian Lancar Piutang Jangka Panjang"
+            },
+            {
+              "key": "B",
+              "text": "Pendapatan-LRA (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)"
+            },
+            {
+              "key": "C",
+              "text": "Piutang macet"
+            },
+            {
+              "key": "D",
+              "text": "Uang Muka (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Bagian Lancar Piutang Jangka Panjang",
+          "explanation": "Reklasifikasi dilakukan untuk penyajian Neraca yang tepat."
+        },
+        {
+          "id": "p6q25",
+          "number": 25,
+          "question": "Kasus: Tim penyusun laporan keuangan menemukan perbedaan pandangan mengenai pengakuan, klasifikasi, dan penyajian transaksi. Fakta/isu yang harus diputuskan adalah: Penyisihan piutang kualitas Lancar adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "50%"
+            },
+            {
+              "key": "B",
+              "text": "0,5%"
+            },
+            {
+              "key": "C",
+              "text": "10% (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "D",
+              "text": "0% (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "0,5%",
+          "explanation": "Tarif penyisihan untuk piutang lancar adalah 0,5%."
+        },
+        {
+          "id": "p6q26",
+          "number": 26,
+          "question": "Kasus: Pada saat rekonsiliasi, angka dapat terlihat wajar tetapi klasifikasi yang salah tetap dapat memengaruhi kualitas laporan keuangan. Fakta/isu yang harus diputuskan adalah: Penyisihan piutang Kurang Lancar adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "0,5%"
+            },
+            {
+              "key": "B",
+              "text": "10%"
+            },
+            {
+              "key": "C",
+              "text": "50%"
+            },
+            {
+              "key": "D",
+              "text": "100%"
+            }
+          ],
+          "answer": "B",
+          "answerText": "10%",
+          "explanation": "Kurang Lancar dikenakan penyisihan 10%."
+        },
+        {
+          "id": "p6q27",
+          "number": 27,
+          "question": "Kasus: Pejabat penanggung jawab laporan meminta analisis sebelum koreksi dilakukan agar perlakuan akuntansi tetap konsisten. Fakta/isu yang harus diputuskan adalah: Penyisihan piutang Diragukan adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "100%"
+            },
+            {
+              "key": "B",
+              "text": "50%"
+            },
+            {
+              "key": "C",
+              "text": "0,5%"
+            },
+            {
+              "key": "D",
+              "text": "10%"
+            }
+          ],
+          "answer": "B",
+          "answerText": "50%",
+          "explanation": "Piutang Diragukan dikenakan penyisihan 50%."
+        },
+        {
+          "id": "p6q28",
+          "number": 28,
+          "question": "Kasus: Tim penyusun laporan keuangan menemukan perbedaan pandangan mengenai pengakuan, klasifikasi, dan penyajian transaksi. Fakta/isu yang harus diputuskan adalah: Penyisihan piutang Macet adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "50%"
+            },
+            {
+              "key": "B",
+              "text": "25% (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "C",
+              "text": "100%"
+            },
+            {
+              "key": "D",
+              "text": "10% (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            }
+          ],
+          "answer": "C",
+          "answerText": "100%",
+          "explanation": "Piutang Macet disisihkan 100%."
+        },
+        {
+          "id": "p6q29",
+          "number": 29,
+          "question": "Kasus: Pada saat rekonsiliasi, angka dapat terlihat wajar tetapi klasifikasi yang salah tetap dapat memengaruhi kualitas laporan keuangan. Fakta/isu yang harus diputuskan adalah: Pada penyediaan UP/TUP awal muncul. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Aset Tetap dan Ekuitas"
+            },
+            {
+              "key": "B",
+              "text": "Belanja dan Utang (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            },
+            {
+              "key": "C",
+              "text": "Kas di Bendahara Pengeluaran dan Uang Muka dari KPPN"
+            },
+            {
+              "key": "D",
+              "text": "Piutang dan Pendapatan (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Kas di Bendahara Pengeluaran dan Uang Muka dari KPPN",
+          "explanation": "UP/TUP diperlakukan sebagai uang muka kerja."
+        },
+        {
+          "id": "p6q30",
+          "number": 30,
+          "question": "Kasus: Pejabat penanggung jawab laporan meminta analisis sebelum koreksi dilakukan agar perlakuan akuntansi tetap konsisten. Fakta/isu yang harus diputuskan adalah: Rekonsiliasi eksternal SAKTI–SPAN membandingkan. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Anggaran, realisasi, kas, hibah"
+            },
+            {
+              "key": "B",
+              "text": "SP2D saja (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            },
+            {
+              "key": "C",
+              "text": "Pegawai dan aset (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            },
+            {
+              "key": "D",
+              "text": "DIPA saja"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Anggaran, realisasi, kas, hibah",
+          "explanation": "Empat kelompok data utama ini menjadi basis rekonsiliasi eksternal."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Pelaksanaan Anggaran dan Pejabat Perbendaharaan",
+      "questions": [
+        {
+          "id": "p7q1",
+          "number": 1,
+          "question": "Kasus: Pada proses pembayaran, KPA meminta tim memastikan pemisahan kewenangan tetap terjaga meskipun terdapat tekanan untuk mempercepat penyelesaian. Fakta/isu yang harus diputuskan adalah: Pada umumnya jabatan KPA melekat secara ex officio pada. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Bendahara Pengeluaran"
+            },
+            {
+              "key": "B",
+              "text": "PPK (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            },
+            {
+              "key": "C",
+              "text": "Kepala KPPN"
+            },
+            {
+              "key": "D",
+              "text": "Kepala Satuan Kerja"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Kepala Satuan Kerja",
+          "explanation": "KPA pada umumnya melekat pada Kepala Satker yang mengelola DIPA."
+        },
+        {
+          "id": "p7q2",
+          "number": 2,
+          "question": "Kasus: Tagihan harus segera diselesaikan, tetapi pejabat perbendaharaan tidak boleh mengabaikan pengujian dan kelengkapan dokumen. Fakta/isu yang harus diputuskan adalah: Pejabat yang menetapkan PPK dan PPSPM adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Dirjen Perbendaharaan"
+            },
+            {
+              "key": "B",
+              "text": "Bendahara"
+            },
+            {
+              "key": "C",
+              "text": "KPA"
+            },
+            {
+              "key": "D",
+              "text": "KPPN (dengan asumsi pihak tersebut memegang fungsi pengujian sekaligus tindak lanjut pada tahap itu)"
+            }
+          ],
+          "answer": "C",
+          "answerText": "KPA",
+          "explanation": "Salah satu kewenangan KPA adalah menetapkan PPK dan PPSPM."
+        },
+        {
+          "id": "p7q3",
+          "number": 3,
+          "question": "Kasus: Satker menghadapi kondisi operasional yang membutuhkan keputusan cepat tanpa melanggar check and balance. Fakta/isu yang harus diputuskan adalah: Untuk satu DIPA, KPA dapat menetapkan. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tanpa PPSPM (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            },
+            {
+              "key": "B",
+              "text": "Satu atau lebih PPK dan satu PPSPM"
+            },
+            {
+              "key": "C",
+              "text": "Satu PPK dan banyak PPSPM"
+            },
+            {
+              "key": "D",
+              "text": "Satu PPK dan satu PPSPM saja (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Satu atau lebih PPK dan satu PPSPM",
+          "explanation": "Jumlah PPK dapat disesuaikan kebutuhan, sedangkan satu DIPA memiliki satu PPSPM."
+        },
+        {
+          "id": "p7q4",
+          "number": 4,
+          "question": "Kasus: Pada proses pembayaran, KPA meminta tim memastikan pemisahan kewenangan tetap terjaga meskipun terdapat tekanan untuk mempercepat penyelesaian. Fakta/isu yang harus diputuskan adalah: Pejabat yang bertanggung jawab atas tindakan yang menimbulkan pengeluaran adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "PPK"
+            },
+            {
+              "key": "B",
+              "text": "KPPN"
+            },
+            {
+              "key": "C",
+              "text": "PPSPM"
+            },
+            {
+              "key": "D",
+              "text": "Bendahara"
+            }
+          ],
+          "answer": "A",
+          "answerText": "PPK",
+          "explanation": "PPK berperan sebagai eksekutor komitmen dan kontrak."
+        },
+        {
+          "id": "p7q5",
+          "number": 5,
+          "question": "Kasus: Tagihan harus segera diselesaikan, tetapi pejabat perbendaharaan tidak boleh mengabaikan pengujian dan kelengkapan dokumen. Fakta/isu yang harus diputuskan adalah: Pejabat yang membuat dan menandatangani SPP adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Kuasa BUN"
+            },
+            {
+              "key": "B",
+              "text": "PPK"
+            },
+            {
+              "key": "C",
+              "text": "PPSPM"
+            },
+            {
+              "key": "D",
+              "text": "Bendahara"
+            }
+          ],
+          "answer": "B",
+          "answerText": "PPK",
+          "explanation": "PPK menguji hak tagih dan menyusun SPP."
+        },
+        {
+          "id": "p7q6",
+          "number": 6,
+          "question": "Kasus: Satker menghadapi kondisi operasional yang membutuhkan keputusan cepat tanpa melanggar check and balance. Fakta/isu yang harus diputuskan adalah: Pejabat yang menerbitkan SPM adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "KPA"
+            },
+            {
+              "key": "B",
+              "text": "Bendahara"
+            },
+            {
+              "key": "C",
+              "text": "PPSPM"
+            },
+            {
+              "key": "D",
+              "text": "PPK (dengan pertimbangan bahwa kewenangan keputusan berada pada unit tersebut sebelum proses dilanjutkan)"
+            }
+          ],
+          "answer": "C",
+          "answerText": "PPSPM",
+          "explanation": "PPSPM menguji SPP dan menerbitkan SPM bila memenuhi syarat."
+        },
+        {
+          "id": "p7q7",
+          "number": 7,
+          "question": "Kasus: Pada proses pembayaran, KPA meminta tim memastikan pemisahan kewenangan tetap terjaga meskipun terdapat tekanan untuk mempercepat penyelesaian. Fakta/isu yang harus diputuskan adalah: Jika SPP tidak memenuhi persyaratan, PPSPM harus. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Menolak dan mengembalikan SPP"
+            },
+            {
+              "key": "B",
+              "text": "Mengubah menjadi UP"
+            },
+            {
+              "key": "C",
+              "text": "Mengirim ke bank (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)"
+            },
+            {
+              "key": "D",
+              "text": "Tetap menerbitkan SPM (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Menolak dan mengembalikan SPP",
+          "explanation": "PPSPM wajib menjaga kualitas dan kepatuhan pembayaran."
+        },
+        {
+          "id": "p7q8",
+          "number": 8,
+          "question": "Kasus: Tagihan harus segera diselesaikan, tetapi pejabat perbendaharaan tidak boleh mengabaikan pengujian dan kelengkapan dokumen. Fakta/isu yang harus diputuskan adalah: Tugas Bendahara Pengeluaran antara lain. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Menerbitkan SP2D"
+            },
+            {
+              "key": "B",
+              "text": "Menerima dan menyimpan UP serta melakukan pembayaran UP"
+            },
+            {
+              "key": "C",
+              "text": "Menandatangani kontrak (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            },
+            {
+              "key": "D",
+              "text": "Menerbitkan SPM (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Menerima dan menyimpan UP serta melakukan pembayaran UP",
+          "explanation": "Bendahara juga melakukan pengujian, pemungutan/pemotongan, pembukuan, dan LPJ."
+        },
+        {
+          "id": "p7q9",
+          "number": 9,
+          "question": "Kasus: Satker menghadapi kondisi operasional yang membutuhkan keputusan cepat tanpa melanggar check and balance. Fakta/isu yang harus diputuskan adalah: Jika tagihan UP tidak memenuhi syarat, Bendahara. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Wajib membayar (serta dilanjutkan dengan koordinasi kepada pihak terkait tanpa mengubah tahapan utama proses)"
+            },
+            {
+              "key": "B",
+              "text": "Dapat menolak pembayaran"
+            },
+            {
+              "key": "C",
+              "text": "Harus ubah ke LS (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)"
+            },
+            {
+              "key": "D",
+              "text": "Harus minta BPK"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Dapat menolak pembayaran",
+          "explanation": "Bendahara memiliki tanggung jawab pribadi dan wajib menolak pembayaran yang tidak sah."
+        },
+        {
+          "id": "p7q10",
+          "number": 10,
+          "question": "Kasus: Pada proses pembayaran, KPA meminta tim memastikan pemisahan kewenangan tetap terjaga meskipun terdapat tekanan untuk mempercepat penyelesaian. Fakta/isu yang harus diputuskan adalah: Bendahara tidak boleh dirangkap oleh. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "KPA saja"
+            },
+            {
+              "key": "B",
+              "text": "KPA, PPK, atau PPSPM"
+            },
+            {
+              "key": "C",
+              "text": "PPK saja (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            },
+            {
+              "key": "D",
+              "text": "PPSPM saja (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "KPA, PPK, atau PPSPM",
+          "explanation": "Larangan rangkap mendukung check and balance."
+        },
+        {
+          "id": "p7q11",
+          "number": 11,
+          "question": "Kasus: Tagihan harus segera diselesaikan, tetapi pejabat perbendaharaan tidak boleh mengabaikan pengujian dan kelengkapan dokumen. Fakta/isu yang harus diputuskan adalah: PPK dan PPSPM. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Boleh dirangkap (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            },
+            {
+              "key": "B",
+              "text": "Tidak boleh dirangkap"
+            },
+            {
+              "key": "C",
+              "text": "Hanya boleh pada BLU (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            },
+            {
+              "key": "D",
+              "text": "Wajib dirangkap"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Tidak boleh dirangkap",
+          "explanation": "Fungsi pembuat komitmen dan penguji pembayaran harus dipisahkan."
+        },
+        {
+          "id": "p7q12",
+          "number": 12,
+          "question": "Kasus: Satker menghadapi kondisi operasional yang membutuhkan keputusan cepat tanpa melanggar check and balance. Fakta/isu yang harus diputuskan adalah: Menurut ketentuan dalam modul, KPA dapat merangkap. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Bendahara (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            },
+            {
+              "key": "B",
+              "text": "PPK atau PPSPM, tetapi tidak keduanya"
+            },
+            {
+              "key": "C",
+              "text": "Sekaligus PPK dan PPSPM (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            },
+            {
+              "key": "D",
+              "text": "Tidak boleh apa pun"
+            }
+          ],
+          "answer": "B",
+          "answerText": "PPK atau PPSPM, tetapi tidak keduanya",
+          "explanation": "Modul menjelaskan batas perangkapan untuk menjaga pemisahan fungsi."
+        },
+        {
+          "id": "p7q13",
+          "number": 13,
+          "question": "Kasus: Pada proses pembayaran, KPA meminta tim memastikan pemisahan kewenangan tetap terjaga meskipun terdapat tekanan untuk mempercepat penyelesaian. Fakta/isu yang harus diputuskan adalah: Pasangan sertifikasi yang tepat adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Semua BNT (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "B",
+              "text": "PPK-BNT, PPSPM-PNT, Bendahara-SNT (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "C",
+              "text": "PPK-PNT, PPSPM-SNT, Bendahara-BNT"
+            },
+            {
+              "key": "D",
+              "text": "PPK-SNT, PPSPM-BNT, Bendahara-PNT"
+            }
+          ],
+          "answer": "C",
+          "answerText": "PPK-PNT, PPSPM-SNT, Bendahara-BNT",
+          "explanation": "PNT untuk PPK, SNT untuk PPSPM, dan BNT untuk Bendahara."
+        },
+        {
+          "id": "p7q14",
+          "number": 14,
+          "question": "Kasus: Tagihan harus segera diselesaikan, tetapi pejabat perbendaharaan tidak boleh mengabaikan pengujian dan kelengkapan dokumen. Fakta/isu yang harus diputuskan adalah: Wetmatigheid menguji. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hak penerima (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            },
+            {
+              "key": "B",
+              "text": "Kesesuaian dengan peraturan"
+            },
+            {
+              "key": "C",
+              "text": "Tujuan belanja"
+            },
+            {
+              "key": "D",
+              "text": "Ketersediaan kas (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Kesesuaian dengan peraturan",
+          "explanation": "Wetmatigheid berfokus pada legalitas."
+        },
+        {
+          "id": "p7q15",
+          "number": 15,
+          "question": "Kasus: Satker menghadapi kondisi operasional yang membutuhkan keputusan cepat tanpa melanggar check and balance. Fakta/isu yang harus diputuskan adalah: Rechtmatigheid menguji. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "RPD (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            },
+            {
+              "key": "B",
+              "text": "Pagu"
+            },
+            {
+              "key": "C",
+              "text": "Tujuan (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            },
+            {
+              "key": "D",
+              "text": "Kebenaran hak penerima dan nilai tagihan"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Kebenaran hak penerima dan nilai tagihan",
+          "explanation": "Rechtmatigheid memastikan pembayaran kepada pihak yang memang berhak."
+        },
+        {
+          "id": "p7q16",
+          "number": 16,
+          "question": "Kasus: Pada proses pembayaran, KPA meminta tim memastikan pemisahan kewenangan tetap terjaga meskipun terdapat tekanan untuk mempercepat penyelesaian. Fakta/isu yang harus diputuskan adalah: Doelmatigheid menguji. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Nomor kontrak"
+            },
+            {
+              "key": "B",
+              "text": "Masa DIPA (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            },
+            {
+              "key": "C",
+              "text": "Tujuan/manfaat pengeluaran"
+            },
+            {
+              "key": "D",
+              "text": "Nomor rekening (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Tujuan/manfaat pengeluaran",
+          "explanation": "Doelmatigheid menguji kesesuaian pengeluaran dengan tujuan yang hendak dicapai."
+        },
+        {
+          "id": "p7q17",
+          "number": 17,
+          "question": "Kasus: Tagihan harus segera diselesaikan, tetapi pejabat perbendaharaan tidak boleh mengabaikan pengujian dan kelengkapan dokumen. Fakta/isu yang harus diputuskan adalah: Pejabat yang menjadi benteng terakhir pengeluaran di tingkat K/L adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "KPPN"
+            },
+            {
+              "key": "B",
+              "text": "PPSPM"
+            },
+            {
+              "key": "C",
+              "text": "Bendahara"
+            },
+            {
+              "key": "D",
+              "text": "PPK (dengan asumsi pihak tersebut memegang fungsi pengujian sekaligus tindak lanjut pada tahap itu)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "PPSPM",
+          "explanation": "PPSPM menjadi penguji terakhir di sisi K/L sebelum SPM dikirim ke KPPN."
+        },
+        {
+          "id": "p7q18",
+          "number": 18,
+          "question": "Kasus: Satker menghadapi kondisi operasional yang membutuhkan keputusan cepat tanpa melanggar check and balance. Fakta/isu yang harus diputuskan adalah: Supplier dalam SPAN berarti. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Bendahara saja"
+            },
+            {
+              "key": "B",
+              "text": "Seluruh pihak yang berhak menerima pembayaran APBN"
+            },
+            {
+              "key": "C",
+              "text": "Pegawai saja (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "D",
+              "text": "Hanya perusahaan (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Seluruh pihak yang berhak menerima pembayaran APBN",
+          "explanation": "Supplier SPAN mencakup berbagai tipe penerima pembayaran."
+        },
+        {
+          "id": "p7q19",
+          "number": 19,
+          "question": "Kasus: Pada proses pembayaran, KPA meminta tim memastikan pemisahan kewenangan tetap terjaga meskipun terdapat tekanan untuk mempercepat penyelesaian. Fakta/isu yang harus diputuskan adalah: Supplier tipe 1 adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Pegawai"
+            },
+            {
+              "key": "B",
+              "text": "Transfer daerah"
+            },
+            {
+              "key": "C",
+              "text": "Satker"
+            },
+            {
+              "key": "D",
+              "text": "Penyedia"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Satker",
+          "explanation": "Tipe 1 digunakan untuk Satker dalam transaksi tertentu."
+        },
+        {
+          "id": "p7q20",
+          "number": 20,
+          "question": "Kasus: Tagihan harus segera diselesaikan, tetapi pejabat perbendaharaan tidak boleh mengabaikan pengujian dan kelengkapan dokumen. Fakta/isu yang harus diputuskan adalah: Supplier tipe 2 adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "BA BUN"
+            },
+            {
+              "key": "B",
+              "text": "Penyedia Barang/Jasa"
+            },
+            {
+              "key": "C",
+              "text": "Satker (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "D",
+              "text": "Pegawai (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Penyedia Barang/Jasa",
+          "explanation": "Tipe 2 digunakan untuk pembayaran kepada penyedia/pihak ketiga."
+        },
+        {
+          "id": "p7q21",
+          "number": 21,
+          "question": "Kasus: Satker menghadapi kondisi operasional yang membutuhkan keputusan cepat tanpa melanggar check and balance. Fakta/isu yang harus diputuskan adalah: Supplier tipe 3 adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Pegawai"
+            },
+            {
+              "key": "B",
+              "text": "Pemda (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "C",
+              "text": "BUMN"
+            },
+            {
+              "key": "D",
+              "text": "BUN (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Pegawai",
+          "explanation": "Tipe 3 digunakan untuk transaksi pembayaran kepada pegawai."
+        },
+        {
+          "id": "p7q22",
+          "number": 22,
+          "question": "Kasus: Pada proses pembayaran, KPA meminta tim memastikan pemisahan kewenangan tetap terjaga meskipun terdapat tekanan untuk mempercepat penyelesaian. Fakta/isu yang harus diputuskan adalah: Data kontrak didaftarkan ke KPPN paling lambat. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "3 HK"
+            },
+            {
+              "key": "B",
+              "text": "10 HK (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)"
+            },
+            {
+              "key": "C",
+              "text": "2 HK (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)"
+            },
+            {
+              "key": "D",
+              "text": "5 HK setelah kontrak ditandatangani"
+            }
+          ],
+          "answer": "D",
+          "answerText": "5 HK setelah kontrak ditandatangani",
+          "explanation": "Kontrak dan addendum harus didaftarkan tepat waktu."
+        },
+        {
+          "id": "p7q23",
+          "number": 23,
+          "question": "Kasus: Tagihan harus segera diselesaikan, tetapi pejabat perbendaharaan tidak boleh mengabaikan pengujian dan kelengkapan dokumen. Fakta/isu yang harus diputuskan adalah: Jika pendaftaran kontrak terlambat, Satker melampirkan. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Persetujuan Menteri (serta dilanjutkan dengan koordinasi kepada pihak terkait tanpa mengubah tahapan utama proses)"
+            },
+            {
+              "key": "B",
+              "text": "Laporan audit"
+            },
+            {
+              "key": "C",
+              "text": "Surat bank (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)"
+            },
+            {
+              "key": "D",
+              "text": "Surat pernyataan KPA tentang alasan keterlambatan"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Surat pernyataan KPA tentang alasan keterlambatan",
+          "explanation": "Dokumen ini menjelaskan penyebab keterlambatan pendaftaran."
+        },
+        {
+          "id": "p7q24",
+          "number": 24,
+          "question": "Kasus: Satker menghadapi kondisi operasional yang membutuhkan keputusan cepat tanpa melanggar check and balance. Fakta/isu yang harus diputuskan adalah: Penyedia mengajukan tagihan paling lambat. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Akhir bulan (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)"
+            },
+            {
+              "key": "B",
+              "text": "10 HK setelah SP2D (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)"
+            },
+            {
+              "key": "C",
+              "text": "3 hari kalender"
+            },
+            {
+              "key": "D",
+              "text": "5 HK sejak hak tagih muncul"
+            }
+          ],
+          "answer": "D",
+          "answerText": "5 HK sejak hak tagih muncul",
+          "explanation": "Jika belum diajukan, PPK memberikan pemberitahuan tertulis kepada penyedia."
+        },
+        {
+          "id": "p7q25",
+          "number": 25,
+          "question": "Kasus: Pada proses pembayaran, KPA meminta tim memastikan pemisahan kewenangan tetap terjaga meskipun terdapat tekanan untuk mempercepat penyelesaian. Fakta/isu yang harus diputuskan adalah: Jika BAST yang dipersyaratkan belum tersedia, PPSPM. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tetap menerbitkan SPM (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)"
+            },
+            {
+              "key": "B",
+              "text": "Mengembalikan SPP sampai dokumen lengkap"
+            },
+            {
+              "key": "C",
+              "text": "Kirim ke bank"
+            },
+            {
+              "key": "D",
+              "text": "Bayar UP (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Mengembalikan SPP sampai dokumen lengkap",
+          "explanation": "BAST membuktikan prestasi pekerjaan dan hak tagih."
+        },
+        {
+          "id": "p7q26",
+          "number": 26,
+          "question": "Kasus: Tagihan harus segera diselesaikan, tetapi pejabat perbendaharaan tidak boleh mengabaikan pengujian dan kelengkapan dokumen. Fakta/isu yang harus diputuskan adalah: BAST terutama dikelola pada Modul SAKTI. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Bendahara"
+            },
+            {
+              "key": "B",
+              "text": "Piutang"
+            },
+            {
+              "key": "C",
+              "text": "Komitmen"
+            },
+            {
+              "key": "D",
+              "text": "Penganggaran"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Komitmen",
+          "explanation": "Modul Komitmen mengelola supplier, kontrak, BAST, dan capaian output."
+        },
+        {
+          "id": "p7q27",
+          "number": 27,
+          "question": "Kasus: Satker menghadapi kondisi operasional yang membutuhkan keputusan cepat tanpa melanggar check and balance. Fakta/isu yang harus diputuskan adalah: Dua mekanisme utama pembayaran APBN adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "SPP dan SPM"
+            },
+            {
+              "key": "B",
+              "text": "DIPA dan RKA"
+            },
+            {
+              "key": "C",
+              "text": "SPAN dan SAKTI"
+            },
+            {
+              "key": "D",
+              "text": "LS dan UP"
+            }
+          ],
+          "answer": "D",
+          "answerText": "LS dan UP",
+          "explanation": "LS digunakan untuk pembayaran langsung, sedangkan UP untuk kebutuhan operasional tertentu."
+        },
+        {
+          "id": "p7q28",
+          "number": 28,
+          "question": "Kasus: Pada proses pembayaran, KPA meminta tim memastikan pemisahan kewenangan tetap terjaga meskipun terdapat tekanan untuk mempercepat penyelesaian. Fakta/isu yang harus diputuskan adalah: UP adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Dana investasi (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "B",
+              "text": "Dana hibah"
+            },
+            {
+              "key": "C",
+              "text": "Uang muka kerja kepada Bendahara untuk kebutuhan operasional"
+            },
+            {
+              "key": "D",
+              "text": "SAL (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Uang muka kerja kepada Bendahara untuk kebutuhan operasional",
+          "explanation": "UP berfungsi sebagai kas kerja Satker dan wajib dipertanggungjawabkan."
+        },
+        {
+          "id": "p7q29",
+          "number": 29,
+          "question": "Kasus: Tagihan harus segera diselesaikan, tetapi pejabat perbendaharaan tidak boleh mengabaikan pengujian dan kelengkapan dokumen. Fakta/isu yang harus diputuskan adalah: Besaran UP sesuai kebutuhan satu bulan paling banyak. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Seluruh pagu (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)"
+            },
+            {
+              "key": "B",
+              "text": "1/6 pagu"
+            },
+            {
+              "key": "C",
+              "text": "1/4 pagu (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)"
+            },
+            {
+              "key": "D",
+              "text": "1/12 pagu jenis belanja yang dapat dibayar UP"
+            }
+          ],
+          "answer": "D",
+          "answerText": "1/12 pagu jenis belanja yang dapat dibayar UP",
+          "explanation": "Batas ini menjadi salah satu angka penting dalam pengelolaan UP."
+        },
+        {
+          "id": "p7q30",
+          "number": 30,
+          "question": "Kasus: Satker menghadapi kondisi operasional yang membutuhkan keputusan cepat tanpa melanggar check and balance. Fakta/isu yang harus diputuskan adalah: Revolving UP dapat diajukan setelah UP digunakan paling sedikit. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "75%"
+            },
+            {
+              "key": "B",
+              "text": "25% (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)"
+            },
+            {
+              "key": "C",
+              "text": "50%"
+            },
+            {
+              "key": "D",
+              "text": "40% (serta dilanjutkan dengan koordinasi kepada pihak terkait tanpa mengubah tahapan utama proses)"
+            }
+          ],
+          "answer": "C",
+          "answerText": "50%",
+          "explanation": "Revolving dilakukan setelah penggunaan UP mencapai sekurang-kurangnya 50%."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Sistem dan Teknologi Perbendaharaan",
+      "questions": [
+        {
+          "id": "p8q1",
+          "number": 1,
+          "question": "Kasus: Tim operasional TIK dan pengguna aplikasi menilai suatu proses yang melibatkan integrasi, kontrol akses, serta kesinambungan layanan. Fakta/isu yang harus diputuskan adalah: IFMIS adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Sistem terintegrasi pengelolaan keuangan negara end-to-end"
+            },
+            {
+              "key": "B",
+              "text": "Sistem pengadaan"
+            },
+            {
+              "key": "C",
+              "text": "Sistem rekening (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "D",
+              "text": "Sistem gaji saja (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Sistem terintegrasi pengelolaan keuangan negara end-to-end",
+          "explanation": "IFMIS menghubungkan proses perencanaan, penganggaran, pelaksanaan, hingga pertanggungjawaban."
+        },
+        {
+          "id": "p8q2",
+          "number": 2,
+          "question": "Kasus: Percepatan digitalisasi memberi efisiensi, tetapi keputusan sistem tetap harus menjaga integritas data dan pembagian kewenangan. Fakta/isu yang harus diputuskan adalah: Tiga sistem utama dalam kerangka IFMIS DJPb adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "SIKP, SEHATI, Siskeudes"
+            },
+            {
+              "key": "B",
+              "text": "RTGS, SKN, SWIFT"
+            },
+            {
+              "key": "C",
+              "text": "SAKTI, SPAN, MPN"
+            },
+            {
+              "key": "D",
+              "text": "DJPb, DJA, DJPK"
+            }
+          ],
+          "answer": "C",
+          "answerText": "SAKTI, SPAN, MPN",
+          "explanation": "Ketiganya menjadi tulang punggung transformasi digital perbendaharaan."
+        },
+        {
+          "id": "p8q3",
+          "number": 3,
+          "question": "Kasus: Dalam evaluasi IFMIS, tim harus membedakan fungsi masing-masing aplikasi dan kontrol yang melekat pada prosesnya. Fakta/isu yang harus diputuskan adalah: Yang bukan tujuan modernisasi IFMIS adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Memperbanyak input ulang"
+            },
+            {
+              "key": "B",
+              "text": "Efisiensi (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "C",
+              "text": "Akuntabilitas (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "D",
+              "text": "Transparansi"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Memperbanyak input ulang",
+          "explanation": "Integrasi justru bertujuan mengurangi duplikasi dan inkonsistensi data."
+        },
+        {
+          "id": "p8q4",
+          "number": 4,
+          "question": "Kasus: Tim operasional TIK dan pengguna aplikasi menilai suatu proses yang melibatkan integrasi, kontrol akses, serta kesinambungan layanan. Fakta/isu yang harus diputuskan adalah: Manfaat utama integrasi data antarsistem adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Menambah redundansi (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "B",
+              "text": "Menghilangkan kontrol"
+            },
+            {
+              "key": "C",
+              "text": "Mengurangi inkonsistensi dan mempercepat informasi"
+            },
+            {
+              "key": "D",
+              "text": "Menambah proses manual (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Mengurangi inkonsistensi dan mempercepat informasi",
+          "explanation": "Data yang terintegrasi mendukung keputusan lebih cepat dan akurat."
+        },
+        {
+          "id": "p8q5",
+          "number": 5,
+          "question": "Kasus: Percepatan digitalisasi memberi efisiensi, tetapi keputusan sistem tetap harus menjaga integritas data dan pembagian kewenangan. Fakta/isu yang harus diputuskan adalah: IFMIS bukan hanya otomasi karena juga mendukung. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Penggunaan akun bersama (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            },
+            {
+              "key": "B",
+              "text": "Budaya kerja berbasis data dan kontrol internal"
+            },
+            {
+              "key": "C",
+              "text": "Penghapusan audit trail"
+            },
+            {
+              "key": "D",
+              "text": "Pengurangan transparansi (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Budaya kerja berbasis data dan kontrol internal",
+          "explanation": "Transformasi digital juga memperkuat governance dan data-driven policy."
+        },
+        {
+          "id": "p8q6",
+          "number": 6,
+          "question": "Kasus: Dalam evaluasi IFMIS, tim harus membedakan fungsi masing-masing aplikasi dan kontrol yang melekat pada prosesnya. Fakta/isu yang harus diputuskan adalah: SPAN terutama digunakan sebagai. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Sistem perbendaharaan dan anggaran negara di Kemenkeu"
+            },
+            {
+              "key": "B",
+              "text": "Sistem sisi PA di Satker (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            },
+            {
+              "key": "C",
+              "text": "Sistem kepegawaian"
+            },
+            {
+              "key": "D",
+              "text": "Sistem APBD (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Sistem perbendaharaan dan anggaran negara di Kemenkeu",
+          "explanation": "SPAN menjadi core system untuk fungsi BUN/perbendaharaan."
+        },
+        {
+          "id": "p8q7",
+          "number": 7,
+          "question": "Kasus: Tim operasional TIK dan pengguna aplikasi menilai suatu proses yang melibatkan integrasi, kontrol akses, serta kesinambungan layanan. Fakta/isu yang harus diputuskan adalah: Karakteristik utama SPAN adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hanya pelaporan"
+            },
+            {
+              "key": "B",
+              "text": "Offline (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "C",
+              "text": "Stand-alone tiap KPPN (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "D",
+              "text": "Elektronik, terintegrasi, real-time"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Elektronik, terintegrasi, real-time",
+          "explanation": "SPAN dibangun untuk menggantikan proses terfragmentasi dan manual."
+        },
+        {
+          "id": "p8q8",
+          "number": 8,
+          "question": "Kasus: Percepatan digitalisasi memberi efisiensi, tetapi keputusan sistem tetap harus menjaga integritas data dan pembagian kewenangan. Fakta/isu yang harus diputuskan adalah: Enam modul utama SPAN adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Penganggaran, Komitmen, Pembayaran, Kas, Penerimaan, Akuntansi/Pelaporan"
+            },
+            {
+              "key": "B",
+              "text": "Penganggaran, Persediaan, Piutang, Aset, Bendahara, Pelaporan (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "C",
+              "text": "SPM, SP2D, DIPA, BAS, RKUN, LKPP (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "D",
+              "text": "SDM, Gaji, Kas, Audit, Kontrak, Pajak"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Penganggaran, Komitmen, Pembayaran, Kas, Penerimaan, Akuntansi/Pelaporan",
+          "explanation": "Jangan tertukar dengan 11 modul utama SAKTI."
+        },
+        {
+          "id": "p8q9",
+          "number": 9,
+          "question": "Kasus: Dalam evaluasi IFMIS, tim harus membedakan fungsi masing-masing aplikasi dan kontrol yang melekat pada prosesnya. Fakta/isu yang harus diputuskan adalah: Modul Penganggaran SPAN terutama digunakan untuk. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Menyusun RAPBN dari awal (serta dilanjutkan dengan koordinasi kepada pihak terkait tanpa mengubah tahapan utama proses)"
+            },
+            {
+              "key": "B",
+              "text": "Menyusun Renja Satker"
+            },
+            {
+              "key": "C",
+              "text": "Menghitung gaji (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)"
+            },
+            {
+              "key": "D",
+              "text": "Validasi/posting DIPA dan Budget Control"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Validasi/posting DIPA dan Budget Control",
+          "explanation": "DIPA yang telah diposting menjadi dasar transaksi modul SPAN lainnya."
+        },
+        {
+          "id": "p8q10",
+          "number": 10,
+          "question": "Kasus: Tim operasional TIK dan pengguna aplikasi menilai suatu proses yang melibatkan integrasi, kontrol akses, serta kesinambungan layanan. Fakta/isu yang harus diputuskan adalah: DIPA yang telah terposting berarti. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Data dapat digunakan untuk transaksi modul lain"
+            },
+            {
+              "key": "B",
+              "text": "DIPA tidak bisa direvisi (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)"
+            },
+            {
+              "key": "C",
+              "text": "SP2D otomatis terbit"
+            },
+            {
+              "key": "D",
+              "text": "Anggaran dihapus (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Data dapat digunakan untuk transaksi modul lain",
+          "explanation": "Posting merupakan tahap penting agar anggaran aktif dalam SPAN."
+        },
+        {
+          "id": "p8q11",
+          "number": 11,
+          "question": "Kasus: Percepatan digitalisasi memberi efisiensi, tetapi keputusan sistem tetap harus menjaga integritas data dan pembagian kewenangan. Fakta/isu yang harus diputuskan adalah: Alur SAKTI–SPAN yang tepat adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "SPAN membuat SPM (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "B",
+              "text": "MPN menerbitkan SPM (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "C",
+              "text": "Satker membuat SPM di SAKTI lalu KPPN memproses dalam SPAN"
+            },
+            {
+              "key": "D",
+              "text": "Bank membuat SPM"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Satker membuat SPM di SAKTI lalu KPPN memproses dalam SPAN",
+          "explanation": "SAKTI berperan di sisi Satker, SPAN di sisi BUN/KPPN."
+        },
+        {
+          "id": "p8q12",
+          "number": 12,
+          "question": "Kasus: Dalam evaluasi IFMIS, tim harus membedakan fungsi masing-masing aplikasi dan kontrol yang melekat pada prosesnya. Fakta/isu yang harus diputuskan adalah: SPAN mendukung implementasi. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "APBD"
+            },
+            {
+              "key": "B",
+              "text": "E-katalog"
+            },
+            {
+              "key": "C",
+              "text": "TSA"
+            },
+            {
+              "key": "D",
+              "text": "Siskeudes"
+            }
+          ],
+          "answer": "C",
+          "answerText": "TSA",
+          "explanation": "SPAN mendukung pengelolaan kas terpusat dalam kerangka Treasury Single Account."
+        },
+        {
+          "id": "p8q13",
+          "number": 13,
+          "question": "Kasus: Tim operasional TIK dan pengguna aplikasi menilai suatu proses yang melibatkan integrasi, kontrol akses, serta kesinambungan layanan. Fakta/isu yang harus diputuskan adalah: Dalam interkoneksi pembayaran, SPAN. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tidak terhubung bank (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            },
+            {
+              "key": "B",
+              "text": "Mengirim data SP2D elektronik ke Bank Operasional"
+            },
+            {
+              "key": "C",
+              "text": "Mengirim DIPA ke pegawai"
+            },
+            {
+              "key": "D",
+              "text": "Hanya menerima data tahunan (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Mengirim data SP2D elektronik ke Bank Operasional",
+          "explanation": "Bank kemudian menyalurkan dana dan menyampaikan informasi hasil pembayaran."
+        },
+        {
+          "id": "p8q14",
+          "number": 14,
+          "question": "Kasus: Percepatan digitalisasi memberi efisiensi, tetapi keputusan sistem tetap harus menjaga integritas data dan pembagian kewenangan. Fakta/isu yang harus diputuskan adalah: Arah SPAN Next Generation adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Menghapus SAKTI (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "B",
+              "text": "Menghilangkan otomasi"
+            },
+            {
+              "key": "C",
+              "text": "Kembali ke ADK manual (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "D",
+              "text": "Interkoneksi langsung berbasis SOA"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Interkoneksi langsung berbasis SOA",
+          "explanation": "Pengembangan diarahkan dari pertukaran file menuju integrasi layanan."
+        },
+        {
+          "id": "p8q15",
+          "number": 15,
+          "question": "Kasus: Dalam evaluasi IFMIS, tim harus membedakan fungsi masing-masing aplikasi dan kontrol yang melekat pada prosesnya. Fakta/isu yang harus diputuskan adalah: Dengan otomasi SPAN Next Generation, peran KPPN diarahkan lebih. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Manual (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            },
+            {
+              "key": "B",
+              "text": "Konsultatif"
+            },
+            {
+              "key": "C",
+              "text": "Tidak berubah"
+            },
+            {
+              "key": "D",
+              "text": "Administratif kertas"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Konsultatif",
+          "explanation": "Otomasi proses teknis memberi ruang bagi KPPN untuk memperkuat fungsi advisory."
+        },
+        {
+          "id": "p8q16",
+          "number": 16,
+          "question": "Kasus: Tim operasional TIK dan pengguna aplikasi menilai suatu proses yang melibatkan integrasi, kontrol akses, serta kesinambungan layanan. Fakta/isu yang harus diputuskan adalah: SAKTI terutama digunakan di sisi. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Pengguna Anggaran/KL"
+            },
+            {
+              "key": "B",
+              "text": "Pemda"
+            },
+            {
+              "key": "C",
+              "text": "Bank Indonesia (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            },
+            {
+              "key": "D",
+              "text": "BPK (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Pengguna Anggaran/KL",
+          "explanation": "SAKTI mengintegrasikan proses pengelolaan APBN pada K/L."
+        },
+        {
+          "id": "p8q17",
+          "number": 17,
+          "question": "Kasus: Percepatan digitalisasi memberi efisiensi, tetapi keputusan sistem tetap harus menjaga integritas data dan pembagian kewenangan. Fakta/isu yang harus diputuskan adalah: SAKTI dapat dipandang sebagai. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Sistem kliring"
+            },
+            {
+              "key": "B",
+              "text": "ERP sektor publik"
+            },
+            {
+              "key": "C",
+              "text": "Data warehouse saja"
+            },
+            {
+              "key": "D",
+              "text": "CRM (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "ERP sektor publik",
+          "explanation": "SAKTI menyatukan berbagai fungsi keuangan dalam satu platform terpadu."
+        },
+        {
+          "id": "p8q18",
+          "number": 18,
+          "question": "Kasus: Dalam evaluasi IFMIS, tim harus membedakan fungsi masing-masing aplikasi dan kontrol yang melekat pada prosesnya. Fakta/isu yang harus diputuskan adalah: Konsep single pada SAKTI adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Single SPM, SP2D, supplier"
+            },
+            {
+              "key": "B",
+              "text": "Single user, Satker, output (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "C",
+              "text": "Single database, single user interface, single sign-on"
+            },
+            {
+              "key": "D",
+              "text": "Single bank, DIPA, KPPN (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Single database, single user interface, single sign-on",
+          "explanation": "Konsep ini mengurangi duplikasi data dan memudahkan akses."
+        },
+        {
+          "id": "p8q19",
+          "number": 19,
+          "question": "Kasus: Tim operasional TIK dan pengguna aplikasi menilai suatu proses yang melibatkan integrasi, kontrol akses, serta kesinambungan layanan. Fakta/isu yang harus diputuskan adalah: Jumlah modul utama SAKTI adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "6 (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "B",
+              "text": "8"
+            },
+            {
+              "key": "C",
+              "text": "15 (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "D",
+              "text": "11"
+            }
+          ],
+          "answer": "D",
+          "answerText": "11",
+          "explanation": "SAKTI memiliki 11 modul utama."
+        },
+        {
+          "id": "p8q20",
+          "number": 20,
+          "question": "Kasus: Percepatan digitalisasi memberi efisiensi, tetapi keputusan sistem tetap harus menjaga integritas data dan pembagian kewenangan. Fakta/isu yang harus diputuskan adalah: Modul Komitmen SAKTI mengelola. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Rekening BI (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            },
+            {
+              "key": "B",
+              "text": "APBD (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            },
+            {
+              "key": "C",
+              "text": "Gaji saja"
+            },
+            {
+              "key": "D",
+              "text": "Supplier, kontrak, BAST, capaian output"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Supplier, kontrak, BAST, capaian output",
+          "explanation": "Modul Komitmen mencatat perikatan pemerintah dengan pihak ketiga."
+        },
+        {
+          "id": "p8q21",
+          "number": 21,
+          "question": "Kasus: Dalam evaluasi IFMIS, tim harus membedakan fungsi masing-masing aplikasi dan kontrol yang melekat pada prosesnya. Fakta/isu yang harus diputuskan adalah: Modul Pembayaran SAKTI memproses. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Kontrak saja"
+            },
+            {
+              "key": "B",
+              "text": "SPP dan SPM"
+            },
+            {
+              "key": "C",
+              "text": "BAST saja"
+            },
+            {
+              "key": "D",
+              "text": "Neraca saja"
+            }
+          ],
+          "answer": "B",
+          "answerText": "SPP dan SPM",
+          "explanation": "Modul Pembayaran mengelola proses sampai pengajuan SPM ke KPPN."
+        },
+        {
+          "id": "p8q22",
+          "number": 22,
+          "question": "Kasus: Tim operasional TIK dan pengguna aplikasi menilai suatu proses yang melibatkan integrasi, kontrol akses, serta kesinambungan layanan. Fakta/isu yang harus diputuskan adalah: Tiga level user Modul Pembayaran adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Operator, Validator, Approver"
+            },
+            {
+              "key": "B",
+              "text": "Admin, Auditor, Menteri (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "C",
+              "text": "Pembuat, Bendahara, BUN"
+            },
+            {
+              "key": "D",
+              "text": "PPK, KPPN, Bank (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Operator, Validator, Approver",
+          "explanation": "Pemisahan peran mendukung check and balance."
+        },
+        {
+          "id": "p8q23",
+          "number": 23,
+          "question": "Kasus: Percepatan digitalisasi memberi efisiensi, tetapi keputusan sistem tetap harus menjaga integritas data dan pembagian kewenangan. Fakta/isu yang harus diputuskan adalah: Maker-checker-approver mendukung. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Akun bersama (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            },
+            {
+              "key": "B",
+              "text": "Check and balance elektronik"
+            },
+            {
+              "key": "C",
+              "text": "Konsentrasi kewenangan"
+            },
+            {
+              "key": "D",
+              "text": "Penghapusan jejak audit (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Check and balance elektronik",
+          "explanation": "Pemisahan fungsi mengurangi risiko penyalahgunaan."
+        },
+        {
+          "id": "p8q24",
+          "number": 24,
+          "question": "Kasus: Dalam evaluasi IFMIS, tim harus membedakan fungsi masing-masing aplikasi dan kontrol yang melekat pada prosesnya. Fakta/isu yang harus diputuskan adalah: Output utama Modul Bendahara antara lain. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "SP2D (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            },
+            {
+              "key": "B",
+              "text": "DIPA (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            },
+            {
+              "key": "C",
+              "text": "LKPP"
+            },
+            {
+              "key": "D",
+              "text": "LPJ Bendahara"
+            }
+          ],
+          "answer": "D",
+          "answerText": "LPJ Bendahara",
+          "explanation": "Modul Bendahara menangani penatausahaan kas Bendahara dan pertanggungjawabannya."
+        },
+        {
+          "id": "p8q25",
+          "number": 25,
+          "question": "Kasus: Tim operasional TIK dan pengguna aplikasi menilai suatu proses yang melibatkan integrasi, kontrol akses, serta kesinambungan layanan. Fakta/isu yang harus diputuskan adalah: Metode penyusutan Modul Aset Tetap adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Garis lurus"
+            },
+            {
+              "key": "B",
+              "text": "Tanpa penyusutan"
+            },
+            {
+              "key": "C",
+              "text": "Unit produksi"
+            },
+            {
+              "key": "D",
+              "text": "Saldo menurun"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Garis lurus",
+          "explanation": "Modul Aset Tetap menggunakan metode garis lurus sesuai materi."
+        },
+        {
+          "id": "p8q26",
+          "number": 26,
+          "question": "Kasus: Percepatan digitalisasi memberi efisiensi, tetapi keputusan sistem tetap harus menjaga integritas data dan pembagian kewenangan. Fakta/isu yang harus diputuskan adalah: SAKTI berfungsi sebagai feeder bagi. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "BI-RTGS"
+            },
+            {
+              "key": "B",
+              "text": "APBD"
+            },
+            {
+              "key": "C",
+              "text": "Siskeudes"
+            },
+            {
+              "key": "D",
+              "text": "SPAN"
+            }
+          ],
+          "answer": "D",
+          "answerText": "SPAN",
+          "explanation": "Data transaksi Satker diteruskan untuk diproses pada sistem BUN."
+        },
+        {
+          "id": "p8q27",
+          "number": 27,
+          "question": "Kasus: Dalam evaluasi IFMIS, tim harus membedakan fungsi masing-masing aplikasi dan kontrol yang melekat pada prosesnya. Fakta/isu yang harus diputuskan adalah: Fungsi utama MPN adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Penerimaan negara"
+            },
+            {
+              "key": "B",
+              "text": "BMN (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "C",
+              "text": "Pengeluaran negara"
+            },
+            {
+              "key": "D",
+              "text": "Transfer aset"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Penerimaan negara",
+          "explanation": "MPN mengelola proses penerimaan negara dan ber-interface dengan SPAN."
+        },
+        {
+          "id": "p8q28",
+          "number": 28,
+          "question": "Kasus: Tim operasional TIK dan pengguna aplikasi menilai suatu proses yang melibatkan integrasi, kontrol akses, serta kesinambungan layanan. Fakta/isu yang harus diputuskan adalah: Kapasitas MPN G3 mencapai. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "60 transaksi/detik (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)"
+            },
+            {
+              "key": "B",
+              "text": "1.000 transaksi/detik"
+            },
+            {
+              "key": "C",
+              "text": "500 transaksi/detik"
+            },
+            {
+              "key": "D",
+              "text": "100 transaksi/detik (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "1.000 transaksi/detik",
+          "explanation": "Kapasitas meningkat signifikan dibanding generasi sebelumnya."
+        },
+        {
+          "id": "p8q29",
+          "number": 29,
+          "question": "Kasus: Percepatan digitalisasi memberi efisiensi, tetapi keputusan sistem tetap harus menjaga integritas data dan pembagian kewenangan. Fakta/isu yang harus diputuskan adalah: NOW pada MPN G3 berarti. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "New Online Web (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "B",
+              "text": "New Payment Channels, One Stop Services, With Enhanced Capacity"
+            },
+            {
+              "key": "C",
+              "text": "National One Window"
+            },
+            {
+              "key": "D",
+              "text": "New Operational Workflow (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "New Payment Channels, One Stop Services, With Enhanced Capacity",
+          "explanation": "NOW menjadi tagline utama MPN G3."
+        },
+        {
+          "id": "p8q30",
+          "number": 30,
+          "question": "Kasus: Dalam evaluasi IFMIS, tim harus membedakan fungsi masing-masing aplikasi dan kontrol yang melekat pada prosesnya. Fakta/isu yang harus diputuskan adalah: Tiga prinsip keamanan informasi utama adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Kecepatan, Biaya, Laba"
+            },
+            {
+              "key": "B",
+              "text": "Kerahasiaan, Integritas, Ketersediaan"
+            },
+            {
+              "key": "C",
+              "text": "Hardware, Software, Network (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "D",
+              "text": "Input, Proses, Output (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Kerahasiaan, Integritas, Ketersediaan",
+          "explanation": "Ketiga aspek ini menjadi fondasi perlindungan informasi."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Pengelolaan Keuangan Negara dan Kerugian Negara",
+      "questions": [
+        {
+          "id": "p9q1",
+          "number": 1,
+          "question": "Kasus: Pimpinan meminta analisis atas pembagian kewenangan karena beberapa pihak memiliki peran yang berdekatan tetapi tidak identik. Fakta/isu yang harus diputuskan adalah: Pemegang kekuasaan pengelolaan keuangan negara adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Menteri Keuangan"
+            },
+            {
+              "key": "B",
+              "text": "Presiden"
+            },
+            {
+              "key": "C",
+              "text": "DPR (dengan asumsi pihak tersebut memegang fungsi pengujian sekaligus tindak lanjut pada tahap itu)"
+            },
+            {
+              "key": "D",
+              "text": "BPK"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Presiden",
+          "explanation": "Presiden selaku kepala pemerintahan memegang kekuasaan pengelolaan keuangan negara sebagai bagian dari kekuasaan pemerintahan."
+        },
+        {
+          "id": "p9q2",
+          "number": 2,
+          "question": "Kasus: Dalam evaluasi tata kelola keuangan negara, tim harus membedakan otorisasi, ordonansi, kebendaharaan, dan pertanggungjawaban. Fakta/isu yang harus diputuskan adalah: Sebagian kekuasaan Presiden dikuasakan kepada Menteri Keuangan sebagai. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Kepala daerah (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            },
+            {
+              "key": "B",
+              "text": "Pengguna Anggaran seluruh K/L (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            },
+            {
+              "key": "C",
+              "text": "Pengelola fiskal dan wakil pemerintah dalam kepemilikan kekayaan negara yang dipisahkan"
+            },
+            {
+              "key": "D",
+              "text": "Auditor eksternal"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Pengelola fiskal dan wakil pemerintah dalam kepemilikan kekayaan negara yang dipisahkan",
+          "explanation": "Menteri Keuangan menjalankan fungsi pengelola fiskal/CFO dan Bendahara Umum Negara."
+        },
+        {
+          "id": "p9q3",
+          "number": 3,
+          "question": "Kasus: Kasus pengelolaan keuangan negara menuntut keputusan yang sah, tepat pihak, dan dapat dipertanggungjawabkan. Fakta/isu yang harus diputuskan adalah: Sebagian kekuasaan Presiden dikuasakan kepada Menteri/Pimpinan Lembaga sebagai. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Bendahara Umum Negara (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            },
+            {
+              "key": "B",
+              "text": "Pengguna Anggaran/Pengguna Barang"
+            },
+            {
+              "key": "C",
+              "text": "Auditor (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            },
+            {
+              "key": "D",
+              "text": "Pengelola moneter"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Pengguna Anggaran/Pengguna Barang",
+          "explanation": "Menteri/Pimpinan Lembaga menjalankan fungsi operasional pengelolaan anggaran pada K/L."
+        },
+        {
+          "id": "p9q4",
+          "number": 4,
+          "question": "Kasus: Pimpinan meminta analisis atas pembagian kewenangan karena beberapa pihak memiliki peran yang berdekatan tetapi tidak identik. Fakta/isu yang harus diputuskan adalah: Pengelolaan keuangan daerah diserahkan kepada. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Menteri Keuangan (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            },
+            {
+              "key": "B",
+              "text": "Kepala KPPN"
+            },
+            {
+              "key": "C",
+              "text": "Gubernur/Bupati/Walikota"
+            },
+            {
+              "key": "D",
+              "text": "BPK (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Gubernur/Bupati/Walikota",
+          "explanation": "Kepala daerah memegang kekuasaan pengelolaan keuangan daerah sesuai kewenangannya."
+        },
+        {
+          "id": "p9q5",
+          "number": 5,
+          "question": "Kasus: Dalam evaluasi tata kelola keuangan negara, tim harus membedakan otorisasi, ordonansi, kebendaharaan, dan pertanggungjawaban. Fakta/isu yang harus diputuskan adalah: Kewenangan yang tidak termasuk dalam pendelegasian kekuasaan pengelolaan keuangan negara tersebut adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Ordonansi"
+            },
+            {
+              "key": "B",
+              "text": "Kebendaharaan (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "C",
+              "text": "Otorisasi (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "D",
+              "text": "Moneter seperti mengeluarkan dan mengedarkan uang"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Moneter seperti mengeluarkan dan mengedarkan uang",
+          "explanation": "Kewenangan moneter diatur tersendiri dengan undang-undang."
+        },
+        {
+          "id": "p9q6",
+          "number": 6,
+          "question": "Kasus: Kasus pengelolaan keuangan negara menuntut keputusan yang sah, tepat pihak, dan dapat dipertanggungjawabkan. Fakta/isu yang harus diputuskan adalah: Tiga kekuasaan utama dalam pengelolaan keuangan negara adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Perencanaan, audit, pajak"
+            },
+            {
+              "key": "B",
+              "text": "Otorisasi, ordonansi, kebendaharaan"
+            },
+            {
+              "key": "C",
+              "text": "Legislatif, yudikatif, eksekutif (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "D",
+              "text": "Anggaran, pajak, moneter (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Otorisasi, ordonansi, kebendaharaan",
+          "explanation": "Ketiga kekuasaan ini menjelaskan pembagian fungsi pengelolaan keuangan negara."
+        },
+        {
+          "id": "p9q7",
+          "number": 7,
+          "question": "Kasus: Pimpinan meminta analisis atas pembagian kewenangan karena beberapa pihak memiliki peran yang berdekatan tetapi tidak identik. Fakta/isu yang harus diputuskan adalah: Kekuasaan otorisasi adalah kekuasaan untuk. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Menerbitkan opini"
+            },
+            {
+              "key": "B",
+              "text": "Mengambil keputusan yang dapat menambah atau mengurangi kekayaan negara"
+            },
+            {
+              "key": "C",
+              "text": "Menyimpan uang saja (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "D",
+              "text": "Mengaudit laporan (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Mengambil keputusan yang dapat menambah atau mengurangi kekayaan negara",
+          "explanation": "Otorisasi melahirkan tindakan atau keputusan yang berdampak pada kekayaan negara."
+        },
+        {
+          "id": "p9q8",
+          "number": 8,
+          "question": "Kasus: Dalam evaluasi tata kelola keuangan negara, tim harus membedakan otorisasi, ordonansi, kebendaharaan, dan pertanggungjawaban. Fakta/isu yang harus diputuskan adalah: Otorisasi yang bersifat umum diwujudkan antara lain dalam. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "SP2D (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)"
+            },
+            {
+              "key": "B",
+              "text": "Rekening koran (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            },
+            {
+              "key": "C",
+              "text": "Undang-undang seperti APBN"
+            },
+            {
+              "key": "D",
+              "text": "Kuitansi"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Undang-undang seperti APBN",
+          "explanation": "Otorisasi umum berupa norma atau keputusan yang berlaku umum dan memerlukan persetujuan legislatif sesuai sistem ketatanegaraan."
+        },
+        {
+          "id": "p9q9",
+          "number": 9,
+          "question": "Kasus: Kasus pengelolaan keuangan negara menuntut keputusan yang sah, tepat pihak, dan dapat dipertanggungjawabkan. Fakta/isu yang harus diputuskan adalah: Otorisasi yang bersifat khusus diwujudkan dalam. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Laporan audit (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)"
+            },
+            {
+              "key": "B",
+              "text": "Surat keputusan yang mengikat pihak tertentu"
+            },
+            {
+              "key": "C",
+              "text": "UUD (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)"
+            },
+            {
+              "key": "D",
+              "text": "Nota bank"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Surat keputusan yang mengikat pihak tertentu",
+          "explanation": "Otorisasi khusus merupakan pelaksanaan konkret dari otorisasi umum."
+        },
+        {
+          "id": "p9q10",
+          "number": 10,
+          "question": "Kasus: Pimpinan meminta analisis atas pembagian kewenangan karena beberapa pihak memiliki peran yang berdekatan tetapi tidak identik. Fakta/isu yang harus diputuskan adalah: Kekuasaan ordonansi meliputi. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Menyimpan kas saja"
+            },
+            {
+              "key": "B",
+              "text": "Menerima, meneliti, menguji keabsahan, dan menerbitkan perintah menagih/membayar"
+            },
+            {
+              "key": "C",
+              "text": "Mengaudit APBN (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "D",
+              "text": "Menyusun undang-undang (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Menerima, meneliti, menguji keabsahan, dan menerbitkan perintah menagih/membayar",
+          "explanation": "Ordonansi merupakan fungsi pengujian tagihan dan penerbitan perintah pembayaran."
+        },
+        {
+          "id": "p9q11",
+          "number": 11,
+          "question": "Kasus: Dalam evaluasi tata kelola keuangan negara, tim harus membedakan otorisasi, ordonansi, kebendaharaan, dan pertanggungjawaban. Fakta/isu yang harus diputuskan adalah: Dalam pengujian ordonansi, tiga aspek yang diperiksa adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Likuiditas, solvabilitas, profitabilitas (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "B",
+              "text": "Kas, aset, utang (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "C",
+              "text": "Pagu, output, SDM"
+            },
+            {
+              "key": "D",
+              "text": "Wetmatigheid, rechtmatigheid, doelmatigheid"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Wetmatigheid, rechtmatigheid, doelmatigheid",
+          "explanation": "Pengujian mencakup dasar hukum/aturan, hak tagih, dan tujuan pengeluaran."
+        },
+        {
+          "id": "p9q12",
+          "number": 12,
+          "question": "Kasus: Kasus pengelolaan keuangan negara menuntut keputusan yang sah, tepat pihak, dan dapat dipertanggungjawabkan. Fakta/isu yang harus diputuskan adalah: Kekuasaan kebendaharaan adalah kekuasaan untuk. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Menerima, menyimpan, membayar/mengeluarkan, dan mempertanggungjawabkan uang/barang"
+            },
+            {
+              "key": "B",
+              "text": "Menerbitkan undang-undang (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "C",
+              "text": "Mengaudit laporan"
+            },
+            {
+              "key": "D",
+              "text": "Menyusun APBN (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Menerima, menyimpan, membayar/mengeluarkan, dan mempertanggungjawabkan uang/barang",
+          "explanation": "Fungsi kebendaharaan terkait penguasaan fisik dan pertanggungjawaban uang/barang."
+        },
+        {
+          "id": "p9q13",
+          "number": 13,
+          "question": "Kasus: Pimpinan meminta analisis atas pembagian kewenangan karena beberapa pihak memiliki peran yang berdekatan tetapi tidak identik. Fakta/isu yang harus diputuskan adalah: Menteri Keuangan menjalankan fungsi. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Chief Financial Officer (CFO)"
+            },
+            {
+              "key": "B",
+              "text": "Auditor eksternal"
+            },
+            {
+              "key": "C",
+              "text": "Kepala daerah"
+            },
+            {
+              "key": "D",
+              "text": "Chief Operating Officer semua K/L"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Chief Financial Officer (CFO)",
+          "explanation": "Sebagai CFO, Menteri Keuangan mengelola fiskal dan menjalankan fungsi BUN."
+        },
+        {
+          "id": "p9q14",
+          "number": 14,
+          "question": "Kasus: Dalam evaluasi tata kelola keuangan negara, tim harus membedakan otorisasi, ordonansi, kebendaharaan, dan pertanggungjawaban. Fakta/isu yang harus diputuskan adalah: Menteri/Pimpinan Lembaga menjalankan fungsi. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "CFO nasional (karena pihak tersebut dipandang paling dekat dengan pelaksanaan operasional transaksi)"
+            },
+            {
+              "key": "B",
+              "text": "Chief Operating Officer (COO) sebagai Pengguna Anggaran"
+            },
+            {
+              "key": "C",
+              "text": "BUN (dengan pertimbangan bahwa kewenangan keputusan berada pada unit tersebut sebelum proses dilanjutkan)"
+            },
+            {
+              "key": "D",
+              "text": "Auditor"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Chief Operating Officer (COO) sebagai Pengguna Anggaran",
+          "explanation": "COO bertanggung jawab pada pelaksanaan program dan penggunaan anggaran K/L."
+        },
+        {
+          "id": "p9q15",
+          "number": 15,
+          "question": "Kasus: Kasus pengelolaan keuangan negara menuntut keputusan yang sah, tepat pihak, dan dapat dipertanggungjawabkan. Fakta/isu yang harus diputuskan adalah: Tujuan pemisahan CFO dan COO adalah terutama untuk. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Memusatkan semua kewenangan (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "B",
+              "text": "Mengurangi transparansi"
+            },
+            {
+              "key": "C",
+              "text": "Menghapus pengujian (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "D",
+              "text": "Menciptakan check and balance"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Menciptakan check and balance",
+          "explanation": "Pemisahan kewenangan mencegah konsentrasi kekuasaan dan memperkuat saling uji."
+        },
+        {
+          "id": "p9q16",
+          "number": 16,
+          "question": "Kasus: Pimpinan meminta analisis atas pembagian kewenangan karena beberapa pihak memiliki peran yang berdekatan tetapi tidak identik. Fakta/isu yang harus diputuskan adalah: Menteri Keuangan selaku BUN antara lain berwenang. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Menyusun APBD (dengan asumsi pihak tersebut memegang fungsi pengujian sekaligus tindak lanjut pada tahap itu)"
+            },
+            {
+              "key": "B",
+              "text": "Menetapkan putusan pengadilan (dengan pertimbangan bahwa kewenangan keputusan berada pada unit tersebut sebelum proses dilanjutkan)"
+            },
+            {
+              "key": "C",
+              "text": "Menetapkan kebijakan/pedoman pelaksanaan anggaran dan sistem penerimaan-pengeluaran kas"
+            },
+            {
+              "key": "D",
+              "text": "Menerbitkan opini BPK"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Menetapkan kebijakan/pedoman pelaksanaan anggaran dan sistem penerimaan-pengeluaran kas",
+          "explanation": "Wewenang BUN mencakup kas, anggaran, rekening, utang/piutang, investasi, dan sistem akuntansi."
+        },
+        {
+          "id": "p9q17",
+          "number": 17,
+          "question": "Kasus: Dalam evaluasi tata kelola keuangan negara, tim harus membedakan otorisasi, ordonansi, kebendaharaan, dan pertanggungjawaban. Fakta/isu yang harus diputuskan adalah: Kuasa BUN Pusat adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Direktur Jenderal Anggaran (karena pihak tersebut dipandang paling dekat dengan pelaksanaan operasional transaksi)"
+            },
+            {
+              "key": "B",
+              "text": "Kepala BPK (dengan pertimbangan bahwa kewenangan keputusan berada pada unit tersebut sebelum proses dilanjutkan)"
+            },
+            {
+              "key": "C",
+              "text": "Gubernur BI"
+            },
+            {
+              "key": "D",
+              "text": "Direktur Jenderal Perbendaharaan"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Direktur Jenderal Perbendaharaan",
+          "explanation": "Dirjen Perbendaharaan melaksanakan fungsi Kuasa BUN Pusat."
+        },
+        {
+          "id": "p9q18",
+          "number": 18,
+          "question": "Kasus: Kasus pengelolaan keuangan negara menuntut keputusan yang sah, tepat pihak, dan dapat dipertanggungjawabkan. Fakta/isu yang harus diputuskan adalah: Kuasa BUN di Daerah adalah. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Kepala KPPN"
+            },
+            {
+              "key": "B",
+              "text": "Bupati (karena pihak tersebut dipandang paling dekat dengan pelaksanaan operasional transaksi)"
+            },
+            {
+              "key": "C",
+              "text": "Kepala Kanwil DJPb"
+            },
+            {
+              "key": "D",
+              "text": "Kepala Satker"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Kepala KPPN",
+          "explanation": "Kepala KPPN menjalankan fungsi Kuasa BUN dalam wilayah kerja yang ditetapkan."
+        },
+        {
+          "id": "p9q19",
+          "number": 19,
+          "question": "Kasus: Pimpinan meminta analisis atas pembagian kewenangan karena beberapa pihak memiliki peran yang berdekatan tetapi tidak identik. Fakta/isu yang harus diputuskan adalah: Prinsip Anterioritas berarti. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Anggaran harus mendapat persetujuan legislatif sebelum dilaksanakan"
+            },
+            {
+              "key": "B",
+              "text": "Anggaran hanya berlaku setahun (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "C",
+              "text": "Anggaran satu dokumen (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "D",
+              "text": "Semua penerimaan ke Kas Negara"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Anggaran harus mendapat persetujuan legislatif sebelum dilaksanakan",
+          "explanation": "Anterioritas atau prealable principle menuntut persetujuan terlebih dahulu."
+        },
+        {
+          "id": "p9q20",
+          "number": 20,
+          "question": "Kasus: Dalam evaluasi tata kelola keuangan negara, tim harus membedakan otorisasi, ordonansi, kebendaharaan, dan pertanggungjawaban. Fakta/isu yang harus diputuskan adalah: Prinsip Annualitas berarti. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Anggaran spesifik"
+            },
+            {
+              "key": "B",
+              "text": "Anggaran berlaku dalam periode tertentu"
+            },
+            {
+              "key": "C",
+              "text": "Semua penerimaan ke Kas Negara (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "D",
+              "text": "Satu dokumen (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "Anggaran berlaku dalam periode tertentu",
+          "explanation": "Anggaran dibatasi oleh periode awal dan akhir tahun anggaran."
+        },
+        {
+          "id": "p9q21",
+          "number": 21,
+          "question": "Kasus: Kasus pengelolaan keuangan negara menuntut keputusan yang sah, tepat pihak, dan dapat dipertanggungjawabkan. Fakta/isu yang harus diputuskan adalah: Prinsip Unitas berarti. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Anggaran harus spesifik"
+            },
+            {
+              "key": "B",
+              "text": "Semua penerimaan ke Kas Negara (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "C",
+              "text": "Semua belanja modal (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "D",
+              "text": "Anggaran dituangkan dalam satu dokumen dan berbentuk undang-undang"
+            }
+          ],
+          "answer": "D",
+          "answerText": "Anggaran dituangkan dalam satu dokumen dan berbentuk undang-undang",
+          "explanation": "Unitas menekankan kesatuan dokumen anggaran."
+        },
+        {
+          "id": "p9q22",
+          "number": 22,
+          "question": "Kasus: Pimpinan meminta analisis atas pembagian kewenangan karena beberapa pihak memiliki peran yang berdekatan tetapi tidak identik. Fakta/isu yang harus diputuskan adalah: Prinsip Spesialitas berarti. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Alokasi digunakan untuk tujuan/kegiatan yang telah ditetapkan"
+            },
+            {
+              "key": "B",
+              "text": "Anggaran satu tahun (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)"
+            },
+            {
+              "key": "C",
+              "text": "Semua penerimaan ke Kas Negara (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "D",
+              "text": "Semua belanja fleksibel"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Alokasi digunakan untuk tujuan/kegiatan yang telah ditetapkan",
+          "explanation": "Spesialitas membatasi penggunaan anggaran sesuai peruntukannya."
+        },
+        {
+          "id": "p9q23",
+          "number": 23,
+          "question": "Kasus: Dalam evaluasi tata kelola keuangan negara, tim harus membedakan otorisasi, ordonansi, kebendaharaan, dan pertanggungjawaban. Fakta/isu yang harus diputuskan adalah: Prinsip Universalitas berarti. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Seluruh penerimaan disetor ke Kas Negara dan pengeluaran dibiayai melalui Kas Negara"
+            },
+            {
+              "key": "B",
+              "text": "Alokasi spesifik (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)"
+            },
+            {
+              "key": "C",
+              "text": "Anggaran hanya satu tahun (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)"
+            },
+            {
+              "key": "D",
+              "text": "Anggaran satu dokumen"
+            }
+          ],
+          "answer": "A",
+          "answerText": "Seluruh penerimaan disetor ke Kas Negara dan pengeluaran dibiayai melalui Kas Negara",
+          "explanation": "Universalitas menekankan seluruh arus penerimaan dan pengeluaran melalui Kas Negara."
+        },
+        {
+          "id": "p9q24",
+          "number": 24,
+          "question": "Kasus: Kasus pengelolaan keuangan negara menuntut keputusan yang sah, tepat pihak, dan dapat dipertanggungjawabkan. Fakta/isu yang harus diputuskan adalah: Tahun anggaran Indonesia saat ini berlangsung. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "1 Januari–31 Desember"
+            },
+            {
+              "key": "B",
+              "text": "1 Juli–30 Juni"
+            },
+            {
+              "key": "C",
+              "text": "1 April–31 Maret"
+            },
+            {
+              "key": "D",
+              "text": "1 Oktober–30 September"
+            }
+          ],
+          "answer": "A",
+          "answerText": "1 Januari–31 Desember",
+          "explanation": "Sejak 2001 tahun anggaran kembali mengikuti tahun takwim."
+        },
+        {
+          "id": "p9q25",
+          "number": 25,
+          "question": "Kasus: Pimpinan meminta analisis atas pembagian kewenangan karena beberapa pihak memiliki peran yang berdekatan tetapi tidak identik. Fakta/isu yang harus diputuskan adalah: LKPP yang disusun Menteri Keuangan disampaikan Presiden kepada BPK paling lambat. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "1 bulan (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)"
+            },
+            {
+              "key": "B",
+              "text": "6 bulan"
+            },
+            {
+              "key": "C",
+              "text": "3 bulan setelah tahun anggaran berakhir"
+            },
+            {
+              "key": "D",
+              "text": "2 bulan (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)"
+            }
+          ],
+          "answer": "C",
+          "answerText": "3 bulan setelah tahun anggaran berakhir",
+          "explanation": "Batas ini menjadi bagian dari siklus pertanggungjawaban pelaksanaan APBN."
+        },
+        {
+          "id": "p9q26",
+          "number": 26,
+          "question": "Kasus: Dalam evaluasi tata kelola keuangan negara, tim harus membedakan otorisasi, ordonansi, kebendaharaan, dan pertanggungjawaban. Fakta/isu yang harus diputuskan adalah: BPK melakukan pemeriksaan laporan keuangan pemerintah paling lambat. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "1 bulan (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)"
+            },
+            {
+              "key": "B",
+              "text": "6 bulan"
+            },
+            {
+              "key": "C",
+              "text": "3 bulan (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)"
+            },
+            {
+              "key": "D",
+              "text": "2 bulan setelah menerima laporan"
+            }
+          ],
+          "answer": "D",
+          "answerText": "2 bulan setelah menerima laporan",
+          "explanation": "Modul menjelaskan batas pemeriksaan BPK paling lambat dua bulan sejak laporan diterima."
+        },
+        {
+          "id": "p9q27",
+          "number": 27,
+          "question": "Kasus: Kasus pengelolaan keuangan negara menuntut keputusan yang sah, tepat pihak, dan dapat dipertanggungjawabkan. Fakta/isu yang harus diputuskan adalah: Laporan keuangan pemerintah yang telah diperiksa BPK disampaikan kepada DPR paling lambat. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "3 bulan"
+            },
+            {
+              "key": "B",
+              "text": "6 bulan setelah tahun anggaran berakhir"
+            },
+            {
+              "key": "C",
+              "text": "2 bulan (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)"
+            },
+            {
+              "key": "D",
+              "text": "12 bulan (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)"
+            }
+          ],
+          "answer": "B",
+          "answerText": "6 bulan setelah tahun anggaran berakhir",
+          "explanation": "Batas ini berlaku pada penyampaian pertanggungjawaban kepada lembaga legislatif."
+        },
+        {
+          "id": "p9q28",
+          "number": 28,
+          "question": "Kasus: Pimpinan meminta analisis atas pembagian kewenangan karena beberapa pihak memiliki peran yang berdekatan tetapi tidak identik. Fakta/isu yang harus diputuskan adalah: Pengenaan ganti kerugian negara terhadap Bendahara ditetapkan oleh. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "BPK"
+            },
+            {
+              "key": "B",
+              "text": "KPPN (dengan asumsi pihak tersebut memegang fungsi pengujian sekaligus tindak lanjut pada tahap itu)"
+            },
+            {
+              "key": "C",
+              "text": "Menteri/Pimpinan Lembaga"
+            },
+            {
+              "key": "D",
+              "text": "Inspektorat"
+            }
+          ],
+          "answer": "A",
+          "answerText": "BPK",
+          "explanation": "BPK memiliki kewenangan menetapkan ganti kerugian terhadap Bendahara."
+        },
+        {
+          "id": "p9q29",
+          "number": 29,
+          "question": "Kasus: Dalam evaluasi tata kelola keuangan negara, tim harus membedakan otorisasi, ordonansi, kebendaharaan, dan pertanggungjawaban. Fakta/isu yang harus diputuskan adalah: Pengenaan ganti kerugian terhadap pegawai negeri bukan Bendahara ditetapkan oleh. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "KPPN (dengan pertimbangan bahwa kewenangan keputusan berada pada unit tersebut sebelum proses dilanjutkan)"
+            },
+            {
+              "key": "B",
+              "text": "BPK selalu"
+            },
+            {
+              "key": "C",
+              "text": "Menteri/Pimpinan Lembaga/Gubernur/Bupati/Walikota sesuai kewenangan"
+            },
+            {
+              "key": "D",
+              "text": "Bank Indonesia (karena pihak tersebut dipandang paling dekat dengan pelaksanaan operasional transaksi)"
+            }
+          ],
+          "answer": "C",
+          "answerText": "Menteri/Pimpinan Lembaga/Gubernur/Bupati/Walikota sesuai kewenangan",
+          "explanation": "Pihak yang menetapkan berbeda dari mekanisme terhadap Bendahara."
+        },
+        {
+          "id": "p9q30",
+          "number": 30,
+          "question": "Kasus: Kasus pengelolaan keuangan negara menuntut keputusan yang sah, tepat pihak, dan dapat dipertanggungjawabkan. Fakta/isu yang harus diputuskan adalah: Setiap kerugian negara diberitahukan kepada BPK paling lambat. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "3 hari kalender (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)"
+            },
+            {
+              "key": "B",
+              "text": "7 HK setelah diketahui"
+            },
+            {
+              "key": "C",
+              "text": "5 HK (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)"
+            },
+            {
+              "key": "D",
+              "text": "14 HK"
+            }
+          ],
+          "answer": "B",
+          "answerText": "7 HK setelah diketahui",
+          "explanation": "Atasan langsung atau kepala kantor wajib melaporkan kepada pimpinan dan memberitahukan BPK paling lambat 7 hari kerja."
+        }
+      ]
+    }
+  ]
+};

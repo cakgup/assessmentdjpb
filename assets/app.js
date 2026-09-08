@@ -3,7 +3,8 @@
   const app = document.getElementById('app');
   const toast = document.getElementById('toast');
   const themeToggle = document.getElementById('themeToggle');
-  const STORE = 'djpb-study-progress-v1';
+  // Answer positions change between editions; keep each revision's progress separate.
+  const STORE = `djpb-study-progress-${DATA.version}`;
   const THEME = 'djpb-study-theme';
 
   const state = {
@@ -47,7 +48,7 @@
         <div class="hero-card">
           <div class="eyebrow">Latihan mandiri DJPb</div>
           <h1>Belajar lebih fokus, ulangi yang masih salah.</h1>
-          <p>270 soal dalam 9 paket. Pilih jawaban, lihat pembahasan, tandai soal penting, lalu ulangi berdasarkan progres yang tersimpan di perangkat Anda.</p>
+          <p>270 soal kasus dan analitis dalam 9 paket. Pilih jawaban terbaik, pelajari pembahasan, lalu ulangi materi yang perlu perhatian. Progres edisi ini dimulai terpisah dari versi sebelumnya.</p>
           <div class="hero-actions">
             <button class="primary-btn" id="continueBtn">${s.done?'Lanjutkan belajar':'Mulai belajar'}</button>
             <button class="ghost-btn" id="quizAllBtn">Try Out Acak</button>
