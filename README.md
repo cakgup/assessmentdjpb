@@ -33,7 +33,10 @@ Aplikasi berjalan sepenuhnya di browser menggunakan HTML, CSS, dan JavaScript. T
 - **Mode Review** — ulangi soal yang terakhir dijawab salah atau buka kumpulan soal yang ditandai.
 - **Pencarian Topik** — cari paket berdasarkan judul, isi soal, atau pembahasan.
 - **Navigasi Soal** — pindah melalui peta nomor soal, tombol navigasi, atau pintasan keyboard pada mode Belajar.
-- **Tampilan Responsif** — layout desktop dan ponsel, tema terang/gelap, serta palet biru dan font Segoe UI yang mengikuti SATRIA.
+- **Treasury Learning Hub** — navbar navy, hero dengan ilustrasi pegawai, font Plus Jakarta Sans, kartu paket berwarna, serta layout desktop/tablet/ponsel dan tema terang/gelap.
+- **Target dan Motivasi Belajar** — target harian 5/10/20 soal atau target khusus, streak, XP, level belajar, serta milestone dari aktivitas nyata.
+- **Filter Paket** — tampilkan semua paket, yang belum selesai, yang perlu review, atau yang sudah dikuasai.
+- **Progres dan Profil Lokal** — grafik aktivitas 7 hari, penjelasan mastery, kabar belajar, serta nama panggilan dan preferensi tanpa akun.
 - **Hosting Statis** — dapat dibuka langsung dari file lokal atau dipublikasikan melalui GitHub Pages.
 
 ---
@@ -93,6 +96,9 @@ File `.nojekyll` sudah tersedia di root repository. Pastikan `index.html` dan fo
 assessmentdjpb/
 |-- assets/
 |   |-- app.js             # Navigasi, mode belajar, try out, dan progres
+|   |-- learning.js       # Metrik aktivitas, XP, streak, status, dan ikon
+|   |-- treasury-team.svg # Ilustrasi hero
+|   |-- fonts/            # Plus Jakarta Sans dan lisensi SIL OFL
 |   |-- questions.js       # Data soal, pilihan jawaban, kunci, dan pembahasan
 |   `-- styles.css         # Tema, tipografi, dan layout responsif
 |-- source/
@@ -131,11 +137,11 @@ Generator memeriksa urutan 9 paket × 30 soal, empat opsi A–D, kecocokan teks 
 ## Catatan Penyimpanan
 
 - Penyuntingan narasi mempertahankan progres dan bookmark edisi Case & Analitis. Data dari edisi sebelum Case & Analitis tetap terpisah karena urutan opsi berbeda.
-- Jawaban, bookmark, posisi belajar per paket, sesi try out, dan hasil terakhir tersimpan di `localStorage`. Aplikasi tidak menetapkan masa kedaluwarsa dan tidak menyinkronkan data ke server atau perangkat lain.
+- Jawaban, bookmark, posisi belajar per paket, sesi try out, hasil terakhir, aktivitas harian, dan preferensi profil tersimpan di `localStorage`. Aplikasi tidak menetapkan masa kedaluwarsa dan tidak menyinkronkan data ke server atau perangkat lain.
 - Browser, profil, atau alamat akses yang berbeda memiliki penyimpanan masing-masing. Progres dari file lokal tidak otomatis berpindah ke GitHub Pages.
 - Sesi try out dipulihkan beserta urutan soal, jawaban, dan posisi terakhir setelah halaman dimuat ulang atau browser dibuka kembali. Tombol **Keluar** menyimpan sesi untuk dilanjutkan nanti.
 - Cache file aplikasi berbeda dari penyimpanan progres. Mode privat, penghapusan data situs, atau kebijakan penyimpanan browser dapat menghilangkan data lokal.
-- Menghapus data situs pada browser akan menghapus progres lokal. **Reset Progress** pada beranda menghapus jawaban, bookmark, posisi, sesi, dan hasil edisi aktif setelah konfirmasi.
+- Menghapus data situs pada browser akan menghapus progres lokal. **Reset progres belajar** pada menu profil menghapus jawaban, bookmark, posisi, sesi, dan hasil edisi aktif setelah konfirmasi.
 
 ---
 
@@ -148,16 +154,33 @@ Untuk memeriksa hasil pembaruan:
 ```bash
 python scripts/build_questions.py
 node --check assets/app.js
+node --check assets/learning.js
 node --test scripts/test_app.cjs
 ```
 
-Pengujian menggunakan data sementara, tanpa membaca atau mengubah progres browser pengguna. Cakupannya meliputi kompatibilitas progres, pemulihan posisi dan try out, perpindahan ke atas, hasil paket dengan soal kosong, serta struktur 270 soal.
+Pengujian menggunakan data sementara, tanpa membaca atau mengubah progres browser pengguna. Cakupannya meliputi kompatibilitas progres, pemulihan posisi dan try out, perpindahan ke atas, hasil paket dengan soal kosong, struktur 270 soal, filter paket, migrasi aktivitas lama, serta XP/streak yang tidak dihitung ganda.
+
+---
+
+## Treasury Learning Hub
+
+- **Beranda** mengutamakan aktivitas terakhir, ringkasan progres, quick action, target harian, pencarian, dan kartu paket.
+- **Belajar** mengarahkan ke daftar paket. Kartu menyambung posisi terakhir atau menampilkan hasil jika paket selesai.
+- **Review** membuka pilihan jawaban salah dan soal ditandai.
+- **Progres** menampilkan aktivitas 7 hari, milestone, serta penjelasan perhitungan metrik.
+- **Profil** mengatur nama panggilan dan target harian, sekaligus menyediakan reset progres dengan konfirmasi. Tombol lonceng desktop menampilkan kabar belajar lokal.
+
+Mastery dihitung dari jawaban terakhir yang benar dibagi soal yang sudah dijawab. Status **Mastered** mensyaratkan semua soal paket selesai dan mastery minimal 95%. Progress ring menunjukkan persentase soal yang selesai, sehingga tidak tertukar dengan mastery.
+
+Setiap soal unik memberikan 10 XP sekali, ditambah 5 XP sekali ketika dijawab benar. Mengulang soal tidak menggandakan XP. Target harian menghitung soal unik per tanggal lokal; streak menghitung hari aktif berturut-turut. Riwayat lama diinisialisasi dari timestamp jawaban yang tersedia, tanpa mengarang aktivitas yang tidak tersimpan. Gamifikasi tidak memengaruhi perhitungan nilai latihan.
+
+Seluruh aset font, ikon, dan ilustrasi tersedia secara lokal. Tidak diperlukan layanan eksternal saat aplikasi digunakan. Fitur leaderboard bersama, target mingguan, dan rekomendasi otomatis dari tahap enhancement belum disertakan.
 
 ---
 
 ## Lisensi
 
-Repository ini menggunakan [MIT License](LICENSE).
+Repository ini menggunakan [MIT License](LICENSE). Font Plus Jakarta Sans didistribusikan dengan [SIL Open Font License](assets/fonts/OFL.txt).
 
 ---
 

@@ -3,33 +3,45 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <meta name="theme-color" content="#183059">
-  <meta name="description" content="Aplikasi belajar Bank Soal DJPb Paket 1–9 untuk latihan assessment dan materi perbendaharaan.">
-  <title>DJPb Study — Bank Soal Paket 1–9</title>
+  <meta name="theme-color" content="#172554">
+  <meta name="description" content="Treasury Learning Hub — latihan assessment DJPb, progres belajar, dan try out dalam satu tempat.">
+  <title>DJPb Study — Treasury Learning Hub</title>
+  <link rel="preload" href="assets/fonts/PlusJakartaSans.ttf" as="font" type="font/ttf" crossorigin>
   <link rel="stylesheet" href="assets/styles.css">
 </head>
 <body>
+  <a class="skip-link" href="#app">Lewati navigasi</a>
   <div class="app-shell">
     <header class="topbar">
       <a class="brand" href="#/" aria-label="DJPb Study beranda">
-        <span class="brand-mark" aria-hidden="true">D</span>
-        <span><strong>DJPb Study</strong><small>Bank Soal Paket 1–9</small></span>
+        <span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none"><path d="M3 5c4-1 6 0 9 2 3-2 5-3 9-2v14c-4-1-6 0-9 2-3-2-5-3-9-2V5Z" stroke="currentColor" stroke-width="1.7"/><path d="M12 7v14" stroke="currentColor" stroke-width="1.7"/></svg></span>
+        <span><strong>DJPb <span class="brand-light">Study</span></strong><small>Treasury Learning Hub</small></span>
       </a>
+      <nav class="main-nav" id="mainNav" aria-label="Navigasi utama">
+        <a href="#/" data-nav="home">Beranda</a>
+        <a href="#/learn" data-nav="learn">Belajar</a>
+        <a href="#/quiz/all" data-nav="quiz">Try Out</a>
+        <a href="#/review" data-nav="review">Review</a>
+        <a href="#/progress" data-nav="progress">Progres</a>
+      </nav>
       <div class="top-actions">
+        <button id="navSearch" class="icon-btn desktop-tool" type="button" aria-label="Cari soal atau topik" title="Cari soal"></button>
+        <button id="notificationsBtn" class="icon-btn desktop-tool" type="button" aria-label="Lihat kabar belajar" title="Kabar belajar"></button>
         <button id="themeToggle" class="icon-btn" type="button" aria-label="Ubah tema" title="Ubah tema">◐</button>
+        <button id="profileBtn" class="profile-btn" type="button" aria-label="Profil dan preferensi" title="Profil dan preferensi">TS</button>
+        <button id="menuToggle" class="icon-btn menu-toggle" type="button" aria-label="Buka menu" aria-expanded="false" aria-controls="mainNav"></button>
       </div>
     </header>
-
     <main id="app" class="main" tabindex="-1"></main>
-
     <footer class="footer">
-      <span>Materi bersumber dari Bank Soal DJPb Paket 1–9 — Case &amp; Analitis.</span>
-      <span>Progress tersimpan hanya di browser Anda.</span>
+      <span><strong>DJPb Study</strong> <span class="footer-divider">/</span> Sedikit belajar, setiap hari.</span>
+      <span>Case &amp; Analitis · Progres tersimpan di browser ini.</span>
     </footer>
   </div>
-
+  <dialog id="utilityDialog" class="utility-dialog" aria-labelledby="dialogTitle"></dialog>
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
   <script src="assets/questions.js"></script>
+  <script src="assets/learning.js"></script>
   <script src="assets/app.js"></script>
 </body>
 </html>
