@@ -1,4 +1,4 @@
-# DJPb Study — Bank Soal Paket 1–9
+# Belajar DJPb
 
 Aplikasi belajar statis berbasis HTML/CSS/JavaScript yang dapat langsung dipublikasikan melalui **GitHub Pages**. Tidak memerlukan backend, database, framework, atau proses build.
 
