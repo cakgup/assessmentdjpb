@@ -4,7 +4,7 @@
   const toast = document.getElementById('toast');
   const themeToggle = document.getElementById('themeToggle');
   // Answer positions change between editions; keep each revision's progress separate.
-  const STORE = `djpb-study-progress-${DATA.version}`;
+  const STORE = `djpb-study-progress-${DATA.progressVersion || DATA.version}`;
   const THEME = 'djpb-study-theme';
 
   const state = {
@@ -14,10 +14,46 @@
   };
 
   function loadProgress(){
-    try { return JSON.parse(localStorage.getItem(STORE)) || {answers:{},bookmarks:{}}; }
+    try {
+      const saved=JSON.parse(localStorage.getItem(STORE)) || {};
+      return {...saved,answers:saved.answers || {},bookmarks:saved.bookmarks || {}};
+    }
     catch { return {answers:{},bookmarks:{}}; }
   }
-  function saveProgress(){ localStorage.setItem(STORE, JSON.stringify(state.progress)); }
+  function saveProgress(){
+    try { localStorage.setItem(STORE, JSON.stringify(state.progress)); }
+    catch { showToast('Progres tidak dapat disimpan. Periksa izin atau ruang penyimpanan browser.'); }
+  }
+  function showTop(){
+    app.focus({preventScroll:true});
+    window.scrollTo({top:0,left:0,behavior:'instant'});
+  }
+  function rememberLocation(hash){ state.progress.lastLocation=hash;saveProgress(); }
+  function studyLocation(pkg){
+    const number=state.progress.positions?.[pkg.id];
+    const q=pkg.questions.find(q=>q.number===number) || pkg.questions.find(q=>!answerRec(q.id)) || pkg.questions[0];
+    return `#/study/${pkg.id}/${q.number}`;
+  }
+  function resumeLocation(){
+    const saved=state.progress.lastLocation;
+    if(saved && /^#\/(study\/\d+\/\d+|quiz\/(all|\d+)|results\/(quiz|review|\d+)|review\/(wrong|bookmarks))$/.test(saved))return saved;
+    // Older progress has no position; resume the most recently answered question.
+    const last=allQuestions().filter(q=>answerRec(q.id)).sort((a,b)=>(answerRec(b.id).ts||0)-(answerRec(a.id).ts||0))[0];
+    return last ? `#/study/${last.packageId}/${last.number}` : null;
+  }
+  function saveQuiz(){
+    const s=state.session;
+    state.progress.quiz=s ? {...s,questions:s.questions.map(q=>q.id)} : null;
+    if(s)state.progress.lastLocation=`#/quiz/${s.pkgId}`;
+    saveProgress();
+  }
+  function restoreQuiz(){
+    const saved=state.progress.quiz;
+    if(!saved || !Array.isArray(saved.questions) || !saved.questions.length)return null;
+    const questions=saved.questions.map(getQ);
+    if(questions.some(q=>!q) || !Number.isInteger(saved.index) || saved.index<0 || saved.index>=questions.length)return null;
+    return {...saved,questions,answers:saved.answers || {}};
+  }
   function esc(s=''){ return String(s).replace(/[&<>"']/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
   function normalize(s=''){ return s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,''); }
   function showToast(msg){ toast.textContent=msg; toast.classList.add('show'); clearTimeout(showToast.t); showToast.t=setTimeout(()=>toast.classList.remove('show'),1800); }
@@ -34,11 +70,12 @@
     const qs=allQuestions(); const rows=qs.map(q=>answerRec(q.id)).filter(Boolean); const correct=rows.filter(r=>r.correct).length;
     return {total:qs.length,done:rows.length,correct,wrong:rows.length-correct,accuracy:rows.length?Math.round(correct/rows.length*100):0,bookmarks:Object.keys(state.progress.bookmarks).filter(k=>state.progress.bookmarks[k]).length};
   }
-  function setTheme(theme){ document.documentElement.dataset.theme=theme; localStorage.setItem(THEME,theme); themeToggle.textContent=theme==='dark'?'☀':'◐'; }
-  setTheme(localStorage.getItem(THEME) || (matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'));
+  function setTheme(theme){ document.documentElement.dataset.theme=theme; try { localStorage.setItem(THEME,theme); } catch {} themeToggle.textContent=theme==='dark'?'☀':'◐'; }
+  let savedTheme;try { savedTheme=localStorage.getItem(THEME); } catch {}
+  setTheme(savedTheme || (matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'));
   themeToggle.addEventListener('click',()=>setTheme(document.documentElement.dataset.theme==='dark'?'light':'dark'));
 
-  function go(hash){ location.hash=hash; }
+  function go(hash){ if(location.hash===hash)route();else location.hash=hash; }
   window.addEventListener('hashchange', route);
 
   function renderHome(){
@@ -48,9 +85,9 @@
         <div class="hero-card">
           <div class="eyebrow">Latihan mandiri DJPb</div>
           <h1>Belajar lebih fokus, ulangi yang masih salah.</h1>
-          <p>270 soal kasus dan analitis dalam 9 paket. Pilih jawaban terbaik, pelajari pembahasan, lalu ulangi materi yang perlu perhatian. Progres edisi ini dimulai terpisah dari versi sebelumnya.</p>
+          <p>270 soal dalam 9 paket. Pelajari materi, pilih jawaban, dan tinjau pembahasannya. Posisi belajar dan sesi try out tersimpan otomatis di browser ini.</p>
           <div class="hero-actions">
-            <button class="primary-btn" id="continueBtn">${s.done?'Lanjutkan belajar':'Mulai belajar'}</button>
+            <button class="primary-btn" id="continueBtn">${resumeLocation()?'Lanjutkan belajar':'Mulai belajar'}</button>
             <button class="ghost-btn" id="quizAllBtn">Try Out Acak</button>
             <button class="ghost-btn" id="reviewWrongBtn">Ulangi yang salah</button>
           </div>
@@ -81,12 +118,12 @@
     document.getElementById('quizAllBtn').onclick=()=>go('#/quiz/all');
     document.getElementById('reviewWrongBtn').onclick=()=>go('#/review/wrong');
     document.getElementById('continueBtn').onclick=()=>{
-      const all=allQuestions(); const q=all.find(x=>!answerRec(x.id)) || all[0]; go(`#/study/${q.packageId}/${q.number}`);
+      go(resumeLocation() || studyLocation(DATA.packages[0]));
     };
     document.querySelectorAll('[data-review]').forEach(el=>el.onclick=()=>{
       const kind=el.dataset.review;
       if(kind==='reset'){
-        if(confirm('Hapus seluruh progres jawaban dan bookmark di browser ini?')){ state.progress={answers:{},bookmarks:{}};saveProgress();showToast('Progress direset');renderHome(); }
+        if(confirm('Hapus seluruh progres jawaban, bookmark, posisi belajar, dan sesi try out di browser ini?')){ state.progress={answers:{},bookmarks:{}};state.session=null;saveProgress();showToast('Progress direset');renderHome(); }
       } else go(`#/review/${kind}`);
     });
   }
@@ -103,7 +140,7 @@
         <div class="mini-stats"><span>${s.done}/${p.questions.length} dikerjakan</span><span>${s.accuracy}% akurasi</span></div>
         <div class="mini-bar"><i style="width:${pct}%"></i></div>
       </article>`}).join('');
-    box.querySelectorAll('[data-pkg]').forEach(el=>{const open=()=>go(`#/study/${el.dataset.pkg}/1`);el.onclick=open;el.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();open();}}});
+    box.querySelectorAll('[data-pkg]').forEach(el=>{const open=()=>go(studyLocation(getPkg(el.dataset.pkg)));el.onclick=open;el.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();open();}}});
   }
 
   function renderStudy(pkgId, qnum, customQuestions=null, customTitle=null){
@@ -112,7 +149,12 @@
     let idx=customQuestions ? Math.max(0, Math.min(Number(qnum)-1, questions.length-1)) : questions.findIndex(q=>q.number===Number(qnum));
     if(idx<0) idx=0;
     const q=questions[idx];
-    const fullQ=customQuestions ? q : {...q,packageId:pkg.id,packageTitle:pkg.title};
+    if(!customQuestions){
+      state.progress.positions={...state.progress.positions,[pkg.id]:q.number};
+      rememberLocation(`#/study/${pkg.id}/${q.number}`);
+    }else{
+      state.progress.review={...state.progress.review,index:idx};saveProgress();
+    }
     const rec=answerRec(q.id);
     const isBookmarked=!!state.progress.bookmarks[q.id];
     const title=customTitle || `Paket ${pkg.id}`;
@@ -133,7 +175,7 @@
             <button id="bookmarkBtn" class="ghost-btn bookmark ${isBookmarked?'active':''}">${isBookmarked?'★ Ditandai':'☆ Tandai soal'}</button>
             <div class="nav-actions">
               <button id="prevBtn" class="ghost-btn" ${idx===0?'disabled':''}>← Sebelumnya</button>
-              <button id="nextBtn" class="primary-btn" ${idx===questions.length-1?'disabled':''}>Berikutnya →</button>
+              <button id="nextBtn" class="primary-btn">${idx===questions.length-1?'Selesai & Lihat Hasil':'Berikutnya →'}</button>
             </div>
           </div>
           <div class="fab-help">Shortcut: tekan 1–4 untuk memilih jawaban, ←/→ untuk berpindah soal.</div>
@@ -149,8 +191,16 @@
     document.getElementById('quizTab').onclick=()=>go(customQuestions?'#/quiz/all':`#/quiz/${pkg.id}`);
     document.querySelectorAll('[data-answer]').forEach(btn=>btn.onclick=()=>selectAnswer(q,btn.dataset.answer,customQuestions,pkg,idx,customTitle));
     document.getElementById('bookmarkBtn').onclick=()=>{state.progress.bookmarks[q.id]=!state.progress.bookmarks[q.id];saveProgress();renderStudy(pkgId,idx+1,customQuestions,customTitle);showToast(state.progress.bookmarks[q.id]?'Soal ditandai':'Tanda dihapus');};
-    const nav=(newIdx)=> customQuestions ? renderStudy(pkgId,newIdx+1,customQuestions,customTitle) : go(`#/study/${pkg.id}/${questions[newIdx].number}`);
-    document.getElementById('prevBtn').onclick=()=>nav(idx-1); document.getElementById('nextBtn').onclick=()=>nav(idx+1);
+    const nav=(newIdx)=>{
+      if(customQuestions){renderStudy(pkgId,newIdx+1,customQuestions,customTitle);showTop();}
+      else go(`#/study/${pkg.id}/${questions[newIdx].number}`);
+    };
+    document.getElementById('prevBtn').onclick=()=>nav(idx-1);
+    document.getElementById('nextBtn').onclick=()=>{
+      if(idx<questions.length-1){nav(idx+1);return;}
+      if(customQuestions){state.progress.reviewResult={title,questions:questions.map(q=>q.id)};state.progress.review=null;saveProgress();}
+      go(customQuestions?'#/results/review':`#/results/${pkg.id}`);
+    };
     document.querySelectorAll('.map-item').forEach(b=>b.onclick=()=>nav(Number(b.dataset.i)));
     app.focus({preventScroll:true});
     window.onkeydown=(e)=>{
@@ -182,25 +232,57 @@
   function startQuiz(pkgId,count,doShuffle){
     let qs=pkgId==='all'?allQuestions():getPkg(pkgId).questions.map(q=>({...q,packageId:Number(pkgId),packageTitle:getPkg(pkgId).title}));
     if(doShuffle)qs=shuffle(qs);qs=qs.slice(0,count);
-    state.session={type:'quiz',pkgId,questions:qs,index:0,answers:{},started:Date.now()};renderQuizQuestion();
+    state.session={type:'quiz',pkgId,questions:qs,index:0,answers:{},started:Date.now()};saveQuiz();go(`#/quiz/${pkgId}`);
   }
   function renderQuizQuestion(){
-    const s=state.session;if(!s){go('#/');return;}const i=s.index,q=s.questions[i],chosen=s.answers[q.id];
+    const s=state.session;if(!s){go('#/');return;}saveQuiz();const i=s.index,q=s.questions[i],chosen=s.answers[q.id];
     app.innerHTML=`<div class="toolbar"><div class="crumb"><button id="exitQuiz">Keluar</button><span>›</span><strong>Try Out</strong></div><span class="pill">${i+1}/${s.questions.length}</span></div>
       <article class="question-card" style="max-width:860px;margin:0 auto"><div class="q-meta"><span class="pill">${q.packageId?`Paket ${q.packageId}`:'Try Out'}</span><span class="q-number">${Object.keys(s.answers).length} dijawab</span></div><h1 class="q-title">${esc(q.question)}</h1>
       <div class="options">${q.options.map(o=>`<button class="option ${chosen===o.key?'selected':''}" data-answer="${o.key}"><span class="option-key">${o.key}</span><span>${esc(o.text)}</span></button>`).join('')}</div>
       <div class="question-actions"><button id="prevQ" class="ghost-btn" ${i===0?'disabled':''}>← Sebelumnya</button><div class="nav-actions">${i===s.questions.length-1?'<button id="finishQuiz" class="primary-btn">Selesai & Lihat Hasil</button>':'<button id="nextQ" class="primary-btn">Berikutnya →</button>'}</div></div></article>`;
-    document.getElementById('exitQuiz').onclick=()=>{if(confirm('Keluar dari try out? Jawaban sesi ini tidak akan dihitung.')){state.session=null;go('#/');}};
+    document.getElementById('exitQuiz').onclick=()=>{if(confirm('Simpan sesi dan kembali ke beranda? Anda dapat melanjutkannya nanti.')){saveQuiz();go('#/');}};
     document.querySelectorAll('[data-answer]').forEach(b=>b.onclick=()=>{s.answers[q.id]=b.dataset.answer;renderQuizQuestion();});
-    if(i>0)document.getElementById('prevQ').onclick=()=>{s.index--;renderQuizQuestion();};
-    if(i<s.questions.length-1)document.getElementById('nextQ').onclick=()=>{s.index++;renderQuizQuestion();};
+    if(i>0)document.getElementById('prevQ').onclick=()=>{s.index--;renderQuizQuestion();showTop();};
+    if(i<s.questions.length-1)document.getElementById('nextQ').onclick=()=>{s.index++;renderQuizQuestion();showTop();};
     else document.getElementById('finishQuiz').onclick=finishQuiz;
   }
   function finishQuiz(){
-    const s=state.session;const results=s.questions.map(q=>{const selected=s.answers[q.id]||null;const correct=selected===q.answer;if(selected)state.progress.answers[q.id]={selected,correct,ts:Date.now()};return {q,selected,correct};});saveProgress();
-    const correct=results.filter(r=>r.correct).length,answered=results.filter(r=>r.selected).length,score=Math.round(correct/results.length*100);
-    app.innerHTML=`<div class="toolbar"><div class="crumb"><button id="homeBtn">Beranda</button><span>›</span><strong>Hasil Try Out</strong></div></div><section class="panel" style="padding:26px"><div class="eyebrow">Sesi selesai</div><h1 style="margin:6px 0 0">Nilai ${score}</h1><div class="result-grid"><div class="result-stat"><strong>${correct}</strong><span>Benar</span></div><div class="result-stat"><strong>${results.length-correct}</strong><span>Salah / kosong</span></div><div class="result-stat"><strong>${answered}</strong><span>Dijawab</span></div><div class="result-stat"><strong>${Math.round((Date.now()-s.started)/60000)} mnt</strong><span>Durasi</span></div></div><div class="hero-actions"><button id="retryBtn" class="primary-btn">Ulangi Try Out</button><button id="home2" class="ghost-btn">Kembali ke Beranda</button></div></section><div class="section-head"><div><h2>Pembahasan</h2><p>Tinjau setiap soal dan kunci jawabannya.</p></div></div><section class="review-list">${results.map((r,i)=>`<article class="review-item ${r.correct?'correct':'wrong'}"><strong>${i+1}. ${esc(r.q.question)}</strong><p class="muted">Jawaban Anda: ${r.selected?`${r.selected}. ${esc(r.q.options.find(o=>o.key===r.selected)?.text||'')}`:'Belum dijawab'}</p><p><b>Kunci:</b> ${r.q.answer}. ${esc(r.q.answerText)}</p><p><b>Pembahasan:</b> ${esc(r.q.explanation).replace(/\n/g,'<br>')}</p></article>`).join('')}</section>`;
-    document.getElementById('homeBtn').onclick=document.getElementById('home2').onclick=()=>{state.session=null;go('#/');};document.getElementById('retryBtn').onclick=()=>{const old=s;state.session=null;startQuiz(old.pkgId,old.questions.length,true);};
+    const s=state.session;if(!s)return;
+    for(const q of s.questions){
+      const selected=s.answers[q.id];
+      if(selected)state.progress.answers[q.id]={selected,correct:selected===q.answer,ts:Date.now()};
+    }
+    state.progress.quizResult={...s,questions:s.questions.map(q=>q.id),finished:Date.now()};
+    state.session=null;saveQuiz();go('#/results/quiz');
+  }
+
+  function renderResults(kind){
+    const quiz=kind==='quiz' ? state.progress.quizResult : null;
+    const review=kind==='review' ? state.progress.reviewResult : null;
+    const pkg=getPkg(kind);
+    const questions=pkg?.questions || (quiz || review)?.questions.map(getQ).filter(Boolean);
+    if(!questions?.length){go('#/');return;}
+    const title=quiz?'Hasil Try Out':review?`Hasil ${review.title}`:`Hasil Belajar Paket ${pkg.id}`;
+    const results=questions.map(q=>{
+      const selected=quiz ? quiz.answers[q.id] || null : answerRec(q.id)?.selected || null;
+      return {q,selected,correct:selected===q.answer};
+    });
+    const correct=results.filter(r=>r.correct).length;
+    const answered=results.filter(r=>r.selected).length;
+    const wrong=answered-correct,empty=questions.length-answered;
+    const score=Math.round(correct/questions.length*100);
+    rememberLocation(`#/results/${kind}`);
+    app.innerHTML=`<div class="toolbar"><div class="crumb"><button id="homeBtn">Beranda</button><span>›</span><strong>${esc(title)}</strong></div></div>
+      <section class="panel result-panel"><div class="eyebrow">${quiz?'Try out selesai':'Ringkasan belajar'}</div><h1>Nilai ${score}</h1>
+      <p class="muted">${correct} jawaban benar dari ${questions.length} soal. Nilai dihitung dari seluruh soal, termasuk yang belum dijawab.${quiz?'':' Ringkasan ini menggunakan jawaban terakhir yang tersimpan.'}</p>
+      <div class="result-grid"><div class="result-stat"><strong>${correct}</strong><span>Benar</span></div><div class="result-stat"><strong>${wrong}</strong><span>Salah</span></div><div class="result-stat"><strong>${empty}</strong><span>Belum dijawab</span></div><div class="result-stat"><strong>${answered}/${questions.length}</strong><span>Dikerjakan</span></div></div>
+      <p class="muted">${quiz?`Durasi sesi: ${Math.round((quiz.finished-quiz.started)/60000)} menit (termasuk waktu jeda).`:""}</p>
+      <div class="hero-actions">${pkg && empty?'<button id="completeBtn" class="primary-btn">Kerjakan yang belum dijawab</button>':''}${quiz?'<button id="retryBtn" class="primary-btn">Ulangi Try Out</button>':''}<button id="home2" class="ghost-btn">Kembali ke Beranda</button></div></section>
+      <div class="section-head"><div><h2>Pembahasan</h2><p>Tinjau jawaban dan pembahasan setiap soal.</p></div></div>
+      <section class="review-list">${results.map((r,i)=>`<article class="review-item ${r.correct?'correct':r.selected?'wrong':'unanswered'}"><strong>${i+1}. ${esc(r.q.question)}</strong><p class="muted">Jawaban Anda: ${r.selected?`${r.selected}. ${esc(r.q.options.find(o=>o.key===r.selected)?.text||'')}`:'Belum dijawab'}</p><p><b>Kunci:</b> ${r.q.answer}. ${esc(r.q.answerText)}</p><p><b>Pembahasan:</b> ${esc(r.q.explanation).replace(/\n/g,'<br>')}</p></article>`).join('')}</section>`;
+    document.getElementById('homeBtn').onclick=document.getElementById('home2').onclick=()=>go('#/');
+    if(pkg && empty)document.getElementById('completeBtn').onclick=()=>go(`#/study/${pkg.id}/${results.find(r=>!r.selected).q.number}`);
+    if(quiz)document.getElementById('retryBtn').onclick=()=>startQuiz(quiz.pkgId,questions.length,true);
   }
 
   function renderReview(kind){
@@ -208,16 +290,39 @@
     if(kind==='wrong'){qs=qs.filter(q=>answerRec(q.id)&&!answerRec(q.id).correct);title='Review soal yang salah';}
     if(kind==='bookmarks'){qs=qs.filter(q=>state.progress.bookmarks[q.id]);title='Soal yang ditandai';}
     if(!qs.length){app.innerHTML=`<div class="toolbar"><div class="crumb"><button id="homeBtn">Beranda</button><span>›</span><strong>${esc(title)}</strong></div></div><div class="empty"><h3>Tidak ada soal di daftar ini.</h3><p>${kind==='wrong'?'Kerjakan soal dulu atau pertahankan jawaban benar Anda.':'Gunakan tombol “Tandai soal” saat belajar.'}</p></div>`;document.getElementById('homeBtn').onclick=()=>go('#/');return;}
-    renderStudy(qs[0].packageId,1,qs,title);
+    const saved=state.progress.review;
+    if(saved?.kind===kind){
+      const stored=saved.questions.map(getQ).filter(Boolean);
+      if(stored.length)qs=stored;
+    }
+    const index=saved?.kind===kind ? Math.min(saved.index || 0,qs.length-1) : 0;
+    state.progress.review={kind,questions:qs.map(q=>q.id),index};
+    rememberLocation(`#/review/${kind}`);
+    renderStudy(qs[0].packageId,index+1,qs,title);
   }
 
   function route(){
+    routeContent();showTop();
+  }
+  function routeContent(){
     window.onkeydown=null;const parts=(location.hash||'#/').replace(/^#\//,'').split('/').filter(Boolean);
     if(!parts.length){renderHome();return;}
     if(parts[0]==='study'){renderStudy(parts[1],parts[2]||1);return;}
-    if(parts[0]==='quiz'){renderQuizSetup(parts[1]||'all');return;}
+    if(parts[0]==='quiz'){
+      const pkgId=parts[1] || 'all';
+      if(pkgId!=='all' && !getPkg(pkgId)){go('#/');return;}
+      if(state.session && String(state.session.pkgId)===pkgId)renderQuizQuestion();else renderQuizSetup(pkgId);
+      return;
+    }
+    if(parts[0]==='results'){renderResults(parts[1]);return;}
     if(parts[0]==='review'){renderReview(parts[1]||'wrong');return;}
     go('#/');
+  }
+  state.session=restoreQuiz();
+  if('scrollRestoration' in history)history.scrollRestoration='manual';
+  if(!location.hash || location.hash==='#/'){
+    const saved=resumeLocation();
+    if(saved)history.replaceState(null,'',saved);
   }
   route();
 })();

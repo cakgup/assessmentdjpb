@@ -8,6 +8,9 @@ import re
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE = ROOT / 'source/Bank_Soal_DJPb_Paket_1-9_CASE_ANALITIS.md'
 OUTPUT = ROOT / 'assets/questions.js'
+# Editorial changes preserve answer meaning and order, so existing progress remains valid.
+# Change this identifier when questions or answer positions change substantively.
+PROGRESS_VERSION = 'case-analitis-4be2f51c00e6242a'
 
 
 def plain(text):
@@ -51,7 +54,8 @@ def parse_bank(text):
     if [p['id'] for p in packages] != list(range(1, 10)):
         raise ValueError('Expected packages 1–9')
     revision = hashlib.sha256(json.dumps(packages, ensure_ascii=False, sort_keys=True).encode()).hexdigest()[:16]
-    return {'version': f'case-analitis-{revision}', 'source': SOURCE.name, 'packages': packages}
+    return {'version': f'case-analitis-{revision}', 'progressVersion': PROGRESS_VERSION,
+            'source': SOURCE.name, 'packages': packages}
 
 
 if __name__ == '__main__':

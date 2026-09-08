@@ -17,7 +17,7 @@
 
 ## Ringkasan
 
-Belajar DJPb, dengan nama tampilan **DJPb Study**, menyediakan 270 soal versi **Case & Analitis** dalam 9 paket beserta kunci jawaban dan pembahasan. Materi mengikuti pembaruan `readme.md` dari repository `basis_data/Assessment Administrator`, dengan soal kasus, pilihan jawaban terbaik (*best answer*), dan urutan opsi sesuai sumber terbaru. Pengguna dapat belajar per paket, menjalankan try out, menandai soal penting, dan mengulang jawaban yang masih salah.
+Belajar DJPb, dengan nama tampilan **DJPb Study**, menyediakan 270 soal versi **Case & Analitis** dalam 9 paket beserta kunci jawaban dan pembahasan. Materi mengikuti pembaruan `readme.md` dari repository `basis_data/Assessment Administrator`, dengan urutan opsi dan kunci sesuai edisi tersebut. Narasi telah disunting agar pertanyaan langsung ke inti, konteks kasus tetap relevan, dan kalimat generik yang berulang dihilangkan. Pengguna dapat belajar per paket, menjalankan try out, menandai soal penting, dan mengulang jawaban yang masih salah.
 
 Aplikasi berjalan sepenuhnya di browser menggunakan HTML, CSS, dan JavaScript. Tidak memerlukan backend, database, instalasi dependensi, atau proses build. Progres disimpan melalui `localStorage` pada browser yang digunakan.
 
@@ -27,6 +27,8 @@ Aplikasi berjalan sepenuhnya di browser menggunakan HTML, CSS, dan JavaScript. T
 
 - **Mode Belajar** — kunci jawaban dan pembahasan muncul setelah pengguna memilih jawaban.
 - **Try Out** — latihan dari satu paket atau seluruh paket, dengan pilihan jumlah soal dan pengacakan urutan soal. Hasil dan pembahasan ditampilkan setelah sesi selesai.
+- **Lanjutkan Otomatis** — posisi terakhir per paket, jawaban, bookmark, dan sesi try out disimpan saat digunakan. Membuka aplikasi kembali akan memulihkan aktivitas terakhir.
+- **Hasil Belajar** — tombol **Selesai & Lihat Hasil** di nomor terakhir menampilkan nilai, jumlah benar, salah, belum dijawab, dan pembahasan.
 - **Progres Belajar** — ringkasan jumlah soal dikerjakan, akurasi, jawaban salah, dan soal ditandai.
 - **Mode Review** — ulangi soal yang terakhir dijawab salah atau buka kumpulan soal yang ditandai.
 - **Pencarian Topik** — cari paket berdasarkan judul, isi soal, atau pembahasan.
@@ -41,7 +43,7 @@ Aplikasi berjalan sepenuhnya di browser menggunakan HTML, CSS, dan JavaScript. T
 1. Buka aplikasi, lalu pilih **Mulai belajar** atau salah satu kartu paket.
 2. Pilih jawaban untuk melihat kunci dan pembahasan.
 3. Gunakan **Tandai soal** untuk menyimpan soal yang ingin dipelajari kembali.
-4. Gunakan **Berikutnya**, **Sebelumnya**, atau peta nomor untuk berpindah soal.
+4. Gunakan **Berikutnya**, **Sebelumnya**, atau peta nomor untuk berpindah soal. Halaman otomatis kembali ke atas agar awal soal langsung terlihat. Di nomor terakhir, pilih **Selesai & Lihat Hasil**.
 5. Dari beranda, pilih **Try Out Acak** untuk latihan lintas paket; untuk satu paket, buka tab **Try Out** pada halaman belajar.
 6. Tinjau hasil, lalu gunakan **Review Salah** atau **Bookmark** untuk mengulang materi.
 
@@ -97,7 +99,8 @@ assessmentdjpb/
 |   |-- Bank_Soal_DJPb_Paket_1-9_CASE_ANALITIS.md  # Sumber aktif
 |   `-- Bank_Soal_DJPb_Paket_1-9_REVISI_TERVERIFIKASI.md  # Arsip edisi lama
 |-- scripts/
-|   `-- build_questions.py  # Generator bank soal dari Markdown
+|   |-- build_questions.py  # Generator bank soal dari Markdown
+|   `-- test_app.cjs        # Pengujian progres, navigasi, dan hasil
 |-- .nojekyll              # Menonaktifkan pemrosesan Jekyll di GitHub Pages
 |-- index.html            # Halaman utama aplikasi
 |-- LICENSE               # Lisensi MIT
@@ -119,7 +122,7 @@ python scripts/build_questions.py
 Generator memeriksa urutan 9 paket × 30 soal, empat opsi A–D, kecocokan teks kunci dengan opsi, serta keberadaan pembahasan sebelum menulis data aplikasi. Penanda tebal Markdown diubah menjadi teks biasa untuk ditampilkan dengan aman di aplikasi. Tidak diperlukan Python saat aplikasi digunakan.
 
 - Sertakan perubahan dokumen sumber dan hasil `assets/questions.js` dalam commit yang sama.
-- ID soal mengikuti paket dan nomor soal. Versi data dihitung otomatis dari isi bank soal; perubahan materi menghasilkan ruang penyimpanan progres baru agar jawaban lama tidak tertukar dengan opsi baru.
+- ID soal mengikuti paket dan nomor soal. Versi data dihitung otomatis dari isi bank soal. `PROGRESS_VERSION` pada generator menentukan kompatibilitas progres: pertahankan untuk penyuntingan bahasa yang tidak mengubah makna atau posisi jawaban, dan ubah jika substansi soal atau urutan opsi berubah.
 - Setelah memperbarui data, buka aplikasi dan periksa paket, jawaban, pembahasan, serta mode try out yang terdampak.
 - Jika jumlah soal atau paket berubah, sesuaikan juga teks ringkasan pada aplikasi dan README.
 
@@ -127,11 +130,28 @@ Generator memeriksa urutan 9 paket × 30 soal, empat opsi A–D, kecocokan teks 
 
 ## Catatan Penyimpanan
 
-- Progres edisi Case & Analitis terpisah dari edisi sebelumnya. Jawaban dan bookmark lama tetap berada di browser, tetapi tidak dimuat pada edisi baru.
-- Jawaban dan bookmark tersimpan di `localStorage` browser; tidak disinkronkan ke server atau perangkat lain.
+- Penyuntingan narasi mempertahankan progres dan bookmark edisi Case & Analitis. Data dari edisi sebelum Case & Analitis tetap terpisah karena urutan opsi berbeda.
+- Jawaban, bookmark, posisi belajar per paket, sesi try out, dan hasil terakhir tersimpan di `localStorage`. Aplikasi tidak menetapkan masa kedaluwarsa dan tidak menyinkronkan data ke server atau perangkat lain.
 - Browser, profil, atau alamat akses yang berbeda memiliki penyimpanan masing-masing. Progres dari file lokal tidak otomatis berpindah ke GitHub Pages.
-- Sesi try out yang sedang berjalan berada di memori dan tidak dipulihkan setelah halaman dimuat ulang.
-- Menghapus data situs pada browser akan menghapus progres lokal. **Reset Progress** pada beranda menghapus jawaban dan bookmark setelah konfirmasi.
+- Sesi try out dipulihkan beserta urutan soal, jawaban, dan posisi terakhir setelah halaman dimuat ulang atau browser dibuka kembali. Tombol **Keluar** menyimpan sesi untuk dilanjutkan nanti.
+- Cache file aplikasi berbeda dari penyimpanan progres. Mode privat, penghapusan data situs, atau kebijakan penyimpanan browser dapat menghilangkan data lokal.
+- Menghapus data situs pada browser akan menghapus progres lokal. **Reset Progress** pada beranda menghapus jawaban, bookmark, posisi, sesi, dan hasil edisi aktif setelah konfirmasi.
+
+---
+
+## Pedoman Penyuntingan dan Validasi
+
+Narasi mengikuti prinsip umum [kaidah penulisan soal Pusat Penilaian Pendidikan](https://pusmendik.kemendikdasmen.go.id/pdf/file-111): pokok soal jelas, informasi yang diperlukan saja, dan bahasa komunikatif. Kalimat kasus generik dan penutup berulang dihapus; pertanyaan hitungan tetap memuat angka dan kondisi yang dibutuhkan. Tambahan frasa pada opsi yang hanya memperpanjang teks juga dihapus dengan mempertahankan substansinya.
+
+Untuk memeriksa hasil pembaruan:
+
+```bash
+python scripts/build_questions.py
+node --check assets/app.js
+node --test scripts/test_app.cjs
+```
+
+Pengujian menggunakan data sementara, tanpa membaca atau mengubah progres browser pengguna. Cakupannya meliputi kompatibilitas progres, pemulihan posisi dan try out, perpindahan ke atas, hasil paket dengan soal kosong, serta struktur 270 soal.
 
 ---
 

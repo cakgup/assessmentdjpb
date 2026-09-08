@@ -54,3 +54,7 @@ button:focus-visible,a:focus-visible,[role="button"]:focus-visible,input:focus-v
 @media (max-width:900px){.hero{grid-template-columns:1fr}.package-grid{grid-template-columns:repeat(2,1fr)}.question-layout{grid-template-columns:1fr}.side-panel{position:static}.result-grid{grid-template-columns:repeat(2,1fr)}}
 @media (max-width:620px){.main{width:min(100% - 20px,var(--max));padding-top:20px}.topbar{height:64px;padding:0 12px}.brand small{display:none}.hero-card{padding:22px}.stats-card{padding:16px}.hero{gap:16px}.hero h1{max-width:none}.hero-actions{flex-direction:column}.hero-actions button{width:100%}.quiz-setup{padding:22px}.package-card{padding:20px}.q-meta{flex-wrap:wrap}.package-grid{grid-template-columns:1fr}.section-head{align-items:stretch;flex-direction:column}.search{max-width:none}.question-card{padding:18px}.q-title{font-size:20px}.option{grid-template-columns:34px 1fr;padding:12px}.question-actions{align-items:stretch}.question-actions>.ghost-btn,.question-actions>.bookmark{width:100%}.nav-actions{width:100%}.nav-actions button{flex:1}.result-grid{grid-template-columns:1fr 1fr}.footer{padding:16px 12px}.question-map{grid-template-columns:repeat(5,minmax(0,1fr))}}
 @media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
+
+/* Readable question stems and completion summaries. */
+.q-title{font-size:clamp(18px,2vw,23px);font-weight:600;line-height:1.6}
+.result-panel{padding:26px}.result-panel h1{margin:6px 0 0}.review-item.unanswered{border-left:4px solid var(--muted)}

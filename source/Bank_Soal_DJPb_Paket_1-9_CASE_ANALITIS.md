@@ -1,10 +1,10 @@
 # 📚 Bank Soal DJPb — Paket 1–9 (Case & Analitis)
 
-> **Versi tingkat kesulitan ditingkatkan.** Jumlah soal tetap **270 soal** (9 paket × 30 soal).
+> **Edisi Case & Analitis — narasi disunting.** Jumlah soal tetap **270 soal** (9 paket × 30 soal).
 >
 > Desain soal diarahkan ke **best answer**, mini-case, analisis urutan proses, pembagian kewenangan, risiko, dan penerapan ketentuan. Substansi kunci dan pembahasan tetap mengacu pada versi terverifikasi sebelumnya.
 >
-> **Anti-tebak:** posisi jawaban diacak dan pada setiap soal jawaban benar **tidak menjadi opsi terpanjang**, sehingga panjang teks tidak dapat digunakan sebagai petunjuk kunci.
+> **Penyuntingan bahasa:** pokok soal disajikan langsung, konteks kasus yang relevan dipertahankan, dan tambahan kalimat generik dihapus. Urutan opsi, kunci, serta pembahasan mengikuti edisi Case & Analitis. Panjang opsi tidak dijadikan aturan untuk menentukan kunci.
 
 ## Daftar Isi
 
@@ -38,12 +38,12 @@
 
 ### Soal 1
 
-**Kasus:** Rapat evaluasi pelaksanaan APBN menemukan perbedaan interpretasi antara tim teknis dan pejabat pengambil keputusan. Fakta/isu yang harus diputuskan adalah: **Manakah kegiatan Pemerintah Daerah yang dapat didanai dari alokasi dana penunjang DAK Fisik?**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Kegiatan manakah yang dapat didanai dari alokasi dana penunjang DAK Fisik?
 
 - **A.** Biaya tender dan desain perencanaan untuk kegiatan kontraktual
-- **B.** Pembayaran dividen BUMD (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
+- **B.** Pembayaran dividen BUMD
 - **C.** Pembayaran cicilan pokok utang daerah
-- **D.** Penyertaan modal Pemerintah Daerah kepada BUMD (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
+- **D.** Penyertaan modal Pemerintah Daerah kepada BUMD
 
 > ✅ **Jawaban:** **A. Biaya tender dan desain perencanaan untuk kegiatan kontraktual**
 >
@@ -53,7 +53,7 @@
 
 ### Soal 2
 
-**Kasus:** Pada Triwulan I, empat jenis belanja masing-masing memiliki pagu Rp100 juta. Realisasinya: Belanja Pegawai Rp21 juta, Belanja Barang Rp16 juta, Belanja Modal Rp8 juta, dan Belanja Bansos Rp26 juta. Jenis belanja yang belum mencapai target penyerapan Triwulan I adalah. KPA meminta second opinion karena beberapa opsi sama-sama terlihat dapat dilaksanakan secara administratif. Pimpinan meminta Anda memilih **best answer**, bukan sekadar opsi yang paling cepat dilakukan.
+Pada Triwulan I, empat jenis belanja masing-masing memiliki pagu Rp100 juta. Realisasi Belanja Pegawai Rp21 juta, Belanja Barang Rp16 juta, Belanja Modal Rp8 juta, dan Belanja Bansos Rp26 juta. Jenis belanja manakah yang belum mencapai target penyerapan Triwulan I?
 
 - **A.** Belanja Bansos
 - **B.** Belanja Pegawai
@@ -68,7 +68,7 @@
 
 ### Soal 3
 
-**Kasus:** Tim reviu menemukan bahwa keputusan yang cepat belum tentu merupakan keputusan yang sesuai ketentuan. Fakta/isu yang harus diputuskan adalah: **Salah satu dokumen persyaratan administratif Satker untuk ditetapkan menerapkan PPK-BLU adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Dokumen manakah yang menjadi persyaratan administratif bagi Satker untuk menerapkan PPK-BLU?
 
 - **A.** Surat penetapan sebagai BUMN
 - **B.** Persetujuan DPR
@@ -83,12 +83,12 @@
 
 ### Soal 4
 
-**Kasus:** Rapat evaluasi pelaksanaan APBN menemukan perbedaan interpretasi antara tim teknis dan pejabat pengambil keputusan. Fakta/isu yang harus diputuskan adalah: **Manakah kondisi yang dapat menjadi dasar pencabutan penerapan PPK-BLU?**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Kondisi manakah yang dapat menjadi dasar pencabutan penerapan PPK-BLU?
 
-- **A.** BLU memperoleh surplus anggaran (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
+- **A.** BLU memperoleh surplus anggaran
 - **B.** BLU tidak lagi memenuhi persyaratan substantif, teknis, dan/atau administratif
 - **C.** BLU meningkatkan jumlah layanan
-- **D.** BLU memiliki saldo kas pada akhir tahun (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
+- **D.** BLU memiliki saldo kas pada akhir tahun
 
 > ✅ **Jawaban:** **B. BLU tidak lagi memenuhi persyaratan substantif, teknis, dan/atau administratif**
 >
@@ -98,12 +98,12 @@
 
 ### Soal 5
 
-**Kasus:** Satker akan menerima hibah untuk pertama kalinya atau hibah yang sifatnya tidak berulang. Langkah yang tepat sebelum melanjutkan proses penerimaan hibah adalah. KPA meminta second opinion karena beberapa opsi sama-sama terlihat dapat dilaksanakan secara administratif. Pimpinan meminta Anda memilih **best answer**, bukan sekadar opsi yang paling cepat dilakukan.
+Satker berencana menerima hibah untuk pertama kalinya. Langkah apa yang perlu dilakukan sebelum melanjutkan proses penerimaan hibah?
 
 - **A.** Melakukan konsultasi mengenai rencana penerimaan hibah sesuai kewenangan
 - **B.** Langsung menggunakan dana hibah
-- **C.** Membuka rekening pribadi untuk menampung dana (serta dilanjutkan dengan koordinasi kepada pihak terkait tanpa mengubah tahapan utama proses)
-- **D.** Menunggu pemeriksaan BPK (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)
+- **C.** Membuka rekening pribadi untuk menampung dana
+- **D.** Menunggu pemeriksaan BPK
 
 > ✅ **Jawaban:** **A. Melakukan konsultasi mengenai rencana penerimaan hibah sesuai kewenangan**
 >
@@ -113,10 +113,10 @@
 
 ### Soal 6
 
-**Kasus:** Tim reviu menemukan bahwa keputusan yang cepat belum tentu merupakan keputusan yang sesuai ketentuan. Fakta/isu yang harus diputuskan adalah: **Urutan umum penatausahaan hibah langsung dalam bentuk uang yang perlu diingat adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Bagaimana urutan penatausahaan hibah langsung dalam bentuk uang?
 
-- **A.** Rekening → Register → Pengesahan → Revisi (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)
-- **B.** Revisi → Register → Rekening → Pengesahan (serta dilanjutkan dengan koordinasi kepada pihak terkait tanpa mengubah tahapan utama proses)
+- **A.** Rekening → Register → Pengesahan → Revisi
+- **B.** Revisi → Register → Rekening → Pengesahan
 - **C.** Register → Revisi → Pengesahan → Rekening
 - **D.** Register → Rekening → Revisi → Pengesahan
 
@@ -128,11 +128,11 @@
 
 ### Soal 7
 
-**Kasus:** Rapat evaluasi pelaksanaan APBN menemukan perbedaan interpretasi antara tim teknis dan pejabat pengambil keputusan. Fakta/isu yang harus diputuskan adalah: **Untuk memperbaiki kinerja Deviasi Halaman III DIPA, tindakan Satker yang paling tepat adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Tindakan apa yang paling tepat untuk memperbaiki kinerja indikator Deviasi Halaman III DIPA?
 
 - **A.** Memutakhirkan RPD Halaman III DIPA berdasarkan rencana realisasi bulanan yang realistis
-- **B.** Menetapkan RPD bulanan sama besar sepanjang tahun tanpa melihat rencana kegiatan (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)
-- **C.** Menghapus seluruh RPD yang belum terealisasi (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)
+- **B.** Menetapkan RPD bulanan sama besar sepanjang tahun tanpa melihat rencana kegiatan
+- **C.** Menghapus seluruh RPD yang belum terealisasi
 - **D.** Menunda seluruh pembayaran sampai akhir tahun
 
 > ✅ **Jawaban:** **A. Memutakhirkan RPD Halaman III DIPA berdasarkan rencana realisasi bulanan yang realistis**
@@ -143,12 +143,12 @@
 
 ### Soal 8
 
-**Kasus:** Data RPD pada Halaman III DIPA yang digunakan sebagai dasar penghitungan deviasi dikunci berdasarkan. KPA meminta second opinion karena beberapa opsi sama-sama terlihat dapat dilaksanakan secara administratif. Pimpinan meminta Anda memilih **best answer**, bukan sekadar opsi yang paling cepat dilakukan.
+Apa dasar penguncian data RPD Halaman III DIPA untuk penghitungan deviasi?
 
-- **A.** Tanggal penyusunan laporan keuangan semesteran (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)
+- **A.** Tanggal penyusunan laporan keuangan semesteran
 - **B.** Tanggal pengajuan SPM pertama setiap bulan
 - **C.** Tanggal posting DIPA hasil revisi pada sistem setiap awal triwulan
-- **D.** Tanggal akhir kontrak (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)
+- **D.** Tanggal akhir kontrak
 
 > ✅ **Jawaban:** **C. Tanggal posting DIPA hasil revisi pada sistem setiap awal triwulan**
 >
@@ -158,9 +158,9 @@
 
 ### Soal 9
 
-**Kasus:** Dalam Semester I, suatu Satker telah melakukan 2 kali revisi DIPA pagu tetap yang diperhitungkan dalam IKPA. Pada bulan Juni Satker melakukan revisi yang menambah pagu. Dengan asumsi tidak ada revisi lain yang diperhitungkan, bagaimana pengaruhnya terhadap indikator Revisi DIPA?. Tim reviu menemukan bahwa keputusan yang cepat belum tentu merupakan keputusan yang sesuai ketentuan. Pimpinan meminta Anda memilih **best answer**, bukan sekadar opsi yang paling cepat dilakukan.
+Pada Semester I, Satker telah melakukan dua kali revisi DIPA pagu tetap yang diperhitungkan dalam IKPA. Pada Juni, Satker melakukan revisi yang menambah pagu. Jika tidak ada revisi lain yang diperhitungkan, bagaimana pengaruh revisi tersebut terhadap indikator Revisi DIPA?
 
-- **A.** Nilai otomatis menjadi 0 karena ada penambahan pagu (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)
+- **A.** Nilai otomatis menjadi 0 karena ada penambahan pagu
 - **B.** Frekuensi menjadi 3 karena semua revisi dihitung
 - **C.** Frekuensi yang diperhitungkan tetap 2 karena indikator menghitung jenis revisi pagu tetap tertentu
 - **D.** Seluruh revisi Semester I dihapus dari perhitungan
@@ -173,7 +173,7 @@
 
 ### Soal 10
 
-**Kasus:** Rapat evaluasi pelaksanaan APBN menemukan perbedaan interpretasi antara tim teknis dan pejabat pengambil keputusan. Fakta/isu yang harus diputuskan adalah: **Unit yang melakukan konsolidasi Spending Review tingkat Kanwil dan Spending Review tingkat Pengguna Anggaran adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Unit manakah yang mengonsolidasikan Spending Review tingkat Kanwil dan tingkat Pengguna Anggaran?
 
 - **A.** Direktorat Pelaksanaan Anggaran
 - **B.** Direktorat Sistem Informasi dan Teknologi Perbendaharaan
@@ -188,12 +188,12 @@
 
 ### Soal 11
 
-**Kasus:** KPA meminta second opinion karena beberapa opsi sama-sama terlihat dapat dilaksanakan secara administratif. Fakta/isu yang harus diputuskan adalah: **Pejabat yang menguji SPP beserta dokumen pendukung dan menerbitkan SPM apabila persyaratan terpenuhi adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Pejabat manakah yang menguji SPP beserta dokumen pendukung dan menerbitkan SPM setelah persyaratan terpenuhi?
 
 - **A.** Bendahara Pengeluaran
 - **B.** Pejabat Penandatangan SPM
-- **C.** Pejabat Pembuat Komitmen (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)
-- **D.** Penyedia barang/jasa (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)
+- **C.** Pejabat Pembuat Komitmen
+- **D.** Penyedia barang/jasa
 
 > ✅ **Jawaban:** **B. Pejabat Penandatangan SPM**
 >
@@ -203,12 +203,12 @@
 
 ### Soal 12
 
-**Kasus:** Tim reviu menemukan bahwa keputusan yang cepat belum tentu merupakan keputusan yang sesuai ketentuan. Fakta/isu yang harus diputuskan adalah: **Urutan awal pembukaan rekening Bendahara/Satker yang benar adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Bagaimana urutan awal pembukaan rekening Bendahara atau Satker?
 
 - **A.** KPA mengajukan permohonan → KPPN/Kuasa BUN memverifikasi → persetujuan diterbitkan → rekening dibuka → pembukaan dilaporkan
 - **B.** Satker membuka rekening di bank → meminta persetujuan KPPN
 - **C.** Bank membuka rekening → KPA mengajukan pengesahan kepada BPK
-- **D.** Bendahara membuka rekening pribadi → kemudian dilaporkan kepada KPPN (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)
+- **D.** Bendahara membuka rekening pribadi → kemudian dilaporkan kepada KPPN
 
 > ✅ **Jawaban:** **A. KPA mengajukan permohonan → KPPN/Kuasa BUN memverifikasi → persetujuan diterbitkan → rekening dibuka → pembukaan dilaporkan**
 >
@@ -218,7 +218,7 @@
 
 ### Soal 13
 
-**Kasus:** Rapat evaluasi pelaksanaan APBN menemukan perbedaan interpretasi antara tim teknis dan pejabat pengambil keputusan. Fakta/isu yang harus diputuskan adalah: **Pasangan fungsi Komite Investasi Pemerintah (KIP) dan Operator Investasi Pemerintah (OIP) yang tepat adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Bagaimana pembagian fungsi Komite Investasi Pemerintah (KIP) dan Operator Investasi Pemerintah (OIP)?
 
 - **A.** KIP supervisi — OIP operasional
 - **B.** KIP audit eksternal — OIP legislasi
@@ -233,11 +233,11 @@
 
 ### Soal 14
 
-**Kasus:** KPA meminta second opinion karena beberapa opsi sama-sama terlihat dapat dilaksanakan secara administratif. Fakta/isu yang harus diputuskan adalah: **Wetmatigheid dalam pengujian pengeluaran negara berkaitan dengan**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Aspek apa yang diuji melalui wetmatigheid dalam pengeluaran negara?
 
-- **A.** Besarnya saldo kas Satker (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
+- **A.** Besarnya saldo kas Satker
 - **B.** Tingkat popularitas program
-- **C.** Keuntungan komersial penyedia (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
+- **C.** Keuntungan komersial penyedia
 - **D.** Kesesuaian pengeluaran dengan peraturan perundang-undangan
 
 > ✅ **Jawaban:** **D. Kesesuaian pengeluaran dengan peraturan perundang-undangan**
@@ -248,10 +248,10 @@
 
 ### Soal 15
 
-**Kasus:** Tim reviu menemukan bahwa keputusan yang cepat belum tentu merupakan keputusan yang sesuai ketentuan. Fakta/isu yang harus diputuskan adalah: **Pasangan pengertian yang tepat dalam pengujian pengeluaran negara adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Manakah pasangan pengertian rechtmatigheid dan doelmatigheid yang tepat?
 
 - **A.** Rechtmatigheid = kebenaran hak/tagihan; Doelmatigheid = tujuan atau kemanfaatan pengeluaran
-- **B.** Rechtmatigheid = ketersediaan kas; Doelmatigheid = penyusunan DIPA (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **B.** Rechtmatigheid = ketersediaan kas; Doelmatigheid = penyusunan DIPA
 - **C.** Rechtmatigheid = tujuan/manfaat; Doelmatigheid = legalitas
 - **D.** Rechtmatigheid = audit eksternal; Doelmatigheid = pengadaan
 
@@ -263,12 +263,12 @@
 
 ### Soal 16
 
-**Kasus:** Rapat evaluasi pelaksanaan APBN menemukan perbedaan interpretasi antara tim teknis dan pejabat pengambil keputusan. Fakta/isu yang harus diputuskan adalah: **LKPP pada dasarnya merupakan laporan keuangan Pemerintah Pusat yang disusun melalui konsolidasi**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Laporan keuangan apa saja yang dikonsolidasikan untuk menyusun LKPP?
 
-- **A.** Laporan BUMN saja (karena pihak tersebut dipandang paling dekat dengan pelaksanaan operasional transaksi)
+- **A.** Laporan BUMN saja
 - **B.** Laporan perbankan nasional
 - **C.** Laporan Kementerian/Lembaga dan laporan Bendahara Umum Negara
-- **D.** Seluruh APBD provinsi dan kabupaten/kota (dengan asumsi pihak tersebut memegang fungsi pengujian sekaligus tindak lanjut pada tahap itu)
+- **D.** Seluruh APBD provinsi dan kabupaten/kota
 
 > ✅ **Jawaban:** **C. Laporan Kementerian/Lembaga dan laporan Bendahara Umum Negara**
 >
@@ -278,11 +278,11 @@
 
 ### Soal 17
 
-**Kasus:** KPA meminta second opinion karena beberapa opsi sama-sama terlihat dapat dilaksanakan secara administratif. Fakta/isu yang harus diputuskan adalah: **Pernyataan yang paling tepat mengenai perbedaan DAU dan DBH adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa perbedaan DAU dan DBH?
 
 - **A.** DAU hanya untuk provinsi, sedangkan DBH hanya untuk desa
-- **B.** DAU dan DBH sama-sama hanya untuk kegiatan fisik (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
-- **C.** DAU berasal dari PAD, sedangkan DBH berasal dari pinjaman daerah (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **B.** DAU dan DBH sama-sama hanya untuk kegiatan fisik
+- **C.** DAU berasal dari PAD, sedangkan DBH berasal dari pinjaman daerah
 - **D.** DAU berbasis pemerataan/celah fiskal, sedangkan DBH berbasis penerimaan tertentu yang dibagihasilkan
 
 > ✅ **Jawaban:** **D. DAU berbasis pemerataan/celah fiskal, sedangkan DBH berbasis penerimaan tertentu yang dibagihasilkan**
@@ -293,12 +293,12 @@
 
 ### Soal 18
 
-**Kasus:** Kabupaten A memiliki PAD dan kapasitas fiskal lebih tinggi daripada Kabupaten B. Kabupaten A memprotes karena memperoleh DAU lebih kecil. Penjelasan yang paling tepat adalah. Tim reviu menemukan bahwa keputusan yang cepat belum tentu merupakan keputusan yang sesuai ketentuan. Pimpinan meminta Anda memilih **best answer**, bukan sekadar opsi yang paling cepat dilakukan.
+Kabupaten A memiliki PAD dan kapasitas fiskal lebih tinggi daripada Kabupaten B, tetapi menerima DAU lebih kecil. Apa penjelasan yang tepat atas perbedaan alokasi tersebut?
 
 - **A.** DAU ditentukan oleh besarnya DBH tahun sebelumnya
 - **B.** DAU mempertimbangkan celah fiskal sehingga daerah dengan kebutuhan lebih tinggi dan kapasitas lebih rendah dapat memperoleh alokasi lebih besar
-- **C.** DAU harus selalu sama untuk semua kabupaten dalam satu provinsi (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)
-- **D.** DAU hanya ditentukan oleh jumlah penduduk (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)
+- **C.** DAU harus selalu sama untuk semua kabupaten dalam satu provinsi
+- **D.** DAU hanya ditentukan oleh jumlah penduduk
 
 > ✅ **Jawaban:** **B. DAU mempertimbangkan celah fiskal sehingga daerah dengan kebutuhan lebih tinggi dan kapasitas lebih rendah dapat memperoleh alokasi lebih besar**
 >
@@ -308,11 +308,11 @@
 
 ### Soal 19
 
-**Kasus:** Suatu tagihan diajukan kepada PPSPM, tetapi BAST yang dipersyaratkan sebagai dokumen pendukung belum tersedia. Tindakan PPSPM yang tepat adalah. Rapat evaluasi pelaksanaan APBN menemukan perbedaan interpretasi antara tim teknis dan pejabat pengambil keputusan. Pimpinan meminta Anda memilih **best answer**, bukan sekadar opsi yang paling cepat dilakukan.
+PPSPM menerima tagihan tanpa BAST yang dipersyaratkan. Apa tindakan yang harus dilakukan PPSPM?
 
-- **A.** Mengganti BAST dengan memo informal (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)
+- **A.** Mengganti BAST dengan memo informal
 - **B.** Menolak/mengembalikan SPP sampai persyaratan pembayaran dilengkapi
-- **C.** Tetap menerbitkan SPM agar pembayaran tidak terlambat (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)
+- **C.** Tetap menerbitkan SPM agar pembayaran tidak terlambat
 - **D.** Membayar dahulu melalui UP tanpa pengujian
 
 > ✅ **Jawaban:** **B. Menolak/mengembalikan SPP sampai persyaratan pembayaran dilengkapi**
@@ -323,7 +323,7 @@
 
 ### Soal 20
 
-**Kasus:** KPA meminta second opinion karena beberapa opsi sama-sama terlihat dapat dilaksanakan secara administratif. Fakta/isu yang harus diputuskan adalah: **Pasangan ketentuan MP PNBP yang tepat adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Manakah pasangan ketentuan MP PNBP Tahap I Klaster 1 dan Tahap III yang tepat?
 
 - **A.** Tahap I semua Satker 100%; Tahap III 20%
 - **B.** Tahap I Klaster 1 80%; Tahap III tidak menggunakan MP Riil
@@ -338,10 +338,10 @@
 
 ### Soal 21
 
-**Kasus:** Tim reviu menemukan bahwa keputusan yang cepat belum tentu merupakan keputusan yang sesuai ketentuan. Fakta/isu yang harus diputuskan adalah: **Dalam terminologi sistem perbendaharaan, “void” berarti**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa arti void dalam sistem perbendaharaan?
 
-- **A.** Pemindahbukuan rekening Satker (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
-- **B.** Rekonsiliasi bank (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **A.** Pemindahbukuan rekening Satker
+- **B.** Rekonsiliasi bank
 - **C.** Penambahan pagu anggaran
 - **D.** Pembatalan transaksi/pencatatan
 
@@ -353,10 +353,10 @@
 
 ### Soal 22
 
-**Kasus:** Rapat evaluasi pelaksanaan APBN menemukan perbedaan interpretasi antara tim teknis dan pejabat pengambil keputusan. Fakta/isu yang harus diputuskan adalah: **Pernyataan yang tepat mengenai SRG dan S-SRG adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa perbedaan SRG dan S-SRG?
 
-- **A.** SRG hanya untuk deposito pemerintah (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
-- **B.** SRG adalah sistem gaji dan S-SRG adalah sistem pajak (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **A.** SRG hanya untuk deposito pemerintah
+- **B.** SRG adalah sistem gaji dan S-SRG adalah sistem pajak
 - **C.** SRG merupakan sistem Resi Gudang; S-SRG merupakan pembiayaan dengan agunan Resi Gudang yang memperoleh subsidi bunga/margin pemerintah
 - **D.** S-SRG tidak berkaitan dengan pembiayaan
 
@@ -368,11 +368,11 @@
 
 ### Soal 23
 
-**Kasus:** Satker akan mengajukan revolving UP, tetapi sebagian bukti transaksi belum lengkap. Tindakan yang paling tepat adalah. KPA meminta second opinion karena beberapa opsi sama-sama terlihat dapat dilaksanakan secara administratif. Pimpinan meminta Anda memilih **best answer**, bukan sekadar opsi yang paling cepat dilakukan.
+Satker akan mengajukan revolving UP, tetapi sebagian bukti transaksi belum lengkap. Apa tindakan yang paling tepat?
 
 - **A.** Memasukkan seluruh transaksi termasuk yang belum lengkap
-- **B.** Menunda seluruh pertanggungjawaban sampai akhir tahun (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)
-- **C.** Menghapus transaksi yang belum lengkap tanpa pertanggungjawaban (serta dilanjutkan dengan koordinasi kepada pihak terkait tanpa mengubah tahapan utama proses)
+- **B.** Menunda seluruh pertanggungjawaban sampai akhir tahun
+- **C.** Menghapus transaksi yang belum lengkap tanpa pertanggungjawaban
 - **D.** Mengajukan GUP untuk transaksi yang bukti pertanggungjawabannya sudah lengkap, sedangkan transaksi lain diajukan setelah dokumennya lengkap
 
 > ✅ **Jawaban:** **D. Mengajukan GUP untuk transaksi yang bukti pertanggungjawabannya sudah lengkap, sedangkan transaksi lain diajukan setelah dokumennya lengkap**
@@ -383,7 +383,7 @@
 
 ### Soal 24
 
-**Kasus:** Tim reviu menemukan bahwa keputusan yang cepat belum tentu merupakan keputusan yang sesuai ketentuan. Fakta/isu yang harus diputuskan adalah: **Berdasarkan urutan proses Satker baru dalam catatan peserta, setelah Satker dan DIPA terbentuk, langkah berikutnya adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Menurut alur pembentukan Satker baru dalam materi sumber, apa langkah setelah Satker dan DIPA terbentuk?
 
 - **A.** Menetapkan pejabat perbendaharaan
 - **B.** Melakukan penghapusan supplier
@@ -398,12 +398,12 @@
 
 ### Soal 25
 
-**Kasus:** Dalam skema Rekening Pengeluaran berbasis rekening virtual, rekening Satker baru seharusnya. Rapat evaluasi pelaksanaan APBN menemukan perbedaan interpretasi antara tim teknis dan pejabat pengambil keputusan. Pimpinan meminta Anda memilih **best answer**, bukan sekadar opsi yang paling cepat dilakukan.
+Bagaimana pembukaan rekening Satker baru dalam skema Rekening Pengeluaran berbasis rekening virtual?
 
 - **A.** Menggunakan rekening pribadi Bendahara
-- **B.** Selalu menggunakan rekening deposito (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)
+- **B.** Selalu menggunakan rekening deposito
 - **C.** Menggunakan Rekening Pengeluaran Satker/VA yang terkonsolidasi dengan Rekening Induk Unit Eselon I sesuai prosedur
-- **D.** Dibuka sendiri tanpa hubungan dengan Unit Eselon I (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)
+- **D.** Dibuka sendiri tanpa hubungan dengan Unit Eselon I
 
 > ✅ **Jawaban:** **C. Menggunakan Rekening Pengeluaran Satker/VA yang terkonsolidasi dengan Rekening Induk Unit Eselon I sesuai prosedur**
 >
@@ -413,12 +413,12 @@
 
 ### Soal 26
 
-**Kasus:** KPA meminta second opinion karena beberapa opsi sama-sama terlihat dapat dilaksanakan secara administratif. Fakta/isu yang harus diputuskan adalah: **Ketentuan agunan dalam Pembiayaan UMi yang tepat adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Bagaimana ketentuan agunan dalam Pembiayaan UMi?
 
 - **A.** Semua UMi dilarang menggunakan bentuk pengamanan risiko apa pun
 - **B.** Individual lending dapat dikenakan agunan sesuai penilaian risiko, sedangkan group lending tidak boleh dikenakan agunan tambahan
-- **C.** Semua UMi wajib menggunakan sertifikat tanah (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
-- **D.** Individual lending tidak boleh memakai agunan; group lending wajib memakai agunan tambahan (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **C.** Semua UMi wajib menggunakan sertifikat tanah
+- **D.** Individual lending tidak boleh memakai agunan; group lending wajib memakai agunan tambahan
 
 > ✅ **Jawaban:** **B. Individual lending dapat dikenakan agunan sesuai penilaian risiko, sedangkan group lending tidak boleh dikenakan agunan tambahan**
 >
@@ -428,12 +428,12 @@
 
 ### Soal 27
 
-**Kasus:** Tim reviu menemukan bahwa keputusan yang cepat belum tentu merupakan keputusan yang sesuai ketentuan. Fakta/isu yang harus diputuskan adalah: **Selain tidak lagi memenuhi persyaratan BLU, kondisi lain yang dapat menjadi dasar pencabutan penerapan PPK-BLU adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Selain tidak terpenuhinya persyaratan BLU, kondisi apa yang dapat menjadi dasar pencabutan penerapan PPK-BLU?
 
 - **A.** BLU meningkatkan kualitas pelayanan
 - **B.** BLU tidak mengikuti ketentuan peraturan perundang-undangan di bidang pengelolaan keuangan BLU
-- **C.** BLU mematuhi seluruh ketentuan pengelolaan keuangan (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
-- **D.** BLU memiliki pendapatan PNBP (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **C.** BLU mematuhi seluruh ketentuan pengelolaan keuangan
+- **D.** BLU memiliki pendapatan PNBP
 
 > ✅ **Jawaban:** **B. BLU tidak mengikuti ketentuan peraturan perundang-undangan di bidang pengelolaan keuangan BLU**
 >
@@ -443,10 +443,10 @@
 
 ### Soal 28
 
-**Kasus:** Dalam akuntansi pemerintah, bagian piutang jangka panjang yang akan jatuh tempo dalam 12 bulan setelah tanggal pelaporan harus. Rapat evaluasi pelaksanaan APBN menemukan perbedaan interpretasi antara tim teknis dan pejabat pengambil keputusan. Pimpinan meminta Anda memilih **best answer**, bukan sekadar opsi yang paling cepat dilakukan.
+Bagian piutang jangka panjang akan jatuh tempo dalam 12 bulan setelah tanggal pelaporan. Bagaimana perlakuan akuntansinya?
 
-- **A.** Dipindahkan menjadi ekuitas tanpa jurnal (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)
-- **B.** Dihapuskan seluruhnya (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)
+- **A.** Dipindahkan menjadi ekuitas tanpa jurnal
+- **B.** Dihapuskan seluruhnya
 - **C.** Dicatat sebagai belanja modal
 - **D.** Direklasifikasi menjadi Bagian Lancar Piutang Jangka Panjang
 
@@ -458,10 +458,10 @@
 
 ### Soal 29
 
-**Kasus:** KPA meminta second opinion karena beberapa opsi sama-sama terlihat dapat dilaksanakan secara administratif. Fakta/isu yang harus diputuskan adalah: **Pernyataan yang tepat mengenai DAU, DAK Fisik, dan DBH adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Manakah pernyataan yang tepat mengenai tujuan DAU, DAK Fisik, dan DBH?
 
-- **A.** Ketiganya bersumber dari PAD (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
-- **B.** Ketiganya selalu merupakan block grant tanpa tujuan khusus (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **A.** Ketiganya bersumber dari PAD
+- **B.** Ketiganya selalu merupakan block grant tanpa tujuan khusus
 - **C.** DAU untuk pemerataan kemampuan keuangan; DAK Fisik mendukung kegiatan fisik/prioritas tertentu; DBH berasal dari penerimaan tertentu yang dibagihasilkan
 - **D.** DAK Fisik hanya digunakan untuk belanja pegawai
 
@@ -473,7 +473,7 @@
 
 ### Soal 30
 
-**Kasus:** Tim reviu menemukan bahwa keputusan yang cepat belum tentu merupakan keputusan yang sesuai ketentuan. Fakta/isu yang harus diputuskan adalah: **Formula MP PNBP Tahap III adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Bagaimana formula MP PNBP Tahap III?
 
 - **A.** Selalu 60% dari pagu
 - **B.** Selalu 40% dari pagu
@@ -496,11 +496,11 @@
 
 ### Soal 1
 
-**Kasus:** KPPN dan Satker sedang menyelesaikan transaksi yang berpotensi memengaruhi kualitas pelaksanaan anggaran dan rekonsiliasi. Fakta/isu yang harus diputuskan adalah: **Indikator Deviasi Halaman III DIPA mengukur**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa yang diukur oleh indikator Deviasi Halaman III DIPA?
 
 - **A.** Kesesuaian realisasi dengan RPD bulanan
-- **B.** Kecepatan penyelesaian tagihan (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
-- **C.** Capaian output saja (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
+- **B.** Kecepatan penyelesaian tagihan
+- **C.** Capaian output saja
 - **D.** Frekuensi revisi DIPA
 
 > ✅ **Jawaban:** **A. Kesesuaian realisasi dengan RPD bulanan**
@@ -511,10 +511,10 @@
 
 ### Soal 2
 
-**Kasus:** Pada akhir periode, tim harus menentukan tindak lanjut tanpa menimbulkan kesalahan data maupun keterlambatan proses berikutnya. Fakta/isu yang harus diputuskan adalah: **Jika rata-rata deviasi Halaman III DIPA sebesar 4,5%, nilai indikator adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Jika rata-rata deviasi Halaman III DIPA sebesar 4,5%, berapa nilai indikatornya?
 
 - **A.** Tidak dapat dihitung
-- **B.** 95 (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)
+- **B.** 95
 - **C.** 95,5
 - **D.** 100
 
@@ -526,10 +526,10 @@
 
 ### Soal 3
 
-**Kasus:** Dalam forum evaluasi, terdapat dua kepentingan: percepatan penyelesaian dan kepatuhan terhadap mekanisme perbendaharaan. Fakta/isu yang harus diputuskan adalah: **Data RPD yang digunakan dalam perhitungan deviasi dikunci berdasarkan**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa dasar penguncian data RPD dalam penghitungan deviasi Halaman III DIPA?
 
-- **A.** Tanggal SP2D terakhir (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)
-- **B.** Tanggal SPM (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)
+- **A.** Tanggal SP2D terakhir
+- **B.** Tanggal SPM
 - **C.** Tanggal posting DIPA hasil revisi pada sistem setiap awal triwulan
 - **D.** Tanggal kontrak
 
@@ -541,7 +541,7 @@
 
 ### Soal 4
 
-**Kasus:** KPPN dan Satker sedang menyelesaikan transaksi yang berpotensi memengaruhi kualitas pelaksanaan anggaran dan rekonsiliasi. Fakta/isu yang harus diputuskan adalah: **Pemutakhiran Halaman III DIPA untuk Triwulan III paling lambat dilakukan pada**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Kapan batas waktu pemutakhiran Halaman III DIPA untuk Triwulan III?
 
 - **A.** Akhir Juli
 - **B.** 10 HK awal Juni
@@ -556,10 +556,10 @@
 
 ### Soal 5
 
-**Kasus:** Pada akhir periode, tim harus menentukan tindak lanjut tanpa menimbulkan kesalahan data maupun keterlambatan proses berikutnya. Fakta/isu yang harus diputuskan adalah: **MP PNBP reguler Tahap III dapat diberikan maksimal**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Berapa batas maksimal MP PNBP reguler Tahap III?
 
-- **A.** 60% (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)
-- **B.** 70% (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)
+- **A.** 60%
+- **B.** 70%
 - **C.** 80%
 - **D.** 100%
 
@@ -571,7 +571,7 @@
 
 ### Soal 6
 
-**Kasus:** Dalam forum evaluasi, terdapat dua kepentingan: percepatan penyelesaian dan kepatuhan terhadap mekanisme perbendaharaan. Fakta/isu yang harus diputuskan adalah: **MP PNBP reguler Tahap III paling cepat diajukan pada**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Kapan MP PNBP reguler Tahap III paling cepat dapat diajukan?
 
 - **A.** September
 - **B.** Juli
@@ -586,11 +586,11 @@
 
 ### Soal 7
 
-**Kasus:** KPPN dan Satker sedang menyelesaikan transaksi yang berpotensi memengaruhi kualitas pelaksanaan anggaran dan rekonsiliasi. Fakta/isu yang harus diputuskan adalah: **Formula MP PNBP Tahap III adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Bagaimana formula MP PNBP Tahap III?
 
 - **A.** Sebesar MP Riil
 - **B.** 80% pagu
-- **C.** 60% pagu (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)
+- **C.** 60% pagu
 - **D.** Sebesar realisasi belanja semester I
 
 > ✅ **Jawaban:** **A. Sebesar MP Riil**
@@ -601,10 +601,10 @@
 
 ### Soal 8
 
-**Kasus:** Pada akhir periode, tim harus menentukan tindak lanjut tanpa menimbulkan kesalahan data maupun keterlambatan proses berikutnya. Fakta/isu yang harus diputuskan adalah: **Percepatan MP PNBP Tahap III mensyaratkan realisasi setoran PNBP paling sedikit**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Berapa realisasi minimum setoran PNBP yang disyaratkan untuk percepatan MP PNBP Tahap III?
 
-- **A.** 40% (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)
-- **B.** 60% (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)
+- **A.** 40%
+- **B.** 60%
 - **C.** 70%
 - **D.** 80%
 
@@ -616,10 +616,10 @@
 
 ### Soal 9
 
-**Kasus:** Dalam forum evaluasi, terdapat dua kepentingan: percepatan penyelesaian dan kepatuhan terhadap mekanisme perbendaharaan. Fakta/isu yang harus diputuskan adalah: **Retur SP2D terjadi ketika**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Kondisi apa yang menyebabkan retur SP2D?
 
-- **A.** DIPA belum direvisi (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
-- **B.** Satker terlambat membuat RPD (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
+- **A.** DIPA belum direvisi
+- **B.** Satker terlambat membuat RPD
 - **C.** Dana SP2D gagal disalurkan kepada penerima
 - **D.** Kontrak belum didaftarkan
 
@@ -631,11 +631,11 @@
 
 ### Soal 10
 
-**Kasus:** KPPN dan Satker sedang menyelesaikan transaksi yang berpotensi memengaruhi kualitas pelaksanaan anggaran dan rekonsiliasi. Fakta/isu yang harus diputuskan adalah: **Dana retur SP2D dibukukan oleh Bank Operasional ke**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Ke rekening mana Bank Operasional membukukan dana retur SP2D?
 
 - **A.** Rekening Retur pada RPKBUNP
-- **B.** RKUN langsung (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
-- **C.** Rekening Bendahara (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
+- **B.** RKUN langsung
+- **C.** Rekening Bendahara
 - **D.** Rekening supplier
 
 > ✅ **Jawaban:** **A. Rekening Retur pada RPKBUNP**
@@ -646,12 +646,12 @@
 
 ### Soal 11
 
-**Kasus:** Pada akhir periode, tim harus menentukan tindak lanjut tanpa menimbulkan kesalahan data maupun keterlambatan proses berikutnya. Fakta/isu yang harus diputuskan adalah: **Surat pemberitahuan retur kepada Satker antara lain meminta**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa yang diminta kepada Satker dalam surat pemberitahuan retur SP2D?
 
 - **A.** Pemutakhiran data supplier
 - **B.** Perubahan RPD
-- **C.** Revisi DIPA (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
-- **D.** Penambahan pagu (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
+- **C.** Revisi DIPA
+- **D.** Penambahan pagu
 
 > ✅ **Jawaban:** **A. Pemutakhiran data supplier**
 >
@@ -661,10 +661,10 @@
 
 ### Soal 12
 
-**Kasus:** Dalam forum evaluasi, terdapat dua kepentingan: percepatan penyelesaian dan kepatuhan terhadap mekanisme perbendaharaan. Fakta/isu yang harus diputuskan adalah: **Pemberitahuan retur kepada Satker disampaikan paling lama**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Berapa batas waktu penyampaian pemberitahuan retur SP2D kepada Satker?
 
-- **A.** 2 HK (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
-- **B.** 1 HK (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
+- **A.** 2 HK
+- **B.** 1 HK
 - **C.** 5 HK
 - **D.** 3 HK berikutnya
 
@@ -676,7 +676,7 @@
 
 ### Soal 13
 
-**Kasus:** KPPN dan Satker sedang menyelesaikan transaksi yang berpotensi memengaruhi kualitas pelaksanaan anggaran dan rekonsiliasi. Fakta/isu yang harus diputuskan adalah: **Setelah data supplier diperbaiki, SPP Retur dan SPM Retur diterbitkan oleh**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Setelah data supplier diperbaiki, siapa yang menerbitkan SPP Retur dan SPM Retur?
 
 - **A.** Satker biasa
 - **B.** Bank Operasional
@@ -691,11 +691,11 @@
 
 ### Soal 14
 
-**Kasus:** Pada akhir periode, tim harus menentukan tindak lanjut tanpa menimbulkan kesalahan data maupun keterlambatan proses berikutnya. Fakta/isu yang harus diputuskan adalah: **Urutan akhir penyelesaian retur yang tepat adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Bagaimana urutan akhir penyelesaian retur SP2D?
 
-- **A.** PPR–SPPT–SPP (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)
+- **A.** PPR–SPPT–SPP
 - **B.** SPPT–PPR–SP2D Retur
-- **C.** SPPT–DIPA–SP2D (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)
+- **C.** SPPT–DIPA–SP2D
 - **D.** SP2D–SPP–SPPT
 
 > ✅ **Jawaban:** **B. SPPT–PPR–SP2D Retur**
@@ -706,12 +706,12 @@
 
 ### Soal 15
 
-**Kasus:** Dalam forum evaluasi, terdapat dua kepentingan: percepatan penyelesaian dan kepatuhan terhadap mekanisme perbendaharaan. Fakta/isu yang harus diputuskan adalah: **Penyelesaian retur SP2D-Pembayaran dilakukan paling lama**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Kapan batas waktu penyelesaian retur SP2D-Pembayaran?
 
 - **A.** Hari kerja terakhir minggu ketiga bulan berikutnya
-- **B.** Akhir tahun (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
+- **B.** Akhir tahun
 - **C.** Akhir bulan retur
-- **D.** Minggu pertama bulan berikutnya (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
+- **D.** Minggu pertama bulan berikutnya
 
 > ✅ **Jawaban:** **A. Hari kerja terakhir minggu ketiga bulan berikutnya**
 >
@@ -721,12 +721,12 @@
 
 ### Soal 16
 
-**Kasus:** KPPN dan Satker sedang menyelesaikan transaksi yang berpotensi memengaruhi kualitas pelaksanaan anggaran dan rekonsiliasi. Fakta/isu yang harus diputuskan adalah: **Rekonsiliasi eksternal SAKTI–SPAN membandingkan**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Data apa yang dibandingkan dalam rekonsiliasi eksternal SAKTI–SPAN?
 
 - **A.** RPD dan IKPA
 - **B.** Anggaran, realisasi, kas, hibah
-- **C.** SPM saja (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
-- **D.** Pegawai, aset, kontrak (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
+- **C.** SPM saja
+- **D.** Pegawai, aset, kontrak
 
 > ✅ **Jawaban:** **B. Anggaran, realisasi, kas, hibah**
 >
@@ -736,12 +736,12 @@
 
 ### Soal 17
 
-**Kasus:** Pada akhir periode, tim harus menentukan tindak lanjut tanpa menimbulkan kesalahan data maupun keterlambatan proses berikutnya. Fakta/isu yang harus diputuskan adalah: **TDK terdiri atas**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa saja jenis Transaksi Dalam Konfirmasi (TDK)?
 
 - **A.** TDK Rupiah, TDK CoA, TDK Detail
 - **B.** TDK Anggaran, Kas, Hibah
-- **C.** TDK SPM, SP2D, DIPA (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
-- **D.** TDK Internal dan Eksternal (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
+- **C.** TDK SPM, SP2D, DIPA
+- **D.** TDK Internal dan Eksternal
 
 > ✅ **Jawaban:** **A. TDK Rupiah, TDK CoA, TDK Detail**
 >
@@ -751,7 +751,7 @@
 
 ### Soal 18
 
-**Kasus:** Dalam forum evaluasi, terdapat dua kepentingan: percepatan penyelesaian dan kepatuhan terhadap mekanisme perbendaharaan. Fakta/isu yang harus diputuskan adalah: **Dokumen hasil rekonsiliasi eksternal adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Dokumen apa yang dihasilkan dari rekonsiliasi eksternal?
 
 - **A.** BAR
 - **B.** LRA
@@ -766,11 +766,11 @@
 
 ### Soal 19
 
-**Kasus:** KPPN dan Satker sedang menyelesaikan transaksi yang berpotensi memengaruhi kualitas pelaksanaan anggaran dan rekonsiliasi. Fakta/isu yang harus diputuskan adalah: **Tujuan rekonsiliasi internal adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa tujuan rekonsiliasi internal?
 
 - **A.** Menghitung IKPA
-- **B.** Menghitung DBH (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
-- **C.** Membandingkan SAKTI dengan bank (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **B.** Menghitung DBH
+- **C.** Membandingkan SAKTI dengan bank
 - **D.** Memastikan GLP sesuai dengan subledger
 
 > ✅ **Jawaban:** **D. Memastikan GLP sesuai dengan subledger**
@@ -781,10 +781,10 @@
 
 ### Soal 20
 
-**Kasus:** Pada akhir periode, tim harus menentukan tindak lanjut tanpa menimbulkan kesalahan data maupun keterlambatan proses berikutnya. Fakta/isu yang harus diputuskan adalah: **Piutang pemerintah adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa yang dimaksud dengan piutang pemerintah?
 
-- **A.** Belanja belum direalisasikan (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
-- **B.** Semua utang pemerintah (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **A.** Belanja belum direalisasikan
+- **B.** Semua utang pemerintah
 - **C.** Semua kas belum disetor
 - **D.** Hak pemerintah yang dapat dinilai dengan uang dan akan diterima
 
@@ -796,12 +796,12 @@
 
 ### Soal 21
 
-**Kasus:** Dalam forum evaluasi, terdapat dua kepentingan: percepatan penyelesaian dan kepatuhan terhadap mekanisme perbendaharaan. Fakta/isu yang harus diputuskan adalah: **Piutang jangka panjang yang jatuh tempo dalam 12 bulan direklasifikasi menjadi**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Piutang jangka panjang akan jatuh tempo dalam 12 bulan. Ke kelompok apa piutang tersebut direklasifikasi?
 
 - **A.** Persediaan
 - **B.** Bagian Lancar Piutang Jangka Panjang
-- **C.** Piutang Macet (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)
-- **D.** Pendapatan (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)
+- **C.** Piutang Macet
+- **D.** Pendapatan
 
 > ✅ **Jawaban:** **B. Bagian Lancar Piutang Jangka Panjang**
 >
@@ -811,12 +811,12 @@
 
 ### Soal 22
 
-**Kasus:** KPPN dan Satker sedang menyelesaikan transaksi yang berpotensi memengaruhi kualitas pelaksanaan anggaran dan rekonsiliasi. Fakta/isu yang harus diputuskan adalah: **Penyisihan piutang tidak tertagih dipengaruhi oleh**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Faktor apa yang memengaruhi penyisihan piutang tidak tertagih?
 
 - **A.** Kualitas piutang dan faktor terkait penagihan/jaminan
 - **B.** Jumlah output
-- **C.** Pagu DIPA (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
-- **D.** Jumlah pegawai (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
+- **C.** Pagu DIPA
+- **D.** Jumlah pegawai
 
 > ✅ **Jawaban:** **A. Kualitas piutang dan faktor terkait penagihan/jaminan**
 >
@@ -826,11 +826,11 @@
 
 ### Soal 23
 
-**Kasus:** Pada akhir periode, tim harus menentukan tindak lanjut tanpa menimbulkan kesalahan data maupun keterlambatan proses berikutnya. Fakta/isu yang harus diputuskan adalah: **Pada penyediaan UP/TUP pertama kali muncul**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa yang timbul pada saat penyediaan UP/TUP pertama kali?
 
-- **A.** Belanja dan Utang (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
+- **A.** Belanja dan Utang
 - **B.** Kas di Bendahara Pengeluaran dan Uang Muka dari KPPN
-- **C.** Piutang dan Pendapatan (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
+- **C.** Piutang dan Pendapatan
 - **D.** Aset Tetap dan Ekuitas
 
 > ✅ **Jawaban:** **B. Kas di Bendahara Pengeluaran dan Uang Muka dari KPPN**
@@ -841,10 +841,10 @@
 
 ### Soal 24
 
-**Kasus:** Dalam forum evaluasi, terdapat dua kepentingan: percepatan penyelesaian dan kepatuhan terhadap mekanisme perbendaharaan. Fakta/isu yang harus diputuskan adalah: **Ganti kerugian negara terhadap Bendahara ditetapkan oleh**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Siapa yang menetapkan ganti kerugian negara terhadap Bendahara?
 
 - **A.** Inspektorat
-- **B.** KPA (dengan asumsi pihak tersebut memegang fungsi pengujian sekaligus tindak lanjut pada tahap itu)
+- **B.** KPA
 - **C.** BPK
 - **D.** Menteri Keuangan
 
@@ -856,12 +856,12 @@
 
 ### Soal 25
 
-**Kasus:** KPPN dan Satker sedang menyelesaikan transaksi yang berpotensi memengaruhi kualitas pelaksanaan anggaran dan rekonsiliasi. Fakta/isu yang harus diputuskan adalah: **Ganti kerugian terhadap pegawai negeri bukan Bendahara ditetapkan oleh**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Siapa yang menetapkan ganti kerugian terhadap pegawai negeri bukan Bendahara?
 
-- **A.** Bank Indonesia (karena pihak tersebut dipandang paling dekat dengan pelaksanaan operasional transaksi)
+- **A.** Bank Indonesia
 - **B.** Menteri/Pimpinan Lembaga atau kepala daerah sesuai kewenangan
 - **C.** KPPN
-- **D.** BPK (dengan pertimbangan bahwa kewenangan keputusan berada pada unit tersebut sebelum proses dilanjutkan)
+- **D.** BPK
 
 > ✅ **Jawaban:** **B. Menteri/Pimpinan Lembaga atau kepala daerah sesuai kewenangan**
 >
@@ -871,10 +871,10 @@
 
 ### Soal 26
 
-**Kasus:** Pada akhir periode, tim harus menentukan tindak lanjut tanpa menimbulkan kesalahan data maupun keterlambatan proses berikutnya. Fakta/isu yang harus diputuskan adalah: **Kerugian negara diberitahukan kepada BPK paling lambat**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Berapa batas waktu pemberitahuan kerugian negara kepada BPK?
 
 - **A.** 14 HK
-- **B.** 5 HK (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)
+- **B.** 5 HK
 - **C.** 7 HK
 - **D.** 3 hari kalender
 
@@ -886,11 +886,11 @@
 
 ### Soal 27
 
-**Kasus:** Dalam forum evaluasi, terdapat dua kepentingan: percepatan penyelesaian dan kepatuhan terhadap mekanisme perbendaharaan. Fakta/isu yang harus diputuskan adalah: **Langkah awal pembukaan rekening Satker adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa langkah awal pembukaan rekening Satker?
 
 - **A.** Mengajukan permohonan persetujuan kepada Kuasa BUN di Daerah
-- **B.** Bank meminta izin Menteri (serta dilanjutkan dengan koordinasi kepada pihak terkait tanpa mengubah tahapan utama proses)
-- **C.** Langsung ke bank (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)
+- **B.** Bank meminta izin Menteri
+- **C.** Langsung ke bank
 - **D.** KPPN membuka otomatis
 
 > ✅ **Jawaban:** **A. Mengajukan permohonan persetujuan kepada Kuasa BUN di Daerah**
@@ -901,7 +901,7 @@
 
 ### Soal 28
 
-**Kasus:** KPPN dan Satker sedang menyelesaikan transaksi yang berpotensi memengaruhi kualitas pelaksanaan anggaran dan rekonsiliasi. Fakta/isu yang harus diputuskan adalah: **Kuasa BUN di Daerah memberi persetujuan/penolakan pembukaan rekening paling lambat**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Berapa batas waktu bagi Kuasa BUN di Daerah untuk memberikan persetujuan atau penolakan pembukaan rekening?
 
 - **A.** 2 HK
 - **B.** 3 HK
@@ -916,11 +916,11 @@
 
 ### Soal 29
 
-**Kasus:** Pada akhir periode, tim harus menentukan tindak lanjut tanpa menimbulkan kesalahan data maupun keterlambatan proses berikutnya. Fakta/isu yang harus diputuskan adalah: **Pengamanan SPAN mencakup**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Aspek apa saja yang dicakup dalam pengamanan SPAN?
 
-- **A.** Password saja (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **A.** Password saja
 - **B.** Kontrol akses, enkripsi, pemantauan aktivitas, serta dukungan DC/DRC
-- **C.** Tanda tangan basah saja (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **C.** Tanda tangan basah saja
 - **D.** Antivirus saja
 
 > ✅ **Jawaban:** **B. Kontrol akses, enkripsi, pemantauan aktivitas, serta dukungan DC/DRC**
@@ -931,11 +931,11 @@
 
 ### Soal 30
 
-**Kasus:** Dalam forum evaluasi, terdapat dua kepentingan: percepatan penyelesaian dan kepatuhan terhadap mekanisme perbendaharaan. Fakta/isu yang harus diputuskan adalah: **Void berarti**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa arti void dalam sistem perbendaharaan?
 
-- **A.** Pemindahan rekening (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **A.** Pemindahan rekening
 - **B.** Pengembalian dana
-- **C.** Penghapusan DIPA (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **C.** Penghapusan DIPA
 - **D.** Pembatalan transaksi/pencatatan
 
 > ✅ **Jawaban:** **D. Pembatalan transaksi/pencatatan**
@@ -954,12 +954,12 @@
 
 ### Soal 1
 
-**Kasus:** Kanwil DJPb melakukan monev TKD dan menemukan beberapa interpretasi berbeda mengenai syarat, formula, dan pola penyaluran. Fakta/isu yang harus diputuskan adalah: **Tujuan utama DAU adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa tujuan utama DAU?
 
-- **A.** Memberi insentif kepada PAD tertinggi (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **A.** Memberi insentif kepada PAD tertinggi
 - **B.** Mengurangi ketimpangan kemampuan keuangan dan kualitas layanan publik antar daerah
 - **C.** Membiayai seluruh proyek fisik
-- **D.** Membagi penerimaan pajak pusat (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **D.** Membagi penerimaan pajak pusat
 
 > ✅ **Jawaban:** **B. Mengurangi ketimpangan kemampuan keuangan dan kualitas layanan publik antar daerah**
 >
@@ -969,11 +969,11 @@
 
 ### Soal 2
 
-**Kasus:** Pemda meminta kepastian karena keputusan yang salah dapat menunda penyaluran atau memengaruhi kualitas layanan publik. Fakta/isu yang harus diputuskan adalah: **Formula dasar celah fiskal DAU adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Bagaimana formula dasar celah fiskal dalam penghitungan DAU?
 
-- **A.** Potensi Pendapatan − Kebutuhan Fiskal (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **A.** Potensi Pendapatan − Kebutuhan Fiskal
 - **B.** Kebutuhan Fiskal − Potensi Pendapatan Daerah
-- **C.** PAD + DBH (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **C.** PAD + DBH
 - **D.** Belanja − PAD
 
 > ✅ **Jawaban:** **B. Kebutuhan Fiskal − Potensi Pendapatan Daerah**
@@ -984,12 +984,12 @@
 
 ### Soal 3
 
-**Kasus:** KPPN mitra Pemda harus memastikan kesimpulan didasarkan pada parameter penyaluran, bukan sekadar capaian nominal. Fakta/isu yang harus diputuskan adalah: **Kebutuhan fiskal Rp1,5 triliun dan potensi pendapatan Rp1,1 triliun menghasilkan celah fiskal**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Suatu daerah memiliki kebutuhan fiskal Rp1,5 triliun dan potensi pendapatan Rp1,1 triliun. Berapa celah fiskalnya?
 
 - **A.** Rp600 miliar
 - **B.** Rp400 miliar
-- **C.** Rp200 miliar (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)
-- **D.** Rp300 miliar (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)
+- **C.** Rp200 miliar
+- **D.** Rp300 miliar
 
 > ✅ **Jawaban:** **B. Rp400 miliar**
 >
@@ -999,10 +999,10 @@
 
 ### Soal 4
 
-**Kasus:** Kanwil DJPb melakukan monev TKD dan menemukan beberapa interpretasi berbeda mengenai syarat, formula, dan pola penyaluran. Fakta/isu yang harus diputuskan adalah: **Pernyataan yang tepat tentang block grant dan specific grant adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa perbedaan block grant dan specific grant?
 
-- **A.** Block grant penggunaannya ditentukan pusat (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
-- **B.** Keduanya sama (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **A.** Block grant penggunaannya ditentukan pusat
+- **B.** Keduanya sama
 - **C.** Block grant lebih fleksibel, specific grant ditentukan penggunaannya
 - **D.** Specific grant bebas
 
@@ -1014,10 +1014,10 @@
 
 ### Soal 5
 
-**Kasus:** Pemda meminta kepastian karena keputusan yang salah dapat menunda penyaluran atau memengaruhi kualitas layanan publik. Fakta/isu yang harus diputuskan adalah: **Besaran DAU bidang Pendidikan Tahap II adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Berapa besaran penyaluran DAU bidang Pendidikan Tahap II?
 
-- **A.** 25% (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)
-- **B.** 30% (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)
+- **A.** 25%
+- **B.** 30%
 - **C.** 45%
 - **D.** 40%
 
@@ -1029,7 +1029,7 @@
 
 ### Soal 6
 
-**Kasus:** KPPN mitra Pemda harus memastikan kesimpulan didasarkan pada parameter penyaluran, bukan sekadar capaian nominal. Fakta/isu yang harus diputuskan adalah: **Daerah dengan PAD rendah dan kebutuhan fiskal tinggi dapat menerima DAU lebih besar karena**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Mengapa daerah dengan PAD rendah dan kebutuhan fiskal tinggi dapat menerima DAU lebih besar?
 
 - **A.** DAU berbasis DBH
 - **B.** DAU dibagi sama rata
@@ -1044,10 +1044,10 @@
 
 ### Soal 7
 
-**Kasus:** Kanwil DJPb melakukan monev TKD dan menemukan beberapa interpretasi berbeda mengenai syarat, formula, dan pola penyaluran. Fakta/isu yang harus diputuskan adalah: **Perbedaan utama DAU dan DBH adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa perbedaan utama DAU dan DBH?
 
-- **A.** DAU berbasis penerimaan tertentu (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
-- **B.** Keduanya sama (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **A.** DAU berbasis penerimaan tertentu
+- **B.** Keduanya sama
 - **C.** DAU untuk pemerataan, DBH berdasarkan penerimaan tertentu yang dibagihasilkan
 - **D.** DBH berbasis celah fiskal
 
@@ -1059,7 +1059,7 @@
 
 ### Soal 8
 
-**Kasus:** Pemda meminta kepastian karena keputusan yang salah dapat menunda penyaluran atau memengaruhi kualitas layanan publik. Fakta/isu yang harus diputuskan adalah: **Kelompok utama DBH adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa saja kelompok utama DBH?
 
 - **A.** DBH Provinsi dan Kabupaten
 - **B.** DBH Reguler dan Afirmasi
@@ -1074,11 +1074,11 @@
 
 ### Soal 9
 
-**Kasus:** KPPN mitra Pemda harus memastikan kesimpulan didasarkan pada parameter penyaluran, bukan sekadar capaian nominal. Fakta/isu yang harus diputuskan adalah: **Penyaluran DBH SDA pada bulan Januari sebesar**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Berapa persentase penyaluran DBH SDA pada Januari?
 
 - **A.** 20%
-- **B.** 5% (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)
-- **C.** 15% (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)
+- **B.** 5%
+- **C.** 15%
 - **D.** 10%
 
 > ✅ **Jawaban:** **D. 10%**
@@ -1089,11 +1089,11 @@
 
 ### Soal 10
 
-**Kasus:** Kanwil DJPb melakukan monev TKD dan menemukan beberapa interpretasi berbeda mengenai syarat, formula, dan pola penyaluran. Fakta/isu yang harus diputuskan adalah: **Jika pagu DBH SDA Rp500 miliar, penyaluran bulan Juli sebesar**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Jika pagu DBH SDA Rp500 miliar, berapa penyaluran pada Juli?
 
 - **A.** Rp100 miliar
-- **B.** Rp50 miliar (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)
-- **C.** Rp125 miliar (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)
+- **B.** Rp50 miliar
+- **C.** Rp125 miliar
 - **D.** Rp75 miliar
 
 > ✅ **Jawaban:** **A. Rp100 miliar**
@@ -1104,11 +1104,11 @@
 
 ### Soal 11
 
-**Kasus:** Pemda meminta kepastian karena keputusan yang salah dapat menunda penyaluran atau memengaruhi kualitas layanan publik. Fakta/isu yang harus diputuskan adalah: **DBH Sawit disalurkan**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Bagaimana proporsi penyaluran DBH Sawit pada setiap tahap?
 
-- **A.** 30%–70% (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
+- **A.** 30%–70%
 - **B.** 60%–40%
-- **C.** 40%–60% (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
+- **C.** 40%–60%
 - **D.** 50%–50%
 
 > ✅ **Jawaban:** **D. 50%–50%**
@@ -1119,12 +1119,12 @@
 
 ### Soal 12
 
-**Kasus:** KPPN mitra Pemda harus memastikan kesimpulan didasarkan pada parameter penyaluran, bukan sekadar capaian nominal. Fakta/isu yang harus diputuskan adalah: **Untuk jenis DBH tertentu dengan alokasi kurang dari Rp100 juta, pola penyalurannya adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Bagaimana pola penyaluran jenis DBH tertentu dengan alokasi kurang dari Rp100 juta?
 
-- **A.** Sekaligus Desember (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)
+- **A.** Sekaligus Desember
 - **B.** Empat tahap
 - **C.** Sekaligus pada Februari tanpa syarat salur
-- **D.** Dua tahap (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)
+- **D.** Dua tahap
 
 > ✅ **Jawaban:** **C. Sekaligus pada Februari tanpa syarat salur**
 >
@@ -1134,12 +1134,12 @@
 
 ### Soal 13
 
-**Kasus:** Kanwil DJPb melakukan monev TKD dan menemukan beberapa interpretasi berbeda mengenai syarat, formula, dan pola penyaluran. Fakta/isu yang harus diputuskan adalah: **DAK Fisik terutama digunakan untuk**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa tujuan utama penggunaan DAK Fisik?
 
 - **A.** Penyertaan modal BUMD
 - **B.** Sarana/prasarana layanan publik dan prioritas nasional
-- **C.** Gaji ASN daerah (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)
-- **D.** Seluruh belanja rutin (serta dilanjutkan dengan koordinasi kepada pihak terkait tanpa mengubah tahapan utama proses)
+- **C.** Gaji ASN daerah
+- **D.** Seluruh belanja rutin
 
 > ✅ **Jawaban:** **B. Sarana/prasarana layanan publik dan prioritas nasional**
 >
@@ -1149,11 +1149,11 @@
 
 ### Soal 14
 
-**Kasus:** Pemda meminta kepastian karena keputusan yang salah dapat menunda penyaluran atau memengaruhi kualitas layanan publik. Fakta/isu yang harus diputuskan adalah: **Contoh kegiatan penunjang DAK Fisik yang diperbolehkan adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Kegiatan manakah yang dapat dibiayai sebagai kegiatan penunjang DAK Fisik?
 
 - **A.** Jasa konsultan pengawas kegiatan kontraktual
-- **B.** Penyertaan modal (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
-- **C.** Pembayaran dividen BUMD (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **B.** Penyertaan modal
+- **C.** Pembayaran dividen BUMD
 - **D.** Cicilan utang daerah
 
 > ✅ **Jawaban:** **A. Jasa konsultan pengawas kegiatan kontraktual**
@@ -1164,7 +1164,7 @@
 
 ### Soal 15
 
-**Kasus:** KPPN mitra Pemda harus memastikan kesimpulan didasarkan pada parameter penyaluran, bukan sekadar capaian nominal. Fakta/isu yang harus diputuskan adalah: **Dokumen persyaratan penyaluran DAK Fisik disampaikan Pemda melalui**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Melalui aplikasi apa Pemda menyampaikan dokumen persyaratan penyaluran DAK Fisik?
 
 - **A.** SPAN langsung
 - **B.** OM-SPAN TKD
@@ -1179,7 +1179,7 @@
 
 ### Soal 16
 
-**Kasus:** Kanwil DJPb melakukan monev TKD dan menemukan beberapa interpretasi berbeda mengenai syarat, formula, dan pola penyaluran. Fakta/isu yang harus diputuskan adalah: **DAK Fisik disalurkan melalui pemindahbukuan**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Bagaimana alur pemindahbukuan dalam penyaluran DAK Fisik?
 
 - **A.** KPPN ke penyedia langsung
 - **B.** RKUN ke RKUD
@@ -1194,12 +1194,12 @@
 
 ### Soal 17
 
-**Kasus:** Pemda meminta kepastian karena keputusan yang salah dapat menunda penyaluran atau memengaruhi kualitas layanan publik. Fakta/isu yang harus diputuskan adalah: **Syarat penyerapan untuk DAK Fisik Tahap II paling rendah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Berapa persentase minimum penyerapan yang disyaratkan untuk DAK Fisik Tahap II?
 
 - **A.** 70%
 - **B.** 75%
-- **C.** 50% (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)
-- **D.** 60% (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)
+- **C.** 50%
+- **D.** 60%
 
 > ✅ **Jawaban:** **B. 75%**
 >
@@ -1209,7 +1209,7 @@
 
 ### Soal 18
 
-**Kasus:** KPPN mitra Pemda harus memastikan kesimpulan didasarkan pada parameter penyaluran, bukan sekadar capaian nominal. Fakta/isu yang harus diputuskan adalah: **Syarat Tahap III DAK Fisik adalah penyerapan minimal dan output minimal**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Berapa persentase minimum penyerapan dan capaian output untuk DAK Fisik Tahap III?
 
 - **A.** 70% dan 50%
 - **B.** 75% dan 60%
@@ -1224,12 +1224,12 @@
 
 ### Soal 19
 
-**Kasus:** Kanwil DJPb melakukan monev TKD dan menemukan beberapa interpretasi berbeda mengenai syarat, formula, dan pola penyaluran. Fakta/isu yang harus diputuskan adalah: **Jika dokumen syarat salur DAK Fisik melewati batas waktu**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa akibatnya jika dokumen persyaratan penyaluran DAK Fisik disampaikan melewati batas waktu?
 
 - **A.** KPPN wajib membayar 50%
-- **B.** Penyaluran otomatis dilanjutkan (serta dilanjutkan dengan koordinasi kepada pihak terkait tanpa mengubah tahapan utama proses)
+- **B.** Penyaluran otomatis dilanjutkan
 - **C.** Penyaluran dapat dihentikan/tidak dilakukan
-- **D.** DAK menjadi DAU (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)
+- **D.** DAK menjadi DAU
 
 > ✅ **Jawaban:** **C. Penyaluran dapat dihentikan/tidak dilakukan**
 >
@@ -1239,9 +1239,9 @@
 
 ### Soal 20
 
-**Kasus:** Jika DAK Fisik tidak tersalur penuh, kewajiban penyelesaian kegiatan kepada pihak ketiga menjadi tanggung jawab. Pemda meminta kepastian karena keputusan yang salah dapat menunda penyaluran atau memengaruhi kualitas layanan publik. Pimpinan meminta Anda memilih **best answer**, bukan sekadar opsi yang paling cepat dilakukan.
+Jika DAK Fisik tidak tersalur penuh, siapa yang bertanggung jawab atas penyelesaian kegiatan kepada pihak ketiga?
 
-- **A.** KPPN (serta dilanjutkan dengan koordinasi kepada pihak terkait tanpa mengubah tahapan utama proses)
+- **A.** KPPN
 - **B.** Kementerian teknis
 - **C.** Pemerintah Daerah
 - **D.** DJPK
@@ -1254,12 +1254,12 @@
 
 ### Soal 21
 
-**Kasus:** KPPN mitra Pemda harus memastikan kesimpulan didasarkan pada parameter penyaluran, bukan sekadar capaian nominal. Fakta/isu yang harus diputuskan adalah: **Dana Desa Non-Earmarked untuk desa selain mandiri Tahap I adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Berapa besaran Dana Desa Non-Earmarked Tahap I untuk desa selain desa mandiri?
 
 - **A.** 40%
 - **B.** 80%
-- **C.** 60% (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)
-- **D.** 20% (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)
+- **C.** 60%
+- **D.** 20%
 
 > ✅ **Jawaban:** **A. 40%**
 >
@@ -1269,12 +1269,12 @@
 
 ### Soal 22
 
-**Kasus:** Kanwil DJPb melakukan monev TKD dan menemukan beberapa interpretasi berbeda mengenai syarat, formula, dan pola penyaluran. Fakta/isu yang harus diputuskan adalah: **Dana Desa Non-Earmarked untuk desa mandiri adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Bagaimana proporsi penyaluran Dana Desa Non-Earmarked untuk desa mandiri?
 
 - **A.** 80%–20%
-- **B.** 50%–50% (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **B.** 50%–50%
 - **C.** 60%–40%
-- **D.** 40%–60% (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **D.** 40%–60%
 
 > ✅ **Jawaban:** **C. 60%–40%**
 >
@@ -1284,11 +1284,11 @@
 
 ### Soal 23
 
-**Kasus:** Pemda meminta kepastian karena keputusan yang salah dapat menunda penyaluran atau memengaruhi kualitas layanan publik. Fakta/isu yang harus diputuskan adalah: **Dana Desa Earmarked disalurkan**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Bagaimana proporsi penyaluran Dana Desa Earmarked pada setiap tahap?
 
 - **A.** 70%–30%
-- **B.** 40%–60% (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
-- **C.** 50%–50% (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
+- **B.** 40%–60%
+- **C.** 50%–50%
 - **D.** 60%–40%
 
 > ✅ **Jawaban:** **D. 60%–40%**
@@ -1299,11 +1299,11 @@
 
 ### Soal 24
 
-**Kasus:** KPPN mitra Pemda harus memastikan kesimpulan didasarkan pada parameter penyaluran, bukan sekadar capaian nominal. Fakta/isu yang harus diputuskan adalah: **Syarat unik Non-Earmarked Tahap II adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Persyaratan khusus apa yang harus dipenuhi untuk penyaluran Dana Desa Non-Earmarked Tahap II?
 
 - **A.** Penyerapan minimal 60% dan output minimal 40% atas Tahap I
-- **B.** Surat kuasa daftar RKD (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)
-- **C.** APBDes (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)
+- **B.** Surat kuasa daftar RKD
+- **C.** APBDes
 - **D.** Pagu earmarked
 
 > ✅ **Jawaban:** **A. Penyerapan minimal 60% dan output minimal 40% atas Tahap I**
@@ -1314,12 +1314,12 @@
 
 ### Soal 25
 
-**Kasus:** Kanwil DJPb melakukan monev TKD dan menemukan beberapa interpretasi berbeda mengenai syarat, formula, dan pola penyaluran. Fakta/isu yang harus diputuskan adalah: **Jika penyerapan Tahap I Dana Desa baru 55% tetapi output 70%, maka**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Penyerapan Dana Desa Tahap I mencapai 55%, sedangkan capaian output 70%. Bagaimana status pemenuhan syarat penyaluran tahap berikutnya?
 
 - **A.** Cukup surat pernyataan
-- **B.** Dapat disalurkan (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)
+- **B.** Dapat disalurkan
 - **C.** Belum memenuhi syarat Tahap II
-- **D.** Otomatis cair akhir tahun (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)
+- **D.** Otomatis cair akhir tahun
 
 > ✅ **Jawaban:** **C. Belum memenuhi syarat Tahap II**
 >
@@ -1329,11 +1329,11 @@
 
 ### Soal 26
 
-**Kasus:** Pemda meminta kepastian karena keputusan yang salah dapat menunda penyaluran atau memengaruhi kualitas layanan publik. Fakta/isu yang harus diputuskan adalah: **Klaster 1 MP PNBP Tahap I memperoleh alokasi awal**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Berapa alokasi awal MP PNBP Tahap I untuk Satker Klaster 1?
 
-- **A.** 20% (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)
+- **A.** 20%
 - **B.** 80%
-- **C.** 40% (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)
+- **C.** 40%
 - **D.** 60%
 
 > ✅ **Jawaban:** **D. 60%**
@@ -1344,10 +1344,10 @@
 
 ### Soal 27
 
-**Kasus:** KPPN mitra Pemda harus memastikan kesimpulan didasarkan pada parameter penyaluran, bukan sekadar capaian nominal. Fakta/isu yang harus diputuskan adalah: **Jika MP Riil <60% tetapi realisasi belanja Semester I TAYL ≥30%, Satker masuk**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+MP Riil Satker kurang dari 60%, sedangkan realisasi belanja Semester I tahun anggaran yang lalu sekurang-kurangnya 30%. Satker tersebut masuk klaster berapa?
 
-- **A.** Klaster 3 (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)
-- **B.** Klaster 1 (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)
+- **A.** Klaster 3
+- **B.** Klaster 1
 - **C.** Klaster 2
 - **D.** Klaster 4
 
@@ -1359,12 +1359,12 @@
 
 ### Soal 28
 
-**Kasus:** Kanwil DJPb melakukan monev TKD dan menemukan beberapa interpretasi berbeda mengenai syarat, formula, dan pola penyaluran. Fakta/isu yang harus diputuskan adalah: **Jika MP Riil ≥60% tetapi belanja Semester I TAYL <30%, Satker masuk**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+MP Riil Satker sekurang-kurangnya 60%, sedangkan realisasi belanja Semester I tahun anggaran yang lalu kurang dari 30%. Satker tersebut masuk klaster berapa?
 
 - **A.** Klaster 3
-- **B.** Klaster 2 (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)
+- **B.** Klaster 2
 - **C.** Klaster 4
-- **D.** Klaster 1 (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)
+- **D.** Klaster 1
 
 > ✅ **Jawaban:** **A. Klaster 3**
 >
@@ -1374,11 +1374,11 @@
 
 ### Soal 29
 
-**Kasus:** Pemda meminta kepastian karena keputusan yang salah dapat menunda penyaluran atau memengaruhi kualitas layanan publik. Fakta/isu yang harus diputuskan adalah: **Klaster 4 dan Satker baru memperoleh alokasi awal MP PNBP Tahap I masing-masing**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Berapa alokasi awal MP PNBP Tahap I untuk Klaster 4 dan Satker baru, secara berurutan?
 
-- **A.** 60% dan 20% (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)
+- **A.** 60% dan 20%
 - **B.** 20% dan 20%
-- **C.** 40% dan 60% (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)
+- **C.** 40% dan 60%
 - **D.** 80% dan 40%
 
 > ✅ **Jawaban:** **B. 20% dan 20%**
@@ -1389,12 +1389,12 @@
 
 ### Soal 30
 
-**Kasus:** KPPN mitra Pemda harus memastikan kesimpulan didasarkan pada parameter penyaluran, bukan sekadar capaian nominal. Fakta/isu yang harus diputuskan adalah: **Klaster 2–5 dapat mengajukan penambahan MP setelah realisasi belanja sumber dana PNBP mencapai minimal**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Berapa realisasi minimum belanja bersumber dari PNBP agar Satker Klaster 2–5 dapat mengajukan penambahan MP?
 
-- **A.** 40% dari MP awal (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)
+- **A.** 40% dari MP awal
 - **B.** 50% dari MP awal
 - **C.** 60% dari MP awal
-- **D.** 30% dari pagu (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)
+- **D.** 30% dari pagu
 
 > ✅ **Jawaban:** **C. 60% dari MP awal**
 >
@@ -1412,11 +1412,11 @@
 
 ### Soal 1
 
-**Kasus:** Tim special mission menilai sebuah kasus yang melibatkan tata kelola investasi/pembiayaan dan kepatuhan terhadap skema program. Fakta/isu yang harus diputuskan adalah: **Investasi Pemerintah adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa yang dimaksud dengan Investasi Pemerintah?
 
-- **A.** Seluruh dana BLU (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **A.** Seluruh dana BLU
 - **B.** Penempatan dana/aset keuangan jangka panjang dalam saham, surat utang, dan/atau investasi langsung
-- **C.** Seluruh pembiayaan APBN (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **C.** Seluruh pembiayaan APBN
 - **D.** Seluruh belanja modal
 
 > ✅ **Jawaban:** **B. Penempatan dana/aset keuangan jangka panjang dalam saham, surat utang, dan/atau investasi langsung**
@@ -1427,10 +1427,10 @@
 
 ### Soal 2
 
-**Kasus:** Kanwil/KPPN harus menentukan posisi yang tepat karena setiap pilihan memiliki implikasi terhadap pengawasan dan akuntabilitas. Fakta/isu yang harus diputuskan adalah: **Bentuk Investasi Pemerintah meliputi**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa saja bentuk Investasi Pemerintah?
 
-- **A.** Belanja pegawai, barang, modal (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
-- **B.** Pajak, PNBP, hibah (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **A.** Belanja pegawai, barang, modal
+- **B.** Pajak, PNBP, hibah
 - **C.** Kas, piutang, persediaan
 - **D.** Saham, surat utang, investasi langsung
 
@@ -1442,12 +1442,12 @@
 
 ### Soal 3
 
-**Kasus:** Dalam forum monev special mission, beberapa stakeholder menyampaikan penafsiran yang berbeda atas ketentuan program. Fakta/isu yang harus diputuskan adalah: **Pembagian kewenangan yang tepat adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Bagaimana pembagian kewenangan Menteri Keuangan, KIP, dan OIP dalam Investasi Pemerintah?
 
-- **A.** Menkeu-operasional, KIP-regulasi, OIP-supervisi (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **A.** Menkeu-operasional, KIP-regulasi, OIP-supervisi
 - **B.** OIP-regulasi, Menkeu-supervisi, KIP-operasional
 - **C.** Menkeu-regulasi, KIP-supervisi, OIP-operasional
-- **D.** KIP-regulasi, OIP-supervisi, BPK-operasional (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **D.** KIP-regulasi, OIP-supervisi, BPK-operasional
 
 > ✅ **Jawaban:** **C. Menkeu-regulasi, KIP-supervisi, OIP-operasional**
 >
@@ -1457,12 +1457,12 @@
 
 ### Soal 4
 
-**Kasus:** Tim special mission menilai sebuah kasus yang melibatkan tata kelola investasi/pembiayaan dan kepatuhan terhadap skema program. Fakta/isu yang harus diputuskan adalah: **Ketua KIP adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Siapa yang menjadi ketua KIP?
 
-- **A.** Direktur SMI (karena pihak tersebut dipandang paling dekat dengan pelaksanaan operasional transaksi)
+- **A.** Direktur SMI
 - **B.** Dirjen Anggaran
 - **C.** Dirjen Perbendaharaan
-- **D.** Menteri Keuangan (dengan asumsi pihak tersebut memegang fungsi pengujian sekaligus tindak lanjut pada tahap itu)
+- **D.** Menteri Keuangan
 
 > ✅ **Jawaban:** **C. Dirjen Perbendaharaan**
 >
@@ -1472,12 +1472,12 @@
 
 ### Soal 5
 
-**Kasus:** Kanwil/KPPN harus menentukan posisi yang tepat karena setiap pilihan memiliki implikasi terhadap pengawasan dan akuntabilitas. Fakta/isu yang harus diputuskan adalah: **Anggota KIP dapat berasal dari**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Dari unsur mana anggota KIP dapat berasal?
 
 - **A.** Pimpinan Unit Eselon I K/L, auditor internal, dan/atau tenaga ahli
 - **B.** Hanya BUMN
-- **C.** Hanya DJPb (dengan pertimbangan bahwa kewenangan keputusan berada pada unit tersebut sebelum proses dilanjutkan)
-- **D.** Hanya BLU (dengan asumsi pihak tersebut memegang fungsi pengujian sekaligus tindak lanjut pada tahap itu)
+- **C.** Hanya DJPb
+- **D.** Hanya BLU
 
 > ✅ **Jawaban:** **A. Pimpinan Unit Eselon I K/L, auditor internal, dan/atau tenaga ahli**
 >
@@ -1487,10 +1487,10 @@
 
 ### Soal 6
 
-**Kasus:** Dalam forum monev special mission, beberapa stakeholder menyampaikan penafsiran yang berbeda atas ketentuan program. Fakta/isu yang harus diputuskan adalah: **Salah satu tugas KIP adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Tugas manakah yang merupakan kewenangan KIP?
 
-- **A.** Menyalurkan kredit langsung (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
-- **B.** Menerbitkan SP2D (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **A.** Menyalurkan kredit langsung
+- **B.** Menerbitkan SP2D
 - **C.** Menyusun kebijakan umum dan rencana strategis investasi pemerintah
 - **D.** Menetapkan tarif BLU
 
@@ -1502,7 +1502,7 @@
 
 ### Soal 7
 
-**Kasus:** Tim special mission menilai sebuah kasus yang melibatkan tata kelola investasi/pembiayaan dan kepatuhan terhadap skema program. Fakta/isu yang harus diputuskan adalah: **Rapat KIP dilaksanakan paling sedikit**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Berapa frekuensi minimum pelaksanaan rapat KIP?
 
 - **A.** 1 kali sebulan
 - **B.** 1 kali setahun
@@ -1517,7 +1517,7 @@
 
 ### Soal 8
 
-**Kasus:** Kanwil/KPPN harus menentukan posisi yang tepat karena setiap pilihan memiliki implikasi terhadap pengawasan dan akuntabilitas. Fakta/isu yang harus diputuskan adalah: **UKP KIP dijalankan oleh**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Siapa yang menjalankan UKP KIP?
 
 - **A.** Direktorat SMI
 - **B.** Direktorat PA
@@ -1532,11 +1532,11 @@
 
 ### Soal 9
 
-**Kasus:** Dalam forum monev special mission, beberapa stakeholder menyampaikan penafsiran yang berbeda atas ketentuan program. Fakta/isu yang harus diputuskan adalah: **OIP adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa yang dimaksud dengan OIP?
 
 - **A.** BLU/BUMN/BHL yang ditetapkan Menteri Keuangan untuk kewenangan operasional investasi
-- **B.** Komite audit (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
-- **C.** Semua K/L (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **B.** Komite audit
+- **C.** Semua K/L
 - **D.** Semua KPPN
 
 > ✅ **Jawaban:** **A. BLU/BUMN/BHL yang ditetapkan Menteri Keuangan untuk kewenangan operasional investasi**
@@ -1547,11 +1547,11 @@
 
 ### Soal 10
 
-**Kasus:** Tim special mission menilai sebuah kasus yang melibatkan tata kelola investasi/pembiayaan dan kepatuhan terhadap skema program. Fakta/isu yang harus diputuskan adalah: **Entitas yang dapat ditunjuk sebagai OIP adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Entitas manakah yang dapat ditunjuk sebagai OIP?
 
-- **A.** BLU saja (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **A.** BLU saja
 - **B.** BLU, BUMN, dan/atau BHL
-- **C.** Pemda saja (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **C.** Pemda saja
 - **D.** BUMN saja
 
 > ✅ **Jawaban:** **B. BLU, BUMN, dan/atau BHL**
@@ -1562,10 +1562,10 @@
 
 ### Soal 11
 
-**Kasus:** Kanwil/KPPN harus menentukan posisi yang tepat karena setiap pilihan memiliki implikasi terhadap pengawasan dan akuntabilitas. Fakta/isu yang harus diputuskan adalah: **Yang bukan kemampuan yang dipersyaratkan bagi OIP adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Kemampuan manakah yang tidak dipersyaratkan bagi OIP?
 
-- **A.** Manajemen risiko (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
-- **B.** Tata kelola investasi (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **A.** Manajemen risiko
+- **B.** Tata kelola investasi
 - **C.** Kewenangan menetapkan APBN
 - **D.** Teknologi informasi
 
@@ -1577,10 +1577,10 @@
 
 ### Soal 12
 
-**Kasus:** Dalam forum monev special mission, beberapa stakeholder menyampaikan penafsiran yang berbeda atas ketentuan program. Fakta/isu yang harus diputuskan adalah: **Unit investasi calon OIP setidaknya memiliki**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Persyaratan minimum apa yang harus dipenuhi oleh unit investasi calon OIP?
 
-- **A.** 5 akuntan publik (karena pihak tersebut dipandang paling dekat dengan pelaksanaan operasional transaksi)
-- **B.** 10 auditor BPK (dengan pertimbangan bahwa kewenangan keputusan berada pada unit tersebut sebelum proses dilanjutkan)
+- **A.** 5 akuntan publik
+- **B.** 10 auditor BPK
 - **C.** 1 pejabat KPPN
 - **D.** Pegawai bersertifikasi bidang pasar modal/investasi-keuangan
 
@@ -1592,12 +1592,12 @@
 
 ### Soal 13
 
-**Kasus:** Tim special mission menilai sebuah kasus yang melibatkan tata kelola investasi/pembiayaan dan kepatuhan terhadap skema program. Fakta/isu yang harus diputuskan adalah: **Dalam individual lending UMi, agunan**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Bagaimana ketentuan agunan dalam individual lending UMi?
 
 - **A.** Wajib tanah
-- **B.** Hanya Resi Gudang (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
+- **B.** Hanya Resi Gudang
 - **C.** Dapat dikenakan sesuai penilaian risiko
-- **D.** Dilarang (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
+- **D.** Dilarang
 
 > ✅ **Jawaban:** **C. Dapat dikenakan sesuai penilaian risiko**
 >
@@ -1607,11 +1607,11 @@
 
 ### Soal 14
 
-**Kasus:** Kanwil/KPPN harus menentukan posisi yang tepat karena setiap pilihan memiliki implikasi terhadap pengawasan dan akuntabilitas. Fakta/isu yang harus diputuskan adalah: **Dalam group lending UMi, penyalur**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Bagaimana ketentuan bagi penyalur mengenai agunan dalam group lending UMi?
 
 - **A.** Tidak boleh mengenakan agunan tambahan
-- **B.** Boleh agunan tanpa batas (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
-- **C.** Harus kendaraan (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
+- **B.** Boleh agunan tanpa batas
+- **C.** Harus kendaraan
 - **D.** Wajib meminta tanah
 
 > ✅ **Jawaban:** **A. Tidak boleh mengenakan agunan tambahan**
@@ -1622,12 +1622,12 @@
 
 ### Soal 15
 
-**Kasus:** Dalam forum monev special mission, beberapa stakeholder menyampaikan penafsiran yang berbeda atas ketentuan program. Fakta/isu yang harus diputuskan adalah: **Ciri utama group lending UMi adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa ciri utama group lending UMi?
 
 - **A.** Wajib badan hukum
 - **B.** Kelompok dan tanggung renteng
-- **C.** Wajib NPWP perusahaan (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
-- **D.** Debitur harus ASN (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **C.** Wajib NPWP perusahaan
+- **D.** Debitur harus ASN
 
 > ✅ **Jawaban:** **B. Kelompok dan tanggung renteng**
 >
@@ -1637,7 +1637,7 @@
 
 ### Soal 16
 
-**Kasus:** Tim special mission menilai sebuah kasus yang melibatkan tata kelola investasi/pembiayaan dan kepatuhan terhadap skema program. Fakta/isu yang harus diputuskan adalah: **Plafon UMi adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Berapa plafon Pembiayaan UMi?
 
 - **A.** ≤ Rp10 juta
 - **B.** ≤ Rp20 juta
@@ -1652,7 +1652,7 @@
 
 ### Soal 17
 
-**Kasus:** Kanwil/KPPN harus menentukan posisi yang tepat karena setiap pilihan memiliki implikasi terhadap pengawasan dan akuntabilitas. Fakta/isu yang harus diputuskan adalah: **Plafon UMi Pro adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Berapa plafon Pembiayaan UMi Pro?
 
 - **A.** Rp100–500 juta
 - **B.** > Rp1 miliar
@@ -1667,12 +1667,12 @@
 
 ### Soal 18
 
-**Kasus:** Dalam forum monev special mission, beberapa stakeholder menyampaikan penafsiran yang berbeda atas ketentuan program. Fakta/isu yang harus diputuskan adalah: **Monev ketepatan data UMi oleh KPPN membandingkan**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Data apa yang dibandingkan KPPN dalam monitoring dan evaluasi ketepatan data UMi?
 
 - **A.** Pajak dengan NIK
 - **B.** Data SIKP dengan dokumen penyaluran
-- **C.** DIPA dengan APBD (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
-- **D.** SPAN dengan RKUN (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
+- **C.** DIPA dengan APBD
+- **D.** SPAN dengan RKUN
 
 > ✅ **Jawaban:** **B. Data SIKP dengan dokumen penyaluran**
 >
@@ -1682,11 +1682,11 @@
 
 ### Soal 19
 
-**Kasus:** Tim special mission menilai sebuah kasus yang melibatkan tata kelola investasi/pembiayaan dan kepatuhan terhadap skema program. Fakta/isu yang harus diputuskan adalah: **Sampel monev UMi yang disebut modul adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Bagaimana ketentuan pengambilan sampel monitoring dan evaluasi UMi dalam materi sumber?
 
-- **A.** 100 debitur (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **A.** 100 debitur
 - **B.** 50% debitur
-- **C.** Semua debitur (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **C.** Semua debitur
 - **D.** 5% debitur aktif, minimal 1 per penyalur, maksimal 25 per penyalur
 
 > ✅ **Jawaban:** **D. 5% debitur aktif, minimal 1 per penyalur, maksimal 25 per penyalur**
@@ -1697,11 +1697,11 @@
 
 ### Soal 20
 
-**Kasus:** Kanwil/KPPN harus menentukan posisi yang tepat karena setiap pilihan memiliki implikasi terhadap pengawasan dan akuntabilitas. Fakta/isu yang harus diputuskan adalah: **Data monev UMi antara lain mencakup**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Data apa saja yang dicakup dalam monitoring dan evaluasi UMi?
 
 - **A.** Nilai saja
-- **B.** Nama saja (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
-- **C.** NPWP penyalur saja (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **B.** Nama saja
+- **C.** NPWP penyalur saja
 - **D.** NIK, nama, akad, nilai pembiayaan, tenor, agunan bila ada
 
 > ✅ **Jawaban:** **D. NIK, nama, akad, nilai pembiayaan, tenor, agunan bila ada**
@@ -1712,11 +1712,11 @@
 
 ### Soal 21
 
-**Kasus:** Dalam forum monev special mission, beberapa stakeholder menyampaikan penafsiran yang berbeda atas ketentuan program. Fakta/isu yang harus diputuskan adalah: **Peran Kanwil DJPb pada monev UMi adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa peran Kanwil DJPb dalam monitoring dan evaluasi UMi?
 
-- **A.** Debitur (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **A.** Debitur
 - **B.** Supervisor monev KPPN dan pengompilasi laporan
-- **C.** Penyalur (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **C.** Penyalur
 - **D.** Penjamin
 
 > ✅ **Jawaban:** **B. Supervisor monev KPPN dan pengompilasi laporan**
@@ -1727,12 +1727,12 @@
 
 ### Soal 22
 
-**Kasus:** Tim special mission menilai sebuah kasus yang melibatkan tata kelola investasi/pembiayaan dan kepatuhan terhadap skema program. Fakta/isu yang harus diputuskan adalah: **SIKP adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa yang dimaksud dengan SIKP?
 
 - **A.** Sistem informasi elektronik penatausahaan dan informasi kredit program
-- **B.** Sistem DAK (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **B.** Sistem DAK
 - **C.** Sistem pembayaran APBN
-- **D.** Sistem rekening pemerintah (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **D.** Sistem rekening pemerintah
 
 > ✅ **Jawaban:** **A. Sistem informasi elektronik penatausahaan dan informasi kredit program**
 >
@@ -1742,10 +1742,10 @@
 
 ### Soal 23
 
-**Kasus:** Kanwil/KPPN harus menentukan posisi yang tepat karena setiap pilihan memiliki implikasi terhadap pengawasan dan akuntabilitas. Fakta/isu yang harus diputuskan adalah: **Pemda mengunggah ke SIKP**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Data apa yang diunggah Pemda ke SIKP?
 
-- **A.** Rekening pemerintah (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
-- **B.** Pajak pusat (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
+- **A.** Rekening pemerintah
+- **B.** Pajak pusat
 - **C.** Data pegawai
 - **D.** Calon debitur potensial
 
@@ -1757,11 +1757,11 @@
 
 ### Soal 24
 
-**Kasus:** Dalam forum monev special mission, beberapa stakeholder menyampaikan penafsiran yang berbeda atas ketentuan program. Fakta/isu yang harus diputuskan adalah: **Penyalur mengunggah ke SIKP antara lain**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Data apa yang diunggah penyalur ke SIKP?
 
-- **A.** Laporan APBD (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
+- **A.** Laporan APBD
 - **B.** Penerimaan negara
-- **C.** Data pegawai bank (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
+- **C.** Data pegawai bank
 - **D.** Calon debitur, akad, transaksi, tagihan subsidi, plafon wilayah
 
 > ✅ **Jawaban:** **D. Calon debitur, akad, transaksi, tagihan subsidi, plafon wilayah**
@@ -1772,12 +1772,12 @@
 
 ### Soal 25
 
-**Kasus:** Tim special mission menilai sebuah kasus yang melibatkan tata kelola investasi/pembiayaan dan kepatuhan terhadap skema program. Fakta/isu yang harus diputuskan adalah: **Linimasa SIKP yang tepat adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Bagaimana urutan perkembangan SIKP yang tepat?
 
 - **A.** 2013 dikembangkan, 2015 untuk subsidi KUR, 2016 efektif
 - **B.** 2025–2026–2027
-- **C.** 2020–2021–2022 (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
-- **D.** 2004–2005–2006 (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **C.** 2020–2021–2022
+- **D.** 2004–2005–2006
 
 > ✅ **Jawaban:** **A. 2013 dikembangkan, 2015 untuk subsidi KUR, 2016 efektif**
 >
@@ -1787,12 +1787,12 @@
 
 ### Soal 26
 
-**Kasus:** Kanwil/KPPN harus menentukan posisi yang tepat karena setiap pilihan memiliki implikasi terhadap pengawasan dan akuntabilitas. Fakta/isu yang harus diputuskan adalah: **SRG adalah sistem terkait**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa yang dimaksud dengan Sistem Resi Gudang (SRG)?
 
 - **A.** SP2D
-- **B.** DAU (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **B.** DAU
 - **C.** Penerbitan, pengalihan, penjaminan, dan penyelesaian transaksi Resi Gudang
-- **D.** Pembukaan rekening (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **D.** Pembukaan rekening
 
 > ✅ **Jawaban:** **C. Penerbitan, pengalihan, penjaminan, dan penyelesaian transaksi Resi Gudang**
 >
@@ -1802,12 +1802,12 @@
 
 ### Soal 27
 
-**Kasus:** Dalam forum monev special mission, beberapa stakeholder menyampaikan penafsiran yang berbeda atas ketentuan program. Fakta/isu yang harus diputuskan adalah: **Dalam SRG, Resi Gudang dapat berfungsi sebagai**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa fungsi Resi Gudang dalam SRG?
 
 - **A.** Agunan pembiayaan
-- **B.** DIPA (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **B.** DIPA
 - **C.** SP2D
-- **D.** Surat tugas (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **D.** Surat tugas
 
 > ✅ **Jawaban:** **A. Agunan pembiayaan**
 >
@@ -1817,11 +1817,11 @@
 
 ### Soal 28
 
-**Kasus:** Tim special mission menilai sebuah kasus yang melibatkan tata kelola investasi/pembiayaan dan kepatuhan terhadap skema program. Fakta/isu yang harus diputuskan adalah: **S-SRG adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa yang dimaksud dengan S-SRG?
 
-- **A.** Pembayaran APBN (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **A.** Pembayaran APBN
 - **B.** Pembiayaan dengan agunan Resi Gudang yang memperoleh subsidi bunga/margin
-- **C.** Dana Desa (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **C.** Dana Desa
 - **D.** Hibah petani
 
 > ✅ **Jawaban:** **B. Pembiayaan dengan agunan Resi Gudang yang memperoleh subsidi bunga/margin**
@@ -1832,12 +1832,12 @@
 
 ### Soal 29
 
-**Kasus:** Kanwil/KPPN harus menentukan posisi yang tepat karena setiap pilihan memiliki implikasi terhadap pengawasan dan akuntabilitas. Fakta/isu yang harus diputuskan adalah: **Dokumen administratif BLU mencakup**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Dokumen manakah yang termasuk persyaratan administratif BLU?
 
 - **A.** Pola tata kelola, RSB, laporan keuangan pokok, SPM dan dokumen terkait lainnya
 - **B.** DIPA saja
-- **C.** APBD saja (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
-- **D.** ISO saja (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **C.** APBD saja
+- **D.** ISO saja
 
 > ✅ **Jawaban:** **A. Pola tata kelola, RSB, laporan keuangan pokok, SPM dan dokumen terkait lainnya**
 >
@@ -1847,12 +1847,12 @@
 
 ### Soal 30
 
-**Kasus:** Dalam forum monev special mission, beberapa stakeholder menyampaikan penafsiran yang berbeda atas ketentuan program. Fakta/isu yang harus diputuskan adalah: **Status BLU dapat dicabut apabila**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Kondisi apa yang dapat menyebabkan pencabutan status BLU?
 
 - **A.** Tidak memenuhi persyaratan, tidak patuh ketentuan, dan/atau berkinerja buruk
 - **B.** Pendapatan naik
-- **C.** Layanan bertambah (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
-- **D.** Kas meningkat (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
+- **C.** Layanan bertambah
+- **D.** Kas meningkat
 
 > ✅ **Jawaban:** **A. Tidak memenuhi persyaratan, tidak patuh ketentuan, dan/atau berkinerja buruk**
 >
@@ -1870,12 +1870,12 @@
 
 ### Soal 1
 
-**Kasus:** Satker dan KPPN sedang menata rekening serta posisi kas agar tidak menimbulkan idle cash atau pelanggaran mekanisme pengelolaan rekening. Fakta/isu yang harus diputuskan adalah: **Treasury Single Account (TSA) adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa yang dimaksud dengan Treasury Single Account (TSA)?
 
-- **A.** Sistem DAK (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **A.** Sistem DAK
 - **B.** Sistem konsolidasi kas pemerintah melalui satu rekening induk
 - **C.** Sistem investasi
-- **D.** Sistem rekening terpisah tiap Satker (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **D.** Sistem rekening terpisah tiap Satker
 
 > ✅ **Jawaban:** **B. Sistem konsolidasi kas pemerintah melalui satu rekening induk**
 >
@@ -1885,7 +1885,7 @@
 
 ### Soal 2
 
-**Kasus:** Tim treasury membandingkan beberapa alternatif yang tampak efisien, tetapi tidak semuanya sesuai dengan desain pengelolaan kas pemerintah. Fakta/isu yang harus diputuskan adalah: **Rekening utama dalam implementasi TSA Indonesia adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Rekening apa yang menjadi rekening utama dalam implementasi TSA di Indonesia?
 
 - **A.** Rekening Induk Eselon I
 - **B.** Rekening Penerimaan KPPN
@@ -1900,12 +1900,12 @@
 
 ### Soal 3
 
-**Kasus:** Dalam review payment system, keputusan harus mempertimbangkan konsolidasi kas, kontrol, dan ketepatan proses. Fakta/isu yang harus diputuskan adalah: **Yang bukan manfaat TSA adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Manakah yang bukan merupakan manfaat TSA?
 
-- **A.** Meningkatkan visibilitas kas (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **A.** Meningkatkan visibilitas kas
 - **B.** Membiarkan saldo tersebar tanpa konsolidasi
 - **C.** Mengurangi fragmentasi
-- **D.** Mengurangi idle cash (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **D.** Mengurangi idle cash
 
 > ✅ **Jawaban:** **B. Membiarkan saldo tersebar tanpa konsolidasi**
 >
@@ -1915,11 +1915,11 @@
 
 ### Soal 4
 
-**Kasus:** Satker dan KPPN sedang menata rekening serta posisi kas agar tidak menimbulkan idle cash atau pelanggaran mekanisme pengelolaan rekening. Fakta/isu yang harus diputuskan adalah: **Treasury Notional Pooling (TNP) memungkinkan**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa yang dimungkinkan melalui Treasury Notional Pooling (TNP)?
 
 - **A.** Penghapusan rekening Satker
-- **B.** Penggantian RKUN (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
-- **C.** Pemindahan semua saldo ke Eselon I (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
+- **B.** Penggantian RKUN
+- **C.** Pemindahan semua saldo ke Eselon I
 - **D.** Konsolidasi saldo tanpa perpindahan fisik dana
 
 > ✅ **Jawaban:** **D. Konsolidasi saldo tanpa perpindahan fisik dana**
@@ -1930,11 +1930,11 @@
 
 ### Soal 5
 
-**Kasus:** Tim treasury membandingkan beberapa alternatif yang tampak efisien, tetapi tidak semuanya sesuai dengan desain pengelolaan kas pemerintah. Fakta/isu yang harus diputuskan adalah: **Perbedaan utama TSA dan TNP adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa perbedaan utama TSA dan TNP?
 
-- **A.** TSA hanya penerimaan (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **A.** TSA hanya penerimaan
 - **B.** TSA konsolidasi kas, TNP konsolidasi saldo notional
-- **C.** Keduanya sama (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **C.** Keduanya sama
 - **D.** TNP hanya BLU
 
 > ✅ **Jawaban:** **B. TSA konsolidasi kas, TNP konsolidasi saldo notional**
@@ -1945,10 +1945,10 @@
 
 ### Soal 6
 
-**Kasus:** Dalam review payment system, keputusan harus mempertimbangkan konsolidasi kas, kontrol, dan ketepatan proses. Fakta/isu yang harus diputuskan adalah: **Jenis rekening Satker secara umum adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa saja jenis rekening Satker secara umum?
 
-- **A.** APBN dan APBD (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
-- **B.** Belanja dan Pembiayaan (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **A.** APBN dan APBD
+- **B.** Belanja dan Pembiayaan
 - **C.** Pengeluaran, Penerimaan, Lainnya
 - **D.** Pusat dan Daerah
 
@@ -1960,11 +1960,11 @@
 
 ### Soal 7
 
-**Kasus:** Satker dan KPPN sedang menata rekening serta posisi kas agar tidak menimbulkan idle cash atau pelanggaran mekanisme pengelolaan rekening. Fakta/isu yang harus diputuskan adalah: **Rekening Pengeluaran digunakan untuk**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa kegunaan Rekening Pengeluaran?
 
 - **A.** Menampung jaminan saja
-- **B.** Menampung pendapatan negara (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)
-- **C.** Menampung hibah saja (serta dilanjutkan dengan koordinasi kepada pihak terkait tanpa mengubah tahapan utama proses)
+- **B.** Menampung pendapatan negara
+- **C.** Menampung hibah saja
 - **D.** Menampung dana untuk belanja/pengeluaran negara
 
 > ✅ **Jawaban:** **D. Menampung dana untuk belanja/pengeluaran negara**
@@ -1975,10 +1975,10 @@
 
 ### Soal 8
 
-**Kasus:** Tim treasury membandingkan beberapa alternatif yang tampak efisien, tetapi tidak semuanya sesuai dengan desain pengelolaan kas pemerintah. Fakta/isu yang harus diputuskan adalah: **Rekening Penerimaan digunakan untuk**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa kegunaan Rekening Penerimaan?
 
-- **A.** Membayar gaji (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)
-- **B.** Membayar supplier (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)
+- **A.** Membayar gaji
+- **B.** Membayar supplier
 - **C.** Menyalurkan UP
 - **D.** Menampung pendapatan negara
 
@@ -1990,10 +1990,10 @@
 
 ### Soal 9
 
-**Kasus:** Dalam review payment system, keputusan harus mempertimbangkan konsolidasi kas, kontrol, dan ketepatan proses. Fakta/isu yang harus diputuskan adalah: **Rekening Lainnya digunakan untuk**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa kegunaan Rekening Lainnya?
 
-- **A.** Semua belanja pegawai (serta dilanjutkan dengan koordinasi kepada pihak terkait tanpa mengubah tahapan utama proses)
-- **B.** Hanya SP2D (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)
+- **A.** Semua belanja pegawai
+- **B.** Hanya SP2D
 - **C.** Hanya pajak
 - **D.** Menampung dana yang tidak sesuai dimasukkan ke rekening penerimaan/pengeluaran
 
@@ -2005,10 +2005,10 @@
 
 ### Soal 10
 
-**Kasus:** Satker dan KPPN sedang menata rekening serta posisi kas agar tidak menimbulkan idle cash atau pelanggaran mekanisme pengelolaan rekening. Fakta/isu yang harus diputuskan adalah: **Rekening Penampungan Dana Jaminan digunakan untuk**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa kegunaan Rekening Penampungan Dana Jaminan?
 
-- **A.** Pajak (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)
-- **B.** KKP (serta dilanjutkan dengan koordinasi kepada pihak terkait tanpa mengubah tahapan utama proses)
+- **A.** Pajak
+- **B.** KKP
 - **C.** Gaji
 - **D.** Dana jaminan pihak ketiga
 
@@ -2020,10 +2020,10 @@
 
 ### Soal 11
 
-**Kasus:** Tim treasury membandingkan beberapa alternatif yang tampak efisien, tetapi tidak semuanya sesuai dengan desain pengelolaan kas pemerintah. Fakta/isu yang harus diputuskan adalah: **Rekening Penampungan Dana Titipan dapat digunakan untuk**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa kegunaan Rekening Penampungan Dana Titipan?
 
-- **A.** Pajak rutin (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)
-- **B.** DBH (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)
+- **A.** Pajak rutin
+- **B.** DBH
 - **C.** Dana titipan/sitaan dalam kasus tertentu
 - **D.** Uang makan
 
@@ -2035,11 +2035,11 @@
 
 ### Soal 12
 
-**Kasus:** Dalam review payment system, keputusan harus mempertimbangkan konsolidasi kas, kontrol, dan ketepatan proses. Fakta/isu yang harus diputuskan adalah: **RPDHL digunakan untuk**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa kegunaan RPDHL?
 
 - **A.** Menampung hibah langsung dalam bentuk uang
-- **B.** Menampung pajak (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)
-- **C.** Menyalurkan UP (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)
+- **B.** Menampung pajak
+- **C.** Menyalurkan UP
 - **D.** Menampung gaji
 
 > ✅ **Jawaban:** **A. Menampung hibah langsung dalam bentuk uang**
@@ -2050,11 +2050,11 @@
 
 ### Soal 13
 
-**Kasus:** Satker dan KPPN sedang menata rekening serta posisi kas agar tidak menimbulkan idle cash atau pelanggaran mekanisme pengelolaan rekening. Fakta/isu yang harus diputuskan adalah: **RPH menerima dana dari**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Dari mana RPH menerima dana?
 
 - **A.** RPDHL
 - **B.** Bendahara
-- **C.** RKUD (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)
+- **C.** RKUD
 - **D.** Donor langsung
 
 > ✅ **Jawaban:** **A. RPDHL**
@@ -2065,10 +2065,10 @@
 
 ### Soal 14
 
-**Kasus:** Tim treasury membandingkan beberapa alternatif yang tampak efisien, tetapi tidak semuanya sesuai dengan desain pengelolaan kas pemerintah. Fakta/isu yang harus diputuskan adalah: **Langkah awal pembukaan rekening Satker adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa langkah awal pembukaan rekening Satker?
 
-- **A.** Buka langsung di bank (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)
-- **B.** Bank meminta izin DJA (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)
+- **A.** Buka langsung di bank
+- **B.** Bank meminta izin DJA
 - **C.** Ajukan persetujuan kepada Kuasa BUN di Daerah
 - **D.** KPPN membuka otomatis
 
@@ -2080,12 +2080,12 @@
 
 ### Soal 15
 
-**Kasus:** Dalam review payment system, keputusan harus mempertimbangkan konsolidasi kas, kontrol, dan ketepatan proses. Fakta/isu yang harus diputuskan adalah: **Permohonan pembukaan rekening memuat antara lain**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Informasi apa yang perlu dicantumkan dalam permohonan pembukaan rekening?
 
 - **A.** Tujuan penggunaan, sumber dana, mekanisme penyaluran, perlakuan bunga/jasa giro
 - **B.** Nomor DIPA saja
-- **C.** Nama Bendahara saja (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
-- **D.** Pagu saja (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
+- **C.** Nama Bendahara saja
+- **D.** Pagu saja
 
 > ✅ **Jawaban:** **A. Tujuan penggunaan, sumber dana, mekanisme penyaluran, perlakuan bunga/jasa giro**
 >
@@ -2095,7 +2095,7 @@
 
 ### Soal 16
 
-**Kasus:** Satker dan KPPN sedang menata rekening serta posisi kas agar tidak menimbulkan idle cash atau pelanggaran mekanisme pengelolaan rekening. Fakta/isu yang harus diputuskan adalah: **Persetujuan/penolakan pembukaan rekening diterbitkan paling lambat**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Berapa batas waktu penerbitan persetujuan atau penolakan pembukaan rekening?
 
 - **A.** 5 HK
 - **B.** 3 HK
@@ -2110,7 +2110,7 @@
 
 ### Soal 17
 
-**Kasus:** Tim treasury membandingkan beberapa alternatif yang tampak efisien, tetapi tidak semuanya sesuai dengan desain pengelolaan kas pemerintah. Fakta/isu yang harus diputuskan adalah: **Surat persetujuan pembukaan rekening secara umum berlaku**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Berapa lama masa berlaku surat persetujuan pembukaan rekening secara umum?
 
 - **A.** 10 HK
 - **B.** 15 HK
@@ -2125,11 +2125,11 @@
 
 ### Soal 18
 
-**Kasus:** Dalam review payment system, keputusan harus mempertimbangkan konsolidasi kas, kontrol, dan ketepatan proses. Fakta/isu yang harus diputuskan adalah: **Laporan pembukaan rekening disampaikan paling lambat**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Berapa batas waktu penyampaian laporan pembukaan rekening?
 
 - **A.** 15 HK
-- **B.** 10 HK (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)
-- **C.** 5 HK (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)
+- **B.** 10 HK
+- **C.** 5 HK
 - **D.** 20 HK sejak surat persetujuan diterbitkan
 
 > ✅ **Jawaban:** **D. 20 HK sejak surat persetujuan diterbitkan**
@@ -2140,12 +2140,12 @@
 
 ### Soal 19
 
-**Kasus:** Satker dan KPPN sedang menata rekening serta posisi kas agar tidak menimbulkan idle cash atau pelanggaran mekanisme pengelolaan rekening. Fakta/isu yang harus diputuskan adalah: **Khusus rekening deposito pengelolaan kas BLU, laporan pembukaan disampaikan paling lambat**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Berapa batas waktu pelaporan pembukaan rekening deposito untuk pengelolaan kas BLU?
 
 - **A.** 10 HK sejak rekening dibuka
-- **B.** 20 HK (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)
+- **B.** 20 HK
 - **C.** 5 HK
-- **D.** 3 HK (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)
+- **D.** 3 HK
 
 > ✅ **Jawaban:** **A. 10 HK sejak rekening dibuka**
 >
@@ -2155,10 +2155,10 @@
 
 ### Soal 20
 
-**Kasus:** Tim treasury membandingkan beberapa alternatif yang tampak efisien, tetapi tidak semuanya sesuai dengan desain pengelolaan kas pemerintah. Fakta/isu yang harus diputuskan adalah: **Urutan perubahan bank rekening yang tepat adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Bagaimana urutan perubahan bank tempat rekening Satker dibuka?
 
-- **A.** Tutup lama lalu minta izin (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)
-- **B.** Update supplier dulu (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)
+- **A.** Tutup lama lalu minta izin
+- **B.** Update supplier dulu
 - **C.** Pindah ke rekening pribadi
 - **D.** Buka baru–pindah saldo–tutup lama–lapor–update supplier
 
@@ -2170,12 +2170,12 @@
 
 ### Soal 21
 
-**Kasus:** Dalam review payment system, keputusan harus mempertimbangkan konsolidasi kas, kontrol, dan ketepatan proses. Fakta/isu yang harus diputuskan adalah: **Sisa saldo rekening yang ditutup secara umum**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Bagaimana perlakuan terhadap sisa saldo rekening yang ditutup secara umum?
 
 - **A.** Dipindahkan ke Kas Negara sesuai ketentuan
-- **B.** Dibiarkan (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)
+- **B.** Dibiarkan
 - **C.** Menjadi milik bank
-- **D.** Menjadi hak Bendahara (serta dilanjutkan dengan koordinasi kepada pihak terkait tanpa mengubah tahapan utama proses)
+- **D.** Menjadi hak Bendahara
 
 > ✅ **Jawaban:** **A. Dipindahkan ke Kas Negara sesuai ketentuan**
 >
@@ -2185,11 +2185,11 @@
 
 ### Soal 22
 
-**Kasus:** Satker dan KPPN sedang menata rekening serta posisi kas agar tidak menimbulkan idle cash atau pelanggaran mekanisme pengelolaan rekening. Fakta/isu yang harus diputuskan adalah: **Struktur Rekening Pengeluaran setelah reformasi terdiri atas**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Bagaimana struktur Rekening Pengeluaran setelah reformasi pengelolaan rekening?
 
 - **A.** Rekening pegawai
-- **B.** Satu rekening nasional saja (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
-- **C.** Rekening pajak (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
+- **B.** Satu rekening nasional saja
+- **C.** Rekening pajak
 - **D.** Rekening Induk Eselon I dan rekening Satker/VA
 
 > ✅ **Jawaban:** **D. Rekening Induk Eselon I dan rekening Satker/VA**
@@ -2200,12 +2200,12 @@
 
 ### Soal 23
 
-**Kasus:** Tim treasury membandingkan beberapa alternatif yang tampak efisien, tetapi tidak semuanya sesuai dengan desain pengelolaan kas pemerintah. Fakta/isu yang harus diputuskan adalah: **Fungsi Rekening Induk Eselon I adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa fungsi Rekening Induk Eselon I?
 
-- **A.** Pembayaran manual oleh Eselon I (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **A.** Pembayaran manual oleh Eselon I
 - **B.** Penggajian nasional
 - **C.** Monitoring dan konsolidasi saldo/transaksi rekening virtual
-- **D.** Pajak (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **D.** Pajak
 
 > ✅ **Jawaban:** **C. Monitoring dan konsolidasi saldo/transaksi rekening virtual**
 >
@@ -2215,7 +2215,7 @@
 
 ### Soal 24
 
-**Kasus:** Dalam review payment system, keputusan harus mempertimbangkan konsolidasi kas, kontrol, dan ketepatan proses. Fakta/isu yang harus diputuskan adalah: **Awalan nomenklatur Rekening Pengeluaran Satker adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa awalan nomenklatur Rekening Pengeluaran Satker?
 
 - **A.** RPDHL
 - **B.** RPH
@@ -2230,10 +2230,10 @@
 
 ### Soal 25
 
-**Kasus:** Satker dan KPPN sedang menata rekening serta posisi kas agar tidak menimbulkan idle cash atau pelanggaran mekanisme pengelolaan rekening. Fakta/isu yang harus diputuskan adalah: **Satker baru dalam skema virtual account seharusnya**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Bagaimana pembukaan rekening Satker baru dalam skema virtual account?
 
-- **A.** Menggunakan rekening pribadi (serta dilanjutkan dengan koordinasi kepada pihak terkait tanpa mengubah tahapan utama proses)
-- **B.** Membuka giro fisik tanpa koordinasi (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)
+- **A.** Menggunakan rekening pribadi
+- **B.** Membuka giro fisik tanpa koordinasi
 - **C.** Menggunakan rekening Satker lain
 - **D.** Menggunakan rekening Satker/VA yang terkonsolidasi dengan Rekening Induk Eselon I
 
@@ -2245,12 +2245,12 @@
 
 ### Soal 26
 
-**Kasus:** Tim treasury membandingkan beberapa alternatif yang tampak efisien, tetapi tidak semuanya sesuai dengan desain pengelolaan kas pemerintah. Fakta/isu yang harus diputuskan adalah: **Zero Balance Account bekerja dengan pola**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Bagaimana pola kerja Zero Balance Account?
 
 - **A.** Hanya penerimaan
-- **B.** Hanya BLU (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
+- **B.** Hanya BLU
 - **C.** 0–dropping–pembayaran–sisa dikembalikan–0
-- **D.** Saldo tetap besar (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
+- **D.** Saldo tetap besar
 
 > ✅ **Jawaban:** **C. 0–dropping–pembayaran–sisa dikembalikan–0**
 >
@@ -2260,11 +2260,11 @@
 
 ### Soal 27
 
-**Kasus:** Dalam review payment system, keputusan harus mempertimbangkan konsolidasi kas, kontrol, dan ketepatan proses. Fakta/isu yang harus diputuskan adalah: **Saldo Rekening Penerimaan dilimpahkan ke RKUN melalui**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Melalui mekanisme apa saldo Rekening Penerimaan dilimpahkan ke RKUN?
 
-- **A.** Revisi DIPA (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
+- **A.** Revisi DIPA
 - **B.** Sweeping harian
-- **C.** SPM (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
+- **C.** SPM
 - **D.** TUP
 
 > ✅ **Jawaban:** **B. Sweeping harian**
@@ -2275,10 +2275,10 @@
 
 ### Soal 28
 
-**Kasus:** Satker dan KPPN sedang menata rekening serta posisi kas agar tidak menimbulkan idle cash atau pelanggaran mekanisme pengelolaan rekening. Fakta/isu yang harus diputuskan adalah: **Setelah perluasan biller yang disebut dalam Modul Sistem dan Teknologi Perbendaharaan, jumlah biller pada MPN G3 menjadi**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Menurut Modul Sistem dan Teknologi Perbendaharaan, berapa jumlah biller MPN G3 setelah perluasan biller?
 
-- **A.** 4 biller (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
-- **B.** 3 biller (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
+- **A.** 4 biller
+- **B.** 3 biller
 - **C.** 5 biller
 - **D.** 6 biller
 
@@ -2290,11 +2290,11 @@
 
 ### Soal 29
 
-**Kasus:** Tim treasury membandingkan beberapa alternatif yang tampak efisien, tetapi tidak semuanya sesuai dengan desain pengelolaan kas pemerintah. Fakta/isu yang harus diputuskan adalah: **NOW pada MPN G3 berarti**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa arti NOW pada MPN G3?
 
-- **A.** New Operational Workflow (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **A.** New Operational Workflow
 - **B.** National Online Window
-- **C.** National One Way (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **C.** National One Way
 - **D.** New Payment Channels, One Stop Services, With Enhanced Capacity
 
 > ✅ **Jawaban:** **D. New Payment Channels, One Stop Services, With Enhanced Capacity**
@@ -2305,7 +2305,7 @@
 
 ### Soal 30
 
-**Kasus:** Dalam review payment system, keputusan harus mempertimbangkan konsolidasi kas, kontrol, dan ketepatan proses. Fakta/isu yang harus diputuskan adalah: **Kapasitas MPN G3 meningkat dari sekitar**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Dari kapasitas berapa menjadi berapa kapasitas MPN G3 ditingkatkan?
 
 - **A.** 1.000 ke 10.000 transaksi/detik
 - **B.** 10 ke 100 transaksi/detik
@@ -2328,11 +2328,11 @@
 
 ### Soal 1
 
-**Kasus:** Tim penyusun laporan keuangan menemukan perbedaan pandangan mengenai pengakuan, klasifikasi, dan penyajian transaksi. Fakta/isu yang harus diputuskan adalah: **SAP merupakan**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa yang dimaksud dengan SAP?
 
-- **A.** Standar audit BPK (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **A.** Standar audit BPK
 - **B.** Prinsip akuntansi untuk menyusun dan menyajikan laporan keuangan pemerintah
-- **C.** Pedoman DIPA (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **C.** Pedoman DIPA
 - **D.** Pedoman pengadaan
 
 > ✅ **Jawaban:** **B. Prinsip akuntansi untuk menyusun dan menyajikan laporan keuangan pemerintah**
@@ -2343,12 +2343,12 @@
 
 ### Soal 2
 
-**Kasus:** Pada saat rekonsiliasi, angka dapat terlihat wajar tetapi klasifikasi yang salah tetap dapat memengaruhi kualitas laporan keuangan. Fakta/isu yang harus diputuskan adalah: **SAP pertama pemerintah ditetapkan melalui**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Peraturan apa yang pertama kali menetapkan SAP bagi pemerintah?
 
 - **A.** PP 50/2018
-- **B.** PP 71/2010 (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
+- **B.** PP 71/2010
 - **C.** PP 24/2005
-- **D.** PP 45/2013 (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
+- **D.** PP 45/2013
 
 > ✅ **Jawaban:** **C. PP 24/2005**
 >
@@ -2358,11 +2358,11 @@
 
 ### Soal 3
 
-**Kasus:** Pejabat penanggung jawab laporan meminta analisis sebelum koreksi dilakukan agar perlakuan akuntansi tetap konsisten. Fakta/isu yang harus diputuskan adalah: **PP 24/2005 digantikan oleh**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Peraturan apa yang menggantikan PP 24 Tahun 2005?
 
-- **A.** PP 45/2013 (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
+- **A.** PP 45/2013
 - **B.** PP 71/2010
-- **C.** PP 50/2018 (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
+- **C.** PP 50/2018
 - **D.** PP 12/2019
 
 > ✅ **Jawaban:** **B. PP 71/2010**
@@ -2373,12 +2373,12 @@
 
 ### Soal 4
 
-**Kasus:** Tim penyusun laporan keuangan menemukan perbedaan pandangan mengenai pengakuan, klasifikasi, dan penyajian transaksi. Fakta/isu yang harus diputuskan adalah: **Pada basis kas, transaksi diakui saat**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Kapan transaksi diakui pada basis kas?
 
-- **A.** Hak muncul (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
+- **A.** Hak muncul
 - **B.** DIPA diterbitkan
 - **C.** Kas diterima/dikeluarkan
-- **D.** Kontrak ditandatangani (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
+- **D.** Kontrak ditandatangani
 
 > ✅ **Jawaban:** **C. Kas diterima/dikeluarkan**
 >
@@ -2388,11 +2388,11 @@
 
 ### Soal 5
 
-**Kasus:** Pada saat rekonsiliasi, angka dapat terlihat wajar tetapi klasifikasi yang salah tetap dapat memengaruhi kualitas laporan keuangan. Fakta/isu yang harus diputuskan adalah: **Cash Toward Accrual berarti**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa yang dimaksud dengan Cash Toward Accrual?
 
 - **A.** Semua berbasis kas
-- **B.** Aset tetap saja akrual (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
-- **C.** Semua akrual (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **B.** Aset tetap saja akrual
+- **C.** Semua akrual
 - **D.** Aset/kewajiban/ekuitas akrual, LRA berbasis kas
 
 > ✅ **Jawaban:** **D. Aset/kewajiban/ekuitas akrual, LRA berbasis kas**
@@ -2403,12 +2403,12 @@
 
 ### Soal 6
 
-**Kasus:** Pejabat penanggung jawab laporan meminta analisis sebelum koreksi dilakukan agar perlakuan akuntansi tetap konsisten. Fakta/isu yang harus diputuskan adalah: **Implementasi penuh SAP berbasis akrual untuk pemerintah pusat dilakukan pada**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Pada tahun berapa SAP berbasis akrual diterapkan secara penuh pada pemerintah pusat?
 
-- **A.** 2008 (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
+- **A.** 2008
 - **B.** 2015
 - **C.** 2010
-- **D.** 2005 (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
+- **D.** 2005
 
 > ✅ **Jawaban:** **B. 2015**
 >
@@ -2418,12 +2418,12 @@
 
 ### Soal 7
 
-**Kasus:** Tim penyusun laporan keuangan menemukan perbedaan pandangan mengenai pengakuan, klasifikasi, dan penyajian transaksi. Fakta/isu yang harus diputuskan adalah: **SAPP bertujuan utama**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa tujuan utama SAPP?
 
 - **A.** Menghasilkan informasi dan LKPP secara sistematis
 - **B.** Mengelola APBD
-- **C.** Kebijakan moneter (dengan pertimbangan bahwa kewenangan keputusan berada pada unit tersebut sebelum proses dilanjutkan)
-- **D.** Pengadaan (dengan asumsi pihak tersebut memegang fungsi pengujian sekaligus tindak lanjut pada tahap itu)
+- **C.** Kebijakan moneter
+- **D.** Pengadaan
 
 > ✅ **Jawaban:** **A. Menghasilkan informasi dan LKPP secara sistematis**
 >
@@ -2433,7 +2433,7 @@
 
 ### Soal 8
 
-**Kasus:** Pada saat rekonsiliasi, angka dapat terlihat wajar tetapi klasifikasi yang salah tetap dapat memengaruhi kualitas laporan keuangan. Fakta/isu yang harus diputuskan adalah: **SAPP terdiri atas**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa saja bagian dari SAPP?
 
 - **A.** BUN dan KPPN
 - **B.** LRA dan LO
@@ -2448,11 +2448,11 @@
 
 ### Soal 9
 
-**Kasus:** Pejabat penanggung jawab laporan meminta analisis sebelum koreksi dilakukan agar perlakuan akuntansi tetap konsisten. Fakta/isu yang harus diputuskan adalah: **SABUN dilaksanakan oleh**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Siapa yang melaksanakan SABUN?
 
-- **A.** Pemda (dengan asumsi pihak tersebut memegang fungsi pengujian sekaligus tindak lanjut pada tahap itu)
+- **A.** Pemda
 - **B.** Kementerian Keuangan selaku BUN/PA BA-BUN
-- **C.** BI (karena pihak tersebut dipandang paling dekat dengan pelaksanaan operasional transaksi)
+- **C.** BI
 - **D.** BPK
 
 > ✅ **Jawaban:** **B. Kementerian Keuangan selaku BUN/PA BA-BUN**
@@ -2463,12 +2463,12 @@
 
 ### Soal 10
 
-**Kasus:** Tim penyusun laporan keuangan menemukan perbedaan pandangan mengenai pengakuan, klasifikasi, dan penyajian transaksi. Fakta/isu yang harus diputuskan adalah: **SAI dilaksanakan pada**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Pada lingkup mana SAI dilaksanakan?
 
 - **A.** BPK
-- **B.** Pemda (dengan pertimbangan bahwa kewenangan keputusan berada pada unit tersebut sebelum proses dilanjutkan)
+- **B.** Pemda
 - **C.** Kementerian/Lembaga
-- **D.** BI (dengan asumsi pihak tersebut memegang fungsi pengujian sekaligus tindak lanjut pada tahap itu)
+- **D.** BI
 
 > ✅ **Jawaban:** **C. Kementerian/Lembaga**
 >
@@ -2478,12 +2478,12 @@
 
 ### Soal 11
 
-**Kasus:** Pada saat rekonsiliasi, angka dapat terlihat wajar tetapi klasifikasi yang salah tetap dapat memengaruhi kualitas laporan keuangan. Fakta/isu yang harus diputuskan adalah: **SAI mencakup**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa saja yang dicakup oleh SAI?
 
-- **A.** Pengadaan saja (karena pihak tersebut dipandang paling dekat dengan pelaksanaan operasional transaksi)
+- **A.** Pengadaan saja
 - **B.** Akuntansi keuangan dan BMN
 - **C.** Belanja saja
-- **D.** Kas saja (dengan pertimbangan bahwa kewenangan keputusan berada pada unit tersebut sebelum proses dilanjutkan)
+- **D.** Kas saja
 
 > ✅ **Jawaban:** **B. Akuntansi keuangan dan BMN**
 >
@@ -2493,7 +2493,7 @@
 
 ### Soal 12
 
-**Kasus:** Pejabat penanggung jawab laporan meminta analisis sebelum koreksi dilakukan agar perlakuan akuntansi tetap konsisten. Fakta/isu yang harus diputuskan adalah: **Aplikasi utama K/L untuk proses akuntansi dan pelaporan adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Aplikasi apa yang digunakan K/L untuk proses akuntansi dan pelaporan?
 
 - **A.** OM-SPAN TKD
 - **B.** SAKTI
@@ -2508,12 +2508,12 @@
 
 ### Soal 13
 
-**Kasus:** Tim penyusun laporan keuangan menemukan perbedaan pandangan mengenai pengakuan, klasifikasi, dan penyajian transaksi. Fakta/isu yang harus diputuskan adalah: **Komponen laporan keuangan pemerintah yang lengkap adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa saja komponen lengkap laporan keuangan pemerintah?
 
 - **A.** LRA, LPSAL, Neraca, LO, LAK, LPE, CaLK
-- **B.** DIPA, SPM, SP2D (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **B.** DIPA, SPM, SP2D
 - **C.** LO, DIPA, SPP
-- **D.** LRA, SPM, RKA (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **D.** LRA, SPM, RKA
 
 > ✅ **Jawaban:** **A. LRA, LPSAL, Neraca, LO, LAK, LPE, CaLK**
 >
@@ -2523,12 +2523,12 @@
 
 ### Soal 14
 
-**Kasus:** Pada saat rekonsiliasi, angka dapat terlihat wajar tetapi klasifikasi yang salah tetap dapat memengaruhi kualitas laporan keuangan. Fakta/isu yang harus diputuskan adalah: **Belanja dan Pendapatan-LRA disajikan dalam**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Dalam laporan apa Belanja dan Pendapatan-LRA disajikan?
 
 - **A.** LPE
 - **B.** LRA
 - **C.** Neraca
-- **D.** LO (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
+- **D.** LO
 
 > ✅ **Jawaban:** **B. LRA**
 >
@@ -2538,7 +2538,7 @@
 
 ### Soal 15
 
-**Kasus:** Pejabat penanggung jawab laporan meminta analisis sebelum koreksi dilakukan agar perlakuan akuntansi tetap konsisten. Fakta/isu yang harus diputuskan adalah: **Beban dan Pendapatan-LO disajikan dalam**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Dalam laporan apa Beban dan Pendapatan-LO disajikan?
 
 - **A.** LAK
 - **B.** LO
@@ -2553,12 +2553,12 @@
 
 ### Soal 16
 
-**Kasus:** Tim penyusun laporan keuangan menemukan perbedaan pandangan mengenai pengakuan, klasifikasi, dan penyajian transaksi. Fakta/isu yang harus diputuskan adalah: **Aset dan kewajiban disajikan dalam**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Dalam laporan apa aset dan kewajiban disajikan?
 
 - **A.** LAK
-- **B.** LRA (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
+- **B.** LRA
 - **C.** Neraca
-- **D.** LPE (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
+- **D.** LPE
 
 > ✅ **Jawaban:** **C. Neraca**
 >
@@ -2568,7 +2568,7 @@
 
 ### Soal 17
 
-**Kasus:** Pada saat rekonsiliasi, angka dapat terlihat wajar tetapi klasifikasi yang salah tetap dapat memengaruhi kualitas laporan keuangan. Fakta/isu yang harus diputuskan adalah: **Perubahan ekuitas disajikan dalam**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Dalam laporan apa perubahan ekuitas disajikan?
 
 - **A.** LPE
 - **B.** LPSAL
@@ -2583,12 +2583,12 @@
 
 ### Soal 18
 
-**Kasus:** Pejabat penanggung jawab laporan meminta analisis sebelum koreksi dilakukan agar perlakuan akuntansi tetap konsisten. Fakta/isu yang harus diputuskan adalah: **CaLK berfungsi untuk**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa fungsi Catatan atas Laporan Keuangan (CaLK)?
 
 - **A.** Memberi penjelasan dan pengungkapan tambahan
-- **B.** Menetapkan pagu (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **B.** Menetapkan pagu
 - **C.** Menerbitkan SP2D
-- **D.** Menggantikan laporan utama (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **D.** Menggantikan laporan utama
 
 > ✅ **Jawaban:** **A. Memberi penjelasan dan pengungkapan tambahan**
 >
@@ -2598,11 +2598,11 @@
 
 ### Soal 19
 
-**Kasus:** Tim penyusun laporan keuangan menemukan perbedaan pandangan mengenai pengakuan, klasifikasi, dan penyajian transaksi. Fakta/isu yang harus diputuskan adalah: **LKPP merupakan**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa yang dimaksud dengan LKPP?
 
-- **A.** Laporan Kemenkeu saja (dengan pertimbangan bahwa kewenangan keputusan berada pada unit tersebut sebelum proses dilanjutkan)
+- **A.** Laporan Kemenkeu saja
 - **B.** Laporan Pemda
-- **C.** Laporan bank (dengan asumsi pihak tersebut memegang fungsi pengujian sekaligus tindak lanjut pada tahap itu)
+- **C.** Laporan bank
 - **D.** Konsolidasi laporan K/L dan BUN
 
 > ✅ **Jawaban:** **D. Konsolidasi laporan K/L dan BUN**
@@ -2613,12 +2613,12 @@
 
 ### Soal 20
 
-**Kasus:** Pada saat rekonsiliasi, angka dapat terlihat wajar tetapi klasifikasi yang salah tetap dapat memengaruhi kualitas laporan keuangan. Fakta/isu yang harus diputuskan adalah: **LKPP secara nasional disusun oleh**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Siapa yang menyusun LKPP secara nasional?
 
-- **A.** BPK (dengan pertimbangan bahwa kewenangan keputusan berada pada unit tersebut sebelum proses dilanjutkan)
+- **A.** BPK
 - **B.** Kementerian Keuangan
 - **C.** DPR
-- **D.** Bappenas (karena pihak tersebut dipandang paling dekat dengan pelaksanaan operasional transaksi)
+- **D.** Bappenas
 
 > ✅ **Jawaban:** **B. Kementerian Keuangan**
 >
@@ -2628,12 +2628,12 @@
 
 ### Soal 21
 
-**Kasus:** Pejabat penanggung jawab laporan meminta analisis sebelum koreksi dilakukan agar perlakuan akuntansi tetap konsisten. Fakta/isu yang harus diputuskan adalah: **LKPP disampaikan Presiden kepada BPK paling lambat**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Kapan batas waktu Presiden menyampaikan LKPP kepada BPK?
 
 - **A.** 3 bulan
-- **B.** 1 bulan (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)
+- **B.** 1 bulan
 - **C.** 6 bulan
-- **D.** 2 bulan (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)
+- **D.** 2 bulan
 
 > ✅ **Jawaban:** **A. 3 bulan**
 >
@@ -2643,12 +2643,12 @@
 
 ### Soal 22
 
-**Kasus:** Tim penyusun laporan keuangan menemukan perbedaan pandangan mengenai pengakuan, klasifikasi, dan penyajian transaksi. Fakta/isu yang harus diputuskan adalah: **Opini WTP pertama atas LKPP diperoleh untuk TA**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Untuk tahun anggaran berapa LKPP pertama kali memperoleh opini WTP?
 
-- **A.** 2015 (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
+- **A.** 2015
 - **B.** 2016
 - **C.** 2018
-- **D.** 2017 (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
+- **D.** 2017
 
 > ✅ **Jawaban:** **B. 2016**
 >
@@ -2658,7 +2658,7 @@
 
 ### Soal 23
 
-**Kasus:** Pada saat rekonsiliasi, angka dapat terlihat wajar tetapi klasifikasi yang salah tetap dapat memengaruhi kualitas laporan keuangan. Fakta/isu yang harus diputuskan adalah: **Piutang yang jatuh tempo lebih dari 12 bulan dikategorikan**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Bagaimana klasifikasi piutang yang jatuh tempo lebih dari 12 bulan?
 
 - **A.** Pendapatan diterima di muka
 - **B.** Kas lainnya
@@ -2673,12 +2673,12 @@
 
 ### Soal 24
 
-**Kasus:** Pejabat penanggung jawab laporan meminta analisis sebelum koreksi dilakukan agar perlakuan akuntansi tetap konsisten. Fakta/isu yang harus diputuskan adalah: **Bagian piutang jangka panjang yang jatuh tempo dalam 12 bulan direklasifikasi menjadi**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Bagian piutang jangka panjang akan jatuh tempo dalam 12 bulan. Ke kelompok apa bagian piutang tersebut direklasifikasi?
 
 - **A.** Bagian Lancar Piutang Jangka Panjang
-- **B.** Pendapatan-LRA (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)
+- **B.** Pendapatan-LRA
 - **C.** Piutang macet
-- **D.** Uang Muka (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)
+- **D.** Uang Muka
 
 > ✅ **Jawaban:** **A. Bagian Lancar Piutang Jangka Panjang**
 >
@@ -2688,12 +2688,12 @@
 
 ### Soal 25
 
-**Kasus:** Tim penyusun laporan keuangan menemukan perbedaan pandangan mengenai pengakuan, klasifikasi, dan penyajian transaksi. Fakta/isu yang harus diputuskan adalah: **Penyisihan piutang kualitas Lancar adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Berapa besaran penyisihan piutang berkualitas Lancar?
 
 - **A.** 50%
 - **B.** 0,5%
-- **C.** 10% (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
-- **D.** 0% (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **C.** 10%
+- **D.** 0%
 
 > ✅ **Jawaban:** **B. 0,5%**
 >
@@ -2703,7 +2703,7 @@
 
 ### Soal 26
 
-**Kasus:** Pada saat rekonsiliasi, angka dapat terlihat wajar tetapi klasifikasi yang salah tetap dapat memengaruhi kualitas laporan keuangan. Fakta/isu yang harus diputuskan adalah: **Penyisihan piutang Kurang Lancar adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Berapa besaran penyisihan piutang berkualitas Kurang Lancar?
 
 - **A.** 0,5%
 - **B.** 10%
@@ -2718,7 +2718,7 @@
 
 ### Soal 27
 
-**Kasus:** Pejabat penanggung jawab laporan meminta analisis sebelum koreksi dilakukan agar perlakuan akuntansi tetap konsisten. Fakta/isu yang harus diputuskan adalah: **Penyisihan piutang Diragukan adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Berapa besaran penyisihan piutang berkualitas Diragukan?
 
 - **A.** 100%
 - **B.** 50%
@@ -2733,12 +2733,12 @@
 
 ### Soal 28
 
-**Kasus:** Tim penyusun laporan keuangan menemukan perbedaan pandangan mengenai pengakuan, klasifikasi, dan penyajian transaksi. Fakta/isu yang harus diputuskan adalah: **Penyisihan piutang Macet adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Berapa besaran penyisihan piutang berkualitas Macet?
 
 - **A.** 50%
-- **B.** 25% (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **B.** 25%
 - **C.** 100%
-- **D.** 10% (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **D.** 10%
 
 > ✅ **Jawaban:** **C. 100%**
 >
@@ -2748,12 +2748,12 @@
 
 ### Soal 29
 
-**Kasus:** Pada saat rekonsiliasi, angka dapat terlihat wajar tetapi klasifikasi yang salah tetap dapat memengaruhi kualitas laporan keuangan. Fakta/isu yang harus diputuskan adalah: **Pada penyediaan UP/TUP awal muncul**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa yang timbul pada saat penyediaan UP/TUP awal?
 
 - **A.** Aset Tetap dan Ekuitas
-- **B.** Belanja dan Utang (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
+- **B.** Belanja dan Utang
 - **C.** Kas di Bendahara Pengeluaran dan Uang Muka dari KPPN
-- **D.** Piutang dan Pendapatan (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
+- **D.** Piutang dan Pendapatan
 
 > ✅ **Jawaban:** **C. Kas di Bendahara Pengeluaran dan Uang Muka dari KPPN**
 >
@@ -2763,11 +2763,11 @@
 
 ### Soal 30
 
-**Kasus:** Pejabat penanggung jawab laporan meminta analisis sebelum koreksi dilakukan agar perlakuan akuntansi tetap konsisten. Fakta/isu yang harus diputuskan adalah: **Rekonsiliasi eksternal SAKTI–SPAN membandingkan**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Data apa yang dibandingkan dalam rekonsiliasi eksternal SAKTI–SPAN?
 
 - **A.** Anggaran, realisasi, kas, hibah
-- **B.** SP2D saja (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
-- **C.** Pegawai dan aset (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
+- **B.** SP2D saja
+- **C.** Pegawai dan aset
 - **D.** DIPA saja
 
 > ✅ **Jawaban:** **A. Anggaran, realisasi, kas, hibah**
@@ -2786,10 +2786,10 @@
 
 ### Soal 1
 
-**Kasus:** Pada proses pembayaran, KPA meminta tim memastikan pemisahan kewenangan tetap terjaga meskipun terdapat tekanan untuk mempercepat penyelesaian. Fakta/isu yang harus diputuskan adalah: **Pada umumnya jabatan KPA melekat secara ex officio pada**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Pada umumnya, jabatan KPA melekat secara ex officio pada jabatan apa?
 
 - **A.** Bendahara Pengeluaran
-- **B.** PPK (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
+- **B.** PPK
 - **C.** Kepala KPPN
 - **D.** Kepala Satuan Kerja
 
@@ -2801,12 +2801,12 @@
 
 ### Soal 2
 
-**Kasus:** Tagihan harus segera diselesaikan, tetapi pejabat perbendaharaan tidak boleh mengabaikan pengujian dan kelengkapan dokumen. Fakta/isu yang harus diputuskan adalah: **Pejabat yang menetapkan PPK dan PPSPM adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Siapa yang menetapkan PPK dan PPSPM?
 
 - **A.** Dirjen Perbendaharaan
 - **B.** Bendahara
 - **C.** KPA
-- **D.** KPPN (dengan asumsi pihak tersebut memegang fungsi pengujian sekaligus tindak lanjut pada tahap itu)
+- **D.** KPPN
 
 > ✅ **Jawaban:** **C. KPA**
 >
@@ -2816,12 +2816,12 @@
 
 ### Soal 3
 
-**Kasus:** Satker menghadapi kondisi operasional yang membutuhkan keputusan cepat tanpa melanggar check and balance. Fakta/isu yang harus diputuskan adalah: **Untuk satu DIPA, KPA dapat menetapkan**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Bagaimana ketentuan jumlah PPK dan PPSPM yang dapat ditetapkan KPA untuk satu DIPA?
 
-- **A.** Tanpa PPSPM (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
+- **A.** Tanpa PPSPM
 - **B.** Satu atau lebih PPK dan satu PPSPM
 - **C.** Satu PPK dan banyak PPSPM
-- **D.** Satu PPK dan satu PPSPM saja (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
+- **D.** Satu PPK dan satu PPSPM saja
 
 > ✅ **Jawaban:** **B. Satu atau lebih PPK dan satu PPSPM**
 >
@@ -2831,7 +2831,7 @@
 
 ### Soal 4
 
-**Kasus:** Pada proses pembayaran, KPA meminta tim memastikan pemisahan kewenangan tetap terjaga meskipun terdapat tekanan untuk mempercepat penyelesaian. Fakta/isu yang harus diputuskan adalah: **Pejabat yang bertanggung jawab atas tindakan yang menimbulkan pengeluaran adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Siapa yang bertanggung jawab atas tindakan yang menimbulkan pengeluaran negara?
 
 - **A.** PPK
 - **B.** KPPN
@@ -2846,7 +2846,7 @@
 
 ### Soal 5
 
-**Kasus:** Tagihan harus segera diselesaikan, tetapi pejabat perbendaharaan tidak boleh mengabaikan pengujian dan kelengkapan dokumen. Fakta/isu yang harus diputuskan adalah: **Pejabat yang membuat dan menandatangani SPP adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Siapa yang membuat dan menandatangani SPP?
 
 - **A.** Kuasa BUN
 - **B.** PPK
@@ -2861,12 +2861,12 @@
 
 ### Soal 6
 
-**Kasus:** Satker menghadapi kondisi operasional yang membutuhkan keputusan cepat tanpa melanggar check and balance. Fakta/isu yang harus diputuskan adalah: **Pejabat yang menerbitkan SPM adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Siapa yang menerbitkan SPM?
 
 - **A.** KPA
 - **B.** Bendahara
 - **C.** PPSPM
-- **D.** PPK (dengan pertimbangan bahwa kewenangan keputusan berada pada unit tersebut sebelum proses dilanjutkan)
+- **D.** PPK
 
 > ✅ **Jawaban:** **C. PPSPM**
 >
@@ -2876,12 +2876,12 @@
 
 ### Soal 7
 
-**Kasus:** Pada proses pembayaran, KPA meminta tim memastikan pemisahan kewenangan tetap terjaga meskipun terdapat tekanan untuk mempercepat penyelesaian. Fakta/isu yang harus diputuskan adalah: **Jika SPP tidak memenuhi persyaratan, PPSPM harus**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa yang harus dilakukan PPSPM jika SPP tidak memenuhi persyaratan?
 
 - **A.** Menolak dan mengembalikan SPP
 - **B.** Mengubah menjadi UP
-- **C.** Mengirim ke bank (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)
-- **D.** Tetap menerbitkan SPM (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)
+- **C.** Mengirim ke bank
+- **D.** Tetap menerbitkan SPM
 
 > ✅ **Jawaban:** **A. Menolak dan mengembalikan SPP**
 >
@@ -2891,12 +2891,12 @@
 
 ### Soal 8
 
-**Kasus:** Tagihan harus segera diselesaikan, tetapi pejabat perbendaharaan tidak boleh mengabaikan pengujian dan kelengkapan dokumen. Fakta/isu yang harus diputuskan adalah: **Tugas Bendahara Pengeluaran antara lain**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Manakah yang termasuk tugas Bendahara Pengeluaran?
 
 - **A.** Menerbitkan SP2D
 - **B.** Menerima dan menyimpan UP serta melakukan pembayaran UP
-- **C.** Menandatangani kontrak (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
-- **D.** Menerbitkan SPM (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
+- **C.** Menandatangani kontrak
+- **D.** Menerbitkan SPM
 
 > ✅ **Jawaban:** **B. Menerima dan menyimpan UP serta melakukan pembayaran UP**
 >
@@ -2906,11 +2906,11 @@
 
 ### Soal 9
 
-**Kasus:** Satker menghadapi kondisi operasional yang membutuhkan keputusan cepat tanpa melanggar check and balance. Fakta/isu yang harus diputuskan adalah: **Jika tagihan UP tidak memenuhi syarat, Bendahara**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa tindakan Bendahara jika tagihan yang akan dibayar melalui UP tidak memenuhi persyaratan?
 
-- **A.** Wajib membayar (serta dilanjutkan dengan koordinasi kepada pihak terkait tanpa mengubah tahapan utama proses)
+- **A.** Wajib membayar
 - **B.** Dapat menolak pembayaran
-- **C.** Harus ubah ke LS (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)
+- **C.** Harus ubah ke LS
 - **D.** Harus minta BPK
 
 > ✅ **Jawaban:** **B. Dapat menolak pembayaran**
@@ -2921,12 +2921,12 @@
 
 ### Soal 10
 
-**Kasus:** Pada proses pembayaran, KPA meminta tim memastikan pemisahan kewenangan tetap terjaga meskipun terdapat tekanan untuk mempercepat penyelesaian. Fakta/isu yang harus diputuskan adalah: **Bendahara tidak boleh dirangkap oleh**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Jabatan apa yang tidak boleh dirangkap oleh Bendahara?
 
 - **A.** KPA saja
 - **B.** KPA, PPK, atau PPSPM
-- **C.** PPK saja (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
-- **D.** PPSPM saja (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
+- **C.** PPK saja
+- **D.** PPSPM saja
 
 > ✅ **Jawaban:** **B. KPA, PPK, atau PPSPM**
 >
@@ -2936,11 +2936,11 @@
 
 ### Soal 11
 
-**Kasus:** Tagihan harus segera diselesaikan, tetapi pejabat perbendaharaan tidak boleh mengabaikan pengujian dan kelengkapan dokumen. Fakta/isu yang harus diputuskan adalah: **PPK dan PPSPM**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Bagaimana ketentuan perangkapan jabatan PPK dan PPSPM?
 
-- **A.** Boleh dirangkap (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
+- **A.** Boleh dirangkap
 - **B.** Tidak boleh dirangkap
-- **C.** Hanya boleh pada BLU (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
+- **C.** Hanya boleh pada BLU
 - **D.** Wajib dirangkap
 
 > ✅ **Jawaban:** **B. Tidak boleh dirangkap**
@@ -2951,11 +2951,11 @@
 
 ### Soal 12
 
-**Kasus:** Satker menghadapi kondisi operasional yang membutuhkan keputusan cepat tanpa melanggar check and balance. Fakta/isu yang harus diputuskan adalah: **Menurut ketentuan dalam modul, KPA dapat merangkap**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Menurut materi sumber, jabatan apa yang dapat dirangkap oleh KPA?
 
-- **A.** Bendahara (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
+- **A.** Bendahara
 - **B.** PPK atau PPSPM, tetapi tidak keduanya
-- **C.** Sekaligus PPK dan PPSPM (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
+- **C.** Sekaligus PPK dan PPSPM
 - **D.** Tidak boleh apa pun
 
 > ✅ **Jawaban:** **B. PPK atau PPSPM, tetapi tidak keduanya**
@@ -2966,10 +2966,10 @@
 
 ### Soal 13
 
-**Kasus:** Pada proses pembayaran, KPA meminta tim memastikan pemisahan kewenangan tetap terjaga meskipun terdapat tekanan untuk mempercepat penyelesaian. Fakta/isu yang harus diputuskan adalah: **Pasangan sertifikasi yang tepat adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Manakah pasangan jabatan dan sertifikasi perbendaharaan yang tepat?
 
-- **A.** Semua BNT (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
-- **B.** PPK-BNT, PPSPM-PNT, Bendahara-SNT (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **A.** Semua BNT
+- **B.** PPK-BNT, PPSPM-PNT, Bendahara-SNT
 - **C.** PPK-PNT, PPSPM-SNT, Bendahara-BNT
 - **D.** PPK-SNT, PPSPM-BNT, Bendahara-PNT
 
@@ -2981,12 +2981,12 @@
 
 ### Soal 14
 
-**Kasus:** Tagihan harus segera diselesaikan, tetapi pejabat perbendaharaan tidak boleh mengabaikan pengujian dan kelengkapan dokumen. Fakta/isu yang harus diputuskan adalah: **Wetmatigheid menguji**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Aspek apa yang diuji melalui wetmatigheid?
 
-- **A.** Hak penerima (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
+- **A.** Hak penerima
 - **B.** Kesesuaian dengan peraturan
 - **C.** Tujuan belanja
-- **D.** Ketersediaan kas (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
+- **D.** Ketersediaan kas
 
 > ✅ **Jawaban:** **B. Kesesuaian dengan peraturan**
 >
@@ -2996,11 +2996,11 @@
 
 ### Soal 15
 
-**Kasus:** Satker menghadapi kondisi operasional yang membutuhkan keputusan cepat tanpa melanggar check and balance. Fakta/isu yang harus diputuskan adalah: **Rechtmatigheid menguji**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Aspek apa yang diuji melalui rechtmatigheid?
 
-- **A.** RPD (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
+- **A.** RPD
 - **B.** Pagu
-- **C.** Tujuan (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
+- **C.** Tujuan
 - **D.** Kebenaran hak penerima dan nilai tagihan
 
 > ✅ **Jawaban:** **D. Kebenaran hak penerima dan nilai tagihan**
@@ -3011,12 +3011,12 @@
 
 ### Soal 16
 
-**Kasus:** Pada proses pembayaran, KPA meminta tim memastikan pemisahan kewenangan tetap terjaga meskipun terdapat tekanan untuk mempercepat penyelesaian. Fakta/isu yang harus diputuskan adalah: **Doelmatigheid menguji**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Aspek apa yang diuji melalui doelmatigheid?
 
 - **A.** Nomor kontrak
-- **B.** Masa DIPA (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
+- **B.** Masa DIPA
 - **C.** Tujuan/manfaat pengeluaran
-- **D.** Nomor rekening (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
+- **D.** Nomor rekening
 
 > ✅ **Jawaban:** **C. Tujuan/manfaat pengeluaran**
 >
@@ -3026,12 +3026,12 @@
 
 ### Soal 17
 
-**Kasus:** Tagihan harus segera diselesaikan, tetapi pejabat perbendaharaan tidak boleh mengabaikan pengujian dan kelengkapan dokumen. Fakta/isu yang harus diputuskan adalah: **Pejabat yang menjadi benteng terakhir pengeluaran di tingkat K/L adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Pejabat manakah yang menjadi penguji terakhir pengeluaran di tingkat K/L?
 
 - **A.** KPPN
 - **B.** PPSPM
 - **C.** Bendahara
-- **D.** PPK (dengan asumsi pihak tersebut memegang fungsi pengujian sekaligus tindak lanjut pada tahap itu)
+- **D.** PPK
 
 > ✅ **Jawaban:** **B. PPSPM**
 >
@@ -3041,12 +3041,12 @@
 
 ### Soal 18
 
-**Kasus:** Satker menghadapi kondisi operasional yang membutuhkan keputusan cepat tanpa melanggar check and balance. Fakta/isu yang harus diputuskan adalah: **Supplier dalam SPAN berarti**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa yang dimaksud dengan supplier dalam SPAN?
 
 - **A.** Bendahara saja
 - **B.** Seluruh pihak yang berhak menerima pembayaran APBN
-- **C.** Pegawai saja (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
-- **D.** Hanya perusahaan (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **C.** Pegawai saja
+- **D.** Hanya perusahaan
 
 > ✅ **Jawaban:** **B. Seluruh pihak yang berhak menerima pembayaran APBN**
 >
@@ -3056,7 +3056,7 @@
 
 ### Soal 19
 
-**Kasus:** Pada proses pembayaran, KPA meminta tim memastikan pemisahan kewenangan tetap terjaga meskipun terdapat tekanan untuk mempercepat penyelesaian. Fakta/isu yang harus diputuskan adalah: **Supplier tipe 1 adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Siapa yang termasuk supplier tipe 1?
 
 - **A.** Pegawai
 - **B.** Transfer daerah
@@ -3071,12 +3071,12 @@
 
 ### Soal 20
 
-**Kasus:** Tagihan harus segera diselesaikan, tetapi pejabat perbendaharaan tidak boleh mengabaikan pengujian dan kelengkapan dokumen. Fakta/isu yang harus diputuskan adalah: **Supplier tipe 2 adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Siapa yang termasuk supplier tipe 2?
 
 - **A.** BA BUN
 - **B.** Penyedia Barang/Jasa
-- **C.** Satker (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
-- **D.** Pegawai (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **C.** Satker
+- **D.** Pegawai
 
 > ✅ **Jawaban:** **B. Penyedia Barang/Jasa**
 >
@@ -3086,12 +3086,12 @@
 
 ### Soal 21
 
-**Kasus:** Satker menghadapi kondisi operasional yang membutuhkan keputusan cepat tanpa melanggar check and balance. Fakta/isu yang harus diputuskan adalah: **Supplier tipe 3 adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Siapa yang termasuk supplier tipe 3?
 
 - **A.** Pegawai
-- **B.** Pemda (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **B.** Pemda
 - **C.** BUMN
-- **D.** BUN (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **D.** BUN
 
 > ✅ **Jawaban:** **A. Pegawai**
 >
@@ -3101,11 +3101,11 @@
 
 ### Soal 22
 
-**Kasus:** Pada proses pembayaran, KPA meminta tim memastikan pemisahan kewenangan tetap terjaga meskipun terdapat tekanan untuk mempercepat penyelesaian. Fakta/isu yang harus diputuskan adalah: **Data kontrak didaftarkan ke KPPN paling lambat**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Berapa batas waktu pendaftaran data kontrak ke KPPN?
 
 - **A.** 3 HK
-- **B.** 10 HK (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)
-- **C.** 2 HK (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)
+- **B.** 10 HK
+- **C.** 2 HK
 - **D.** 5 HK setelah kontrak ditandatangani
 
 > ✅ **Jawaban:** **D. 5 HK setelah kontrak ditandatangani**
@@ -3116,11 +3116,11 @@
 
 ### Soal 23
 
-**Kasus:** Tagihan harus segera diselesaikan, tetapi pejabat perbendaharaan tidak boleh mengabaikan pengujian dan kelengkapan dokumen. Fakta/isu yang harus diputuskan adalah: **Jika pendaftaran kontrak terlambat, Satker melampirkan**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Dokumen apa yang harus dilampirkan Satker jika pendaftaran kontrak terlambat?
 
-- **A.** Persetujuan Menteri (serta dilanjutkan dengan koordinasi kepada pihak terkait tanpa mengubah tahapan utama proses)
+- **A.** Persetujuan Menteri
 - **B.** Laporan audit
-- **C.** Surat bank (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)
+- **C.** Surat bank
 - **D.** Surat pernyataan KPA tentang alasan keterlambatan
 
 > ✅ **Jawaban:** **D. Surat pernyataan KPA tentang alasan keterlambatan**
@@ -3131,10 +3131,10 @@
 
 ### Soal 24
 
-**Kasus:** Satker menghadapi kondisi operasional yang membutuhkan keputusan cepat tanpa melanggar check and balance. Fakta/isu yang harus diputuskan adalah: **Penyedia mengajukan tagihan paling lambat**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Berapa batas waktu bagi penyedia untuk mengajukan tagihan?
 
-- **A.** Akhir bulan (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)
-- **B.** 10 HK setelah SP2D (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)
+- **A.** Akhir bulan
+- **B.** 10 HK setelah SP2D
 - **C.** 3 hari kalender
 - **D.** 5 HK sejak hak tagih muncul
 
@@ -3146,12 +3146,12 @@
 
 ### Soal 25
 
-**Kasus:** Pada proses pembayaran, KPA meminta tim memastikan pemisahan kewenangan tetap terjaga meskipun terdapat tekanan untuk mempercepat penyelesaian. Fakta/isu yang harus diputuskan adalah: **Jika BAST yang dipersyaratkan belum tersedia, PPSPM**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa tindakan PPSPM jika BAST yang dipersyaratkan belum tersedia?
 
-- **A.** Tetap menerbitkan SPM (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)
+- **A.** Tetap menerbitkan SPM
 - **B.** Mengembalikan SPP sampai dokumen lengkap
 - **C.** Kirim ke bank
-- **D.** Bayar UP (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)
+- **D.** Bayar UP
 
 > ✅ **Jawaban:** **B. Mengembalikan SPP sampai dokumen lengkap**
 >
@@ -3161,7 +3161,7 @@
 
 ### Soal 26
 
-**Kasus:** Tagihan harus segera diselesaikan, tetapi pejabat perbendaharaan tidak boleh mengabaikan pengujian dan kelengkapan dokumen. Fakta/isu yang harus diputuskan adalah: **BAST terutama dikelola pada Modul SAKTI**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Pada modul SAKTI mana BAST terutama dikelola?
 
 - **A.** Bendahara
 - **B.** Piutang
@@ -3176,7 +3176,7 @@
 
 ### Soal 27
 
-**Kasus:** Satker menghadapi kondisi operasional yang membutuhkan keputusan cepat tanpa melanggar check and balance. Fakta/isu yang harus diputuskan adalah: **Dua mekanisme utama pembayaran APBN adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa dua mekanisme utama pembayaran APBN?
 
 - **A.** SPP dan SPM
 - **B.** DIPA dan RKA
@@ -3191,12 +3191,12 @@
 
 ### Soal 28
 
-**Kasus:** Pada proses pembayaran, KPA meminta tim memastikan pemisahan kewenangan tetap terjaga meskipun terdapat tekanan untuk mempercepat penyelesaian. Fakta/isu yang harus diputuskan adalah: **UP adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa yang dimaksud dengan Uang Persediaan (UP)?
 
-- **A.** Dana investasi (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **A.** Dana investasi
 - **B.** Dana hibah
 - **C.** Uang muka kerja kepada Bendahara untuk kebutuhan operasional
-- **D.** SAL (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **D.** SAL
 
 > ✅ **Jawaban:** **C. Uang muka kerja kepada Bendahara untuk kebutuhan operasional**
 >
@@ -3206,11 +3206,11 @@
 
 ### Soal 29
 
-**Kasus:** Tagihan harus segera diselesaikan, tetapi pejabat perbendaharaan tidak boleh mengabaikan pengujian dan kelengkapan dokumen. Fakta/isu yang harus diputuskan adalah: **Besaran UP sesuai kebutuhan satu bulan paling banyak**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Berapa batas maksimal UP yang ditetapkan berdasarkan kebutuhan satu bulan?
 
-- **A.** Seluruh pagu (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)
+- **A.** Seluruh pagu
 - **B.** 1/6 pagu
-- **C.** 1/4 pagu (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)
+- **C.** 1/4 pagu
 - **D.** 1/12 pagu jenis belanja yang dapat dibayar UP
 
 > ✅ **Jawaban:** **D. 1/12 pagu jenis belanja yang dapat dibayar UP**
@@ -3221,12 +3221,12 @@
 
 ### Soal 30
 
-**Kasus:** Satker menghadapi kondisi operasional yang membutuhkan keputusan cepat tanpa melanggar check and balance. Fakta/isu yang harus diputuskan adalah: **Revolving UP dapat diajukan setelah UP digunakan paling sedikit**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Berapa persentase minimum penggunaan UP untuk mengajukan revolving UP?
 
 - **A.** 75%
-- **B.** 25% (dengan tetap mempertahankan bukti transaksi dan melakukan monitoring atas penyelesaiannya)
+- **B.** 25%
 - **C.** 50%
-- **D.** 40% (serta dilanjutkan dengan koordinasi kepada pihak terkait tanpa mengubah tahapan utama proses)
+- **D.** 40%
 
 > ✅ **Jawaban:** **C. 50%**
 >
@@ -3244,12 +3244,12 @@
 
 ### Soal 1
 
-**Kasus:** Tim operasional TIK dan pengguna aplikasi menilai suatu proses yang melibatkan integrasi, kontrol akses, serta kesinambungan layanan. Fakta/isu yang harus diputuskan adalah: **IFMIS adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa yang dimaksud dengan IFMIS?
 
 - **A.** Sistem terintegrasi pengelolaan keuangan negara end-to-end
 - **B.** Sistem pengadaan
-- **C.** Sistem rekening (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
-- **D.** Sistem gaji saja (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **C.** Sistem rekening
+- **D.** Sistem gaji saja
 
 > ✅ **Jawaban:** **A. Sistem terintegrasi pengelolaan keuangan negara end-to-end**
 >
@@ -3259,7 +3259,7 @@
 
 ### Soal 2
 
-**Kasus:** Percepatan digitalisasi memberi efisiensi, tetapi keputusan sistem tetap harus menjaga integritas data dan pembagian kewenangan. Fakta/isu yang harus diputuskan adalah: **Tiga sistem utama dalam kerangka IFMIS DJPb adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa tiga sistem utama dalam kerangka IFMIS DJPb?
 
 - **A.** SIKP, SEHATI, Siskeudes
 - **B.** RTGS, SKN, SWIFT
@@ -3274,11 +3274,11 @@
 
 ### Soal 3
 
-**Kasus:** Dalam evaluasi IFMIS, tim harus membedakan fungsi masing-masing aplikasi dan kontrol yang melekat pada prosesnya. Fakta/isu yang harus diputuskan adalah: **Yang bukan tujuan modernisasi IFMIS adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Manakah yang bukan merupakan tujuan modernisasi IFMIS?
 
 - **A.** Memperbanyak input ulang
-- **B.** Efisiensi (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
-- **C.** Akuntabilitas (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **B.** Efisiensi
+- **C.** Akuntabilitas
 - **D.** Transparansi
 
 > ✅ **Jawaban:** **A. Memperbanyak input ulang**
@@ -3289,12 +3289,12 @@
 
 ### Soal 4
 
-**Kasus:** Tim operasional TIK dan pengguna aplikasi menilai suatu proses yang melibatkan integrasi, kontrol akses, serta kesinambungan layanan. Fakta/isu yang harus diputuskan adalah: **Manfaat utama integrasi data antarsistem adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa manfaat utama integrasi data antarsistem?
 
-- **A.** Menambah redundansi (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **A.** Menambah redundansi
 - **B.** Menghilangkan kontrol
 - **C.** Mengurangi inkonsistensi dan mempercepat informasi
-- **D.** Menambah proses manual (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **D.** Menambah proses manual
 
 > ✅ **Jawaban:** **C. Mengurangi inkonsistensi dan mempercepat informasi**
 >
@@ -3304,12 +3304,12 @@
 
 ### Soal 5
 
-**Kasus:** Percepatan digitalisasi memberi efisiensi, tetapi keputusan sistem tetap harus menjaga integritas data dan pembagian kewenangan. Fakta/isu yang harus diputuskan adalah: **IFMIS bukan hanya otomasi karena juga mendukung**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Selain otomasi, hal apa yang didukung oleh IFMIS?
 
-- **A.** Penggunaan akun bersama (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
+- **A.** Penggunaan akun bersama
 - **B.** Budaya kerja berbasis data dan kontrol internal
 - **C.** Penghapusan audit trail
-- **D.** Pengurangan transparansi (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
+- **D.** Pengurangan transparansi
 
 > ✅ **Jawaban:** **B. Budaya kerja berbasis data dan kontrol internal**
 >
@@ -3319,12 +3319,12 @@
 
 ### Soal 6
 
-**Kasus:** Dalam evaluasi IFMIS, tim harus membedakan fungsi masing-masing aplikasi dan kontrol yang melekat pada prosesnya. Fakta/isu yang harus diputuskan adalah: **SPAN terutama digunakan sebagai**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa fungsi utama SPAN?
 
 - **A.** Sistem perbendaharaan dan anggaran negara di Kemenkeu
-- **B.** Sistem sisi PA di Satker (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
+- **B.** Sistem sisi PA di Satker
 - **C.** Sistem kepegawaian
-- **D.** Sistem APBD (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
+- **D.** Sistem APBD
 
 > ✅ **Jawaban:** **A. Sistem perbendaharaan dan anggaran negara di Kemenkeu**
 >
@@ -3334,11 +3334,11 @@
 
 ### Soal 7
 
-**Kasus:** Tim operasional TIK dan pengguna aplikasi menilai suatu proses yang melibatkan integrasi, kontrol akses, serta kesinambungan layanan. Fakta/isu yang harus diputuskan adalah: **Karakteristik utama SPAN adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa karakteristik utama SPAN?
 
 - **A.** Hanya pelaporan
-- **B.** Offline (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
-- **C.** Stand-alone tiap KPPN (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **B.** Offline
+- **C.** Stand-alone tiap KPPN
 - **D.** Elektronik, terintegrasi, real-time
 
 > ✅ **Jawaban:** **D. Elektronik, terintegrasi, real-time**
@@ -3349,11 +3349,11 @@
 
 ### Soal 8
 
-**Kasus:** Percepatan digitalisasi memberi efisiensi, tetapi keputusan sistem tetap harus menjaga integritas data dan pembagian kewenangan. Fakta/isu yang harus diputuskan adalah: **Enam modul utama SPAN adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa enam modul utama SPAN?
 
 - **A.** Penganggaran, Komitmen, Pembayaran, Kas, Penerimaan, Akuntansi/Pelaporan
-- **B.** Penganggaran, Persediaan, Piutang, Aset, Bendahara, Pelaporan (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
-- **C.** SPM, SP2D, DIPA, BAS, RKUN, LKPP (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **B.** Penganggaran, Persediaan, Piutang, Aset, Bendahara, Pelaporan
+- **C.** SPM, SP2D, DIPA, BAS, RKUN, LKPP
 - **D.** SDM, Gaji, Kas, Audit, Kontrak, Pajak
 
 > ✅ **Jawaban:** **A. Penganggaran, Komitmen, Pembayaran, Kas, Penerimaan, Akuntansi/Pelaporan**
@@ -3364,11 +3364,11 @@
 
 ### Soal 9
 
-**Kasus:** Dalam evaluasi IFMIS, tim harus membedakan fungsi masing-masing aplikasi dan kontrol yang melekat pada prosesnya. Fakta/isu yang harus diputuskan adalah: **Modul Penganggaran SPAN terutama digunakan untuk**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa kegunaan utama Modul Penganggaran SPAN?
 
-- **A.** Menyusun RAPBN dari awal (serta dilanjutkan dengan koordinasi kepada pihak terkait tanpa mengubah tahapan utama proses)
+- **A.** Menyusun RAPBN dari awal
 - **B.** Menyusun Renja Satker
-- **C.** Menghitung gaji (kemudian hasilnya didokumentasikan dan digunakan sebagai dasar proses pada tahap berikutnya)
+- **C.** Menghitung gaji
 - **D.** Validasi/posting DIPA dan Budget Control
 
 > ✅ **Jawaban:** **D. Validasi/posting DIPA dan Budget Control**
@@ -3379,12 +3379,12 @@
 
 ### Soal 10
 
-**Kasus:** Tim operasional TIK dan pengguna aplikasi menilai suatu proses yang melibatkan integrasi, kontrol akses, serta kesinambungan layanan. Fakta/isu yang harus diputuskan adalah: **DIPA yang telah terposting berarti**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa makna status DIPA yang telah terposting?
 
 - **A.** Data dapat digunakan untuk transaksi modul lain
-- **B.** DIPA tidak bisa direvisi (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)
+- **B.** DIPA tidak bisa direvisi
 - **C.** SP2D otomatis terbit
-- **D.** Anggaran dihapus (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)
+- **D.** Anggaran dihapus
 
 > ✅ **Jawaban:** **A. Data dapat digunakan untuk transaksi modul lain**
 >
@@ -3394,10 +3394,10 @@
 
 ### Soal 11
 
-**Kasus:** Percepatan digitalisasi memberi efisiensi, tetapi keputusan sistem tetap harus menjaga integritas data dan pembagian kewenangan. Fakta/isu yang harus diputuskan adalah: **Alur SAKTI–SPAN yang tepat adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Bagaimana alur data SAKTI–SPAN yang tepat?
 
-- **A.** SPAN membuat SPM (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
-- **B.** MPN menerbitkan SPM (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **A.** SPAN membuat SPM
+- **B.** MPN menerbitkan SPM
 - **C.** Satker membuat SPM di SAKTI lalu KPPN memproses dalam SPAN
 - **D.** Bank membuat SPM
 
@@ -3409,7 +3409,7 @@
 
 ### Soal 12
 
-**Kasus:** Dalam evaluasi IFMIS, tim harus membedakan fungsi masing-masing aplikasi dan kontrol yang melekat pada prosesnya. Fakta/isu yang harus diputuskan adalah: **SPAN mendukung implementasi**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Implementasi kebijakan apa yang didukung SPAN?
 
 - **A.** APBD
 - **B.** E-katalog
@@ -3424,12 +3424,12 @@
 
 ### Soal 13
 
-**Kasus:** Tim operasional TIK dan pengguna aplikasi menilai suatu proses yang melibatkan integrasi, kontrol akses, serta kesinambungan layanan. Fakta/isu yang harus diputuskan adalah: **Dalam interkoneksi pembayaran, SPAN**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa peran SPAN dalam interkoneksi pembayaran?
 
-- **A.** Tidak terhubung bank (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
+- **A.** Tidak terhubung bank
 - **B.** Mengirim data SP2D elektronik ke Bank Operasional
 - **C.** Mengirim DIPA ke pegawai
-- **D.** Hanya menerima data tahunan (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
+- **D.** Hanya menerima data tahunan
 
 > ✅ **Jawaban:** **B. Mengirim data SP2D elektronik ke Bank Operasional**
 >
@@ -3439,11 +3439,11 @@
 
 ### Soal 14
 
-**Kasus:** Percepatan digitalisasi memberi efisiensi, tetapi keputusan sistem tetap harus menjaga integritas data dan pembagian kewenangan. Fakta/isu yang harus diputuskan adalah: **Arah SPAN Next Generation adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa arah pengembangan SPAN Next Generation?
 
-- **A.** Menghapus SAKTI (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **A.** Menghapus SAKTI
 - **B.** Menghilangkan otomasi
-- **C.** Kembali ke ADK manual (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **C.** Kembali ke ADK manual
 - **D.** Interkoneksi langsung berbasis SOA
 
 > ✅ **Jawaban:** **D. Interkoneksi langsung berbasis SOA**
@@ -3454,9 +3454,9 @@
 
 ### Soal 15
 
-**Kasus:** Dalam evaluasi IFMIS, tim harus membedakan fungsi masing-masing aplikasi dan kontrol yang melekat pada prosesnya. Fakta/isu yang harus diputuskan adalah: **Dengan otomasi SPAN Next Generation, peran KPPN diarahkan lebih**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Dengan otomasi SPAN Next Generation, ke arah mana peran KPPN dikembangkan?
 
-- **A.** Manual (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
+- **A.** Manual
 - **B.** Konsultatif
 - **C.** Tidak berubah
 - **D.** Administratif kertas
@@ -3469,12 +3469,12 @@
 
 ### Soal 16
 
-**Kasus:** Tim operasional TIK dan pengguna aplikasi menilai suatu proses yang melibatkan integrasi, kontrol akses, serta kesinambungan layanan. Fakta/isu yang harus diputuskan adalah: **SAKTI terutama digunakan di sisi**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Pada lingkup mana SAKTI terutama digunakan?
 
 - **A.** Pengguna Anggaran/KL
 - **B.** Pemda
-- **C.** Bank Indonesia (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
-- **D.** BPK (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
+- **C.** Bank Indonesia
+- **D.** BPK
 
 > ✅ **Jawaban:** **A. Pengguna Anggaran/KL**
 >
@@ -3484,12 +3484,12 @@
 
 ### Soal 17
 
-**Kasus:** Percepatan digitalisasi memberi efisiensi, tetapi keputusan sistem tetap harus menjaga integritas data dan pembagian kewenangan. Fakta/isu yang harus diputuskan adalah: **SAKTI dapat dipandang sebagai**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Bagaimana kedudukan SAKTI dalam pengelolaan keuangan Satker?
 
 - **A.** Sistem kliring
 - **B.** ERP sektor publik
 - **C.** Data warehouse saja
-- **D.** CRM (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
+- **D.** CRM
 
 > ✅ **Jawaban:** **B. ERP sektor publik**
 >
@@ -3499,12 +3499,12 @@
 
 ### Soal 18
 
-**Kasus:** Dalam evaluasi IFMIS, tim harus membedakan fungsi masing-masing aplikasi dan kontrol yang melekat pada prosesnya. Fakta/isu yang harus diputuskan adalah: **Konsep single pada SAKTI adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa saja konsep single yang diterapkan SAKTI?
 
 - **A.** Single SPM, SP2D, supplier
-- **B.** Single user, Satker, output (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **B.** Single user, Satker, output
 - **C.** Single database, single user interface, single sign-on
-- **D.** Single bank, DIPA, KPPN (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **D.** Single bank, DIPA, KPPN
 
 > ✅ **Jawaban:** **C. Single database, single user interface, single sign-on**
 >
@@ -3514,11 +3514,11 @@
 
 ### Soal 19
 
-**Kasus:** Tim operasional TIK dan pengguna aplikasi menilai suatu proses yang melibatkan integrasi, kontrol akses, serta kesinambungan layanan. Fakta/isu yang harus diputuskan adalah: **Jumlah modul utama SAKTI adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Berapa jumlah modul utama SAKTI?
 
-- **A.** 6 (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **A.** 6
 - **B.** 8
-- **C.** 15 (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **C.** 15
 - **D.** 11
 
 > ✅ **Jawaban:** **D. 11**
@@ -3529,10 +3529,10 @@
 
 ### Soal 20
 
-**Kasus:** Percepatan digitalisasi memberi efisiensi, tetapi keputusan sistem tetap harus menjaga integritas data dan pembagian kewenangan. Fakta/isu yang harus diputuskan adalah: **Modul Komitmen SAKTI mengelola**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Data apa yang dikelola Modul Komitmen SAKTI?
 
-- **A.** Rekening BI (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
-- **B.** APBD (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
+- **A.** Rekening BI
+- **B.** APBD
 - **C.** Gaji saja
 - **D.** Supplier, kontrak, BAST, capaian output
 
@@ -3544,7 +3544,7 @@
 
 ### Soal 21
 
-**Kasus:** Dalam evaluasi IFMIS, tim harus membedakan fungsi masing-masing aplikasi dan kontrol yang melekat pada prosesnya. Fakta/isu yang harus diputuskan adalah: **Modul Pembayaran SAKTI memproses**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Dokumen apa yang diproses Modul Pembayaran SAKTI?
 
 - **A.** Kontrak saja
 - **B.** SPP dan SPM
@@ -3559,12 +3559,12 @@
 
 ### Soal 22
 
-**Kasus:** Tim operasional TIK dan pengguna aplikasi menilai suatu proses yang melibatkan integrasi, kontrol akses, serta kesinambungan layanan. Fakta/isu yang harus diputuskan adalah: **Tiga level user Modul Pembayaran adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa tiga level pengguna Modul Pembayaran?
 
 - **A.** Operator, Validator, Approver
-- **B.** Admin, Auditor, Menteri (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **B.** Admin, Auditor, Menteri
 - **C.** Pembuat, Bendahara, BUN
-- **D.** PPK, KPPN, Bank (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **D.** PPK, KPPN, Bank
 
 > ✅ **Jawaban:** **A. Operator, Validator, Approver**
 >
@@ -3574,12 +3574,12 @@
 
 ### Soal 23
 
-**Kasus:** Percepatan digitalisasi memberi efisiensi, tetapi keputusan sistem tetap harus menjaga integritas data dan pembagian kewenangan. Fakta/isu yang harus diputuskan adalah: **Maker-checker-approver mendukung**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Prinsip pengendalian apa yang didukung oleh maker-checker-approver?
 
-- **A.** Akun bersama (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
+- **A.** Akun bersama
 - **B.** Check and balance elektronik
 - **C.** Konsentrasi kewenangan
-- **D.** Penghapusan jejak audit (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
+- **D.** Penghapusan jejak audit
 
 > ✅ **Jawaban:** **B. Check and balance elektronik**
 >
@@ -3589,10 +3589,10 @@
 
 ### Soal 24
 
-**Kasus:** Dalam evaluasi IFMIS, tim harus membedakan fungsi masing-masing aplikasi dan kontrol yang melekat pada prosesnya. Fakta/isu yang harus diputuskan adalah: **Output utama Modul Bendahara antara lain**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa keluaran utama Modul Bendahara?
 
-- **A.** SP2D (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
-- **B.** DIPA (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
+- **A.** SP2D
+- **B.** DIPA
 - **C.** LKPP
 - **D.** LPJ Bendahara
 
@@ -3604,7 +3604,7 @@
 
 ### Soal 25
 
-**Kasus:** Tim operasional TIK dan pengguna aplikasi menilai suatu proses yang melibatkan integrasi, kontrol akses, serta kesinambungan layanan. Fakta/isu yang harus diputuskan adalah: **Metode penyusutan Modul Aset Tetap adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Metode penyusutan apa yang digunakan Modul Aset Tetap?
 
 - **A.** Garis lurus
 - **B.** Tanpa penyusutan
@@ -3619,7 +3619,7 @@
 
 ### Soal 26
 
-**Kasus:** Percepatan digitalisasi memberi efisiensi, tetapi keputusan sistem tetap harus menjaga integritas data dan pembagian kewenangan. Fakta/isu yang harus diputuskan adalah: **SAKTI berfungsi sebagai feeder bagi**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+SAKTI menjadi feeder bagi sistem apa?
 
 - **A.** BI-RTGS
 - **B.** APBD
@@ -3634,10 +3634,10 @@
 
 ### Soal 27
 
-**Kasus:** Dalam evaluasi IFMIS, tim harus membedakan fungsi masing-masing aplikasi dan kontrol yang melekat pada prosesnya. Fakta/isu yang harus diputuskan adalah: **Fungsi utama MPN adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa fungsi utama MPN?
 
 - **A.** Penerimaan negara
-- **B.** BMN (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **B.** BMN
 - **C.** Pengeluaran negara
 - **D.** Transfer aset
 
@@ -3649,12 +3649,12 @@
 
 ### Soal 28
 
-**Kasus:** Tim operasional TIK dan pengguna aplikasi menilai suatu proses yang melibatkan integrasi, kontrol akses, serta kesinambungan layanan. Fakta/isu yang harus diputuskan adalah: **Kapasitas MPN G3 mencapai**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Berapa kapasitas MPN G3?
 
-- **A.** 60 transaksi/detik (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)
+- **A.** 60 transaksi/detik
 - **B.** 1.000 transaksi/detik
 - **C.** 500 transaksi/detik
-- **D.** 100 transaksi/detik (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)
+- **D.** 100 transaksi/detik
 
 > ✅ **Jawaban:** **B. 1.000 transaksi/detik**
 >
@@ -3664,12 +3664,12 @@
 
 ### Soal 29
 
-**Kasus:** Percepatan digitalisasi memberi efisiensi, tetapi keputusan sistem tetap harus menjaga integritas data dan pembagian kewenangan. Fakta/isu yang harus diputuskan adalah: **NOW pada MPN G3 berarti**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa arti NOW pada MPN G3?
 
-- **A.** New Online Web (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **A.** New Online Web
 - **B.** New Payment Channels, One Stop Services, With Enhanced Capacity
 - **C.** National One Window
-- **D.** New Operational Workflow (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **D.** New Operational Workflow
 
 > ✅ **Jawaban:** **B. New Payment Channels, One Stop Services, With Enhanced Capacity**
 >
@@ -3679,12 +3679,12 @@
 
 ### Soal 30
 
-**Kasus:** Dalam evaluasi IFMIS, tim harus membedakan fungsi masing-masing aplikasi dan kontrol yang melekat pada prosesnya. Fakta/isu yang harus diputuskan adalah: **Tiga prinsip keamanan informasi utama adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa tiga prinsip utama keamanan informasi?
 
 - **A.** Kecepatan, Biaya, Laba
 - **B.** Kerahasiaan, Integritas, Ketersediaan
-- **C.** Hardware, Software, Network (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
-- **D.** Input, Proses, Output (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **C.** Hardware, Software, Network
+- **D.** Input, Proses, Output
 
 > ✅ **Jawaban:** **B. Kerahasiaan, Integritas, Ketersediaan**
 >
@@ -3702,11 +3702,11 @@
 
 ### Soal 1
 
-**Kasus:** Pimpinan meminta analisis atas pembagian kewenangan karena beberapa pihak memiliki peran yang berdekatan tetapi tidak identik. Fakta/isu yang harus diputuskan adalah: **Pemegang kekuasaan pengelolaan keuangan negara adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Siapa pemegang kekuasaan pengelolaan keuangan negara?
 
 - **A.** Menteri Keuangan
 - **B.** Presiden
-- **C.** DPR (dengan asumsi pihak tersebut memegang fungsi pengujian sekaligus tindak lanjut pada tahap itu)
+- **C.** DPR
 - **D.** BPK
 
 > ✅ **Jawaban:** **B. Presiden**
@@ -3717,10 +3717,10 @@
 
 ### Soal 2
 
-**Kasus:** Dalam evaluasi tata kelola keuangan negara, tim harus membedakan otorisasi, ordonansi, kebendaharaan, dan pertanggungjawaban. Fakta/isu yang harus diputuskan adalah: **Sebagian kekuasaan Presiden dikuasakan kepada Menteri Keuangan sebagai**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Dalam kedudukan apa Menteri Keuangan menerima kuasa pengelolaan keuangan negara dari Presiden?
 
-- **A.** Kepala daerah (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
-- **B.** Pengguna Anggaran seluruh K/L (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
+- **A.** Kepala daerah
+- **B.** Pengguna Anggaran seluruh K/L
 - **C.** Pengelola fiskal dan wakil pemerintah dalam kepemilikan kekayaan negara yang dipisahkan
 - **D.** Auditor eksternal
 
@@ -3732,11 +3732,11 @@
 
 ### Soal 3
 
-**Kasus:** Kasus pengelolaan keuangan negara menuntut keputusan yang sah, tepat pihak, dan dapat dipertanggungjawabkan. Fakta/isu yang harus diputuskan adalah: **Sebagian kekuasaan Presiden dikuasakan kepada Menteri/Pimpinan Lembaga sebagai**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Dalam kedudukan apa Menteri atau Pimpinan Lembaga menerima kuasa pengelolaan keuangan negara dari Presiden?
 
-- **A.** Bendahara Umum Negara (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
+- **A.** Bendahara Umum Negara
 - **B.** Pengguna Anggaran/Pengguna Barang
-- **C.** Auditor (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
+- **C.** Auditor
 - **D.** Pengelola moneter
 
 > ✅ **Jawaban:** **B. Pengguna Anggaran/Pengguna Barang**
@@ -3747,12 +3747,12 @@
 
 ### Soal 4
 
-**Kasus:** Pimpinan meminta analisis atas pembagian kewenangan karena beberapa pihak memiliki peran yang berdekatan tetapi tidak identik. Fakta/isu yang harus diputuskan adalah: **Pengelolaan keuangan daerah diserahkan kepada**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Kepada siapa pengelolaan keuangan daerah diserahkan?
 
-- **A.** Menteri Keuangan (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
+- **A.** Menteri Keuangan
 - **B.** Kepala KPPN
 - **C.** Gubernur/Bupati/Walikota
-- **D.** BPK (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
+- **D.** BPK
 
 > ✅ **Jawaban:** **C. Gubernur/Bupati/Walikota**
 >
@@ -3762,11 +3762,11 @@
 
 ### Soal 5
 
-**Kasus:** Dalam evaluasi tata kelola keuangan negara, tim harus membedakan otorisasi, ordonansi, kebendaharaan, dan pertanggungjawaban. Fakta/isu yang harus diputuskan adalah: **Kewenangan yang tidak termasuk dalam pendelegasian kekuasaan pengelolaan keuangan negara tersebut adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Kewenangan apa yang tidak termasuk dalam pendelegasian kekuasaan pengelolaan keuangan negara oleh Presiden?
 
 - **A.** Ordonansi
-- **B.** Kebendaharaan (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
-- **C.** Otorisasi (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **B.** Kebendaharaan
+- **C.** Otorisasi
 - **D.** Moneter seperti mengeluarkan dan mengedarkan uang
 
 > ✅ **Jawaban:** **D. Moneter seperti mengeluarkan dan mengedarkan uang**
@@ -3777,12 +3777,12 @@
 
 ### Soal 6
 
-**Kasus:** Kasus pengelolaan keuangan negara menuntut keputusan yang sah, tepat pihak, dan dapat dipertanggungjawabkan. Fakta/isu yang harus diputuskan adalah: **Tiga kekuasaan utama dalam pengelolaan keuangan negara adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa tiga kekuasaan utama dalam pengelolaan keuangan negara?
 
 - **A.** Perencanaan, audit, pajak
 - **B.** Otorisasi, ordonansi, kebendaharaan
-- **C.** Legislatif, yudikatif, eksekutif (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
-- **D.** Anggaran, pajak, moneter (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **C.** Legislatif, yudikatif, eksekutif
+- **D.** Anggaran, pajak, moneter
 
 > ✅ **Jawaban:** **B. Otorisasi, ordonansi, kebendaharaan**
 >
@@ -3792,12 +3792,12 @@
 
 ### Soal 7
 
-**Kasus:** Pimpinan meminta analisis atas pembagian kewenangan karena beberapa pihak memiliki peran yang berdekatan tetapi tidak identik. Fakta/isu yang harus diputuskan adalah: **Kekuasaan otorisasi adalah kekuasaan untuk**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa ruang lingkup kekuasaan otorisasi?
 
 - **A.** Menerbitkan opini
 - **B.** Mengambil keputusan yang dapat menambah atau mengurangi kekayaan negara
-- **C.** Menyimpan uang saja (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
-- **D.** Mengaudit laporan (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **C.** Menyimpan uang saja
+- **D.** Mengaudit laporan
 
 > ✅ **Jawaban:** **B. Mengambil keputusan yang dapat menambah atau mengurangi kekayaan negara**
 >
@@ -3807,10 +3807,10 @@
 
 ### Soal 8
 
-**Kasus:** Dalam evaluasi tata kelola keuangan negara, tim harus membedakan otorisasi, ordonansi, kebendaharaan, dan pertanggungjawaban. Fakta/isu yang harus diputuskan adalah: **Otorisasi yang bersifat umum diwujudkan antara lain dalam**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Dalam bentuk apa otorisasi yang bersifat umum diwujudkan?
 
-- **A.** SP2D (sebagai dasar keputusan yang dianggap paling proporsional terhadap risiko dan akuntabilitas kasus)
-- **B.** Rekening koran (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
+- **A.** SP2D
+- **B.** Rekening koran
 - **C.** Undang-undang seperti APBN
 - **D.** Kuitansi
 
@@ -3822,11 +3822,11 @@
 
 ### Soal 9
 
-**Kasus:** Kasus pengelolaan keuangan negara menuntut keputusan yang sah, tepat pihak, dan dapat dipertanggungjawabkan. Fakta/isu yang harus diputuskan adalah: **Otorisasi yang bersifat khusus diwujudkan dalam**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Dalam bentuk apa otorisasi yang bersifat khusus diwujudkan?
 
-- **A.** Laporan audit (setelah mempertimbangkan tujuan kebijakan, kewenangan, serta dampaknya terhadap proses berikutnya)
+- **A.** Laporan audit
 - **B.** Surat keputusan yang mengikat pihak tertentu
-- **C.** UUD (dengan asumsi kondisi normal dan tidak terdapat pengecualian khusus yang mengubah perlakuan)
+- **C.** UUD
 - **D.** Nota bank
 
 > ✅ **Jawaban:** **B. Surat keputusan yang mengikat pihak tertentu**
@@ -3837,12 +3837,12 @@
 
 ### Soal 10
 
-**Kasus:** Pimpinan meminta analisis atas pembagian kewenangan karena beberapa pihak memiliki peran yang berdekatan tetapi tidak identik. Fakta/isu yang harus diputuskan adalah: **Kekuasaan ordonansi meliputi**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa ruang lingkup kekuasaan ordonansi?
 
 - **A.** Menyimpan kas saja
 - **B.** Menerima, meneliti, menguji keabsahan, dan menerbitkan perintah menagih/membayar
-- **C.** Mengaudit APBN (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
-- **D.** Menyusun undang-undang (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **C.** Mengaudit APBN
+- **D.** Menyusun undang-undang
 
 > ✅ **Jawaban:** **B. Menerima, meneliti, menguji keabsahan, dan menerbitkan perintah menagih/membayar**
 >
@@ -3852,10 +3852,10 @@
 
 ### Soal 11
 
-**Kasus:** Dalam evaluasi tata kelola keuangan negara, tim harus membedakan otorisasi, ordonansi, kebendaharaan, dan pertanggungjawaban. Fakta/isu yang harus diputuskan adalah: **Dalam pengujian ordonansi, tiga aspek yang diperiksa adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa tiga aspek yang diperiksa dalam pengujian ordonansi?
 
-- **A.** Likuiditas, solvabilitas, profitabilitas (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
-- **B.** Kas, aset, utang (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **A.** Likuiditas, solvabilitas, profitabilitas
+- **B.** Kas, aset, utang
 - **C.** Pagu, output, SDM
 - **D.** Wetmatigheid, rechtmatigheid, doelmatigheid
 
@@ -3867,12 +3867,12 @@
 
 ### Soal 12
 
-**Kasus:** Kasus pengelolaan keuangan negara menuntut keputusan yang sah, tepat pihak, dan dapat dipertanggungjawabkan. Fakta/isu yang harus diputuskan adalah: **Kekuasaan kebendaharaan adalah kekuasaan untuk**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa ruang lingkup kekuasaan kebendaharaan?
 
 - **A.** Menerima, menyimpan, membayar/mengeluarkan, dan mempertanggungjawabkan uang/barang
-- **B.** Menerbitkan undang-undang (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **B.** Menerbitkan undang-undang
 - **C.** Mengaudit laporan
-- **D.** Menyusun APBN (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **D.** Menyusun APBN
 
 > ✅ **Jawaban:** **A. Menerima, menyimpan, membayar/mengeluarkan, dan mempertanggungjawabkan uang/barang**
 >
@@ -3882,7 +3882,7 @@
 
 ### Soal 13
 
-**Kasus:** Pimpinan meminta analisis atas pembagian kewenangan karena beberapa pihak memiliki peran yang berdekatan tetapi tidak identik. Fakta/isu yang harus diputuskan adalah: **Menteri Keuangan menjalankan fungsi**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa fungsi Menteri Keuangan dalam pengelolaan keuangan negara?
 
 - **A.** Chief Financial Officer (CFO)
 - **B.** Auditor eksternal
@@ -3897,11 +3897,11 @@
 
 ### Soal 14
 
-**Kasus:** Dalam evaluasi tata kelola keuangan negara, tim harus membedakan otorisasi, ordonansi, kebendaharaan, dan pertanggungjawaban. Fakta/isu yang harus diputuskan adalah: **Menteri/Pimpinan Lembaga menjalankan fungsi**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa fungsi Menteri atau Pimpinan Lembaga dalam pengelolaan keuangan negara?
 
-- **A.** CFO nasional (karena pihak tersebut dipandang paling dekat dengan pelaksanaan operasional transaksi)
+- **A.** CFO nasional
 - **B.** Chief Operating Officer (COO) sebagai Pengguna Anggaran
-- **C.** BUN (dengan pertimbangan bahwa kewenangan keputusan berada pada unit tersebut sebelum proses dilanjutkan)
+- **C.** BUN
 - **D.** Auditor
 
 > ✅ **Jawaban:** **B. Chief Operating Officer (COO) sebagai Pengguna Anggaran**
@@ -3912,11 +3912,11 @@
 
 ### Soal 15
 
-**Kasus:** Kasus pengelolaan keuangan negara menuntut keputusan yang sah, tepat pihak, dan dapat dipertanggungjawabkan. Fakta/isu yang harus diputuskan adalah: **Tujuan pemisahan CFO dan COO adalah terutama untuk**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa tujuan utama pemisahan fungsi CFO dan COO?
 
-- **A.** Memusatkan semua kewenangan (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **A.** Memusatkan semua kewenangan
 - **B.** Mengurangi transparansi
-- **C.** Menghapus pengujian (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **C.** Menghapus pengujian
 - **D.** Menciptakan check and balance
 
 > ✅ **Jawaban:** **D. Menciptakan check and balance**
@@ -3927,10 +3927,10 @@
 
 ### Soal 16
 
-**Kasus:** Pimpinan meminta analisis atas pembagian kewenangan karena beberapa pihak memiliki peran yang berdekatan tetapi tidak identik. Fakta/isu yang harus diputuskan adalah: **Menteri Keuangan selaku BUN antara lain berwenang**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Manakah yang termasuk kewenangan Menteri Keuangan selaku BUN?
 
-- **A.** Menyusun APBD (dengan asumsi pihak tersebut memegang fungsi pengujian sekaligus tindak lanjut pada tahap itu)
-- **B.** Menetapkan putusan pengadilan (dengan pertimbangan bahwa kewenangan keputusan berada pada unit tersebut sebelum proses dilanjutkan)
+- **A.** Menyusun APBD
+- **B.** Menetapkan putusan pengadilan
 - **C.** Menetapkan kebijakan/pedoman pelaksanaan anggaran dan sistem penerimaan-pengeluaran kas
 - **D.** Menerbitkan opini BPK
 
@@ -3942,10 +3942,10 @@
 
 ### Soal 17
 
-**Kasus:** Dalam evaluasi tata kelola keuangan negara, tim harus membedakan otorisasi, ordonansi, kebendaharaan, dan pertanggungjawaban. Fakta/isu yang harus diputuskan adalah: **Kuasa BUN Pusat adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Siapa yang menjalankan fungsi Kuasa BUN Pusat?
 
-- **A.** Direktur Jenderal Anggaran (karena pihak tersebut dipandang paling dekat dengan pelaksanaan operasional transaksi)
-- **B.** Kepala BPK (dengan pertimbangan bahwa kewenangan keputusan berada pada unit tersebut sebelum proses dilanjutkan)
+- **A.** Direktur Jenderal Anggaran
+- **B.** Kepala BPK
 - **C.** Gubernur BI
 - **D.** Direktur Jenderal Perbendaharaan
 
@@ -3957,10 +3957,10 @@
 
 ### Soal 18
 
-**Kasus:** Kasus pengelolaan keuangan negara menuntut keputusan yang sah, tepat pihak, dan dapat dipertanggungjawabkan. Fakta/isu yang harus diputuskan adalah: **Kuasa BUN di Daerah adalah**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Siapa yang menjalankan fungsi Kuasa BUN di Daerah?
 
 - **A.** Kepala KPPN
-- **B.** Bupati (karena pihak tersebut dipandang paling dekat dengan pelaksanaan operasional transaksi)
+- **B.** Bupati
 - **C.** Kepala Kanwil DJPb
 - **D.** Kepala Satker
 
@@ -3972,11 +3972,11 @@
 
 ### Soal 19
 
-**Kasus:** Pimpinan meminta analisis atas pembagian kewenangan karena beberapa pihak memiliki peran yang berdekatan tetapi tidak identik. Fakta/isu yang harus diputuskan adalah: **Prinsip Anterioritas berarti**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa makna prinsip Anterioritas?
 
 - **A.** Anggaran harus mendapat persetujuan legislatif sebelum dilaksanakan
-- **B.** Anggaran hanya berlaku setahun (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
-- **C.** Anggaran satu dokumen (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
+- **B.** Anggaran hanya berlaku setahun
+- **C.** Anggaran satu dokumen
 - **D.** Semua penerimaan ke Kas Negara
 
 > ✅ **Jawaban:** **A. Anggaran harus mendapat persetujuan legislatif sebelum dilaksanakan**
@@ -3987,12 +3987,12 @@
 
 ### Soal 20
 
-**Kasus:** Dalam evaluasi tata kelola keuangan negara, tim harus membedakan otorisasi, ordonansi, kebendaharaan, dan pertanggungjawaban. Fakta/isu yang harus diputuskan adalah: **Prinsip Annualitas berarti**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa makna prinsip Annualitas?
 
 - **A.** Anggaran spesifik
 - **B.** Anggaran berlaku dalam periode tertentu
-- **C.** Semua penerimaan ke Kas Negara (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
-- **D.** Satu dokumen (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **C.** Semua penerimaan ke Kas Negara
+- **D.** Satu dokumen
 
 > ✅ **Jawaban:** **B. Anggaran berlaku dalam periode tertentu**
 >
@@ -4002,11 +4002,11 @@
 
 ### Soal 21
 
-**Kasus:** Kasus pengelolaan keuangan negara menuntut keputusan yang sah, tepat pihak, dan dapat dipertanggungjawabkan. Fakta/isu yang harus diputuskan adalah: **Prinsip Unitas berarti**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa makna prinsip Unitas?
 
 - **A.** Anggaran harus spesifik
-- **B.** Semua penerimaan ke Kas Negara (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
-- **C.** Semua belanja modal (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **B.** Semua penerimaan ke Kas Negara
+- **C.** Semua belanja modal
 - **D.** Anggaran dituangkan dalam satu dokumen dan berbentuk undang-undang
 
 > ✅ **Jawaban:** **D. Anggaran dituangkan dalam satu dokumen dan berbentuk undang-undang**
@@ -4017,11 +4017,11 @@
 
 ### Soal 22
 
-**Kasus:** Pimpinan meminta analisis atas pembagian kewenangan karena beberapa pihak memiliki peran yang berdekatan tetapi tidak identik. Fakta/isu yang harus diputuskan adalah: **Prinsip Spesialitas berarti**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa makna prinsip Spesialitas?
 
 - **A.** Alokasi digunakan untuk tujuan/kegiatan yang telah ditetapkan
-- **B.** Anggaran satu tahun (dengan fokus pada integrasi proses, pengendalian, dan pertanggungjawaban dalam pengelolaan APBN)
-- **C.** Semua penerimaan ke Kas Negara (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
+- **B.** Anggaran satu tahun
+- **C.** Semua penerimaan ke Kas Negara
 - **D.** Semua belanja fleksibel
 
 > ✅ **Jawaban:** **A. Alokasi digunakan untuk tujuan/kegiatan yang telah ditetapkan**
@@ -4032,11 +4032,11 @@
 
 ### Soal 23
 
-**Kasus:** Dalam evaluasi tata kelola keuangan negara, tim harus membedakan otorisasi, ordonansi, kebendaharaan, dan pertanggungjawaban. Fakta/isu yang harus diputuskan adalah: **Prinsip Universalitas berarti**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Apa makna prinsip Universalitas?
 
 - **A.** Seluruh penerimaan disetor ke Kas Negara dan pengeluaran dibiayai melalui Kas Negara
-- **B.** Alokasi spesifik (dengan menempatkan unsur tersebut sebagai karakter utama yang membedakannya dari mekanisme lain)
-- **C.** Anggaran hanya satu tahun (sebagai konsep yang dianggap menghubungkan pelaksanaan operasional dengan fungsi pengendalian)
+- **B.** Alokasi spesifik
+- **C.** Anggaran hanya satu tahun
 - **D.** Anggaran satu dokumen
 
 > ✅ **Jawaban:** **A. Seluruh penerimaan disetor ke Kas Negara dan pengeluaran dibiayai melalui Kas Negara**
@@ -4047,7 +4047,7 @@
 
 ### Soal 24
 
-**Kasus:** Kasus pengelolaan keuangan negara menuntut keputusan yang sah, tepat pihak, dan dapat dipertanggungjawabkan. Fakta/isu yang harus diputuskan adalah: **Tahun anggaran Indonesia saat ini berlangsung**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Kapan tahun anggaran Indonesia dimulai dan berakhir?
 
 - **A.** 1 Januari–31 Desember
 - **B.** 1 Juli–30 Juni
@@ -4062,12 +4062,12 @@
 
 ### Soal 25
 
-**Kasus:** Pimpinan meminta analisis atas pembagian kewenangan karena beberapa pihak memiliki peran yang berdekatan tetapi tidak identik. Fakta/isu yang harus diputuskan adalah: **LKPP yang disusun Menteri Keuangan disampaikan Presiden kepada BPK paling lambat**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Kapan batas waktu Presiden menyampaikan LKPP yang disusun Menteri Keuangan kepada BPK?
 
-- **A.** 1 bulan (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)
+- **A.** 1 bulan
 - **B.** 6 bulan
 - **C.** 3 bulan setelah tahun anggaran berakhir
-- **D.** 2 bulan (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)
+- **D.** 2 bulan
 
 > ✅ **Jawaban:** **C. 3 bulan setelah tahun anggaran berakhir**
 >
@@ -4077,11 +4077,11 @@
 
 ### Soal 26
 
-**Kasus:** Dalam evaluasi tata kelola keuangan negara, tim harus membedakan otorisasi, ordonansi, kebendaharaan, dan pertanggungjawaban. Fakta/isu yang harus diputuskan adalah: **BPK melakukan pemeriksaan laporan keuangan pemerintah paling lambat**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Berapa batas waktu pemeriksaan laporan keuangan pemerintah oleh BPK?
 
-- **A.** 1 bulan (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)
+- **A.** 1 bulan
 - **B.** 6 bulan
-- **C.** 3 bulan (berdasarkan jadwal normal periode berjalan dan tanpa perlakuan percepatan)
+- **C.** 3 bulan
 - **D.** 2 bulan setelah menerima laporan
 
 > ✅ **Jawaban:** **D. 2 bulan setelah menerima laporan**
@@ -4092,12 +4092,12 @@
 
 ### Soal 27
 
-**Kasus:** Kasus pengelolaan keuangan negara menuntut keputusan yang sah, tepat pihak, dan dapat dipertanggungjawabkan. Fakta/isu yang harus diputuskan adalah: **Laporan keuangan pemerintah yang telah diperiksa BPK disampaikan kepada DPR paling lambat**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Kapan batas waktu penyampaian laporan keuangan pemerintah yang telah diperiksa BPK kepada DPR?
 
 - **A.** 3 bulan
 - **B.** 6 bulan setelah tahun anggaran berakhir
-- **C.** 2 bulan (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)
-- **D.** 12 bulan (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)
+- **C.** 2 bulan
+- **D.** 12 bulan
 
 > ✅ **Jawaban:** **B. 6 bulan setelah tahun anggaran berakhir**
 >
@@ -4107,10 +4107,10 @@
 
 ### Soal 28
 
-**Kasus:** Pimpinan meminta analisis atas pembagian kewenangan karena beberapa pihak memiliki peran yang berdekatan tetapi tidak identik. Fakta/isu yang harus diputuskan adalah: **Pengenaan ganti kerugian negara terhadap Bendahara ditetapkan oleh**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Siapa yang menetapkan pengenaan ganti kerugian negara terhadap Bendahara?
 
 - **A.** BPK
-- **B.** KPPN (dengan asumsi pihak tersebut memegang fungsi pengujian sekaligus tindak lanjut pada tahap itu)
+- **B.** KPPN
 - **C.** Menteri/Pimpinan Lembaga
 - **D.** Inspektorat
 
@@ -4122,12 +4122,12 @@
 
 ### Soal 29
 
-**Kasus:** Dalam evaluasi tata kelola keuangan negara, tim harus membedakan otorisasi, ordonansi, kebendaharaan, dan pertanggungjawaban. Fakta/isu yang harus diputuskan adalah: **Pengenaan ganti kerugian terhadap pegawai negeri bukan Bendahara ditetapkan oleh**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Siapa yang menetapkan pengenaan ganti kerugian terhadap pegawai negeri bukan Bendahara?
 
-- **A.** KPPN (dengan pertimbangan bahwa kewenangan keputusan berada pada unit tersebut sebelum proses dilanjutkan)
+- **A.** KPPN
 - **B.** BPK selalu
 - **C.** Menteri/Pimpinan Lembaga/Gubernur/Bupati/Walikota sesuai kewenangan
-- **D.** Bank Indonesia (karena pihak tersebut dipandang paling dekat dengan pelaksanaan operasional transaksi)
+- **D.** Bank Indonesia
 
 > ✅ **Jawaban:** **C. Menteri/Pimpinan Lembaga/Gubernur/Bupati/Walikota sesuai kewenangan**
 >
@@ -4137,11 +4137,11 @@
 
 ### Soal 30
 
-**Kasus:** Kasus pengelolaan keuangan negara menuntut keputusan yang sah, tepat pihak, dan dapat dipertanggungjawabkan. Fakta/isu yang harus diputuskan adalah: **Setiap kerugian negara diberitahukan kepada BPK paling lambat**. Pilih opsi yang paling tepat berdasarkan ketentuan, urutan proses, dan pembagian kewenangan.
+Berapa batas waktu pemberitahuan kerugian negara kepada BPK setelah diketahui?
 
-- **A.** 3 hari kalender (dengan perhitungan sejak tahap reguler dimulai dan tanpa menggunakan dispensasi khusus)
+- **A.** 3 hari kalender
 - **B.** 7 HK setelah diketahui
-- **C.** 5 HK (dengan asumsi batas waktu dihitung dari dokumen sumber yang pertama kali diterima)
+- **C.** 5 HK
 - **D.** 14 HK
 
 > ✅ **Jawaban:** **B. 7 HK setelah diketahui**
