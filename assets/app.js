@@ -375,7 +375,11 @@
   }
   function routeContent(){
     window.onkeydown=null;const parts=(location.hash||'#/').replace(/^#\//,'').split('/').filter(Boolean);
-    if(!parts.length){renderHome();return;}
+    if(!parts.length || parts[0]==='home'){renderHome();return;}
+    if(parts[0]==='oral'){
+      history.replaceState(null,'',`#/ujian${parts.length>1?'/'+parts.slice(1).join('/'):''}`);
+      parts[0]='ujian';
+    }
     if(parts[0]==='ujian'){window.DJPB_ORAL.render(app,parts,state.progress,saveProgress);return;}
     if(parts[0]==='study'){renderStudy(parts[1],parts[2]||1);return;}
     if(parts[0]==='quiz'){

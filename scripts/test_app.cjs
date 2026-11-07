@@ -69,6 +69,22 @@ test('oral guide includes every section, searches full content, and handles no r
   assert.match(a.document.getElementById('oralSections').innerHTML,/Tidak ada materi/);
 });
 
+test('legacy oral links redirect to ujian while preserving the selected material',()=>{
+  const a=launch(new Map(),'#/oral/materials/29');
+  assert.equal(a.location.hash,'#/ujian/materials/29');
+  assert.match(a.html,/DELAPAN RULE/);
+});
+
+test('recovery home bypasses automatic resume without deleting saved progress',()=>{
+  const saved={answers:{p1q2:{selected:'D',correct:true,ts:1}},bookmarks:{p1q2:true},lastLocation:'#/study/1/2'};
+  const storage=new Map([[storeKey,JSON.stringify(saved)]]);
+  const a=launch(storage,'#/home');
+  assert.equal(a.location.hash,'#/home');
+  assert.match(a.html,/TREASURY QUEST/);
+  assert.equal(a.saved().answers.p1q2.selected,'D');
+  assert.equal(a.saved().bookmarks.p1q2,true);
+});
+
 test('oral reading and checklist progress persist without changing assessment answers',()=>{
   const storage=new Map();const a=launch(storage,'#/ujian/materials/29');
   assert.match(a.html,/DELAPAN RULE/);

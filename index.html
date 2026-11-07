@@ -7,7 +7,7 @@
   <meta name="description" content="Treasury Learning Hub — latihan assessment DJPb, progres belajar, dan try out dalam satu tempat.">
   <title>DJPb Study — Treasury Learning Hub</title>
   <link rel="preload" href="assets/fonts/PlusJakartaSans.ttf" as="font" type="font/ttf" crossorigin>
-  <link rel="stylesheet" href="assets/styles.css">
+  <link rel="stylesheet" href="assets/styles.css?v=20261107-ujian-2">
 </head>
 <body>
   <a class="skip-link" href="#app">Lewati navigasi</a>
@@ -37,14 +37,21 @@
     <footer class="footer">
       <span><strong>DJPb Study</strong> <span class="footer-divider">/</span> Sedikit belajar, setiap hari.</span>
       <span>Case &amp; Analitis · Progres tersimpan di browser ini.</span>
+      <button id="reloadApp" type="button" class="ghost-btn" title="Kembali ke beranda dan muat ulang aplikasi tanpa menghapus progres">Muat ulang aplikasi</button>
     </footer>
   </div>
   <dialog id="utilityDialog" class="utility-dialog" aria-labelledby="dialogTitle"></dialog>
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
-  <script src="assets/questions.js"></script>
-  <script src="assets/learning.js"></script>
-  <script src="assets/oral-data.js"></script>
-  <script src="assets/oral.js"></script>
-  <script src="assets/app.js"></script>
+  <script>
+    // Keep recovery available even if a later application script fails to load.
+    document.getElementById('reloadApp').addEventListener('click', function () {
+      location.replace(location.pathname + '?reload=' + Date.now() + '#/home');
+    });
+  </script>
+  <script src="assets/questions.js?v=20261107-ujian-2"></script>
+  <script src="assets/learning.js?v=20261107-ujian-2"></script>
+  <script src="assets/oral-data.js?v=20261107-ujian-2"></script>
+  <script src="assets/oral.js?v=20261107-ujian-2"></script>
+  <script src="assets/app.js?v=20261107-ujian-2"></script>
 </body>
 </html>
