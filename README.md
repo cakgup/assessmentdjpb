@@ -66,6 +66,7 @@ Aplikasi berjalan sepenuhnya di browser. Tidak memerlukan backend, database, aku
 | --- | --- |
 | **Beranda** | Aktivitas terakhir, ringkasan progres, aksi cepat, target harian, daftar paket, dan insight belajar. |
 | **Belajar** | Menuju daftar paket. Kartu membuka posisi terakhir atau hasil jika paket telah selesai. |
+| **Ujian Eselon II** | Persiapan ujian makalah EWS MyIntress: 33 bagian materi, pencarian, rencana belajar tiga hari, 20 pertanyaan lisan dengan model jawaban, catatan pribadi, dan 21 checklist kesiapan. |
 | **Try Out** | Mengatur latihan dan melanjutkan sesi yang tersimpan untuk lingkup paket yang sama. |
 | **Review** | Memilih kumpulan jawaban salah atau soal ditandai untuk ditinjau kembali. |
 | **Progres** | Aktivitas 7 hari, milestone, XP, level, serta penjelasan perhitungan metrik. |
@@ -73,6 +74,14 @@ Aplikasi berjalan sepenuhnya di browser. Tidak memerlukan backend, database, aku
 | **Kabar belajar** | Tombol lonceng pada desktop menampilkan ringkasan target dan kebutuhan review secara lokal. |
 
 Pada ponsel, menu utama tersedia melalui tombol hamburger. Tombol tema dan profil tetap dapat diakses dari navbar.
+
+### Persiapan ujian di hadapan Eselon II
+
+Buka **Ujian Eselon II** (`#/oral`) untuk mempelajari makalah dari perspektif kandidat Kepala KPPN. Materi mengacu pada [Panduan Ujian EWS MyIntress V2](source/Panduan_Ujian_EWS_MyIntress_v2.md), edisi 7 November 2026. Materi mempertahankan label sumber, batas klaim, tabel, dan referensi dari panduan; kasus serta threshold rancangan bukan kondisi aktual atau norma resmi. Referensi regulasi tidak diverifikasi ulang oleh aplikasi.
+
+Tanda bagian dipelajari, catatan jawaban, dan checklist tersimpan di browser bersama progres edisi ini, serta ikut dihapus melalui reset progres pada Profil. Latihan lisan merupakan penilaian mandiri, tidak menghasilkan skor asesmen resmi. Seluruh materi tersedia secara lokal tanpa CDN.
+
+Untuk memperbarui materi, sunting berkas sumber kemudian jalankan `node scripts/build_oral.cjs`. Hasilnya adalah `assets/oral-data.js`; tidak perlu build saat membuka aplikasi.
 
 ---
 
