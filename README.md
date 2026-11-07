@@ -77,7 +77,7 @@ Pada ponsel, menu utama tersedia melalui tombol hamburger. Tombol tema dan profi
 
 ### Persiapan ujian di hadapan Eselon II
 
-Buka **Ujian Eselon II** (`#/oral`) untuk mempelajari makalah dari perspektif kandidat Kepala KPPN. Materi mengacu pada [Panduan Ujian EWS MyIntress V2](source/Panduan_Ujian_EWS_MyIntress_v2.md), edisi 7 November 2026. Materi mempertahankan label sumber, batas klaim, tabel, dan referensi dari panduan; kasus serta threshold rancangan bukan kondisi aktual atau norma resmi. Referensi regulasi tidak diverifikasi ulang oleh aplikasi.
+Buka **Ujian Eselon II** (`#/ujian`) untuk mempelajari makalah dari perspektif kandidat Kepala KPPN. Materi mengacu pada [Panduan Ujian EWS MyIntress V2](source/Panduan_Ujian_EWS_MyIntress_v2.md), edisi 7 November 2026. Materi mempertahankan label sumber, batas klaim, tabel, dan referensi dari panduan; kasus serta threshold rancangan bukan kondisi aktual atau norma resmi. Referensi regulasi tidak diverifikasi ulang oleh aplikasi.
 
 Tanda bagian dipelajari, catatan jawaban, dan checklist tersimpan di browser bersama progres edisi ini, serta ikut dihapus melalui reset progres pada Profil. Latihan lisan merupakan penilaian mandiri, tidak menghasilkan skor asesmen resmi. Seluruh materi tersedia secara lokal tanpa CDN.
 

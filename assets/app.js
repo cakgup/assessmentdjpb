@@ -205,7 +205,7 @@
   }
   function updateNavigation(){
     const section=(location.hash || '#/').split('/')[1];
-    const active=section==='oral'?'oral':section==='study'||section==='learn'?'learn':section==='quiz'?'quiz':section==='review'?'review':section==='progress'||section==='results'?'progress':'home';
+    const active=section==='ujian'?'ujian':section==='study'||section==='learn'?'learn':section==='quiz'?'quiz':section==='review'?'review':section==='progress'||section==='results'?'progress':'home';
     document.querySelectorAll('[data-nav]').forEach(el=>{el.classList.toggle('active',el.dataset.nav===active);if(el.dataset.nav===active)el.setAttribute('aria-current','page');else el.removeAttribute('aria-current');});
     const menu=document.getElementById('menuToggle');if(menu){menu.setAttribute('aria-expanded','false');document.getElementById('mainNav').classList.remove('is-open');}
     const profile=document.getElementById('profileBtn');if(profile)profile.textContent=(state.progress.profileName || 'Treasury Student').split(/\s+/).slice(0,2).map(n=>n[0]).join('').toUpperCase();
@@ -376,7 +376,7 @@
   function routeContent(){
     window.onkeydown=null;const parts=(location.hash||'#/').replace(/^#\//,'').split('/').filter(Boolean);
     if(!parts.length){renderHome();return;}
-    if(parts[0]==='oral'){window.DJPB_ORAL.render(app,parts,state.progress,saveProgress);return;}
+    if(parts[0]==='ujian'){window.DJPB_ORAL.render(app,parts,state.progress,saveProgress);return;}
     if(parts[0]==='study'){renderStudy(parts[1],parts[2]||1);return;}
     if(parts[0]==='quiz'){
       const pkgId=parts[1] || 'all';

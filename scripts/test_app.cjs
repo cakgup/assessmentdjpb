@@ -57,47 +57,47 @@ function launch(storage=new Map(),hash=''){
 }
 
 test('oral guide includes every section, searches full content, and handles no results',()=>{
-  const a=launch(new Map(),'#/oral');
+  const a=launch(new Map(),'#/ujian');
   assert.match(a.html,/Ujian di hadapan Eselon II/);
   assert.equal(a.window.DJPB_ORAL_DATA.sections.length,33);
   assert.equal(a.window.DJPB_ORAL_DATA.questions.length,20);
   assert.equal(a.window.DJPB_ORAL_DATA.checklist.length,21);
   const search=a.document.getElementById('oralSearch');
   search.oninput({target:{value:'DATA_UNAVAILABLE'}});
-  assert.match(a.document.getElementById('oralSections').innerHTML,/#\/oral\/materials\/33/);
+  assert.match(a.document.getElementById('oralSections').innerHTML,/#\/ujian\/materials\/33/);
   search.oninput({target:{value:'zzzz-no-match'}});
   assert.match(a.document.getElementById('oralSections').innerHTML,/Tidak ada materi/);
 });
 
 test('oral reading and checklist progress persist without changing assessment answers',()=>{
-  const storage=new Map();const a=launch(storage,'#/oral/materials/29');
+  const storage=new Map();const a=launch(storage,'#/ujian/materials/29');
   assert.match(a.html,/DELAPAN RULE/);
   assert.match(a.html,/<table>/);
   a.document.getElementById('oralRead').onchange({target:{checked:true}});
-  a.location.hash='#/oral/checklist';
+  a.location.hash='#/ujian/checklist';
   const check=a.document.querySelector('[data-oral-check="0"]');check.checked=true;check.onchange();
   assert.equal(a.saved().oral.read[29],true);
   assert.equal(a.saved().oral.checks[0],true);
   assert.deepEqual(a.saved().answers,{});
-  const restored=launch(storage,'#/oral/checklist');
+  const restored=launch(storage,'#/ujian/checklist');
   assert.match(restored.html,/1 \/ 21 butir/);
-  restored.location.hash='#/oral/materials/999';
+  restored.location.hash='#/ujian/materials/999';
   assert.match(restored.html,/33 bagian lengkap/);
 });
 
 test('oral practice offers all questions, concealed models and persisted escaped notes',()=>{
-  const a=launch(new Map(),'#/oral/practice/20');
+  const a=launch(new Map(),'#/ujian/practice/20');
   assert.match(a.html,/Pertanyaan 20 \/ 20/);
   assert.match(a.html,/<details class="oral-model">/);
   assert.doesNotMatch(a.html,/<details[^>]* open/);
   a.document.getElementById('oralNotes').oninput({target:{value:'<script>alert(1)</script> keputusan saya'}});
-  const restored=launch(a.storage,'#/oral/practice/20');
+  const restored=launch(a.storage,'#/ujian/practice/20');
   assert.match(restored.html,/&lt;script&gt;alert\(1\)&lt;\/script&gt; keputusan saya/);
   assert.equal(a.saved().oral.notes[20],'<script>alert(1)</script> keputusan saya');
-  a.location.hash='#/oral/practice/999';
+  a.location.hash='#/ujian/practice/999';
   assert.match(a.html,/Pertanyaan 1 \/ 20/);
   a.click('oralRandom');
-  assert.notEqual(a.location.hash,'#/oral/practice/1');
+  assert.notEqual(a.location.hash,'#/ujian/practice/1');
 });
 
 test('editorial update preserves the previous progress namespace and answers',()=>{
