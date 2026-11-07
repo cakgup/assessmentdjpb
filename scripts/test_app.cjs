@@ -59,19 +59,19 @@ function launch(storage=new Map(),hash=''){
 test('oral guide includes every section, searches full content, and handles no results',()=>{
   const a=launch(new Map(),'#/ujian');
   assert.match(a.html,/Ujian di hadapan Eselon II/);
-  assert.equal(a.window.DJPB_ORAL_DATA.sections.length,33);
-  assert.equal(a.window.DJPB_ORAL_DATA.questions.length,20);
+  assert.equal(a.window.DJPB_ORAL_DATA.sections.length,8);
+  assert.equal(a.window.DJPB_ORAL_DATA.questions.length,30);
   assert.equal(a.window.DJPB_ORAL_DATA.checklist.length,21);
   const search=a.document.getElementById('oralSearch');
-  search.oninput({target:{value:'DATA_UNAVAILABLE'}});
-  assert.match(a.document.getElementById('oralSections').innerHTML,/#\/ujian\/materials\/33/);
+  search.oninput({target:{value:'M7.5'}});
+  assert.match(a.document.getElementById('oralSections').innerHTML,/#\/ujian\/materials\/7/);
   search.oninput({target:{value:'zzzz-no-match'}});
   assert.match(a.document.getElementById('oralSections').innerHTML,/Tidak ada materi/);
 });
 
 test('legacy oral links redirect to ujian while preserving the selected material',()=>{
-  const a=launch(new Map(),'#/oral/materials/29');
-  assert.equal(a.location.hash,'#/ujian/materials/29');
+  const a=launch(new Map(),'#/oral/materials/3');
+  assert.equal(a.location.hash,'#/ujian/materials/3');
   assert.match(a.html,/DELAPAN RULE/);
 });
 
@@ -86,32 +86,34 @@ test('recovery home bypasses automatic resume without deleting saved progress',(
 });
 
 test('oral reading and checklist progress persist without changing assessment answers',()=>{
-  const storage=new Map();const a=launch(storage,'#/ujian/materials/29');
+  const storage=new Map();const a=launch(storage,'#/ujian/materials/3');
   assert.match(a.html,/DELAPAN RULE/);
   assert.match(a.html,/<table>/);
   a.document.getElementById('oralRead').onchange({target:{checked:true}});
   a.location.hash='#/ujian/checklist';
   const check=a.document.querySelector('[data-oral-check="0"]');check.checked=true;check.onchange();
-  assert.equal(a.saved().oral.read[29],true);
-  assert.equal(a.saved().oral.checks[0],true);
+  assert.equal(a.saved().ujianV3.read[3],true);
+  assert.equal(a.saved().ujianV3.checks[0],true);
   assert.deepEqual(a.saved().answers,{});
   const restored=launch(storage,'#/ujian/checklist');
   assert.match(restored.html,/1 \/ 21 butir/);
   restored.location.hash='#/ujian/materials/999';
-  assert.match(restored.html,/33 bagian lengkap/);
+  assert.match(restored.html,/8 modul lengkap/);
 });
 
-test('oral practice offers all questions, concealed models and persisted escaped notes',()=>{
+test('V3 practice shows case situations and probing without model answers, and persists notes',()=>{
   const a=launch(new Map(),'#/ujian/practice/20');
-  assert.match(a.html,/Pertanyaan 20 \/ 20/);
-  assert.match(a.html,/<details class="oral-model">/);
+  assert.match(a.html,/Kasus K-20 \/ 30/);
+  assert.match(a.html,/Situasi:/);
+  assert.match(a.html,/Probing penguji:/);
+  assert.doesNotMatch(a.html,/Lihat model jawaban|class="oral-model"/);
   assert.doesNotMatch(a.html,/<details[^>]* open/);
   a.document.getElementById('oralNotes').oninput({target:{value:'<script>alert(1)</script> keputusan saya'}});
   const restored=launch(a.storage,'#/ujian/practice/20');
   assert.match(restored.html,/&lt;script&gt;alert\(1\)&lt;\/script&gt; keputusan saya/);
-  assert.equal(a.saved().oral.notes[20],'<script>alert(1)</script> keputusan saya');
+  assert.equal(a.saved().ujianV3.notes[20],'<script>alert(1)</script> keputusan saya');
   a.location.hash='#/ujian/practice/999';
-  assert.match(a.html,/Pertanyaan 1 \/ 20/);
+  assert.match(a.html,/Kasus K-01 \/ 30/);
   a.click('oralRandom');
   assert.notEqual(a.location.hash,'#/ujian/practice/1');
 });
@@ -123,6 +125,31 @@ test('editorial update preserves the previous progress namespace and answers',()
   assert.equal(app.location.hash,'#/study/1/2');
   assert.match(app.html,/Jawaban benar/);
   assert.equal(app.saved().bookmarks.p1q2,true);
+});
+
+test('V3 keeps V2 notes separate and supports module zero and the last case',()=>{
+  const legacy={read:{3:true},checks:{0:true},notes:{1:'Jawaban untuk pertanyaan V2'}};
+  const storage=new Map([[storeKey,JSON.stringify({oral:legacy,answers:{},bookmarks:{}})]]);
+  const a=launch(storage,'#/ujian/materials/0');
+  assert.match(a.html,/CERITA BESAR MAKALAH/);
+  assert.doesNotMatch(a.html,/Modul sebelumnya/);
+  a.document.getElementById('oralRead').onchange({target:{checked:true}});
+  assert.deepEqual(a.saved().oral,legacy);
+  assert.equal(a.saved().ujianV3.read[0],true);
+  a.location.hash='#/ujian/practice/1';
+  assert.doesNotMatch(a.html,/Jawaban untuk pertanyaan V2/);
+  a.location.hash='#/ujian/practice/30';
+  assert.match(a.html,/Kasus K-30 \/ 30/);
+  assert.match(a.html,/Konflik tim/);
+  assert.match(a.html,/#\/ujian\/practice\/1/);
+  assert.doesNotMatch(a.html,/Lembar penilaian|Kunci pembahasan/);
+  const data=a.window.DJPB_ORAL_DATA;
+  assert.deepEqual(Array.from(data.sections,s=>s.id),[0,1,2,3,4,5,6,7]);
+  for(const q of data.questions){
+    assert.match(q.html,/Situasi:/);
+    assert.match(q.html,/Probing penguji:/);
+    assert.doesNotMatch(q.html,/Jawaban saya|Jawaban kandidat|Keputusan Administrator/);
+  }
 });
 
 test('next scrolls to top and a new visit restores even an unanswered position',()=>{
