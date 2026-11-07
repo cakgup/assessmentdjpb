@@ -1,52 +1,52 @@
-// Compile the supplied guide into offline study content. Run: node scripts/build_oral.cjs
-const fs = require('node:fs');
-const path = require('node:path');
-const root = path.resolve(__dirname, '..');
-const source = fs.readFileSync(path.join(root, 'source/Panduan_Belajar_Kasus_EWS_MyIntress_FA_Treasurer_Kepala_KPPN_v3.md'), 'utf8').replace(/\r/g, '');
-const practice = fs.readFileSync(path.join(root, 'source/Bank_Latihan_30_Kasus_KPPN_FA_Treasurer_Tanpa_Jawaban.md'), 'utf8').replace(/\r/g, '');
-const escape = s => s.replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-function inline(s) {
-  const tokens = [];
-  const token = html => `\u0000${tokens.push(html)-1}\u0000`;
-  s = escape(s).replace(/`([^`]+)`/g, (_, v) => token(`<code>${v}</code>`));
-  s = s.replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g, (_, t, u) => token(`<a href="${u}" target="_blank" rel="noopener noreferrer">${t}</a>`));
-  s = s.replace(/https?:\/\/[^\s<]+/g, u => token(`<a href="${u}" target="_blank" rel="noopener noreferrer">${u}</a>`));
-  s = s.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>').replace(/\*([^*]+)\*/g, '<em>$1</em>');
-  return s.replace(/\u0000(\d+)\u0000/g, (_, i) => tokens[i]);
+// Import the study chapters, not the source page navigation or scripts.
+// Optional source: node scripts/build_oral.cjs "C:/path/to/materi.html"
+const fs=require('node:fs');
+const path=require('node:path');
+const root=path.resolve(__dirname,'..');
+const snapshot=path.join(root,'source/materi.html');
+if(process.argv[2])fs.copyFileSync(path.resolve(process.argv[2]),snapshot);
+const source=fs.readFileSync(snapshot,'utf8');
+const decode=s=>s.replace(/&#(x[0-9a-f]+|\d+);/gi,(_,n)=>String.fromCodePoint(n[0].toLowerCase()==='x'?parseInt(n.slice(1),16):Number(n))).replace(/&(amp|lt|gt|quot|apos|nbsp);/g,(_,n)=>({amp:'&',lt:'<',gt:'>',quot:'"',apos:"'",nbsp:' '}[n]));
+const plain=s=>decode(s.replace(/<[^>]+>/g,' ')).replace(/\s+/g,' ').trim();
+const chapters=[];
+for(const match of source.matchAll(/<section\b[^>]*class="chapter\b[^"]*"[^>]*data-index="(\d+)"[^>]*>/g)){
+  const start=match.index+match[0].length;let depth=1,end=-1;
+  const tags=/<\/?section\b[^>]*>/g;tags.lastIndex=start;let t;
+  while((t=tags.exec(source))){depth+=t[0].startsWith('</')?-1:1;if(depth===0){end=t.index;break;}}
+  if(end<0)throw Error('Unclosed chapter '+match[1]);
+  const html=source.slice(start,end);
+  // Fail closed if future source edits introduce executable markup.
+  if(/<(script|iframe|object|embed|style|link|base)\b|\son\w+\s*=|(?:href|src)\s*=\s*["']\s*(?:javascript|data|file):/i.test(html))throw Error('Unsupported active content in chapter '+match[1]);
+  chapters[Number(match[1])]=html;
 }
-// Small build-time renderer for the guide's Markdown subset; raw HTML is escaped.
-function markdown(text) {
-  const lines = text.trim().split('\n'); let html = '', list = '';
-  const close = () => { if(list) html += `</${list}>`; list = ''; };
-  for(let i=0;i<lines.length;i++) {
-    const line=lines[i].trim();
-    if(line.startsWith('```')) { close(); const code=[]; while(++i<lines.length&&!lines[i].startsWith('```')) code.push(lines[i]); html+=`<pre><code>${escape(code.join('\n'))}</code></pre>`; continue; }
-    if(line.startsWith('|')) { close(); const rows=[]; while(i<lines.length&&lines[i].trim().startsWith('|')) rows.push(lines[i++].trim()); i--; const cells=r=>r.slice(1,-1).split('|').map(x=>x.trim()); html+='<div class="oral-table" tabindex="0" role="region" aria-label="Tabel panduan"><table>'; rows.forEach((r,n)=>{if(/^\|[\s:|\-]+\|$/.test(r))return; html+=`<tr>${cells(r).map(c=>`<${n?'td':'th'}>${inline(c)}</${n?'td':'th'}>`).join('')}</tr>`;}); html+='</table></div>'; continue; }
-    const li=line.match(/^(?:[-*] |\d+\. )(.*)/);
-    if(li) { const tag=/^\d/.test(line)?'ol':'ul'; if(list!==tag){close();html+=`<${tag}>`;list=tag;} html+=`<li>${inline(li[1])}</li>`;continue; }
-    close();
-    if(!line) continue;
-    const h=line.match(/^(#{1,6}) (.*)/);
-    if(h) {const level=Math.min(6,h[1].length+1);html+=`<h${level}>${inline(h[2])}</h${level}>`;}
-    else if(/^---+$/.test(line))html+='<hr>';
-    else if(line.startsWith('>'))html+=`<blockquote>${inline(line.replace(/^>\s?/,''))}</blockquote>`;
-    else html+=`<p>${inline(line)}</p>`;
-  }
-  close();return html;
+if(chapters.length!==11||chapters.some(c=>!c))throw Error('Expected all 11 source chapters');
+const sections=chapters.slice(2,10).map((html,id)=>({id,title:plain(html.match(/<h1\b[^>]*>([\s\S]*?)<\/h1>/i)?.[1] || ''),html}));
+sections[0].html+=chapters[0]+chapters[1];
+sections[2].title='PROSES BISNIS KPPN — FONDASI DAN 27 PROSES BISNIS';
+sections[7].html+=chapters[10];
+const targets=new Map();
+for(const s of sections)for(const m of s.html.matchAll(/\bid="([^"]+)"/g)){
+  if(targets.has(m[1]))throw Error('Duplicate content ID: '+m[1]);
+  targets.set(m[1],{section:s.id,id:m[1]});
 }
-const matches=[...source.matchAll(/^# MODUL (\d+) — (.+)$/gm)];
-const sections=matches.map((m,i)=>({id:Number(m[1]),title:m[2],text:source.slice(m.index+m[0].length,matches[i+1]?.index ?? source.length).trim()}));
-if(sections.length!==8 || sections.some((s,i)=>s.id!==i))throw Error('Expected modules 0–7');
-sections[0].text=source.slice(0,matches[0].index).trim()+'\n\n'+sections[0].text;
-const cases=[...practice.matchAll(/^### K-(\d+) — (.+)$/gm)];
-const questions=cases.map((m,i)=>{
-  const body=practice.slice(m.index+m[0].length,cases[i+1]?.index ?? practice.length);
-  const prompt=body.split('**Jawaban saya (isi sendiri):**')[0].trim();
-  if(!prompt.includes('**Situasi:**')||!prompt.includes('**Probing penguji:**'))throw Error('Incomplete case '+m[1]);
-  return {id:Number(m[1]),title:m[2],html:markdown(prompt)};
+// The source uses short case links alongside the newer V4 heading identifiers.
+for(const [id,target] of targets){const m=id.match(/^bank-v4-(k-\d+)--/);if(m)targets.set(m[1],target);}
+for(const s of sections){
+  s.html=s.html.replace(/href="#([^"]+)"/g,(_,anchor)=>{
+    const target=targets.get(anchor);if(!target)throw Error('Unresolved source anchor: '+anchor);
+    return `href="#/ujian/materials/${target.section}/${target.id}"`;
+  }).replace(/<table\b[^>]*>/g,'<div class="oral-table" tabindex="0" role="region" aria-label="Tabel materi"><table>').replace(/<\/table>/g,'</table></div>');
+  s.text=plain(s.html);
+}
+const caseMatches=[...sections[4].html.matchAll(/<h3\b[^>]*>(K-(\d+)\s*—\s*([\s\S]*?))<\/h3>/g)];
+const questions=caseMatches.map((m,i)=>{
+  const body=sections[4].html.slice(m.index+m[0].length,caseMatches[i+1]?.index ?? sections[4].html.length);
+  const html=body.split('<details')[0].trim();
+  if(!html.includes('Situasi:')||!html.includes('Probing penguji:'))throw Error('Incomplete practice prompt '+m[2]);
+  return {id:Number(m[2]),title:plain(m[3]),html};
 });
-const checklist=[...sections[7].text.matchAll(/^- \[ \] (.+)$/gm)].map(m=>m[1]);
-if(questions.length!==30||questions.some((q,i)=>q.id!==i+1)||checklist.length!==21)throw Error('Guide case/checklist extraction failed');
-const data={version:'v3',edition:'7 November 2026',sections:sections.map(s=>({...s,html:markdown(s.text)})),questions,checklist:checklist.map(inline)};
-fs.writeFileSync(path.join(root,'assets/oral-data.js'),`// Generated by scripts/build_oral.cjs; edit the source guide instead.\nwindow.DJPB_ORAL_DATA = ${JSON.stringify(data)};\n`);
-console.log(`Built ${sections.length} sections, ${questions.length} questions, ${checklist.length} checklist items.`);
+const checklist=[...sections[7].html.matchAll(/<li>\s*<input\b[^>]*type="checkbox"[^>]*>\s*([\s\S]*?)<\/li>/g)].map(m=>m[1]);
+if(questions.length!==30||questions.some((q,i)=>q.id!==i+1)||checklist.length!==21)throw Error('Unexpected case/checklist counts');
+const data={version:'materi-html-v4',edition:'materi.html · EWS MyIntress',sections,questions,checklist};
+fs.writeFileSync(path.join(root,'assets/oral-data.js'),`// Generated from source/materi.html by scripts/build_oral.cjs.\nwindow.DJPB_ORAL_DATA = ${JSON.stringify(data)};\n`);
+console.log(`Imported ${sections.length} modules, ${questions.length} cases and ${checklist.length} checklist items from materi.html.`);

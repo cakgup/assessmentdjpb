@@ -371,6 +371,14 @@
 
   function route(){
     routeContent();updateNavigation();showTop();
+    const examParts=location.hash.split('/');
+    if(examParts[1]==='ujian' && examParts[2]==='materials' && examParts[4]){
+      const target=document.getElementById(examParts[4]);
+      if(target){
+        for(let parent=target.parentElement;parent;parent=parent.parentElement){if(parent.tagName==='DETAILS')parent.open=true;}
+        target.setAttribute('tabindex','-1');target.focus({preventScroll:true});target.scrollIntoView({block:'start',behavior:'instant'});
+      }
+    }
     if(location.hash==='#/learn')document.getElementById('packagesSection')?.scrollIntoView({block:'start',behavior:'instant'});
   }
   function routeContent(){

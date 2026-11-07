@@ -127,11 +127,29 @@ test('editorial update preserves the previous progress namespace and answers',()
   assert.equal(app.saved().bookmarks.p1q2,true);
 });
 
+test('HTML source preserves 27 process cards, V4 answers, references and valid cross-topic links',()=>{
+  const a=launch(new Map(),'#/ujian/materials/2');
+  const data=a.window.DJPB_ORAL_DATA;
+  assert.equal(data.version,'materi-html-v4');
+  assert.equal((data.sections[2].html.match(/class="process-card"/g)||[]).length,27);
+  assert.equal((data.sections[4].html.match(/class="case-answer"/g)||[]).length,30);
+  assert.match(data.sections[4].html,/JAWABAN LENGKAP \(V4\)/);
+  assert.match(data.sections[7].html,/REFERENSI, PEMBATASAN/);
+  for(const section of data.sections){
+    assert.doesNotMatch(section.html,/<script|file:\/\/\/|src="\.\//);
+    for(const link of section.html.matchAll(/href="#\/ujian\/materials\/(\d+)\/([^"]+)"/g)){
+      assert.ok(data.sections[Number(link[1])].html.includes(`id="${link[2]}"`),link[2]);
+    }
+  }
+  a.location.hash='#/ujian/materials/4/bank-v4-k-01--halaman-iii-dipa-menyimpang-satker-meminta-revisi-angka';
+  assert.match(a.html,/Buka kunci jawaban dan pembahasan/);
+});
+
 test('V3 keeps V2 notes separate and supports module zero and the last case',()=>{
   const legacy={read:{3:true},checks:{0:true},notes:{1:'Jawaban untuk pertanyaan V2'}};
   const storage=new Map([[storeKey,JSON.stringify({oral:legacy,answers:{},bookmarks:{}})]]);
   const a=launch(storage,'#/ujian/materials/0');
-  assert.match(a.html,/CERITA BESAR MAKALAH/);
+  assert.match(a.html,/RESUME RINGKAS MAKALAH/);
   assert.doesNotMatch(a.html,/Modul sebelumnya/);
   a.document.getElementById('oralRead').onchange({target:{checked:true}});
   assert.deepEqual(a.saved().oral,legacy);

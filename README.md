@@ -77,13 +77,19 @@ Pada ponsel, menu utama tersedia melalui tombol hamburger. Tombol tema dan profi
 
 ### Persiapan ujian di hadapan Eselon II
 
-Buka **Ujian Eselon III** (`#/ujian`) untuk mempelajari makalah dari perspektif kandidat Kepala KPPN. Materi mengacu pada [Panduan Belajar Kasus V3](source/Panduan_Belajar_Kasus_EWS_MyIntress_FA_Treasurer_Kepala_KPPN_v3.md) dan [Bank Latihan 30 Kasus Tanpa Jawaban](source/Bank_Latihan_30_Kasus_KPPN_FA_Treasurer_Tanpa_Jawaban.md), edisi 7 November 2026. Materi mempertahankan label sumber, batas klaim, tabel, dan referensi dari panduan; kasus serta threshold rancangan bukan kondisi aktual atau norma resmi. Referensi regulasi tidak diverifikasi ulang oleh aplikasi.
+Buka **Ujian Eselon III** (`#/ujian`) untuk mempelajari makalah dari perspektif kandidat Kepala KPPN. Sumber aktif adalah salinan [materi.html](source/materi.html) dari proyek `ewsmyintress`, termasuk resume ringkas makalah, 27 proses bisnis KPPN, dan bank 30 kasus dengan pembahasan lengkap V4. Materi mempertahankan label sumber, batas klaim, tabel, dan referensi; regulasi tidak diverifikasi ulang oleh aplikasi.
 
 Materi mencakup Modul 0–7; pembahasan 30 kasus tersedia pada Modul 4, simulasi in-basket pada Modul 5, dan rubrik/checklist pada Modul 7. Tab latihan hanya memuat situasi dan probing tanpa kunci. Progres V3 menggunakan ruang penyimpanan terpisah (`ujianV3`), sehingga catatan V2 tidak dipasangkan ke kasus baru.
 
 Tanda modul dipelajari, catatan jawaban, dan checklist tersimpan di browser bersama progres edisi ini, serta ikut dihapus melalui reset progres pada Profil. Latihan lisan merupakan penilaian mandiri, tidak menghasilkan skor asesmen resmi. Seluruh materi tersedia secara lokal tanpa CDN.
 
-Untuk memperbarui materi, sunting berkas sumber kemudian jalankan `node scripts/build_oral.cjs`. Hasilnya adalah `assets/oral-data.js`; tidak perlu build saat membuka aplikasi.
+Untuk memperbarui materi dari proyek asal, jalankan:
+
+```powershell
+node scripts/build_oral.cjs "C:/Users/gufroni/Documents/GitHub/ewsmyintress/materi.html"
+```
+
+Perintah tersebut memperbarui `source/materi.html` dan membangun `assets/oral-data.js`. Tanpa argumen, `node scripts/build_oral.cjs` memakai salinan yang tersimpan di repository. Impor mengambil isi bab, bukan skrip atau navigasi halaman asal; tautan topik disesuaikan ke `#/ujian`. Pembaruan sumber memerlukan impor ulang; aplikasi terpublikasi tidak mengakses alamat `file:///` dan tidak membutuhkan build saat dibuka. Dokumen Markdown V2/V3 disimpan sebagai arsip, bukan sumber aktif.
 
 ---
 
