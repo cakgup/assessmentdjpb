@@ -10,8 +10,10 @@
   ];
   const titleCase = title => title.split(' ').map((word,i)=>/^(DJPb|EWS|KPPN|APBN|IKPA|RPD|TSA|SAL|SPAN|SAKTI|MPN|MYINTRESS|RPATA|TKD|PNBP|BLU|UAT|SWOT|RACI|KPI|FA|DIPA|GO\/NO-GO|FA-\d+)/i.test(word)?word.replace('MYINTRESS','MyIntress'):i===0?word[0]+word.slice(1).toLowerCase():word.toLowerCase()).join(' ');
   window.DJPB_ORAL = {render(app, parts, progress, save) {
-    const state = progress.ujianV3 ||= {read:{},checks:{},notes:{}};
-    const mode = parts[1] || 'materials';
+    if(!progress.ujianV3 || typeof progress.ujianV3!=='object' || Array.isArray(progress.ujianV3))progress.ujianV3={};
+    const state = progress.ujianV3;
+    for(const key of ['read','checks','notes'])if(!state[key] || typeof state[key]!=='object' || Array.isArray(state[key]))state[key]={};
+    const mode = ['materials','practice','checklist'].includes(parts[1]) ? parts[1] : 'materials';
     const done=data.sections.filter(s=>state.read[s.id]).length;
     const next=data.sections.find(s=>!state.read[s.id]) || data.sections[0];
     const header = `<section class="exam-heading"><div><span class="exam-eyebrow">PERSIAPAN KEPALA KPPN</span><h1>Ujian Eselon III</h1><p>Bangun pemahaman. Pertajam keputusan. Siap hadapi penguji.</p><span class="exam-context">Materi MyIntress · FA × Treasurer · Ujian di hadapan Eselon II DJPb</span></div><div class="exam-progress"><div><strong><span id="examDone" class="exam-done">${done}</span><span> / ${data.sections.length}</span></strong><span>modul dipelajari</span></div><progress id="examProgress" value="${done}" max="${data.sections.length}" aria-label="Progres materi ujian">${done} dari ${data.sections.length}</progress><a id="examContinue" href="#/ujian/materials/${next.id}">${done?'Lanjutkan belajar':'Mulai belajar'} <span aria-hidden="true">→</span></a></div></section>
@@ -40,7 +42,7 @@
       document.getElementById('oralResultCount').textContent=`${found.length} modul ditemukan`;
       document.getElementById('oralSections').innerHTML=found.length?groups.map((g,i)=>{
         const rows=found.filter(s=>s.id>=g.start&&s.id<=g.end);if(!rows.length)return '';
-        return `<section class="exam-group"><div class="exam-group-heading"><span class="exam-group-number">${String(i+1).padStart(2,'0')}</span><div><h3>${g.title}</h3><p>${g.description}</p></div><small>${rows.length} modul</small></div>${rows.map(s=>`<a class="oral-section ${state.read[s.id]?'is-read':''}" href="#/ujian/materials/${s.id}"><span class="exam-row-number">${String(s.id).padStart(2,'0')}</span><span>${esc(titleCase(s.title))}<small>${state.read[s.id]?'✓ Sudah dipelajari':`Modul ${s.id} · Baca materi`}</small></span><span aria-hidden="true">→</span></a>`).join('')}</section>`;
+        return `<details class="exam-group" ${query?'open':''}><summary class="exam-group-heading"><span class="exam-group-number">${String(i+1).padStart(2,'0')}</span><div><h3>${g.title}</h3><p>${g.description}</p></div><small>${rows.length} modul <span class="exam-group-chevron" aria-hidden="true">⌄</span></small></summary>${rows.map(s=>`<a class="oral-section ${state.read[s.id]?'is-read':''}" href="#/ujian/materials/${s.id}"><span class="exam-row-number">${String(s.id).padStart(2,'0')}</span><span>${esc(titleCase(s.title))}<small>${state.read[s.id]?'✓ Sudah dipelajari':`Modul ${s.id} · Baca materi`}</small></span><span aria-hidden="true">→</span></a>`).join('')}</details>`;
       }).join(''):'<div class="exam-empty"><strong>Tidak ada materi yang cocok.</strong><p>Coba kata yang lebih singkat, misalnya “risiko” atau “IKPA”.</p></div>';
     };
     document.getElementById('oralSearch').oninput=e=>results(e.target.value.trim());results('');

@@ -131,7 +131,8 @@ test('HTML source preserves 27 process cards, V4 answers, references and valid c
   const a=launch(new Map(),'#/ujian/materials/2');
   const data=a.window.DJPB_ORAL_DATA;
   assert.equal(data.version,'materi-html-v4');
-  assert.equal((data.sections[2].html.match(/class="process-card"/g)||[]).length,27);
+  assert.equal((data.sections[2].html.match(/<h2 id="proses-kppn-pb-\d+/g)||[]).length,27);
+  assert.equal((data.sections[2].html.match(/<h3 id="proses-kppn-cm-\d+/g)||[]).length,24);
   assert.equal((data.sections[4].html.match(/class="case-answer"/g)||[]).length,30);
   assert.match(data.sections[4].html,/JAWABAN LENGKAP \(V4\)/);
   assert.match(data.sections[7].html,/REFERENSI, PEMBATASAN/);
@@ -143,6 +144,43 @@ test('HTML source preserves 27 process cards, V4 answers, references and valid c
   }
   a.location.hash='#/ujian/materials/4/bank-v4-k-01--halaman-iii-dipa-menyimpang-satker-meminta-revisi-angka';
   assert.match(a.html,/Buka kunci jawaban dan pembahasan/);
+});
+
+test('every exam module and case opens, saves independently, and restores on revisit',()=>{
+  const a=launch(new Map(),'#/ujian');
+  for(let id=0;id<8;id++){
+    a.location.hash=`#/ujian/materials/${id}`;
+    assert.match(a.html,new RegExp(`Modul ${id} · ${id+1} dari 8`));
+    a.document.getElementById('oralRead').onchange({target:{checked:true}});
+  }
+  for(let id=1;id<=30;id++){
+    a.location.hash=`#/ujian/practice/${id}`;
+    assert.match(a.html,new RegExp(`Kasus K-${String(id).padStart(2,'0')} / 30`));
+    a.document.getElementById('oralNotes').oninput({target:{value:`Catatan khusus kasus ${id}`}});
+    a.click('oralRandom');
+    assert.notEqual(a.location.hash,`#/ujian/practice/${id}`);
+  }
+  const reopened=launch(a.storage,'#/ujian/practice/30');
+  assert.match(reopened.html,/Catatan khusus kasus 30/);
+  assert.equal(Object.keys(reopened.saved().ujianV3.read).length,8);
+  assert.equal(Object.keys(reopened.saved().ujianV3.notes).length,30);
+  reopened.location.hash='#/ujian/checklist';
+  for(const el of reopened.document.querySelectorAll('[data-oral-check]')){el.checked=true;el.onchange();}
+  assert.equal(reopened.document.getElementById('oralCheckCount').textContent,'21 / 21 butir dikuasai');
+  const first=reopened.document.querySelector('[data-oral-check="0"]');first.checked=false;first.onchange();
+  assert.equal(reopened.document.getElementById('oralCheckCount').textContent,'20 / 21 butir dikuasai');
+});
+
+test('partial or malformed exam progress cannot break the menu',()=>{
+  for(const value of [null,[],true,{read:null,checks:'invalid',notes:[]}]){
+    const storage=new Map([[storeKey,JSON.stringify({ujianV3:value,answers:{},bookmarks:{}})]]);
+    const a=launch(storage,'#/ujian/practice/1');
+    assert.match(a.html,/Kasus K-01/);
+    a.document.getElementById('oralNotes').oninput({target:{value:'Catatan baru'}});
+    assert.equal(a.saved().ujianV3.notes[1],'Catatan baru');
+    a.location.hash='#/ujian/tidak-ada';
+    assert.match(a.html,/8 modul lengkap/);
+  }
 });
 
 test('V3 keeps V2 notes separate and supports module zero and the last case',()=>{
