@@ -92,6 +92,8 @@ node scripts/build_oral.cjs "C:/Users/gufroni/Documents/GitHub/ewsmyintress/mate
 
 Perintah tersebut memperbarui `source/materi.html` dan membangun `assets/oral-data.js`. Tanpa argumen, `node scripts/build_oral.cjs` memakai salinan yang tersimpan di repository. Impor mengambil isi bab, bukan skrip atau navigasi halaman asal; tautan topik disesuaikan ke `#/ujian`. Pembaruan sumber memerlukan impor ulang; aplikasi terpublikasi tidak mengakses alamat `file:///` dan tidak membutuhkan build saat dibuka. Dokumen Markdown V2/V3 disimpan sebagai arsip, bukan sumber aktif.
 
+Pemetaan `source/materi-anchors.json` menjaga tautan bacaan tetap stabil ketika sumber menomori ulang ID `topik-*`. Tujuan tautan dari sumber terbaru tetap diikuti; ID tujuan disesuaikan ke identitas pembahasan yang sama di aplikasi.
+
 ---
 
 ## Cara Menggunakan

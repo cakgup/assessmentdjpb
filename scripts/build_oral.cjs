@@ -24,6 +24,18 @@ const sections=chapters.slice(2,10).map((html,id)=>({id,title:plain(html.match(/
 sections[0].html+=chapters[0]+chapters[1];
 sections[2].title='PROSES BISNIS KPPN — FONDASI DAN 27 PROSES BISNIS';
 sections[7].html+=chapters[10];
+// Keep published deep links stable when the source renumbers its topik-* headings.
+const stableAnchors=JSON.parse(fs.readFileSync(path.join(root,'source/materi-anchors.json'),'utf8'));
+const anchorMigration=new Map();
+for(const s of sections)for(const m of s.html.matchAll(/<h[1-6]\b[^>]*id="([^"]+)"[^>]*>([\s\S]*?)<\/h[1-6]>/g)){
+  const key=s.id+'|'+plain(m[2]);
+  const id=stableAnchors[key] || 'materi-'+require('node:crypto').createHash('sha256').update(key).digest('hex').slice(0,16);
+  anchorMigration.set(m[1],id);
+}
+for(const s of sections)s.html=s.html.replace(/\b(id|href)="([^\"]+)"/g,(all,attr,value)=>{
+  const original=attr==='href'&&value.startsWith('#')?value.slice(1):attr==='id'?value:null;
+  return original&&anchorMigration.has(original)?`${attr}="${attr==='href'?'#':''}${anchorMigration.get(original)}"`:all;
+}).replace(/class="process-code-link"/g,'class="case-reference"');
 const targets=new Map();
 for(const s of sections)for(const m of s.html.matchAll(/\bid="([^"]+)"/g)){
   if(targets.has(m[1]))throw Error('Duplicate content ID: '+m[1]);

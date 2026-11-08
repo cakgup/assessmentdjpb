@@ -185,7 +185,7 @@ test('process index codes link to the matching local cases, not similarly number
   const a=launch(new Map(),'#/ujian/materials/2');
   const html=a.window.DJPB_ORAL_DATA.sections[2].html;
   const table=html.slice(html.indexOf('id="proses-kppn-4a-'),html.indexOf('id="proses-kppn-4b-'));
-  const refs=[...table.matchAll(/class="case-reference" href="#\/ujian\/materials\/(\d+)\/([^"]+)"[^>]*>([^<]+)<\/a>/g)];
+  const refs=[...table.matchAll(/<a\b[^>]*href="#\/ujian\/materials\/(\d+)\/([^"]+)"[^>]*>([^<]+)<\/a>/g)];
   assert.ok(refs.length>=54);
   for(const ref of refs){
     assert.equal(ref[1],'2');
@@ -232,7 +232,7 @@ test('all learning-code mentions outside headings and code blocks are linked wit
   }
   assert.match(data.sections[2].html,/href="#\/ujian\/materials\/2\/proses-kppn-ib-01/);
   assert.match(data.sections[7].html,/href="#\/ujian\/materials\/5\/topik-73/);
-  assert.match(data.sections[7].html,/href="#\/ujian\/materials\/2\/proses-kppn-2-/);
+  assert.match(data.sections[7].html,/href="#\/ujian\/materials\/2\/proses-kppn-pb-06--/);
   assert.match(a.html,/href="#\/ujian\/materials\/0\/topik-5">M0<\/a>/);
 });
 
