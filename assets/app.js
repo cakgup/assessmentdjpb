@@ -153,7 +153,7 @@
     box.innerHTML=filtered.map(p=>{
       const s=packageDetails(p),[symbol,title,topics,color]=s.meta,pct=Math.round(s.done/p.questions.length*100);
       const action=!s.done?'Mulai belajar':s.done===p.questions.length?'Lihat hasil':'Lanjutkan';
-      return `<button class="package-card ${color}" data-pkg="${p.id}" aria-label="Paket ${p.id}: ${esc(title)}. ${s.status.label}. ${action}"><span class="package-top"><span>PAKET ${String(p.id).padStart(2,'0')}</span><span>${p.questions.length} SOAL</span></span><span class="package-identity"><span class="package-icon">${icon(symbol)}</span><span class="package-title">${title}</span></span><span class="package-description">${topics}</span><span class="status-badge ${s.status.id}">${icon(s.status.icon)}${s.status.label}</span><span class="package-progress-label"><span>${s.done} / ${p.questions.length} soal</span><strong>${pct}%</strong></span><span class="bar"><i style="width:${pct}%"></i></span><span class="package-bottom"><span class="mastery-caption">${s.done?`<strong>${s.accuracy}%</strong> Mastery`:'Mulai perjalananmu'}${s.wrong?`<small>${s.wrong} soal perlu review</small>`:''}</span><span class="card-cta">${action}${icon('arrow')}</span></span></button>`;
+      return `<button class="package-card ${color}" data-pkg="${p.id}" aria-label="Paket ${p.id}: ${esc(title)}. ${s.status.label}. ${action}"><span class="package-top"><span>PAKET ${String(p.id).padStart(2,'0')}</span><span>${p.questions.length} SOAL</span></span><span class="package-identity"><span class="package-icon">${icon(symbol)}</span><span class="package-title">${title}</span></span><span class="package-description">${topics}<small class="case-package-note">+ 10 studi kasus kepemimpinan</small></span><span class="status-badge ${s.status.id}">${icon(s.status.icon)}${s.status.label}</span><span class="package-progress-label"><span>${s.done} / ${p.questions.length} soal</span><strong>${pct}%</strong></span><span class="bar"><i style="width:${pct}%"></i></span><span class="package-bottom"><span class="mastery-caption">${s.done?`<strong>${s.accuracy}%</strong> Mastery`:'Mulai perjalananmu'}${s.wrong?`<small>${s.wrong} soal perlu review</small>`:''}</span><span class="card-cta">${action}${icon('arrow')}</span></span></button>`;
     }).join('');
     box.querySelectorAll('[data-pkg]').forEach(el=>el.onclick=()=>{
       const pkg=getPkg(el.dataset.pkg);go(pkgStats(pkg).done===pkg.questions.length?`#/results/${pkg.id}`:studyLocation(pkg));
@@ -175,10 +175,10 @@
   }
   function openProfile(){
     const g=L.summary(state.progress);
-    openDialog('Ruang belajarmu',`<p class="muted">Preferensi tersimpan di browser ini. Tidak memerlukan akun.</p><form id="profileForm"><div class="field"><label for="profileName">Nama panggilan</label><input id="profileName" maxlength="32" value="${esc(state.progress.profileName || '')}" placeholder="Bagaimana kami menyapamu?"></div><div class="field"><label for="profileGoal">Target soal per hari</label><input id="profileGoal" type="number" min="1" max="270" required value="${g.target}"></div><button class="primary-btn" type="submit">Simpan preferensi</button></form><hr><p class="muted">Menghapus progres akan menghapus jawaban, bookmark, posisi, serta aktivitas belajar edisi ini.</p><button class="danger-btn" id="resetProgress" type="button">Reset progres belajar</button>`);
+    openDialog('Ruang belajarmu',`<p class="muted">Preferensi tersimpan di browser ini. Tidak memerlukan akun.</p><form id="profileForm"><div class="field"><label for="profileName">Nama panggilan</label><input id="profileName" maxlength="32" value="${esc(state.progress.profileName || '')}" placeholder="Bagaimana kami menyapamu?"></div><div class="field"><label for="profileGoal">Target soal per hari</label><input id="profileGoal" type="number" min="1" max="${allQuestions().length}" required value="${g.target}"></div><button class="primary-btn" type="submit">Simpan preferensi</button></form><hr><p class="muted">Menghapus progres akan menghapus jawaban, bookmark, posisi, serta aktivitas belajar edisi ini.</p><button class="danger-btn" id="resetProgress" type="button">Reset progres belajar</button>`);
     document.getElementById('profileForm').onsubmit=e=>{
       e.preventDefault();const target=Number(document.getElementById('profileGoal').value);
-      if(!Number.isInteger(target)||target<1||target>270)return;
+      if(!Number.isInteger(target)||target<1||target>allQuestions().length)return;
       state.progress.profileName=document.getElementById('profileName').value.trim();state.progress.dailyGoal=target;saveProgress();document.getElementById('utilityDialog').close();route();showToast('Preferensi belajar disimpan.');
     };
     document.getElementById('resetProgress').onclick=()=>{
@@ -229,12 +229,12 @@
     app.innerHTML=`
       <div class="toolbar">
         <div class="crumb"><button id="homeBtn">Beranda</button><span>›</span><strong>${esc(title)}</strong></div>
-        <div class="mode-tabs"><button class="active">Belajar</button><button id="quizTab">Try Out</button></div>
+        <div class="mode-tabs"><button class="active">Belajar</button><button id="quizTab">Try Out</button>${!customQuestions?'<button id="leadershipStart">Studi kasus</button>':''}</div>
       </div>
       <div class="question-layout">
         <article class="question-card">
           <div class="q-meta"><span class="pill">${esc(customTitle || `Paket ${pkg.id}`)}</span><span class="q-number">Soal ${idx+1} dari ${questions.length}</span></div>
-          <h1 class="q-title">${esc(q.question)}</h1>
+          ${q.kind==='leadership-case'?`<p class="case-question-label">STUDI KASUS · ${esc(q.casePerspective)}</p>`:''}<h1 class="q-title">${esc(q.question)}</h1>
           <div class="options">${q.options.map(o=>{
             let cls='option'; if(rec){ if(o.key===q.answer) cls+=' correct'; else if(o.key===rec.selected && !rec.correct) cls+=' wrong'; }
             return `<button class="${cls}" data-answer="${o.key}" ${rec?'disabled':''}><span class="option-key">${o.key}</span><span>${esc(o.text)}</span></button>`}).join('')}</div>
@@ -256,6 +256,7 @@
         </aside>
       </div>`;
     document.getElementById('homeBtn').onclick=()=>go('#/');
+    if(!customQuestions)document.getElementById('leadershipStart').onclick=()=>go(`#/study/${pkg.id}/31`);
     document.getElementById('quizTab').onclick=()=>go(customQuestions?'#/quiz/all':`#/quiz/${pkg.id}`);
     document.querySelectorAll('[data-answer]').forEach(btn=>btn.onclick=()=>selectAnswer(q,btn.dataset.answer,customQuestions,pkg,idx,customTitle));
     document.getElementById('bookmarkBtn').onclick=()=>{state.progress.bookmarks[q.id]=!state.progress.bookmarks[q.id];saveProgress();renderStudy(pkgId,idx+1,customQuestions,customTitle);showToast(state.progress.bookmarks[q.id]?'Soal ditandai':'Tanda dihapus');};

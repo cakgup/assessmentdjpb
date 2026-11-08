@@ -31,6 +31,25 @@ for(const s of sections)for(const m of s.html.matchAll(/\bid="([^"]+)"/g)){
 }
 // The source uses short case links alongside the newer V4 heading identifiers.
 for(const [id,target] of targets){const m=id.match(/^bank-v4-(k-\d+)--/);if(m)targets.set(m[1],target);}
+// Process-business codes belong to this chapter; IB-01 elsewhere is a different case.
+const processCodes=new Map();
+for(const [id,target] of targets){
+  const m=id.match(/^proses-kppn-((?:pb|cm|ib|kd)-\d{2})--/);
+  if(m)processCodes.set(m[1].toUpperCase(),target);
+}
+sections[2].html=sections[2].html.replace(/<td\b[^>]*>[\s\S]*?<\/td>/g,cell=>{
+  let insideLink=false;
+  return cell.split(/(<[^>]+>)/g).map(token=>{
+    if(token.startsWith('<')){if(/^<a\b/i.test(token))insideLink=true;if(/^<\/a\b/i.test(token))insideLink=false;return token;}
+    if(insideLink)return token;
+    return token.replace(/\b(?:PB|CM|IB|KD)-\d{2}\b/g,code=>{
+      const target=processCodes.get(code);if(!target)throw Error('Unknown process reference: '+code);
+      return `<a class="case-reference" href="#${target.id}" aria-label="Buka referensi belajar ${code}">${code}</a>`;
+    });
+  }).join('');
+});
+sections[2].html=sections[2].html.replace(/(<h2 id="proses-kppn-4a-[^"]*">[\s\S]*?<\/h2>)/,
+  '$1<p class="reference-help">Klik kode untuk membuka proses atau kasus terkait. PB = Process Business; CM = Case Micro; IB = In-Basket; KD = Kasus Pendalaman. Kode ini merupakan referensi belajar internal, bukan kode resmi DJPb, SPAN, atau MyIntress.</p>');
 for(const s of sections){
   s.html=s.html.replace(/href="#([^"]+)"/g,(_,anchor)=>{
     const target=targets.get(anchor);if(!target)throw Error('Unresolved source anchor: '+anchor);

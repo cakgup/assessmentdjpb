@@ -7,13 +7,13 @@
 <p align="center">
   <strong>DJPb Study · Treasury Learning Hub</strong><br>
   Kuasai materi DJPb, satu kasus demi satu kasus.<br>
-  Platform latihan mandiri dengan 270 soal, pembahasan, try out, dan progres belajar yang tersimpan otomatis.
+  Platform latihan mandiri dengan 360 soal, pembahasan, try out, dan progres belajar yang tersimpan otomatis.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-HTML%20%2B%20CSS%20%2B%20JS-3157D5" alt="Frontend HTML, CSS, dan JavaScript">
   <img src="https://img.shields.io/badge/Hosting-GitHub%20Pages-172554" alt="Hosting GitHub Pages">
-  <img src="https://img.shields.io/badge/Materi-270%20Soal%20%7C%209%20Paket-536DFE" alt="270 soal dalam 9 paket">
+  <img src="https://img.shields.io/badge/Materi-360%20Soal%20%7C%209%20Paket-536DFE" alt="360 soal dalam 9 paket">
   <img src="https://img.shields.io/badge/Penyimpanan-localStorage-7451BE" alt="Penyimpanan lokal di browser">
   <img src="https://img.shields.io/badge/License-MIT-15803D" alt="Lisensi MIT">
 </p>
@@ -22,7 +22,7 @@
 
 ## Ringkasan
 
-**DJPb Study** membantu pengguna mempelajari materi perbendaharaan, mengerjakan latihan assessment, dan meninjau konsep yang masih perlu perhatian. Bank soal terdiri atas **9 paket × 30 soal** edisi **Case & Analitis**, lengkap dengan pilihan jawaban, kunci, dan pembahasan.
+**DJPb Study** membantu pengguna mempelajari materi perbendaharaan, mengerjakan latihan assessment, dan meninjau konsep yang masih perlu perhatian. Bank soal terdiri atas **9 paket × 40 soal** edisi **Case & Analitis**, lengkap dengan pilihan jawaban, kunci, dan pembahasan.
 
 Tampilan **Treasury Learning Hub** mengutamakan langkah belajar berikutnya: melanjutkan aktivitas terakhir, memilih paket, melakukan review, atau mencoba try out. Progres melingkar, status paket, target harian, dan gamifikasi ringan memberi konteks pada perjalanan belajar.
 
@@ -48,6 +48,7 @@ Aplikasi berjalan sepenuhnya di browser. Tidak memerlukan backend, database, aku
 
 ## Fitur Utama
 
+- **Studi kasus kepemimpinan**: 10 soal tambahan per paket pada nomor 31–40, dengan pintasan **Studi kasus** saat belajar. ID dan jawaban 270 soal lama tetap berlaku; persentase penyelesaian kini memakai 40 soal per paket.
 - **Belajar per paket** dengan kunci dan pembahasan setelah memilih jawaban.
 - **Try out** dari satu paket atau seluruh paket, pilihan jumlah soal, serta pengacakan urutan soal. Kunci dan hasil ditampilkan setelah sesi selesai.
 - **Lanjutkan otomatis** dari posisi belajar atau sesi try out terakhir, termasuk setelah browser ditutup.
@@ -121,7 +122,7 @@ Pintasan pada mode Belajar:
 | **Mastery** | Persentase jawaban terakhir yang benar dari soal yang sudah dijawab. |
 | **Nilai hasil** | Persentase jawaban benar dari seluruh soal dalam paket atau sesi, termasuk soal yang belum dijawab. |
 | **XP** | 10 poin sekali untuk setiap soal unik yang dikerjakan, ditambah 5 poin sekali saat dijawab benar. Pengulangan tidak menggandakan XP. |
-| **Target harian** | Jumlah soal unik yang dikerjakan pada tanggal lokal. Pilihan target: 5, 10, 20, atau angka khusus 1–270 soal. |
+| **Target harian** | Jumlah soal unik yang dikerjakan pada tanggal lokal. Pilihan target: 5, 10, 20, atau angka khusus 1–360 soal. |
 | **Streak** | Hari belajar berturut-turut. Jika belum belajar hari ini, rangkaian yang berakhir kemarin masih ditampilkan. |
 | **Milestone** | Langkah pertama, pencapaian target harian, dan penyelesaian satu paket. |
 
@@ -201,16 +202,18 @@ assessmentdjpb/
 
 Sumber aktif adalah [Bank Soal DJPb — Case & Analitis](source/Bank_Soal_DJPb_Paket_1-9_CASE_ANALITIS.md), berdasarkan pembaruan `readme.md` pada repository `basis_data/Assessment Administrator`. Aplikasi membaca hasil generator dari [assets/questions.js](assets/questions.js).
 
-Perbarui Markdown sumber, lalu jalankan:
+Soal 1–30 tetap berasal dari Markdown lama. Tambahan nomor 31–40 bersumber dari `source/kasus_pimpinan.cjs`: 45 kasus sintetis × dua sudut pengujian (keputusan pimpinan dan evaluasi tindak lanjut), diadaptasi dari materi MyIntress. Hasil yang bisa dibaca tersedia di [90 Soal Kepemimpinan](source/Tambahan_90_Soal_Kepemimpinan.md). Setiap opsi disertai alasan dan jebakan dalam pembahasan.
+
+Perbarui sumber yang sesuai, lalu jalankan:
 
 ```bash
-python scripts/build_questions.py
+node scripts/build_questions.cjs
 ```
 
-Generator memeriksa 9 paket × 30 soal, empat opsi A–D, kecocokan teks kunci dengan opsi, dan keberadaan pembahasan sebelum menulis hasil. Penanda tebal Markdown diubah menjadi teks biasa untuk ditampilkan di aplikasi.
+Generator memeriksa 9 paket × 40 soal, empat opsi A–D, kecocokan teks kunci dengan opsi, dan keberadaan pembahasan sebelum menulis hasil. Penanda tebal Markdown diubah menjadi teks biasa untuk ditampilkan di aplikasi.
 
 - Sertakan dokumen sumber dan hasil generator dalam commit yang sama.
-- Pertahankan `PROGRESS_VERSION` pada generator untuk penyuntingan bahasa yang tidak mengubah makna atau posisi jawaban. Ubah penanda tersebut jika substansi soal atau urutan opsi berubah agar jawaban lama tidak tertukar.
+- Pertahankan `progressVersion` pada generator untuk penyuntingan bahasa yang tidak mengubah makna atau posisi jawaban. Ubah penanda tersebut jika substansi soal atau urutan opsi berubah agar jawaban lama tidak tertukar.
 - Jika jumlah soal, paket, atau kelompok materi berubah, sesuaikan validasi generator, metadata pada `assets/learning.js`, teks ringkasan, dan README.
 - Narasi mengikuti prinsip umum [kaidah penulisan soal Pusat Penilaian Pendidikan](https://pusmendik.kemendikdasmen.go.id/pdf/file-111): pokok soal jelas, informasi yang diperlukan saja, dan bahasa komunikatif. Pertahankan angka serta konteks yang diperlukan untuk menjawab kasus.
 
@@ -225,7 +228,7 @@ node --check assets/learning.js
 node --test scripts/test_app.cjs
 ```
 
-Pengujian otomatis mencakup kompatibilitas progres, pemulihan posisi dan try out, navigasi ke atas, hasil paket dengan soal kosong, struktur 270 soal, filter paket, migrasi aktivitas lama, serta XP/streak yang tidak dihitung ganda. Pengujian menggunakan data sementara tanpa mengubah progres browser pengguna.
+Pengujian otomatis mencakup kompatibilitas progres, pemulihan posisi dan try out, navigasi ke atas, hasil paket dengan soal kosong, struktur 360 soal, filter paket, migrasi aktivitas lama, serta XP/streak yang tidak dihitung ganda. Pengujian menggunakan data sementara tanpa mengubah progres browser pengguna.
 
 Setelah mengubah tampilan, periksa beranda, pencarian/filter, halaman soal, hasil akhir, menu ponsel, dan tema terang/gelap. Ukuran acuan redesign: desktop **1366×768** dan **1920×1080**, tablet, serta ponsel selebar **375 px**. Pastikan tombol lanjut terlihat tanpa scroll dan tidak ada scroll horizontal.
 

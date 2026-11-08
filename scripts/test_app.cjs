@@ -171,6 +171,25 @@ test('every exam module and case opens, saves independently, and restores on rev
   assert.equal(reopened.document.getElementById('oralCheckCount').textContent,'20 / 21 butir dikuasai');
 });
 
+test('process index codes link to the matching local cases, not similarly numbered in-basket modules',()=>{
+  const a=launch(new Map(),'#/ujian/materials/2');
+  const html=a.window.DJPB_ORAL_DATA.sections[2].html;
+  const table=html.slice(html.indexOf('id="proses-kppn-4a-'),html.indexOf('id="proses-kppn-4b-'));
+  const refs=[...table.matchAll(/class="case-reference" href="#\/ujian\/materials\/(\d+)\/([^"]+)"[^>]*>([^<]+)<\/a>/g)];
+  assert.ok(refs.length>=54);
+  for(const ref of refs){
+    assert.equal(ref[1],'2');
+    assert.ok(ref[2].startsWith('proses-kppn-'+ref[3].toLowerCase()+'--'));
+    assert.ok(html.includes(`id="${ref[2]}"`));
+  }
+  assert.match(table,/bukan kode resmi DJPb, SPAN, atau MyIntress/);
+  const supplier=table.match(/<tr>\s*<td>[\s\S]*?>PB-03<\/a>[\s\S]*?<\/tr>/)?.[0];
+  assert.ok(supplier?.includes('>CM-09</a>'));
+  assert.ok(supplier?.includes('>CM-11</a>'));
+  const payroll=refs.find(r=>r[3]==='IB-01');
+  assert.ok(payroll[2].includes('pukul-0815-span-lambat'));
+});
+
 test('partial or malformed exam progress cannot break the menu',()=>{
   for(const value of [null,[],true,{read:null,checks:'invalid',notes:[]}]){
     const storage=new Map([[storeKey,JSON.stringify({ujianV3:value,answers:{},bookmarks:{}})]]);
@@ -220,11 +239,11 @@ test('next scrolls to top and a new visit restores even an unanswered position',
 
 test('last study question opens results with correct, wrong, and unanswered totals',()=>{
   const storage=new Map([[storeKey,JSON.stringify({answers:{p1q1:{selected:'A',correct:true},p1q2:{selected:'A',correct:false}},bookmarks:{}})]]);
-  const app=launch(storage,'#/study/1/30');
+  const app=launch(storage,'#/study/1/40');
   assert.match(app.html,/Selesai & Lihat Hasil/);app.click('nextBtn');
   assert.equal(app.location.hash,'#/results/1');
   assert.match(app.html,/Nilai 3/);
-  assert.match(app.html,/<strong>28<\/strong><span>Belum dijawab/);
+  assert.match(app.html,/<strong>38<\/strong><span>Belum dijawab/);
   assert.match(app.html,/<strong>1<\/strong><span>Salah/);
   assert.match(launch(storage).html,/Hasil Belajar Paket 1/);
   app.click('completeBtn');assert.equal(app.location.hash,'#/study/1/3');
@@ -252,12 +271,44 @@ test('try out answers, order, position, and results survive closing and reopenin
 test('all questions have concise stems, valid keys, and no generic case wrappers',()=>{
   assert.equal(bank.packages.length,9);
   for(const pkg of bank.packages){
-    assert.equal(pkg.questions.length,30);
+    assert.equal(pkg.questions.length,40);
     for(const q of pkg.questions){
       assert.ok(q.question.endsWith('?'),q.id);
       assert.doesNotMatch(q.question,/Fakta\/isu|Pilih opsi|Pimpinan meminta|second opinion|^Kasus:/);
       assert.equal(q.options.find(o=>o.key===q.answer).text,q.answerText,q.id);
     }
+  }
+});
+
+test('all nine packages contain ten unique leadership questions with explanations for every option',()=>{
+  const seen=new Set();
+  assert.equal(bank.packages.flatMap(p=>p.questions).length,360);
+  for(const pkg of bank.packages){
+    const extra=pkg.questions.slice(30);
+    assert.deepEqual(Array.from(extra,q=>q.number),[31,32,33,34,35,36,37,38,39,40]);
+    const keys={A:0,B:0,C:0,D:0};
+    for(const q of extra){
+      assert.equal(q.kind,'leadership-case');
+      assert.ok(q.caseRef);
+      assert.ok(!seen.has(q.question),q.id);seen.add(q.question);
+      assert.equal(new Set(q.options.map(o=>o.text)).size,4);
+      for(const key of 'ABCD')assert.ok(q.explanation.includes(`${key}. `),q.id);
+      keys[q.answer]++;
+    }
+    assert.ok(Object.values(keys).every(n=>n>=2&&n<=3));
+  }
+});
+
+test('leadership shortcut, answer feedback and package continuation include appended questions',()=>{
+  for(let id=1;id<=9;id++){
+    const a=launch(new Map(),`#/study/${id}/30`);
+    a.click('nextBtn');assert.equal(a.location.hash,`#/study/${id}/31`);
+    assert.match(a.html,/STUDI KASUS/);
+    const q=bank.packages[id-1].questions[30];a.answer(q.answer);
+    assert.match(a.html,/Bedah opsi dan jebakan/);
+    assert.equal(a.saved().answers[q.id].correct,true);
+    a.location.hash=`#/study/${id}/1`;a.click('leadershipStart');
+    assert.equal(a.location.hash,`#/study/${id}/31`);
   }
 });
 
