@@ -19,7 +19,7 @@ function launch(storage=new Map(),hash=''){
   const fixed={app,toast:{...basic()},themeToggle:basic()};
   Object.defineProperty(app,'innerHTML',{get:()=>html,set(value){
     html=value;
-    nodes=[...value.matchAll(/<(button|input|article|section|div|select|span|p|textarea)\b([^>]*)>/g)].map(m=>{
+    nodes=[...value.matchAll(/<(button|input|article|section|div|select|span|p|textarea|details)\b([^>]*)>/g)].map(m=>{
       const el={...basic(),tagName:m[1].toUpperCase()};
       for(const a of m[2].matchAll(/([\w-]+)="([^"]*)"/g)){
         if(a[1].startsWith('data-'))el.dataset[a[1].slice(5).replace(/-([a-z])/g,(_,c)=>c.toUpperCase())]=a[2];else el[a[1]]=a[2];
@@ -28,6 +28,7 @@ function launch(storage=new Map(),hash=''){
     });
   }});
   const matches=(el,selector)=>{
+    if(selector==='#app details')return el.tagName==='DETAILS';
     const attr=selector.match(/^\[data-([\w-]+)(?:="([^"]*)")?\]$/);
     if(attr){const key=attr[1].replace(/-([a-z])/g,(_,c)=>c.toUpperCase());return key in el.dataset && (attr[2]===undefined || el.dataset[key]===attr[2]);}
     return selector.startsWith('.') && (el.class||'').split(' ').includes(selector.slice(1));
@@ -44,13 +45,22 @@ function launch(storage=new Map(),hash=''){
   Object.defineProperty(location,'hash',{get:()=>currentHash,set(v){currentHash=v;listeners.hashchange?.();}});
   const window={DJPB_QUESTION_BANK:bank,DJPB_LEARNING:dataContext.window.DJPB_LEARNING,scrollY:0,addEventListener:(event,fn)=>listeners[event]=fn,
     scrollTo:({top})=>window.scrollY=top};
-  const context={window,document,location,history:{scrollRestoration:'auto',replaceState(a,b,h){currentHash=h;},back(){}},
+  let historyIndex=0;const historyEntries=[{state:null,hash}];
+  const history={scrollRestoration:'auto',get state(){return historyEntries[historyIndex].state;},
+    replaceState(state,b,h){currentHash=h;historyEntries[historyIndex]={state,hash:h};},
+    pushState(state,b,h){historyEntries.splice(historyIndex+1);historyEntries.push({state,hash:h});historyIndex++;currentHash=h;},
+    back(){if(historyIndex){historyIndex--;currentHash=historyEntries[historyIndex].hash;listeners.popstate?.();}},
+    forward(){if(historyIndex<historyEntries.length-1){historyIndex++;currentHash=historyEntries[historyIndex].hash;listeners.popstate?.();}}};
+  const context={window,document,location,history,
     localStorage:{getItem:k=>storage.get(k)||null,setItem:(k,v)=>storage.set(k,v)},
     matchMedia:()=>({matches:false}),setTimeout:()=>0,clearTimeout(){},confirm:()=>true};
   vm.runInNewContext(fs.readFileSync(path.join(root,'assets/oral-data.js'),'utf8'),context);
   vm.runInNewContext(fs.readFileSync(path.join(root,'assets/oral.js'),'utf8'),context);
   vm.runInNewContext(fs.readFileSync(path.join(root,'assets/app.js'),'utf8'),context);
-  return {storage,window,location,document,get html(){return html;},get gridHTML(){return grid.innerHTML;},filter(value){nodes.find(n=>n.dataset.filter===value).onclick();},search(value){document.getElementById('homeSearch').oninput({target:{value}});},click(id){assert.ok(document.getElementById(id)?.onclick,id);document.getElementById(id).onclick();},
+  return {storage,window,location,document,history,
+    reference(hash){app.onclick({button:0,preventDefault(){},target:{closest:()=>({getAttribute:()=>hash})}});},
+    scroll(top){window.scrollY=top;listeners.scroll?.();},
+    get html(){return html;},get gridHTML(){return grid.innerHTML;},filter(value){nodes.find(n=>n.dataset.filter===value).onclick();},search(value){document.getElementById('homeSearch').oninput({target:{value}});},click(id){assert.ok(document.getElementById(id)?.onclick,id);document.getElementById(id).onclick();},
     answer(key){document.querySelector(`[data-answer="${key}"]`).onclick();},
     saved:()=>JSON.parse(storage.get(storeKey)),
     startQuiz(){document.getElementById('quizCount').value='10';document.getElementById('shuffleOpt').checked=false;this.click('startQuiz');}};
@@ -188,6 +198,27 @@ test('process index codes link to the matching local cases, not similarly number
   assert.ok(supplier?.includes('>CM-11</a>'));
   const payroll=refs.find(r=>r[3]==='IB-01');
   assert.ok(payroll[2].includes('pukul-0815-span-lambat'));
+});
+
+test('reading return and browser history restore scroll and open dropdowns for each visit',()=>{
+  const a=launch(new Map(),'#/ujian/materials/2');
+  assert.doesNotMatch(a.html,/id="examBack"/);
+  a.document.querySelectorAll('#app details')[3].open=true;
+  a.scroll(1450);
+  a.reference('#/ujian/materials/2/proses-kppn-cm-11--retur');
+  assert.match(a.html,/id="examBack"/);
+  a.scroll(3200);
+  a.reference('#/ujian/materials/5');
+  a.scroll(610);
+  a.click('examBack');
+  assert.equal(a.window.scrollY,3200);
+  a.history.back();
+  assert.equal(a.location.hash,'#/ujian/materials/2');
+  assert.equal(a.window.scrollY,1450);
+  assert.equal(a.document.querySelectorAll('#app details')[3].open,true);
+  assert.doesNotMatch(a.html,/id="examBack"/);
+  a.history.forward();
+  assert.equal(a.window.scrollY,3200);
 });
 
 test('partial or malformed exam progress cannot break the menu',()=>{

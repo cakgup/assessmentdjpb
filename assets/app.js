@@ -82,6 +82,24 @@
 
   function go(hash){ if(location.hash===hash)route();else location.hash=hash; }
   window.addEventListener('hashchange', route);
+  window.addEventListener('popstate', route);
+  let renderedExamHash=null;
+  function saveExamView(){
+    if(!renderedExamHash || renderedExamHash!==location.hash)return;
+    const details=[...document.querySelectorAll('#app details')].map(el=>el.open);
+    history.replaceState({...history.state,examView:{hash:location.hash,y:window.scrollY,details}},'',location.hash);
+  }
+  window.addEventListener('scroll',saveExamView,{passive:true});
+  app.addEventListener('toggle',saveExamView,true);
+  app.addEventListener('click',e=>{
+    const anchor=e.target.closest?.('a[href]');
+    if(!anchor || e.button!==0 || e.ctrlKey || e.metaKey || e.shiftKey || e.altKey || anchor.target==='_blank')return;
+    const hash=anchor.getAttribute('href');
+    if(!/^#\/ujian\/materials\/\d+(?:\/|$)/.test(hash))return;
+    e.preventDefault();saveExamView();
+    if(hash!==location.hash)history.pushState({examReturn:!!renderedExamHash},'',hash);
+    route();
+  });
 
   function wireRoutes(){
     document.querySelectorAll('[data-route]').forEach(el=>el.onclick=()=>go(el.dataset.route));
@@ -371,15 +389,24 @@
   }
 
   function route(){
+    renderedExamHash=null;
     routeContent();updateNavigation();showTop();
     const examParts=location.hash.split('/');
-    if(examParts[1]==='ujian' && examParts[2]==='materials' && examParts[4]){
+    const savedView=history.state?.examView;
+    const restore=examParts[1]==='ujian' && savedView?.hash===location.hash;
+    if(restore){
+      document.querySelectorAll('#app details').forEach((el,i)=>{el.open=!!savedView.details[i];});
+      window.scrollTo({top:savedView.y,left:0,behavior:'instant'});
+    }else if(examParts[1]==='ujian' && examParts[2]==='materials' && examParts[4]){
       const target=document.getElementById(examParts[4]);
       if(target){
         for(let parent=target.parentElement;parent;parent=parent.parentElement){if(parent.tagName==='DETAILS')parent.open=true;}
         target.setAttribute('tabindex','-1');target.focus({preventScroll:true});target.scrollIntoView({block:'start',behavior:'instant'});
       }
     }
+    if(examParts[1]==='ujian' && examParts[2]==='materials')renderedExamHash=location.hash;
+    const examBack=document.getElementById('examBack');
+    if(examBack)examBack.onclick=()=>{saveExamView();history.back();};
     if(location.hash==='#/learn')document.getElementById('packagesSection')?.scrollIntoView({block:'start',behavior:'instant'});
   }
   function routeContent(){
