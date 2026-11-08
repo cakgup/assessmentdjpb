@@ -87,7 +87,7 @@
   function saveExamView(){
     if(!renderedExamHash || renderedExamHash!==location.hash)return;
     const details=[...document.querySelectorAll('#app details')].map(el=>el.open);
-    history.replaceState({...history.state,examView:{hash:location.hash,y:window.scrollY,details}},'',location.hash);
+    history.replaceState({...history.state,examView:{hash:location.hash,y:window.scrollY,details,search:document.getElementById('oralSearch')?.value || ''}},'',location.hash);
   }
   window.addEventListener('scroll',saveExamView,{passive:true});
   app.addEventListener('toggle',saveExamView,true);
@@ -395,6 +395,8 @@
     const savedView=history.state?.examView;
     const restore=examParts[1]==='ujian' && savedView?.hash===location.hash;
     if(restore){
+      const search=document.getElementById('oralSearch');
+      if(search && savedView.search){search.value=savedView.search;search.oninput({target:search});}
       document.querySelectorAll('#app details').forEach((el,i)=>{el.open=!!savedView.details[i];});
       window.scrollTo({top:savedView.y,left:0,behavior:'instant'});
     }else if(examParts[1]==='ujian' && examParts[2]==='materials' && examParts[4]){
@@ -404,7 +406,7 @@
         target.setAttribute('tabindex','-1');target.focus({preventScroll:true});target.scrollIntoView({block:'start',behavior:'instant'});
       }
     }
-    if(examParts[1]==='ujian' && examParts[2]==='materials')renderedExamHash=location.hash;
+    if(examParts[1]==='ujian')renderedExamHash=location.hash;
     const examBack=document.getElementById('examBack');
     if(examBack)examBack.onclick=()=>{saveExamView();history.back();};
     if(location.hash==='#/learn')document.getElementById('packagesSection')?.scrollIntoView({block:'start',behavior:'instant'});

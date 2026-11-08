@@ -221,6 +221,21 @@ test('reading return and browser history restore scroll and open dropdowns for e
   assert.equal(a.window.scrollY,3200);
 });
 
+test('all learning-code mentions outside headings and code blocks are linked with valid contextual targets',()=>{
+  const a=launch(new Map(),'#/ujian');const data=a.window.DJPB_ORAL_DATA;
+  for(const part of [...data.sections,...data.questions,...data.checklist.map(html=>({html}))]){
+    const body=part.html.replace(/<h([1-6])\b[^>]*>[\s\S]*?<\/h\1>/g,'').replace(/<pre\b[^>]*>[\s\S]*?<\/pre>/g,'');
+    assert.doesNotMatch(body,/<a\b[^>]*>(?:(?!<\/a>)[\s\S])*<a\b/,'Nested links');
+    const unlinked=body.replace(/<a\b[^>]*>[\s\S]*?<\/a>/g,'').replace(/<[^>]*>/g,'');
+    assert.doesNotMatch(unlinked,/\b(?:(?:PB|CM|KD|IB|FA|K)-\d{2}|M[0-7](?:\.\d+)?)\b/);
+    for(const m of body.matchAll(/href="#\/ujian\/materials\/(\d+)\/([^"]+)"/g))assert.ok(data.sections[Number(m[1])].html.includes(`id="${m[2]}"`));
+  }
+  assert.match(data.sections[2].html,/href="#\/ujian\/materials\/2\/proses-kppn-ib-01/);
+  assert.match(data.sections[7].html,/href="#\/ujian\/materials\/5\/topik-73/);
+  assert.match(data.sections[7].html,/href="#\/ujian\/materials\/2\/proses-kppn-2-/);
+  assert.match(a.html,/href="#\/ujian\/materials\/0\/topik-5">M0<\/a>/);
+});
+
 test('partial or malformed exam progress cannot break the menu',()=>{
   for(const value of [null,[],true,{read:null,checks:'invalid',notes:[]}]){
     const storage=new Map([[storeKey,JSON.stringify({ujianV3:value,answers:{},bookmarks:{}})]]);
